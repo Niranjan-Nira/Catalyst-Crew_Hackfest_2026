@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#172235"/>
+    </linearGradient>
+    <linearGradient id="input" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <linearGradient id="core" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f766e"/>
+      <stop offset="1" stop-color="#115e59"/>
+    </linearGradient>
+    <linearGradient id="ai" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9333ea"/>
+      <stop offset="1" stop-color="#6b21a8"/>
+    </linearGradient>
+    <linearGradient id="out" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d97706"/>
+      <stop offset="1" stop-color="#b45309"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.28"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#93a4bb"/>
+    </marker>
+    <style>
+      .title { font: 700 34px 'Segoe UI', sans-serif; fill: #f8fafc; }
+      .subtitle { font: 400 16px 'Segoe UI', sans-serif; fill: #aebbd0; }
+      .label { font: 700 18px 'Segoe UI', sans-serif; fill: #ffffff; }
+      .small { font: 400 14px 'Segoe UI', sans-serif; fill: #dbe5f2; }
+      .tiny { font: 400 12px 'Segoe UI', sans-serif; fill: #aebbd0; }
+      .section { font: 700 14px 'Segoe UI', sans-serif; fill: #8ea3bd; letter-spacing: 2px; }
+      .box { stroke: #ffffff; stroke-opacity: 0.16; stroke-width: 1; rx: 16; filter: url(#shadow); }
+      .line { stroke: #93a4bb; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+      .dashed { stroke: #c084fc; stroke-width: 2.5; stroke-dasharray: 9 8; fill: none; marker-end: url(#arrow); }
+    </style>
+  </defs>
+
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <circle cx="1450" cy="80" r="220" fill="#1e40af" opacity="0.12"/>
+  <circle cx="120" cy="900" r="260" fill="#0f766e" opacity="0.10"/>
+
+  <text x="80" y="74" class="title">Endpoint AI Workstation</text>
+  <text x="80" y="106" class="subtitle">Diagnostic evidence to root cause, remediation, and case reporting</text>
+
+  <text x="80" y="165" class="section">1  COLLECT</text>
+  <text x="430" y="165" class="section">2  NORMALIZE</text>
+  <text x="785" y="165" class="section">3  ANALYZE</text>
+  <text x="1135" y="165" class="section">4  ACT</text>
+
+  <rect x="70" y="205" width="300" height="170" class="box" fill="url(#input)"/>
+  <text x="100" y="247" class="label">Diagnostic input</text>
+  <text x="100" y="280" class="small">Folder path</text>
+  <text x="100" y="306" class="small">or Upload Diagnostic ZIP</text>
+  <text x="100" y="345" class="tiny">Windows endpoint evidence</text>
+
+  <rect x="425" y="205" width="300" height="170" class="box" fill="#334155"/>
+  <text x="455" y="247" class="label">Prepare case</text>
+  <text x="455" y="280" class="small">Extract ZIP safely</text>
+  <text x="455" y="306" class="small">Resolve nested folders</text>
+  <text x="455" y="345" class="tiny">17 diagnostic modules discovered</text>
+
+  <rect x="780" y="205" width="300" height="170" class="box" fill="url(#core)"/>
+  <text x="810" y="247" class="label">Parse and correlate</text>
+  <text x="810" y="280" class="small">Timeline, events, hardware</text>
+  <text x="810" y="306" class="small">CPU, memory, disk, WER</text>
+  <text x="810" y="345" class="tiny">Evidence-backed anomaly signals</text>
+
+  <rect x="1135" y="205" width="380" height="170" class="box" fill="url(#core)"/>
+  <text x="1165" y="247" class="label">Diagnosis and RCA</text>
+  <text x="1165" y="280" class="small">Rank findings by confidence</text>
+  <text x="1165" y="306" class="small">Explain probable root causes</text>
+  <text x="1165" y="345" class="tiny">Recommended next steps</text>
+
+  <path d="M370 290 H425" class="line"/>
+  <path d="M725 290 H780" class="line"/>
+  <path d="M1080 290 H1135" class="line"/>
+
+  <text x="80" y="465" class="section">EVIDENCE AND KNOWLEDGE LAYER</text>
+  <rect x="70" y="500" width="450" height="205" class="box" fill="#155e75"/>
+  <text x="105" y="545" class="label">Local RAG knowledge base</text>
+  <text x="105" y="581" class="small">Chunk troubleshooting guides</text>
+  <text x="105" y="607" class="small">Retrieve grounded context</text>
+  <text x="105" y="633" class="small">Support issue-specific guidance</text>
+  <text x="105" y="674" class="tiny">Knowledge docs stay local to the project</text>
+
+  <rect x="575" y="500" width="450" height="205" class="box" fill="url(#ai)"/>
+  <text x="610" y="545" class="label">Optional Luna 5.6</text>
+  <text x="610" y="581" class="small">Expand the local solution guide</text>
+  <text x="610" y="607" class="small">Answer case questions</text>
+  <text x="610" y="633" class="small">Use case evidence first</text>
+  <text x="610" y="674" class="tiny">Opt-in API path with local fallback</text>
+
+  <rect x="1080" y="500" width="435" height="205" class="box" fill="#475569"/>
+  <text x="1115" y="545" class="label">Evidence package</text>
+  <text x="1115" y="581" class="small">Findings and confidence tiers</text>
+  <text x="1115" y="607" class="small">Root causes and citations</text>
+  <text x="1115" y="633" class="small">Verification commands</text>
+  <text x="1115" y="674" class="tiny">Feeds reports, chat, and remediation</text>
+
+  <path d="M930 375 V450 H295 V500" class="line"/>
+  <path d="M930 375 V500" class="dashed"/>
+  <path d="M1280 375 V450 H1295 V500" class="line"/>
+  <path d="M520 602 H575" class="dashed"/>
+  <path d="M1025 602 H1080" class="line"/>
+
+  <text x="80" y="795" class="section">DELIVER</text>
+  <rect x="70" y="830" width="300" height="105" class="box" fill="url(#out)"/>
+  <text x="100" y="872" class="label">Reports</text>
+  <text x="100" y="905" class="small">PDF, Markdown, SIEM JSON</text>
+
+  <rect x="425" y="830" width="300" height="105" class="box" fill="#7c2d12"/>
+  <text x="455" y="872" class="label">Self-healing actions</text>
+  <text x="455" y="905" class="small">PowerShell, What-If, rollback</text>
+
+  <rect x="780" y="830" width="300" height="105" class="box" fill="#1e3a5f"/>
+  <text x="810" y="872" class="label">Technician chat</text>
+  <text x="810" y="905" class="small">Ask about evidence or next steps</text>
+
+  <rect x="1135" y="830" width="380" height="105" class="box" fill="#365314"/>
+  <text x="1165" y="872" class="label">Verified outcome</text>
+  <text x="1165" y="905" class="small">Apply, verify, and document resolution</text>
+
+  <path d="M1295 705 V770 H220 V830" class="line"/>
+  <path d="M1295 705 V770 H575 V830" class="line"/>
+  <path d="M1295 705 V770 H930 V830" class="line"/>
+  <path d="M370 882 H425" class="line"/>
+  <path d="M725 882 H780" class="line"/>
+  <path d="M1080 882 H1135" class="line"/>
+
+  <text x="80" y="975" class="tiny">Solid arrows: core workflow   Dashed arrows: optional knowledge/AI enrichment</text>
+</svg>
