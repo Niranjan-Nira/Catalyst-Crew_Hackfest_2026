@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#201333"/>
+    </linearGradient>
+    <linearGradient id="user" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <linearGradient id="luna" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a855f7"/>
+      <stop offset="1" stop-color="#7e22ce"/>
+    </linearGradient>
+    <linearGradient id="knowledge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0891b2"/>
+      <stop offset="1" stop-color="#155e75"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#aab7cc"/>
+    </marker>
+    <marker id="purpleArrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#d8b4fe"/>
+    </marker>
+    <style>
+      .title { font: 700 36px 'Segoe UI', sans-serif; fill: #f8fafc; }
+      .subtitle { font: 400 16px 'Segoe UI', sans-serif; fill: #b7c1d3; }
+      .label { font: 700 19px 'Segoe UI', sans-serif; fill: #ffffff; }
+      .small { font: 400 14px 'Segoe UI', sans-serif; fill: #e1e8f2; }
+      .tiny { font: 400 12px 'Segoe UI', sans-serif; fill: #b7c1d3; }
+      .step { font: 700 13px 'Segoe UI', sans-serif; fill: #c4b5fd; letter-spacing: 2px; }
+      .box { stroke: #ffffff; stroke-opacity: 0.16; stroke-width: 1; rx: 16; filter: url(#shadow); }
+      .line { stroke: #aab7cc; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+      .purpleLine { stroke: #d8b4fe; stroke-width: 3; fill: none; marker-end: url(#purpleArrow); }
+      .dash { stroke: #d8b4fe; stroke-width: 2.5; stroke-dasharray: 9 8; fill: none; marker-end: url(#purpleArrow); }
+    </style>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1410" cy="100" r="245" fill="#7e22ce" opacity="0.13"/>
+  <circle cx="150" cy="790" r="230" fill="#0891b2" opacity="0.10"/>
+
+  <text x="80" y="75" class="title">Luna 5.6 Case Chat Workflow</text>
+  <text x="80" y="108" class="subtitle">Grounded answers from the current diagnostic case, local knowledge, and optional Luna intelligence</text>
+
+  <text x="80" y="175" class="step">1  ASK</text>
+  <text x="430" y="175" class="step">2  GATHER CONTEXT</text>
+  <text x="845" y="175" class="step">3  GENERATE</text>
+  <text x="1240" y="175" class="step">4  RESPOND</text>
+
+  <rect x="70" y="220" width="285" height="175" class="box" fill="url(#user)"/>
+  <text x="100" y="263" class="label">Technician question</text>
+  <text x="100" y="298" class="small">“What is the major problem?”</text>
+  <text x="100" y="326" class="small">“What should I verify next?”</text>
+  <text x="100" y="366" class="tiny">Entered in the Luna case chat</text>
+
+  <rect x="410" y="220" width="335" height="175" class="box" fill="#334155"/>
+  <text x="440" y="263" class="label">Current case context</text>
+  <text x="440" y="298" class="small">High-confidence findings</text>
+  <text x="440" y="326" class="small">Root causes and possible findings</text>
+  <text x="440" y="366" class="tiny">Loaded from the active diagnostic case</text>
+
+  <rect x="800" y="220" width="335" height="175" class="box" fill="url(#knowledge)"/>
+  <text x="830" y="263" class="label">Local RAG retrieval</text>
+  <text x="830" y="298" class="small">Search troubleshooting guides</text>
+  <text x="830" y="326" class="small">Retrieve top grounded passages</text>
+  <text x="830" y="366" class="tiny">Case evidence stays the priority</text>
+
+  <rect x="1190" y="220" width="340" height="175" class="box" fill="url(#luna)"/>
+  <text x="1220" y="263" class="label">Luna 5.6 client</text>
+  <text x="1220" y="298" class="small">Build system and user prompts</text>
+  <text x="1220" y="326" class="small">Call configured Luna API endpoint</text>
+  <text x="1220" y="366" class="tiny">Opt-in when LUNA_ENABLED=1</text>
+
+  <path d="M355 307 H410" class="line"/>
+  <path d="M745 307 H800" class="line"/>
+  <path d="M1135 307 H1190" class="purpleLine"/>
+
+  <rect x="235" y="505" width="360" height="165" class="box" fill="#475569"/>
+  <text x="270" y="548" class="label">Prompt assembly</text>
+  <text x="270" y="583" class="small">Question + recent chat history</text>
+  <text x="270" y="611" class="small">Case evidence + RAG context</text>
+  <text x="270" y="642" class="tiny">Separates evidence from general guidance</text>
+
+  <rect x="620" y="505" width="360" height="165" class="box" fill="#6b21a8"/>
+  <text x="655" y="548" class="label">Luna reasoning</text>
+  <text x="655" y="583" class="small">Precise Windows diagnostics</text>
+  <text x="655" y="611" class="small">Numbered safe steps and verification</text>
+  <text x="655" y="642" class="tiny">No invented telemetry or actions</text>
+
+  <rect x="1005" y="505" width="360" height="165" class="box" fill="#7c2d12"/>
+  <text x="1040" y="548" class="label">Failure-safe fallback</text>
+  <text x="1040" y="583" class="small">API unavailable or misconfigured</text>
+  <text x="1040" y="611" class="small">Show a clear connection warning</text>
+  <text x="1040" y="642" class="tiny">Local diagnosis remains available</text>
+
+  <path d="M1360 395 V450 H415 V505" class="purpleLine"/>
+  <path d="M570 670 H620" class="line"/>
+  <path d="M980 587 H1005" class="dash"/>
+  <path d="M1190 505 V450 H1360 V395" class="dash"/>
+
+  <rect x="410" y="755" width="780" height="85" class="box" fill="#14532d"/>
+  <text x="445" y="790" class="label">Assistant response in chat</text>
+  <text x="445" y="818" class="small">Markdown answer with evidence, confidence, safe next steps, and verification commands</text>
+  <path d="M800 670 V755" class="line"/>
+  <path d="M1185 670 V710 H800 V755" class="dash"/>
+
+  <text x="80" y="875" class="tiny">Solid arrows: grounded chat path   Dashed arrows: optional Luna API path or unavailable-service fallback</text>
+</svg>
