@@ -1,0 +1,2 @@
+﻿ USERNAME              SESSIONNAME        ID  STATE   IDLE TIME  LOGON TIME
+>arjo5004              console             1  Active      none   18-08-2026 14:31

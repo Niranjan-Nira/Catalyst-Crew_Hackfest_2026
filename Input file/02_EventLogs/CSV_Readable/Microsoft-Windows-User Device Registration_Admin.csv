@@ -1,0 +1,1920 @@
+﻿"TimeCreated","Id","LevelDisplayName","ProviderName","Message"
+"19-08-2026 13:31:49","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"19-08-2026 10:20:32","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"18-08-2026 14:31:25","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"18-08-2026 14:31:04","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"18-08-2026 14:30:54","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"18-08-2026 14:30:54","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"18-08-2026 10:41:56","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"18-08-2026 10:29:42","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"18-08-2026 10:29:09","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"18-08-2026 10:28:57","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"18-08-2026 10:28:57","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"17-08-2026 20:38:49","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"17-08-2026 15:56:50","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"17-08-2026 15:38:47","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"17-08-2026 10:38:46","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"14-08-2026 18:03:57","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"14-08-2026 15:46:04","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"13-08-2026 16:03:44","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"13-08-2026 15:19:24","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"13-08-2026 11:03:43","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"12-08-2026 17:15:26","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"12-08-2026 12:15:23","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"12-08-2026 10:31:00","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"11-08-2026 17:02:48","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"11-08-2026 12:14:27","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"11-08-2026 12:07:11","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"11-08-2026 12:02:46","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"11-08-2026 12:02:32","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"11-08-2026 12:02:32","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"11-08-2026 09:40:44","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"10-08-2026 14:36:15","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"10-08-2026 09:49:03","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"10-08-2026 09:41:36","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Successfuly disabled task ""\Microsoft\Windows\Workplace Join\Recovery-Check"". "
+"10-08-2026 09:41:36","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"10-08-2026 09:41:32","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"10-08-2026 09:36:13","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"10-08-2026 09:36:03","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Recovery-Check"". "
+"10-08-2026 09:36:03","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000001.
+ "
+"10-08-2026 09:36:03","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"30-07-2026 10:50:49","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"29-07-2026 18:32:45","212","Information","Microsoft-Windows-User Device Registration","Error happened while accessing registry: Access is denied.. Operation: RegOpenKeyExW. Path: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\WorkplaceJoin\AADNGC."
+"29-07-2026 16:39:57","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"29-07-2026 15:52:49","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"29-07-2026 11:39:55","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"29-07-2026 09:31:36","212","Information","Microsoft-Windows-User Device Registration","Error happened while accessing registry: Access is denied.. Operation: RegOpenKeyExW. Path: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\WorkplaceJoin\AADNGC."
+"29-07-2026 09:30:12","212","Information","Microsoft-Windows-User Device Registration","Error happened while accessing registry: Access is denied.. Operation: RegOpenKeyExW. Path: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\WorkplaceJoin\AADNGC."
+"28-07-2026 17:15:53","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"28-07-2026 15:01:19","212","Information","Microsoft-Windows-User Device Registration","Error happened while accessing registry: Access is denied.. Operation: RegOpenKeyExW. Path: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\WorkplaceJoin\AADNGC."
+"28-07-2026 14:54:59","212","Information","Microsoft-Windows-User Device Registration","Error happened while accessing registry: Access is denied.. Operation: RegOpenKeyExW. Path: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\WorkplaceJoin\AADNGC."
+"28-07-2026 12:15:51","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"28-07-2026 10:27:30","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"27-07-2026 16:53:29","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"27-07-2026 11:49:41","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"27-07-2026 11:49:34","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"27-07-2026 11:49:18","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"27-07-2026 11:49:18","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"27-07-2026 09:47:35","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"27-07-2026 09:44:36","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"27-07-2026 09:37:23","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"27-07-2026 09:37:10","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"27-07-2026 09:37:10","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"27-07-2026 09:34:46","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"27-07-2026 09:34:38","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"27-07-2026 09:34:37","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"27-07-2026 09:34:37","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: IRegisteredTask_Run(""\Microsoft\Windows\Workplace Join\Device-Sync"") failed with code 0x80070490. "
+"27-07-2026 09:34:37","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"24-07-2026 17:10:23","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"24-07-2026 15:12:12","212","Information","Microsoft-Windows-User Device Registration","Error happened while accessing registry: Access is denied.. Operation: RegOpenKeyExW. Path: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\WorkplaceJoin\AADNGC."
+"24-07-2026 14:58:29","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"24-07-2026 14:58:09","212","Information","Microsoft-Windows-User Device Registration","Error happened while accessing registry: Access is denied.. Operation: RegOpenKeyExW. Path: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\WorkplaceJoin\AADNGC."
+"24-07-2026 13:03:03","212","Information","Microsoft-Windows-User Device Registration","Error happened while accessing registry: Access is denied.. Operation: RegOpenKeyExW. Path: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\WorkplaceJoin\AADNGC."
+"24-07-2026 13:02:21","212","Information","Microsoft-Windows-User Device Registration","Error happened while accessing registry: Access is denied.. Operation: RegOpenKeyExW. Path: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\WorkplaceJoin\AADNGC."
+"24-07-2026 09:58:27","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"23-07-2026 19:01:17","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"23-07-2026 10:51:05","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"22-07-2026 16:16:38","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"22-07-2026 15:05:16","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"22-07-2026 10:27:42","212","Information","Microsoft-Windows-User Device Registration","Error happened while accessing registry: Access is denied.. Operation: RegOpenKeyExW. Path: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\WorkplaceJoin\AADNGC."
+"22-07-2026 10:24:43","212","Information","Microsoft-Windows-User Device Registration","Error happened while accessing registry: Access is denied.. Operation: RegOpenKeyExW. Path: HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows NT\CurrentVersion\WorkplaceJoin\AADNGC."
+"22-07-2026 10:05:14","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"21-07-2026 13:58:33","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"21-07-2026 08:55:08","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"21-07-2026 08:45:00","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"21-07-2026 08:44:33","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"21-07-2026 08:44:19","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"21-07-2026 08:44:19","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"20-07-2026 16:39:22","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"20-07-2026 14:48:54","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"20-07-2026 13:20:48","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"20-07-2026 11:39:22","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"15-07-2026 14:42:32","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"15-07-2026 13:23:25","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"15-07-2026 09:42:30","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"14-07-2026 15:53:52","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"14-07-2026 12:08:04","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"14-07-2026 10:53:50","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"13-07-2026 16:47:21","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"13-07-2026 14:59:30","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"13-07-2026 11:47:18","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"12-07-2026 18:43:16","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"12-07-2026 18:32:35","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"12-07-2026 18:32:09","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"12-07-2026 18:31:57","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"12-07-2026 18:31:57","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"11-07-2026 17:56:42","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"11-07-2026 11:32:39","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"11-07-2026 11:16:25","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"10-07-2026 14:13:52","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"10-07-2026 11:29:42","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"09-07-2026 19:58:38","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"09-07-2026 14:58:36","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"09-07-2026 14:13:54","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"09-07-2026 09:47:28","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"08-07-2026 16:26:01","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"08-07-2026 15:11:32","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"08-07-2026 08:29:19","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"08-07-2026 08:28:18","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"07-07-2026 14:47:09","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"07-07-2026 09:38:06","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"07-07-2026 09:28:42","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"07-07-2026 09:28:39","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"07-07-2026 09:28:21","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"07-07-2026 09:28:21","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"07-07-2026 09:11:22","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"06-07-2026 17:17:21","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"06-07-2026 14:04:05","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"04-07-2026 14:13:21","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"04-07-2026 14:12:58","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"04-07-2026 14:12:41","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"04-07-2026 14:12:41","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"04-07-2026 14:03:48","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"03-07-2026 17:13:37","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"03-07-2026 11:31:46","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"03-07-2026 11:22:31","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"03-07-2026 11:20:41","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"03-07-2026 11:20:24","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"03-07-2026 11:20:23","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"02-07-2026 17:26:11","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"02-07-2026 11:57:58","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"02-07-2026 10:14:50","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"01-07-2026 15:08:35","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"01-07-2026 10:21:37","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"01-07-2026 10:10:28","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"01-07-2026 10:08:33","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"01-07-2026 10:08:17","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"01-07-2026 10:08:17","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"01-07-2026 09:58:41","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"30-06-2026 14:41:58","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"30-06-2026 14:41:52","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"30-06-2026 09:41:50","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"29-06-2026 15:24:34","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"29-06-2026 14:26:40","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"29-06-2026 14:26:40","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"29-06-2026 14:26:40","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"29-06-2026 14:26:40","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"29-06-2026 14:26:39","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"29-06-2026 10:24:41","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"29-06-2026 10:24:32","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"29-06-2026 10:24:19","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"29-06-2026 10:24:19","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"29-06-2026 09:15:38","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"29-06-2026 09:02:52","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"29-06-2026 09:02:46","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"29-06-2026 09:02:30","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"29-06-2026 09:02:30","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"26-06-2026 17:43:20","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"26-06-2026 16:28:03","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"26-06-2026 10:56:04","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"25-06-2026 14:36:15","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"25-06-2026 09:47:26","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"25-06-2026 09:38:29","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"25-06-2026 09:36:13","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"25-06-2026 09:36:01","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"25-06-2026 09:36:01","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"24-06-2026 17:45:07","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"24-06-2026 12:27:15","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"24-06-2026 12:02:20","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"23-06-2026 11:57:11","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"23-06-2026 09:14:07","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"23-06-2026 08:59:57","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"22-06-2026 15:56:13","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"22-06-2026 15:14:56","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"19-06-2026 19:00:45","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"19-06-2026 14:00:43","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"19-06-2026 09:09:50","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"19-06-2026 09:00:41","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"19-06-2026 09:00:36","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"18-06-2026 14:05:50","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"18-06-2026 09:17:26","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"18-06-2026 09:07:11","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"18-06-2026 09:05:48","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"18-06-2026 09:05:35","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"18-06-2026 09:05:35","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"17-06-2026 19:18:26","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"17-06-2026 19:18:11","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"17-06-2026 19:18:10","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"17-06-2026 19:18:10","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: IRegisteredTask_Run(""\Microsoft\Windows\Workplace Join\Device-Sync"") failed with code 0x80070490. "
+"17-06-2026 19:18:10","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"17-06-2026 19:16:59","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"17-06-2026 19:16:44","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"17-06-2026 19:16:43","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"17-06-2026 19:16:43","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: IRegisteredTask_Run(""\Microsoft\Windows\Workplace Join\Device-Sync"") failed with code 0x80070490. "
+"17-06-2026 19:16:43","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"17-06-2026 19:13:55","256","Information","Microsoft-Windows-User Device Registration","The update task for this device was successfully triggered. 
+Join type: 1 (DEVICE) 
+Tenant ID: "
+"17-06-2026 19:13:37","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"17-06-2026 19:13:37","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"17-06-2026 15:17:51","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"16-06-2026 10:12:14","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"16-06-2026 09:59:52","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"16-06-2026 09:59:21","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"16-06-2026 09:59:21","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"15-06-2026 09:12:19","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"12-06-2026 10:07:25","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"12-06-2026 09:55:05","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"12-06-2026 09:54:34","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"12-06-2026 09:54:34","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"11-06-2026 09:49:55","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"10-06-2026 14:09:45","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"09-06-2026 09:51:59","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"08-06-2026 19:14:19","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"08-06-2026 19:13:52","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"08-06-2026 19:13:52","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"08-06-2026 09:53:20","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"08-06-2026 09:40:39","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"08-06-2026 09:40:08","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"08-06-2026 09:40:07","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"08-06-2026 09:40:07","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: IRegisteredTask_Run(""\Microsoft\Windows\Workplace Join\Device-Sync"") failed with code 0x80070490. "
+"08-06-2026 09:40:07","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"05-06-2026 09:47:05","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"04-06-2026 13:07:47","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"03-06-2026 10:24:07","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"03-06-2026 10:21:10","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"03-06-2026 10:14:04","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"03-06-2026 10:14:04","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"03-06-2026 00:14:05","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"03-06-2026 00:13:33","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"03-06-2026 00:13:32","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"03-06-2026 00:13:32","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: IRegisteredTask_Run(""\Microsoft\Windows\Workplace Join\Device-Sync"") failed with code 0x80070490. "
+"03-06-2026 00:13:32","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"02-06-2026 10:26:46","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"02-06-2026 10:14:38","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"02-06-2026 10:14:10","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"02-06-2026 10:14:10","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"01-06-2026 09:29:40","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"01-06-2026 09:27:34","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"01-06-2026 09:19:24","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"01-06-2026 09:19:24","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"31-05-2026 18:17:46","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"29-05-2026 14:23:13","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"28-05-2026 10:30:44","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"28-05-2026 10:20:17","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"28-05-2026 10:19:37","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"28-05-2026 10:19:36","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"28-05-2026 10:19:36","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: IRegisteredTask_Run(""\Microsoft\Windows\Workplace Join\Device-Sync"") failed with code 0x80070490. "
+"28-05-2026 10:19:36","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"27-05-2026 11:30:34","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"26-05-2026 13:20:56","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"25-05-2026 09:13:14","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"25-05-2026 09:01:30","300","Information","Microsoft-Windows-User Device Registration","The Microsoft Passport key was successfully registered with Microsoft Entra. 
+Key ID: {f6193abf-9ab0-4e2e-884e-1cce21ba0a3f} 
+UPN: joe.prakash@nielseniq.com 
+Attestation: ATT_HARD 
+Client request ID: 00000000-0000-0000-0000-000000000000 
+Server request ID: a8d94630-8b26-403c-8d1c-6962ca85d858 
+Server response: {""kid"":""f6193abf-9ab0-4e2e-884e-1cce21ba0a3f"",""upn"":""joe.prakash@nielseniq.com"",""krctx"":""eyJEYXRhIjoiWlhsS2FHSkhZMmxQYVVwVFZYcEpNVTVwU1hOSmJYUndXa05KTmtscVpFZE5SR1JHVVd0Vk1sSkZSa1JQVkVKRVRsUlZORTU2WXpOU2EwWkVUakJSTkU1VVdUVlBWVmw2VFhwU1JWSlVhM2xSTUZWcFRFTktNR1ZZUVdsUGFVcExWakZSYVV4RFNqUk9XRkZwVDJsS2JXUXlXbmxPV0ZKNVUydFNSMVl3YUd0WU0wcEpUV3RhYUZkcWFEWldSMVp5WTNwUmFXWlJMbVY1U25aaWJrSjVXbGN4Wm1NeWJHdEphbTlwVlhrd2VFeFVWWFJOYWtWMFRWUlpkMDVxYXpSTlJHY3dUME13ZUUxVVZYaE9lbGw2VFZSTmRFOUVUVFZPVkVsNVRWUkZNVXhVVVhsT2Ftc3lUbXBWYVV4RFNtdGFXRnB3V1RKV2NGcERTVFpKYlVsM1dWUldhVmw2UW0xTVZHTXhUbXBaZEU1RVl6Tk5VekZvVDFSb2FVeFhWWGhaYWxwb1RtMUthMDFFV1RCT1UwbHpTVzVTY0ZwRFNUWkphbHBvV1hwa2FFMVhXVEJNVkZadFdXcEZkRTVFUlRGTmVURnBXV3BTYlV4VVJYbGFSRWwzVFdwQ2FFMVhXVE5hUTBselNXMDFibGt4T1hKYVdHdHBUMmxLVm1KRk5VTlVWa1pDVTFWR1FsRlZVa0pSVlVaQ1VWVkdSbEZWUmtKUlZVWkNVVlZHUWxGVlJrSlJWVVpTVVZWS01WUXpUazlrU0UweVRERnNRMDVzU25SbFZrWkRWVEJLZVZwWVJYbGhSRnA2WVVSQ01GWnFWVEZUUmtaSVl6QldVbFpGV25CWlZrcFVWMnBLWVZKdWJFdFdWbHBIV201bk5GVXdjSFZaTTBKNVVWZHNSVkZVYUZoTlNFWnRVVmh3YjFwVE9WTlhTRkp5VFhwS2JrOVhVa3BhUm1oV1pWaHdibEp1VmtKTk0yUXdWRVYwZUZaWE9XbGhNMmhQWlVoS2RGWkZSbHBUTW14SVpGVTVkMlZyVFhsWlZXTjRUakl4U0ZkWWJEQmxWbFl6VVROR1JXSXhjR0ZqTVVacFZrUlJlV0Z0ZEhoT1NFcENXVEZTVlZkVWJFSlRNbGw1WWtaa2NGcEZVa0pUYWtab1dtMDFZV016Um5CU01qbFlXVE5WTTJWcVRuaFNWVmw1WW10U05GUnJVa1JrVjBWNFRrZGtSMk5GU25CaWJVWTFWRWRrTWxKVlZtMWhNMHBXV1dwT1JsSnFiRFZXVmxadVlqSm5lRkpzWkhCVldFSXhVV3hyTWxOWFZuaFZSWE16VVcxS2NsbHNVbnBTTUVreFkxYzRlR1JGVGs5VFJVWklWa1pTY0UxR2FGRk9SbVJUWkZoR1RsbFlSblpPUjBVd1RVVXhUazVGZEZSaFdFVXlZMnQ0YUdOcmFIWmxWVVZ5VGpOU1dGcEhOVFZhUldNMVRWTTVTbVZWVWs1bFdHaE1ZVE5WY2s5VVNrdE9iR3hvVmtoc2Vsb3djRlZOVm1ScFlVZG9RMk5YU2tkT1JVa3dXVEZGT1ZCVFNYTkpibFozWW1sSk5rbHRjSFphVXpWM1kyMUdjbGxZVG05UlJ6VndXbGQ0ZWxwWE5YQmpVelZxWWpJd2FVeERTblZaYlZscFQycEZNMDU2YXpKT2VtczBUMVJCYzBsdFZqUmpRMGsyVFZSak0wOVVXVFJOVkVFMVRVTjNhV0ZYUmpCSmFtOTRUbnBqTlU1cVl6VlBSR3QzVEVOS2NHTXpUV2xQYVVwQ1VrWktWRWxwZDJsWldGWnJTV3B2YVdSWVNuVlBiVEY2VEZkU2VXTjZiekJOZWxKRlVtcFNRazlUTUhwUk1GbDVURlJTUkUxVlVYUlBWRVV6VWxNd2VWRXdVWGxSYW1ONVVtcFZlRTVWUldsbVVTNXRPRmczYlZkUlprdzBVbXhLU201SlVVNWZNMGhpU1RaSmNVRnlNRVpEVld4SVdtVTRNeTFqZEU5WmNrTlBObXh0UVVSZk9HaDNXSGRZVmtsbmNubFdjWFJzVjFGWGNUbGFVVkJFYUVSVlFqWkJYM3A0VkRjMk1WSk1iSEkyV0RCSVEwUnBNRzFmTUZkck4waHBhR2RoVEdOcVZXeEZMVXRaTVVOd1VUUlFlazFHWWtKamVtaDJXazh6VFUxZk1WUkRPVnBzYjA5MFpXaDBhSFIxTVZoUU1IQklibWhOY2xsR1FWOXpjRGQ1Y1RkVGEwaHBka3R1WDNwcFkzVlJMVVZNV1d0QlVuQnJjR1JCVVZsUWVHUlBVWEF3VWxOQmNFVjBia3RJVFhscGFFUm9SRTlNTlRsVlVrMXpXalpUVlU1SU1XaG1WUzFGWmt4d1MxRlRSVzVWVFRKd1ExQkJjalpuWjFKMFMzQXpNVzlwTFVsc2JUaENTV2RKV0hkcU0weFViVzA0YjFoWk1rTXRWbWxUUWtoa2NIUkdOR1ZPWmxkVWFtNVpXR1V4YkdaWmRteFljREYyT1RWVFNVSlFaVFZ5T0VWTGRuYz0iLCJGb3JtYXQiOjEsIlZlcnNpb24iOjF9""}"
+"25-05-2026 09:01:30","350","Information","Microsoft-Windows-User Device Registration","The Microsoft Passport key information was successfully saved. 
+Key ID: f6193abf-9ab0-4e2e-884e-1cce21ba0a3f 
+Attestation level: 2 
+AIK status: 1 
+Key type: 0 
+Key name: S-1-12-1-2357405129-1281513531-255772574-1816207334/dc3bf01d-2dbb-4626-b5cb-24709c65303f/login.windows.net/6ac7a1f4-5fb1-4153-bb4f-12d2020a1f7d/joe.prakash@nielseniq.com 
+IDP domain: login.windows.net 
+Tenant ID: 6ac7a1f4-5fb1-4153-bb4f-12d2020a1f7d 
+User email: joe.prakash@nielseniq.com"
+"25-05-2026 09:01:28","302","Information","Microsoft-Windows-User Device Registration","The NGC key registration request was successfully sent. User email: joe.prakash@nielseniq.com.
+Auth token: <Present; Snipped>."
+"25-05-2026 09:01:28","109","Information","Microsoft-Windows-User Device Registration","The NGC user ID key was successfully created. 
+User SID: S-1-12-1-2357405129-1281513531-255772574-1816207334 
+IDP domain: login.windows.net 
+Tenant domain: 6ac7a1f4-5fb1-4153-bb4f-12d2020a1f7d 
+User ID: joe.prakash@nielseniq.com 
+Flags: 74"
+"25-05-2026 09:01:28","386","Information","Microsoft-Windows-User Device Registration","Successfully got attestation statement for Microsoft Passport key. Key name: S-1-12-1-2357405129-1281513531-255772574-1816207334/dc3bf01d-2dbb-4626-b5cb-24709c65303f/login.windows.net/6ac7a1f4-5fb1-4153-bb4f-12d2020a1f7d/joe.prakash@nielseniq.com, KeyStatus: 7 (TpmKeyWithKeyAttestation). "
+"25-05-2026 09:01:26","108","Information","Microsoft-Windows-User Device Registration","The NGC container was successfully created. 
+User SID: S-1-12-1-2357405129-1281513531-255772574-1816207334 
+IDP domain: login.windows.net 
+Tenant domain: 6ac7a1f4-5fb1-4153-bb4f-12d2020a1f7d 
+Flags: 0"
+"25-05-2026 09:01:19","325","Information","Microsoft-Windows-User Device Registration","Successfully obtained a token for the current user via token broker. 
+CorrelationId: {CDCAD355-2E56-4113-A767-02973F73E601}"
+"25-05-2026 09:01:19","368","Information","Microsoft-Windows-User Device Registration","The following token properties were recieved from the Web Account Manager: 
+Properties: Authority : https://login.microsoftonline.com/common
+correlationId : {CDCAD355-2E56-4113-A767-02973F73E601}
+family_name : Prakash
+tid : 6ac7a1f4-5fb1-4153-bb4f-12d2020a1f7d
+tenant_display_name : NIQ
+sub : w_E85WpVvLuZLpbWCBXx0Phw1ydEuRTG1gfopZ1nhy4
+tenant_region_scope : NA
+domain_netbios_name : ENTERPRISE
+onprem_sam_account_name : arjo5004
+mdm_compliance_url : https://portal.manage.microsoft.com/?portalAction=Compliance
+rh : 1.AQMA9KHHarFfU0G7TxLSAgoffRYndt1NVOtKpSZoe3ODiiIAAEoDAA.
+name : Joe Prakash
+unique_name : joe.prakash@nielseniq.com
+HomeTenantId : 6ac7a1f4-5fb1-4153-bb4f-12d2020a1f7d
+UPN : joe.prakash@nielseniq.com
+iat : 1779679575
+mdm_terms_of_use_url : https://portal.manage.microsoft.com/TermsofUse.aspx
+token_type : Bearer
+aud : dd762716-544d-4aeb-a526-687b73838a22
+FirstName : Joe
+onprem_sid : S-1-5-21-1606980848-115176313-839522115-4269665
+UID : w_E85WpVvLuZLpbWCBXx0Phw1ydEuRTG1gfopZ1nhy4
+OID : 8c8325c9-583b-4c62-9ec7-3e0fe61f416c
+ver : 1.0
+nbf : 1779679575
+DeviceAuthority : https://login.microsoftonline.com/6ac7a1f4-5fb1-4153-bb4f-12d2020a1f7d
+HomeOID : 8c8325c9-583b-4c62-9ec7-3e0fe61f416c
+given_name : Joe
+TenantId : 6ac7a1f4-5fb1-4153-bb4f-12d2020a1f7d
+idtyp : user
+TokenExpiresOn : 13424154074
+xms_idrel : 1 10
+UserName : joe.prakash@nielseniq.com
+domain_dns_name : enterprisenet.org
+puid : 1003200517D9DC82
+IsDefaultPicture : True
+amr : [""pwd"",""rsa"",""ngcmfa"",""mfa""]
+HomeAuthority : https://login.microsoftonline.com/6ac7a1f4-5fb1-4153-bb4f-12d2020a1f7d
+LastName : Prakash
+iss : https://sts.windows.net/6ac7a1f4-5fb1-4153-bb4f-12d2020a1f7d/
+mdm_enrollment_url : https://enrollment.manage.microsoft.com/enrollmentserver/discovery.svc
+DeviceTenantId : 6ac7a1f4-5fb1-4153-bb4f-12d2020a1f7d
+DisplayName : Joe Prakash
+SignInName : joe.prakash@nielseniq.com
+exp : 1779680475
+ipaddr : 138.108.155.10
+"
+"25-05-2026 09:00:54","367","Information","Microsoft-Windows-User Device Registration","Added following properties to the Web Account Manager access token request. 
+Properties: 
+amr_values : ngcmfa
+ftcid : {CDCAD355-2E56-4113-A767-02973F73E601}
+correlationId : {CDCAD355-2E56-4113-A767-02973F73E601}
+resource : urn:ms-drs:enterpriseregistration.windows.net
+prompt : no_select
+authority : https://login.microsoftonline.com/common
+"
+"25-05-2026 09:00:54","323","Information","Microsoft-Windows-User Device Registration","Preparing to send a request to the Web Account Manager. 
+Account provider ID: https://login.windows.net 
+Scope:  
+Client ID: dd762716-544d-4aeb-a526-687b73838a22 
+Authority: https://login.microsoftonline.com/common 
+Resource: urn:ms-drs:enterpriseregistration.windows.net 
+CorrelationId: {CDCAD355-2E56-4113-A767-02973F73E601}"
+"25-05-2026 09:00:33","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"25-05-2026 09:00:01","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"25-05-2026 09:00:01","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"23-05-2026 21:50:41","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"23-05-2026 21:50:40","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"23-05-2026 21:50:08","324","Error","Microsoft-Windows-User Device Registration","Unable to get a token using the Web Account Manager. Error: Unknown HResult Error code: 0xcaa7000a 
+Request status code: 5 (WebTokenRequestStatus_ProviderError) 
+Token provider error code: 0xCAA7000A 
+Token provider error message: The Internet connection has timed out. 
+CorrelationId: {8F501BF8-0C38-4409-A7F0-E4E9227CD97A}"
+"23-05-2026 21:50:00","367","Information","Microsoft-Windows-User Device Registration","Added following properties to the Web Account Manager access token request. 
+Properties: 
+amr_values : ngcmfa
+ftcid : {8F501BF8-0C38-4409-A7F0-E4E9227CD97A}
+correlationId : {8F501BF8-0C38-4409-A7F0-E4E9227CD97A}
+resource : urn:ms-drs:enterpriseregistration.windows.net
+prompt : no_select
+authority : https://login.microsoftonline.com/common
+"
+"23-05-2026 21:50:00","323","Information","Microsoft-Windows-User Device Registration","Preparing to send a request to the Web Account Manager. 
+Account provider ID: https://login.windows.net 
+Scope:  
+Client ID: dd762716-544d-4aeb-a526-687b73838a22 
+Authority: https://login.microsoftonline.com/common 
+Resource: urn:ms-drs:enterpriseregistration.windows.net 
+CorrelationId: {8F501BF8-0C38-4409-A7F0-E4E9227CD97A}"
+"23-05-2026 21:49:45","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"23-05-2026 21:48:32","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"23-05-2026 21:48:32","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"23-05-2026 13:12:33","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"23-05-2026 13:09:48","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"23-05-2026 11:41:43","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: No 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"23-05-2026 11:17:20","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"23-05-2026 11:08:49","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"23-05-2026 11:08:48","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"23-05-2026 11:08:48","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"23-05-2026 11:08:48","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"23-05-2026 11:08:48","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"23-05-2026 11:08:48","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"23-05-2026 11:08:48","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"23-05-2026 11:08:48","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"23-05-2026 11:07:25","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"23-05-2026 11:07:24","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"23-05-2026 11:07:24","358","Information","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: Yes 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Yes 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"23-05-2026 11:05:31","360","Warning","Microsoft-Windows-User Device Registration","Windows Hello for Business provisioning will not be launched. 
+Device is Microsoft Entra joined (or hybrid joined): Yes 
+User has logged on with Microsoft Entra credentials: Yes 
+Windows Hello for Business policy is enabled: No 
+Windows Hello for Business post-logon provisioning is enabled: Yes 
+Local computer meets Windows hello for business hardware requirements: Not Tested 
+User is not connected to the machine via Remote Desktop: Yes 
+User certificate for on premise auth policy is enabled: No 
+Machine is governed by none policy. 
+Cloud trust for on premise auth policy is enabled: No 
+User account has Cloud to OnPrem TGT: Not Tested 
+See https://go.microsoft.com/fwlink/?linkid=832647 for more details."
+"23-05-2026 11:01:35","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJComputeCloudDomainJoinRecoveryTaskState: AAD CloudAP plugin registry value (""HKEY_LOCAL_MACHINE\Software\Microsoft\IdentityStore\LoadParameters\{B16898C6-A148-4967-9171-64D755DA8520}@RunRecovery""): 0x00000000.
+ "
+"23-05-2026 11:01:35","369","Information","Microsoft-Windows-User Device Registration","The Workstation Service logged a device registration message. 
+Message: AutoJoinSvc/WJSetScheduledTaskState: Running task ""\Microsoft\Windows\Workplace Join\Device-Sync"". "
+"23-05-2026 10:52:57","257","Information","Microsoft-Windows-User Device Registration","The task \Microsoft\Windows\Workplace Join\Device-Sync was successfully enabled."
+"23-05-2026 10:52:57","105","Information","Microsoft-Windows-User Device Registration","The complete join response operation was successful."
+"23-05-2026 10:52:57","111","Information","Microsoft-Windows-User Device Registration","The registration status has been successfully flushed to disk. 
+Join type: 1 (DEVICE)"
+"23-05-2026 10:52:57","106","Information","Microsoft-Windows-User Device Registration","The post join tasks for the Microsoft Entra Authentication Package completed successfully."
+"23-05-2026 10:52:57","242","Information","Microsoft-Windows-User Device Registration","Account S-1-12-1-1714767194-1294638946-2222459789-3879415251 was added to group Administrators."
+"23-05-2026 10:52:57","242","Information","Microsoft-Windows-User Device Registration","Account S-1-12-1-639989437-1078009223-2560530872-2669386165 was added to group Administrators."
+"23-05-2026 10:52:57","104","Information","Microsoft-Windows-User Device Registration","The get join response operation callback was successful. 
+Activity Id: b83d23a8-3cbb-44f6-af12-1db79f93c807 
+Server response was: {""Certificate"":{""Thumbprint"":""7A91A1D5182C772B92C6C8C87F6474FE7BBC6D21"",""RawBody"":""MIID8jCCAtqgAwIBAgIQ9wq5AJaM5YZIh7sdAnDMNzANBgkqhkiG9w0BAQsFADB4MXYwEQYKCZImiZPyLGQBGRYDbmV0MBUGCgmSJomT8ixkARkWB3dpbmRvd3MwHQYDVQQDExZNUy1Pcmdhbml6YXRpb24tQWNjZXNzMCsGA1UECxMkODJkYmFjYTQtM2U4MS00NmNhLTljNzMtMDk1MGMxZWFjYTk3MB4XDTI2MDUyMzA0NTI1MVoXDTM2MDUyMzA1MjI1MVowLzEtMCsGA1UEAxMkYjBhNWJjMGYtNzU2Ni00NzcxLWE5OGItZTFiNmE2YmQwNjQ1MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlFqSPDD7KufibNEyGtSz+GZ2xe4qr6Q8FDT5v32r0LOQA2IHwqzegxqArIcU5MaQxSBllpsJy/3cfb8YL4GKusxgDoWuuV4CazTyHOlVlMOOqIybin47WB12JY3u7tgmVzJuyPF04KadVUb4yRHDwCoPvXhTY5qF7k19sqDZqsNVqPLTe1yJ5cwjR7GCI4ruX6zxp4QWxKsJso1G5gJh68MEoTM7pBYrWOODhzCuR0zp9zkEhGvzel696H3YRQxA0IVrTwRhZnBqoNSgRwgYMqs2DB1BlGfPrrQVd4Dp15VyxUzRBASpa34rjKt/Mk/rWTL9WOFsv5BCwzcf2OCqKwIDAQABo4HAMIG9MAwGA1UdEwEB/wQCMAAwFgYDVR0lAQH/BAwwCgYIKwYBBQUHAwIwIgYLKoZIhvcUAQWCHAIEEwSBEA+8pbBmdXFHqYvhtqa9BkUwIgYLKoZIhvcUAQWCHAMEEwSBEMklg4w7WGJMnsc+D+YfQWwwIgYLKoZIhvcUAQWCHAUEEwSBEPShx2qxX1NBu08S0gIKH30wFAYLKoZIhvcUAQWCHAgEBQSBAk5BMBMGCyqGSIb3FAEFghwHBAQEgQExMA0GCSqGSIb3DQEBCwUAA4IBAQB24kKPaY9LdiAYQ1AfOBfwsUpUngap+2Rxg3TUlk+7gBdzFnVYrGLnspL7SNPiq88NJfVdpqo/lmqzcGbb7LNqAY/CutZupFHXiUyLpNwElLokK+LzaXjM1Qsav68j6n5Py1VN0O3fAtiP8U01jm4rTUmjh8libMdY4uFIdlymYv/4bAuTGEBTv4Bnf7gnD3yCRIX+Oy33P8dWV51/JmMnvJ+UhbvOeTel1gA4YrzQ48duXUQTNHlcLt6RH+RQ1WpmM7mfi9IJdiQKatUCZLzBWHAqI+Sz64HUTcIwrXhaNBedf9tPbCiSoVKgxslWsZALrEDAaVuVbd3sP17QYBz9""},""User"":{""Upn"":""joe.prakash@nielseniq.com"",""ObjectId"":""8c8325c9-583b-4c62-9ec7-3e0fe61f416c""},""MembershipChanges"":[{""LocalSID"":""S-1-5-32-544"",""AddSIDs"":[""S-1-12-1-639989437-1078009223-2560530872-2669386165"",""S-1-12-1-1714767194-1294638946-2222459789-3879415251""]}]}"
+"23-05-2026 10:52:49","103","Information","Microsoft-Windows-User Device Registration","The join request was successfully sent to server. Inputs:
+ AuthToken: <Present; Snipped>"
+"23-05-2026 10:52:49","102","Information","Microsoft-Windows-User Device Registration","The initialization of the join request was successful. Inputs:
+ JoinRequest: 1 (DEVICE)
+ Domain: nielseniq.com"
+"23-05-2026 10:52:48","259","Information","Microsoft-Windows-User Device Registration","The task \Microsoft\Windows\Workplace Join\Device-Sync was successfully disabled."
+"23-05-2026 10:52:48","101","Information","Microsoft-Windows-User Device Registration","The discovery operation callback was successful. 
+Server response was: {""DiscoveryService"":{""DiscoveryEndpoint"":""https:\/\/enterpriseregistration.windows.net\/nielseniq.com\/Discover"",""ServiceVersion"":""1.11""},""DeviceRegistrationService"":{""RegistrationEndpoint"":""https:\/\/enterpriseregistration.windows.net\/EnrollmentServer\/DeviceEnrollmentWebService.svc"",""RegistrationResourceId"":""urn:ms-drs:enterpriseregistration.windows.net"",""ServiceVersion"":""1.0""},""AuthenticationService"":{""Kerberos"":{""Spn"":""adrs\/enterpriseregistration.windows.net"",""TokenEndpoint"":""https:\/\/login.microsoftonline.com\/6ac7a1f4-5fb1-4153-bb4f-12d2020a1f7d\/kerberos""},""OAuth2"":{""AuthCodeEndpoint"":""https:\/\/login.microsoftonline.com\/6ac7a1f4-5fb1-4153-bb4f-12d2020a1f7d\/oauth2\/authorize"",""TokenEndpoint"":""https:\/\/login.microsoftonline.com\/6ac7a1f4-5fb1-4153-bb4f-12d2020a1f7d\/oauth2\/token""}},""IdentityProviderService"":{""Federated"":true,""PassiveAuthEndpoint"":""https:\/\/sts.nielseniq.com\/adfs\/ls\/""},""DeviceJoinService"":{""JoinEndpoint"":""https:\/\/enterpriseregistration.windows.net\/EnrollmentServer\/device\/"",""JoinResourceId"":""urn:ms-drs:enterpriseregistration.windows.net"",""ServiceVersion"":""3.0""},""KeyProvisioningService"":{""KeyProvisionEndpoint"":""https:\/\/enterpriseregistration.windows.net\/EnrollmentServer\/key\/"",""KeyProvisionResourceId"":""urn:ms-drs:enterpriseregistration.windows.net"",""ServiceVersion"":""1.0""},""WebAuthNService"":{""ServiceVersion"":""1.0"",""WebAuthNEndpoint"":""https:\/\/enterpriseregistration.windows.net\/webauthn\/6ac7a1f4-5fb1-4153-bb4f-12d2020a1f7d\/"",""WebAuthNResourceId"":""urn:ms-drs:enterpriseregistration.windows.net""},""DeviceManagementService"":{""DeviceManagementEndpoint"":""https:\/\/enterpriseregistration.windows.net\/manage\/6ac7a1f4-5fb1-4153-bb4f-12d2020a1f7d\/"",""DeviceManagementResourceId"":""urn:ms-drs:enterpriseregistration.windows.net"",""ServiceVersion"":""1.0""},""MsaProviderData"":{""SiteId"":""295958"",""SiteUrl"":""enterpriseregistration.windows.net""},""PrecreateService"":{""PrecreateEndpoint"":""https:\/\/enterpriseregistration.windows.net\/EnrollmentServer\/device\/precreate\/6ac7a1f4-5fb1-4153-bb4f-12d2020a1f7d\/"",""PrecreateResourceId"":""urn:ms-drs:enterpriseregistration.windows.net"",""ServiceVersion"":""4.0""},""TenantInfo"":{""DisplayName"":""NIQ"",""TenantId"":""6ac7a1f4-5fb1-4153-bb4f-12d2020a1f7d"",""TenantName"":""nielseniq.com""},""AzureRbacService"":{""RbacPolicyEndpoint"":""https:\/\/pas.windows.net""},""BPLService"":{""BPLProxyServicePrincipalId"":""dda27c27-f274-469f-8005-cce10f270009"",""BPLResourceId"":""urn:ms-drs:enterpriseregistration.windows.net"",""BPLServiceEndpoint"":""https:\/\/enterpriseregistration.windows.net\/aadpasswordpolicy\/6ac7a1f4-5fb1-4153-bb4f-12d2020a1f7d\/"",""ServiceVersion"":""1.0""},""DeviceJoinResourceService"":{""Endpoint"":""https:\/\/enterpriseregistration.windows.net\/EnrollmentServer\/device\/resource\/6ac7a1f4-5fb1-4153-bb4f-12d2020a1f7d\/"",""JoinResourceEndpointTLS"":null,""ResourceId"":""urn:ms-drs:enterpriseregistration.windows.net"",""ServiceVersion"":""4.0""},""NonceService"":{""Endpoint"":""https:\/\/enterpriseregistration.windows.net\/EnrollmentServer\/nonce\/6ac7a1f4-5fb1-4153-bb4f-12d2020a1f7d\/"",""ResourceId"":""urn:ms-drs:enterpriseregistration.windows.net"",""ServiceVersion"":""1.0""},""SupportedCryptos"":{""SupportedCrypto"":[{""Curve"":null,""KeyLength"":""2048"",""KeyType"":""RSA""},{""Curve"":[""P-256"",""P-384"",""P-521""],""KeyLength"":""256"",""KeyType"":""EC""}]}}"
+"23-05-2026 10:52:48","100","Information","Microsoft-Windows-User Device Registration","The discovery request send operation was successful."

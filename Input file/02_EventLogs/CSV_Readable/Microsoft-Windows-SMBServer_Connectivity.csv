@@ -1,0 +1,2349 @@
+﻿"TimeCreated","Id","LevelDisplayName","ProviderName","Message"
+"19-08-2026 14:11:29","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:55035
+Session ID: 0x900000000001
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"19-08-2026 14:11:29","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:55035
+Session ID: 0x900000000001
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"18-08-2026 11:24:33","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:55061
+Session ID: 0x8C0000000001
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"18-08-2026 11:24:33","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:55061
+Session ID: 0x8C0000000001
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"17-08-2026 19:54:12","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:58480
+Session ID: 0x88000000001D
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"17-08-2026 19:54:12","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:58480
+Session ID: 0x88000000001D
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"17-08-2026 18:57:33","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:62965
+Session ID: 0x880000000019
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"17-08-2026 18:57:33","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:62965
+Session ID: 0x880000000019
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"17-08-2026 16:32:27","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:50832
+Session ID: 0x880000000015
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"17-08-2026 16:32:27","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:50832
+Session ID: 0x880000000015
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"17-08-2026 15:40:53","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:64540
+Session ID: 0x880000000011
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"17-08-2026 15:30:59","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:60355
+Session ID: 0x88000000000D
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"17-08-2026 15:30:59","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:60355
+Session ID: 0x88000000000D
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"14-08-2026 15:57:27","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:49702
+Session ID: 0x880000000009
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"14-08-2026 15:57:27","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:49702
+Session ID: 0x880000000009
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"13-08-2026 18:13:10","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:53909
+Session ID: 0x880000000005
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"13-08-2026 18:13:10","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:53909
+Session ID: 0x880000000005
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"13-08-2026 10:09:23","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:61869
+Session ID: 0x880000000001
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"13-08-2026 10:09:23","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:61869
+Session ID: 0x880000000001
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"10-08-2026 15:35:53","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:54687
+Session ID: 0x840000000001
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"10-08-2026 15:35:53","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:54687
+Session ID: 0x840000000001
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"06-08-2026 10:25:46","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:59301
+Session ID: 0x800000000015
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"06-08-2026 10:22:39","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:61939
+Session ID: 0x800000000011
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"06-08-2026 10:22:39","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:61939
+Session ID: 0x800000000011
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"06-08-2026 10:09:17","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:55734
+Session ID: 0x80000000000D
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"06-08-2026 09:58:44","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:49685
+Session ID: 0x800000000009
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"06-08-2026 09:58:44","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:49685
+Session ID: 0x800000000009
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"05-08-2026 10:58:02","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:51468
+Session ID: 0x800000000005
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"05-08-2026 10:58:02","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:51468
+Session ID: 0x800000000005
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"04-08-2026 11:12:54","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:53137
+Session ID: 0x800000000001
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"04-08-2026 11:12:54","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:53137
+Session ID: 0x800000000001
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"30-07-2026 13:05:28","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:64786
+Session ID: 0x780000000021
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"30-07-2026 13:05:28","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:64786
+Session ID: 0x780000000021
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"29-07-2026 10:45:44","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:50957
+Session ID: 0x78000000001D
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"29-07-2026 10:45:44","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:50957
+Session ID: 0x78000000001D
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"28-07-2026 14:56:11","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:64257
+Session ID: 0x780000000019
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"28-07-2026 14:56:11","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:64257
+Session ID: 0x780000000019
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"28-07-2026 12:28:31","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:53915
+Session ID: 0x780000000015
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"28-07-2026 12:28:31","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:53915
+Session ID: 0x780000000015
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"28-07-2026 11:58:21","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:56031
+Session ID: 0x780000000011
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"28-07-2026 11:58:21","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:56031
+Session ID: 0x780000000011
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"28-07-2026 10:49:36","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:55868
+Session ID: 0x78000000000D
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"28-07-2026 10:49:21","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:64127
+Session ID: 0x780000000009
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"28-07-2026 10:48:54","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:64374
+Session ID: 0x780000000005
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"28-07-2026 10:47:25","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:50512
+Session ID: 0x780000000001
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"28-07-2026 10:47:25","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:50512
+Session ID: 0x780000000001
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"24-07-2026 14:58:22","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:51453
+Session ID: 0x6C0000000011
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"24-07-2026 14:58:22","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:51453
+Session ID: 0x6C0000000011
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"24-07-2026 09:49:30","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:56791
+Session ID: 0x6C000000000D
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"24-07-2026 09:49:03","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:61776
+Session ID: 0x6C0000000009
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"24-07-2026 09:38:53","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:60265
+Session ID: 0x6C0000000005
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"24-07-2026 09:38:53","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:60265
+Session ID: 0x6C0000000005
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"22-07-2026 12:29:15","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:49751
+Session ID: 0x6C0000000001
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"22-07-2026 12:29:15","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:49751
+Session ID: 0x6C0000000001
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"15-07-2026 16:40:15","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:61131
+Session ID: 0x680000000015
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"15-07-2026 16:40:15","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:61131
+Session ID: 0x680000000015
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"13-07-2026 14:56:25","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:50028
+Session ID: 0x680000000011
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"13-07-2026 14:56:25","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:50028
+Session ID: 0x680000000011
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"13-07-2026 13:13:41","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:58739
+Session ID: 0x68000000000D
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"13-07-2026 13:13:11","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:50467
+Session ID: 0x680000000009
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"13-07-2026 13:13:11","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:50467
+Session ID: 0x680000000009
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"13-07-2026 12:01:50","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:49679
+Session ID: 0x680000000005
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"13-07-2026 11:57:15","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:53805
+Session ID: 0x680000000001
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"13-07-2026 11:57:15","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:53805
+Session ID: 0x680000000001
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"10-07-2026 16:20:35","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:62301
+Session ID: 0x64000000001D
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"10-07-2026 16:20:35","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:62301
+Session ID: 0x64000000001D
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"09-07-2026 18:57:27","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:64367
+Session ID: 0x640000000019
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"09-07-2026 18:57:27","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:64367
+Session ID: 0x640000000019
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"08-07-2026 18:20:07","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:49189
+Session ID: 0x640000000015
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"08-07-2026 18:20:07","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:49189
+Session ID: 0x640000000015
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"08-07-2026 17:19:28","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:53032
+Session ID: 0x640000000011
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"08-07-2026 17:18:51","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:52985
+Session ID: 0x64000000000D
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"08-07-2026 17:18:51","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:52985
+Session ID: 0x64000000000D
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"08-07-2026 16:34:15","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:57443
+Session ID: 0x640000000009
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"08-07-2026 16:34:15","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:57443
+Session ID: 0x640000000009
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"08-07-2026 15:55:49","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:64042
+Session ID: 0x640000000005
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"08-07-2026 15:55:49","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:64042
+Session ID: 0x640000000005
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"08-07-2026 15:33:58","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:58759
+Session ID: 0x640000000001
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"08-07-2026 15:33:58","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:58759
+Session ID: 0x640000000001
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"06-07-2026 16:25:00","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:50690
+Session ID: 0x60000000000D
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"06-07-2026 16:25:00","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:50690
+Session ID: 0x60000000000D
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"06-07-2026 11:19:04","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:55590
+Session ID: 0x600000000009
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"06-07-2026 11:19:04","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:55590
+Session ID: 0x600000000009
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"06-07-2026 10:52:10","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:62911
+Session ID: 0x600000000005
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"06-07-2026 10:52:10","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:62911
+Session ID: 0x600000000005
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"06-07-2026 09:50:45","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:59372
+Session ID: 0x600000000001
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"06-07-2026 09:50:45","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:59372
+Session ID: 0x600000000001
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"03-07-2026 09:48:49","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:52670
+Session ID: 0x580000000011
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"03-07-2026 09:46:55","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:50309
+Session ID: 0x58000000000D
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"03-07-2026 09:46:30","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:52619
+Session ID: 0x580000000009
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"03-07-2026 09:46:30","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:52619
+Session ID: 0x580000000009
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"02-07-2026 16:21:29","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:59013
+Session ID: 0x580000000005
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"02-07-2026 16:21:29","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:59013
+Session ID: 0x580000000005
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"01-07-2026 11:18:22","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:56648
+Session ID: 0x580000000001
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"01-07-2026 11:18:22","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:56648
+Session ID: 0x580000000001
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"30-06-2026 17:09:34","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:51953
+Session ID: 0x540000000015
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"30-06-2026 17:09:34","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:51953
+Session ID: 0x540000000015
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"29-06-2026 16:14:34","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:59001
+Session ID: 0x540000000011
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"29-06-2026 16:14:34","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:59001
+Session ID: 0x540000000011
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"29-06-2026 15:32:55","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:61817
+Session ID: 0x54000000000D
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"29-06-2026 15:32:55","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:61817
+Session ID: 0x54000000000D
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"29-06-2026 14:34:15","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:55683
+Session ID: 0x540000000009
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"29-06-2026 14:34:15","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:55683
+Session ID: 0x540000000009
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"29-06-2026 13:15:11","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:55085
+Session ID: 0x540000000005
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"29-06-2026 13:15:11","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:55085
+Session ID: 0x540000000005
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"29-06-2026 10:48:42","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:60137
+Session ID: 0x540000000001
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"29-06-2026 10:48:42","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:60137
+Session ID: 0x540000000001
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"25-06-2026 09:48:25","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:58844
+Session ID: 0x4C0000000001
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"25-06-2026 09:48:25","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:58844
+Session ID: 0x4C0000000001
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"19-06-2026 11:23:52","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:53692
+Session ID: 0x480000000029
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"19-06-2026 11:20:44","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:50142
+Session ID: 0x480000000025
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"19-06-2026 11:14:57","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:54815
+Session ID: 0x480000000021
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"19-06-2026 11:14:57","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:54815
+Session ID: 0x480000000021
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"19-06-2026 11:07:42","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:58704
+Session ID: 0x48000000001D
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"19-06-2026 11:06:29","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:57825
+Session ID: 0x480000000019
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"19-06-2026 11:05:44","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:52680
+Session ID: 0x480000000015
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"19-06-2026 11:04:50","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:50434
+Session ID: 0x480000000011
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"19-06-2026 10:58:43","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:56584
+Session ID: 0x48000000000D
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"19-06-2026 10:57:30","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:54994
+Session ID: 0x480000000009
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"19-06-2026 10:57:30","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:54994
+Session ID: 0x480000000009
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"19-06-2026 10:32:18","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:60321
+Session ID: 0x480000000005
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"19-06-2026 10:31:16","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:52413
+Session ID: 0x480000000001
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"19-06-2026 10:31:16","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:52413
+Session ID: 0x480000000001
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"17-06-2026 12:43:04","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:64586
+Session ID: 0x380000000009
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"17-06-2026 12:31:07","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:64957
+Session ID: 0x380000000005
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"17-06-2026 12:31:07","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:64957
+Session ID: 0x380000000005
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"16-06-2026 18:30:41","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:64734
+Session ID: 0x380000000001
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"16-06-2026 18:30:41","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:64734
+Session ID: 0x380000000001
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"15-06-2026 19:14:44","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:61048
+Session ID: 0x340000000019
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"15-06-2026 19:14:44","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:61048
+Session ID: 0x340000000019
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"12-06-2026 16:29:45","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:57414
+Session ID: 0x340000000011
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"12-06-2026 16:29:45","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:57414
+Session ID: 0x340000000011
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"12-06-2026 11:17:39","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:61933
+Session ID: 0x34000000000D
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"12-06-2026 11:17:39","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:61933
+Session ID: 0x34000000000D
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"12-06-2026 11:15:20","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:65461
+Session ID: 0x340000000009
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"12-06-2026 11:06:05","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:60023
+Session ID: 0x340000000005
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"12-06-2026 11:01:05","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:58024
+Session ID: 0x340000000001
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"12-06-2026 11:01:05","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:58024
+Session ID: 0x340000000001
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"11-06-2026 15:29:39","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:56500
+Session ID: 0x300000000029
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"11-06-2026 15:29:39","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:56500
+Session ID: 0x300000000029
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"11-06-2026 15:01:04","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:60875
+Session ID: 0x300000000025
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"11-06-2026 15:01:04","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:60875
+Session ID: 0x300000000025
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"10-06-2026 17:33:08","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:63597
+Session ID: 0x300000000021
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"10-06-2026 17:33:08","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:63597
+Session ID: 0x300000000021
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"10-06-2026 16:13:15","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:53095
+Session ID: 0x30000000001D
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"10-06-2026 16:13:15","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:53095
+Session ID: 0x30000000001D
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"10-06-2026 14:51:45","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:50932
+Session ID: 0x300000000019
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"10-06-2026 14:49:25","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:57785
+Session ID: 0x300000000015
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"10-06-2026 14:43:40","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:59542
+Session ID: 0x300000000011
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"10-06-2026 14:43:40","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:59542
+Session ID: 0x300000000011
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"10-06-2026 12:34:04","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:63412
+Session ID: 0x30000000000D
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"10-06-2026 12:34:04","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:63412
+Session ID: 0x30000000000D
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"09-06-2026 16:35:18","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:51611
+Session ID: 0x300000000009
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"09-06-2026 16:35:18","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:51611
+Session ID: 0x300000000009
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"09-06-2026 14:17:05","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:56858
+Session ID: 0x300000000005
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"09-06-2026 14:17:05","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:56858
+Session ID: 0x300000000005
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"08-06-2026 14:44:35","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:49677
+Session ID: 0x2C0000000001
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"08-06-2026 14:44:35","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:49677
+Session ID: 0x2C0000000001
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"05-06-2026 17:04:28","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:50731
+Session ID: 0x280000000041
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"05-06-2026 17:04:28","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:50731
+Session ID: 0x280000000041
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"05-06-2026 15:20:51","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:56791
+Session ID: 0x28000000003D
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"05-06-2026 15:20:36","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:50100
+Session ID: 0x280000000039
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"05-06-2026 15:20:36","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:50100
+Session ID: 0x280000000039
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"05-06-2026 14:12:43","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:54824
+Session ID: 0x280000000035
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"05-06-2026 14:12:43","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:54824
+Session ID: 0x280000000035
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"05-06-2026 14:05:58","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:59926
+Session ID: 0x280000000031
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"05-06-2026 13:56:39","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:53564
+Session ID: 0x28000000002D
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"05-06-2026 13:56:39","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:53564
+Session ID: 0x28000000002D
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"05-06-2026 13:12:51","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:50025
+Session ID: 0x280000000029
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"05-06-2026 13:11:56","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:54903
+Session ID: 0x280000000025
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"05-06-2026 13:08:50","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:55268
+Session ID: 0x280000000021
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"05-06-2026 13:06:19","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:63702
+Session ID: 0x28000000001D
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"05-06-2026 13:06:19","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:63702
+Session ID: 0x28000000001D
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"04-06-2026 19:39:35","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:49215
+Session ID: 0x280000000019
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"04-06-2026 19:39:35","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:49215
+Session ID: 0x280000000019
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"04-06-2026 17:18:08","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:56341
+Session ID: 0x280000000015
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"04-06-2026 17:18:08","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:56341
+Session ID: 0x280000000015
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"04-06-2026 11:39:39","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:50134
+Session ID: 0x280000000011
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"04-06-2026 11:39:39","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:50134
+Session ID: 0x280000000011
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"04-06-2026 09:16:03","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:56206
+Session ID: 0x28000000000D
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"04-06-2026 09:12:24","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:63715
+Session ID: 0x280000000009
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"04-06-2026 09:12:24","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:63715
+Session ID: 0x280000000009
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"03-06-2026 11:10:44","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:62777
+Session ID: 0x280000000005
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"03-06-2026 11:03:48","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:56824
+Session ID: 0x280000000001
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"03-06-2026 11:03:48","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:56824
+Session ID: 0x280000000001
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"02-06-2026 11:28:27","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:57345
+Session ID: 0x200000000001
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"02-06-2026 11:28:27","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:57345
+Session ID: 0x200000000001
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"31-05-2026 18:20:06","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:51089
+Session ID: 0x180000000025
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"31-05-2026 18:20:06","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:51089
+Session ID: 0x180000000025
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"31-05-2026 12:26:47","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:65069
+Session ID: 0x180000000021
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"31-05-2026 12:25:00","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:64834
+Session ID: 0x18000000001D
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"31-05-2026 12:25:00","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:64834
+Session ID: 0x18000000001D
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"31-05-2026 11:49:01","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:54039
+Session ID: 0x180000000019
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"31-05-2026 11:49:01","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:54039
+Session ID: 0x180000000019
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"28-05-2026 16:40:05","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:49686
+Session ID: 0x180000000015
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"28-05-2026 16:40:05","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:49686
+Session ID: 0x180000000015
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"28-05-2026 15:21:03","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:60981
+Session ID: 0x180000000011
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"28-05-2026 15:20:01","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:51311
+Session ID: 0x18000000000D
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"28-05-2026 15:18:25","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:56196
+Session ID: 0x180000000009
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"28-05-2026 15:18:02","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:56148
+Session ID: 0x180000000005
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"28-05-2026 15:18:02","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:56148
+Session ID: 0x180000000005
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"28-05-2026 10:53:03","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:61686
+Session ID: 0x180000000001
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"28-05-2026 10:53:03","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:61686
+Session ID: 0x180000000001
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"27-05-2026 17:11:25","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:51839
+Session ID: 0x140000000011
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"27-05-2026 17:11:25","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:51839
+Session ID: 0x140000000011
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"27-05-2026 14:59:53","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:63863
+Session ID: 0x14000000000D
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"27-05-2026 14:59:53","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:63863
+Session ID: 0x14000000000D
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"27-05-2026 12:05:53","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:52937
+Session ID: 0x140000000009
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"27-05-2026 12:05:53","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:52937
+Session ID: 0x140000000009
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"26-05-2026 16:32:06","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:57665
+Session ID: 0x140000000005
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"26-05-2026 16:32:06","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:57665
+Session ID: 0x140000000005
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"25-05-2026 16:51:08","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: C$
+Client name: \\[::1]
+Client address: [::1]:61661
+Session ID: 0x140000000001
+Tree ID: 0x5
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"25-05-2026 16:51:08","4000","Information","Microsoft-Windows-SMBServer","The SMB client connection to the share was established.
+
+Share name: IPC$
+Client name: \\[::1]
+Client address: [::1]:61661
+Session ID: 0x140000000001
+Tree ID: 0x1
+Transport type: Wsk
+Signing used: true
+Encryption used: false
+Compression activated: false"
+"25-05-2026 16:37:34","1022","Information","Microsoft-Windows-SMBServer","File and printer sharing firewall rule enabled.
+
+Guidance:
+
+You should expect this event when Windows Firewall is configured to enable the File and Printer Sharing rule, which allows inbound SMB traffic. This event occurs on a computer that has custom shares configured."

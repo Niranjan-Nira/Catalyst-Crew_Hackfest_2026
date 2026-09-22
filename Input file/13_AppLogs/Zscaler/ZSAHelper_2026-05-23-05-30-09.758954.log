@@ -1,0 +1,17 @@
+Redirected stderr
+2026-05-23 05:30:09.767307(-0700)[11144:10300] INF Timezone: Pacific Daylight Time, Offset: -25200, Standard Name: Pacific Standard Time, UTC Offset: -28800
+2026-05-23 05:30:09.767307(-0700)[11144:10300] INF ZSAHelper App Version: 4.7.0.141
+2026-05-23 05:30:09.767307(-0700)[11144:10300] INF ZSAHelper Architecture: x64
+2026-05-23 05:30:09.767307(-0700)[11144:10300] INF ZSAHelper GIT Hash: 4ee4b7d7870f443d29c6d1bda9662f24ede0696c
+2026-05-23 05:30:09.767307(-0700)[11144:10300] INF x64 BINARY (Supports both gov and commercial clouds)
+2026-05-23 05:30:09.767307(-0700)[11144:10300] DBG Config Dir: C:\ProgramData\Zscaler
+2026-05-23 05:30:09.767307(-0700)[11144:10300] DBG App options initialized successfully
+2026-05-23 05:30:09.767307(-0700)[11144:10300] INF Performing op: --updatePrevInstallerHash
+2026-05-23 05:30:09.767307(-0700)[11144:10300] DBG CDistroFilePaths::PopulatePath_ForComponent: Populated deploy path for component 'RevertZCC dir' as 'C:\Program Files\Zscaler'
+2026-05-23 05:30:09.767307(-0700)[11144:10300] DBG CDistroFilePaths::PopulatePath_ForComponent: Populated deploy path for component 'RevertZCC dir' as 'C:\Program Files\Zscaler'
+2026-05-23 05:30:09.767307(-0700)[11144:10300] INF ZccRevert, Found installer: Zscaler-windows-4.7.0.141-installer-x64.exe with version: 4.7.0.141
+2026-05-23 05:30:09.767307(-0700)[11144:10300] DBG ZccRevert, Installer version: 4.7.0.141 is of the currently installed version, skipping.
+2026-05-23 05:30:09.767307(-0700)[11144:10300] INF ZccRevert, No supported installer found.
+2026-05-23 05:30:09.767307(-0700)[11144:10300] DBG [updatePrevInstallerHash], No previous version installer found
+2026-05-23 05:30:09.767307(-0700)[11144:10300] INF ZSAHelper return code: 0
+Redirected stdout

@@ -1,0 +1,110 @@
+[
+  {
+    "event_id":"EVT00003",
+    "device_id":"device_01",
+    "category":"cpu_hardware",
+    "label":"not_anomaly",
+    "confidence":85,
+    "confidence_reason":"No CPU hardware error events found",
+    "description":"No CPU hardware error events detected",
+    "source_file":"07_CPU\/CPU_WHEA_Errors.csv",
+    "evidence_detail":"0 rows",
+    "timestamp":null
+  },
+  {
+    "event_id":"EVT00004",
+    "device_id":"device_01",
+    "category":"cpu_hardware",
+    "label":"possible_anomaly",
+    "confidence":40,
+    "confidence_reason":"200 CPU throttling event(s) present but not at Error\/Critical level",
+    "description":"CPU throttling present at non-error severity (200 event(s))",
+    "source_file":"07_CPU\/CPU_ThrottlingEvents.csv",
+    "evidence_detail":"{'TimeCreated': '18-08-2026 14:30:45', 'Id': 55, 'LevelDisplayName': 'Information', 'Message': 'Processor 13 in group 0 exposes the following power management capabilities:\\r\\n\\r\\nIdle state type: Micro Power Engine Plugin (11 state(s))\\r\\n\\r\\nPerformance state type: ACPI Collaborative Processor Performance Control\\r\\nNominal Frequency (MHz): 700\\r\\nMaximum performance percentage: 342\\r\\nMinimum performance percentage: 100\\r\\nMinimum throttle percentage: 14'}",
+    "timestamp":null
+  },
+  {
+    "event_id":"EVT00057",
+    "device_id":"device_02",
+    "category":"cpu_hardware",
+    "label":"not_anomaly",
+    "confidence":40,
+    "confidence_reason":"CPU temperature column present but no numeric readings captured (sensor likely inaccessible)",
+    "description":"No usable CPU temperature data",
+    "source_file":"Timeline_Thermal_Power_Fan\/ThermalPowerFan.csv",
+    "evidence_detail":"all null",
+    "timestamp":null
+  },
+  {
+    "event_id":"EVT00061",
+    "device_id":"device_04",
+    "category":"cpu_hardware",
+    "label":"possible_anomaly",
+    "confidence":40,
+    "confidence_reason":"1 CPU hardware error event(s) present but not at Error\/Critical level",
+    "description":"CPU hardware error present at non-error severity (1 event(s))",
+    "source_file":"07_CPU\/CPU_WHEA_Errors.csv",
+    "evidence_detail":"{'TimeCreated': '8\/4\/2026 7:29:01 AM', 'Id': 3, 'LevelDisplayName': 'Information', 'Message': 'A hardware event has occurred. An informational record describing the condition is contained in the data section of this event.'}",
+    "timestamp":null
+  },
+  {
+    "event_id":"EVT00062",
+    "device_id":"device_04",
+    "category":"cpu_hardware",
+    "label":"possible_anomaly",
+    "confidence":40,
+    "confidence_reason":"200 CPU throttling event(s) present but not at Error\/Critical level",
+    "description":"CPU throttling present at non-error severity (200 event(s))",
+    "source_file":"07_CPU\/CPU_ThrottlingEvents.csv",
+    "evidence_detail":"{'TimeCreated': '8\/31\/2026 3:02:35 PM', 'Id': 55, 'LevelDisplayName': 'Information', 'Message': 'Processor 11 in group 0 exposes the following power management capabilities:\\r\\n\\r\\nIdle state type: Micro Power Engine Plugin (11 state(s))\\r\\n\\r\\nPerformance state type: ACPI Collaborative Processor Performance Control\\r\\nNominal Frequency (MHz): 1800\\r\\nMaximum performance percentage: 276\\r\\nMinimum performance percentage: 100\\r\\nMinimum throttle percentage: 7'}",
+    "timestamp":null
+  },
+  {
+    "event_id":"EVT00084",
+    "device_id":"device_05",
+    "category":"cpu_hardware",
+    "label":"possible_anomaly",
+    "confidence":40,
+    "confidence_reason":"1 CPU hardware error event(s) present but not at Error\/Critical level",
+    "description":"CPU hardware error present at non-error severity (1 event(s))",
+    "source_file":"07_CPU\/CPU_WHEA_Errors.csv",
+    "evidence_detail":"{'TimeCreated': '2\/24\/2026 11:44:04 AM', 'Id': 3, 'LevelDisplayName': 'Information', 'Message': 'A hardware event has occurred. An informational record describing the condition is contained in the data section of this event.'}",
+    "timestamp":null
+  },
+  {
+    "event_id":"EVT00085",
+    "device_id":"device_05",
+    "category":"cpu_hardware",
+    "label":"possible_anomaly",
+    "confidence":40,
+    "confidence_reason":"200 CPU throttling event(s) present but not at Error\/Critical level",
+    "description":"CPU throttling present at non-error severity (200 event(s))",
+    "source_file":"07_CPU\/CPU_ThrottlingEvents.csv",
+    "evidence_detail":"{'TimeCreated': '8\/27\/2026 11:43:01 AM', 'Id': 55, 'LevelDisplayName': 'Information', 'Message': 'Processor 11 in group 0 exposes the following power management capabilities:\\r\\n\\r\\nIdle state type: ACPI Idle (C) States (3 state(s))\\r\\n\\r\\nPerformance state type: ACPI Collaborative Processor Performance Control\\r\\nNominal Frequency (MHz): 1800\\r\\nMaximum performance percentage: 276\\r\\nMinimum performance percentage: 100\\r\\nMinimum throttle percentage: 7'}",
+    "timestamp":null
+  },
+  {
+    "event_id":"EVT00144",
+    "device_id":"device_06",
+    "category":"cpu_hardware",
+    "label":"possible_anomaly",
+    "confidence":40,
+    "confidence_reason":"3 CPU hardware error event(s) present but not at Error\/Critical level",
+    "description":"CPU hardware error present at non-error severity (3 event(s))",
+    "source_file":"07_CPU\/CPU_WHEA_Errors.csv",
+    "evidence_detail":"{'TimeCreated': '24-08-2026 13:26:09', 'Id': 3, 'LevelDisplayName': 'Information', 'Message': 'A hardware event has occurred. An informational record describing the condition is contained in the data section of this event.'}",
+    "timestamp":null
+  },
+  {
+    "event_id":"EVT00145",
+    "device_id":"device_06",
+    "category":"cpu_hardware",
+    "label":"possible_anomaly",
+    "confidence":40,
+    "confidence_reason":"200 CPU throttling event(s) present but not at Error\/Critical level",
+    "description":"CPU throttling present at non-error severity (200 event(s))",
+    "source_file":"07_CPU\/CPU_ThrottlingEvents.csv",
+    "evidence_detail":"{'TimeCreated': '02-09-2026 10:00:13', 'Id': 55, 'LevelDisplayName': 'Information', 'Message': 'Processor 11 in group 0 exposes the following power management capabilities:\\r\\n\\r\\nIdle state type: ACPI Idle (C) States (3 state(s))\\r\\n\\r\\nPerformance state type: ACPI Collaborative Processor Performance Control\\r\\nNominal Frequency (MHz): 1800\\r\\nMaximum performance percentage: 276\\r\\nMinimum performance percentage: 100\\r\\nMinimum throttle percentage: 7'}",
+    "timestamp":null
+  }
+]

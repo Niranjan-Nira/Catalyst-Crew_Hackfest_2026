@@ -1,0 +1,12 @@
+Redirected stderr
+2026-05-23 05:30:03.489805(-0700)[12672:11828] INF Timezone: Pacific Daylight Time, Offset: -25200, Standard Name: Pacific Standard Time, UTC Offset: -28800
+2026-05-23 05:30:03.489805(-0700)[12672:11828] INF ZSAHelper App Version: 4.7.0.141
+2026-05-23 05:30:03.489805(-0700)[12672:11828] INF ZSAHelper Architecture: x64
+2026-05-23 05:30:03.489805(-0700)[12672:11828] INF ZSAHelper GIT Hash: 4ee4b7d7870f443d29c6d1bda9662f24ede0696c
+2026-05-23 05:30:03.489805(-0700)[12672:11828] INF x64 BINARY (Supports both gov and commercial clouds)
+2026-05-23 05:30:03.489805(-0700)[12672:11828] DBG Config Dir: C:\ProgramData\Zscaler
+2026-05-23 05:30:03.489805(-0700)[12672:11828] DBG App options initialized successfully
+2026-05-23 05:30:03.489805(-0700)[12672:11828] INF Performing op: --setPreferSystem32Mitigation
+2026-05-23 05:30:03.489805(-0700)[12672:11828] DBG setPreferSystem32Mitigation: Value set successfully.
+2026-05-23 05:30:03.489805(-0700)[12672:11828] INF ZSAHelper return code: 0
+Redirected stdout

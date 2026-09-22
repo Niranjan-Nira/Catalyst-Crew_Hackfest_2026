@@ -1,0 +1,146 @@
+﻿[
+    {
+        "Phase":  "SystemInfo",
+        "ScriptFile":  "09_SystemInfo.ps1",
+        "Status":  "Success",
+        "ItemsNote":  "System, BIOS, OS, driver \u0026 OEM software info collected",
+        "ErrorMessage":  "",
+        "DurationSec":  30.3,
+        "StartedAt":  "2026-08-19T14:33:45"
+    },
+    {
+        "Phase":  "WindowsUpdates",
+        "ScriptFile":  "03_WindowsUpdates.ps1",
+        "Status":  "Success",
+        "ItemsNote":  "KB history, pending updates, OS version collected",
+        "ErrorMessage":  "",
+        "DurationSec":  31.8,
+        "StartedAt":  "2026-08-19T14:34:15"
+    },
+    {
+        "Phase":  "HardwareDevices",
+        "ScriptFile":  "04_HardwareDevices.ps1",
+        "Status":  "Success",
+        "ItemsNote":  "Device manager inventory + driver versions + error codes collected",
+        "ErrorMessage":  "",
+        "DurationSec":  17.7,
+        "StartedAt":  "2026-08-19T14:34:47"
+    },
+    {
+        "Phase":  "DiskInfo",
+        "ScriptFile":  "05_DiskInfo.ps1",
+        "Status":  "Success",
+        "ItemsNote":  "Disk size/free space/health/SMART/errors collected",
+        "ErrorMessage":  "",
+        "DurationSec":  1.9,
+        "StartedAt":  "2026-08-19T14:35:05"
+    },
+    {
+        "Phase":  "MemoryInfo",
+        "ScriptFile":  "06_MemoryInfo.ps1",
+        "Status":  "Partial",
+        "ItemsNote":  "Some memory sub-items unavailable (may just mean no errors found)",
+        "ErrorMessage":  "WHEA memory errors (none found or access issue): No events were found that match the specified selection criteria. | Memory diagnostic results none present, not run before: No events were found that match the specified selection criteria.",
+        "DurationSec":  1.2,
+        "StartedAt":  "2026-08-19T14:35:07"
+    },
+    {
+        "Phase":  "CpuInfo",
+        "ScriptFile":  "07_CpuInfo.ps1",
+        "Status":  "Partial",
+        "ItemsNote":  "Temperature sensor often blocked by OEM firmware - see README in output folder",
+        "ErrorMessage":  "WHEA CPU errors (none found or access issue): No events were found that match the specified selection criteria. | ACPI thermal zone not exposed by this OEM/BIOS (common on laptops)",
+        "DurationSec":  2.9,
+        "StartedAt":  "2026-08-19T14:35:08"
+    },
+    {
+        "Phase":  "ReliabilityMonitor",
+        "ScriptFile":  "09_ReliabilityMonitor.ps1",
+        "Status":  "Success",
+        "ItemsNote":  "Reliability Monitor history + daily stability index collected",
+        "ErrorMessage":  "",
+        "DurationSec":  27.8,
+        "StartedAt":  "2026-08-19T14:35:11"
+    },
+    {
+        "Phase":  "BatteryHealth",
+        "ScriptFile":  "10_BatteryHealth.ps1",
+        "Status":  "Success",
+        "ItemsNote":  "Battery health report (design vs full charge capacity), status, AC/DC state collected",
+        "ErrorMessage":  "",
+        "DurationSec":  1,
+        "StartedAt":  "2026-08-19T14:35:38"
+    },
+    {
+        "Phase":  "StartupApps",
+        "ScriptFile":  "11_StartupApps.ps1",
+        "Status":  "Success",
+        "ItemsNote":  "Startup programs + scheduled tasks collected",
+        "ErrorMessage":  "",
+        "DurationSec":  3.9,
+        "StartedAt":  "2026-08-19T14:35:39"
+    },
+    {
+        "Phase":  "NetworkInfo",
+        "ScriptFile":  "12_NetworkInfo.ps1",
+        "Status":  "Success",
+        "ItemsNote":  "Adapters, WiFi/LAN status, IP config, throughput sample collected",
+        "ErrorMessage":  "",
+        "DurationSec":  35.8,
+        "StartedAt":  "2026-08-19T14:35:43"
+    },
+    {
+        "Phase":  "InstalledApps",
+        "ScriptFile":  "14_InstalledApps.ps1",
+        "Status":  "Success",
+        "ItemsNote":  "Installed apps (Win32 registry, MSI, and UWP/Store) with version+install date collected",
+        "ErrorMessage":  "",
+        "DurationSec":  15.9,
+        "StartedAt":  "2026-08-19T14:36:19"
+    },
+    {
+        "Phase":  "AppLogs",
+        "ScriptFile":  "13_AppLogs.ps1",
+        "Status":  "Success",
+        "ItemsNote":  "1 app log sources copied. See _AppLogCollection_Summary.txt",
+        "ErrorMessage":  "",
+        "DurationSec":  0.4,
+        "StartedAt":  "2026-08-19T14:36:35"
+    },
+    {
+        "Phase":  "CrashDumps_WER",
+        "ScriptFile":  "15_CrashDumps.ps1",
+        "Status":  "Success",
+        "ItemsNote":  "93 WER crash reports copied, minidumps inventoried",
+        "ErrorMessage":  "",
+        "DurationSec":  1.2,
+        "StartedAt":  "2026-08-19T14:36:36"
+    },
+    {
+        "Phase":  "EventLogs",
+        "ScriptFile":  "02_EventLogs.ps1",
+        "Status":  "Success",
+        "ItemsNote":  "166/166 event logs exported (raw .evtx + readable CSV)",
+        "ErrorMessage":  "",
+        "DurationSec":  1990.9,
+        "StartedAt":  "2026-08-19T14:36:37"
+    },
+    {
+        "Phase":  "ServicesProcessesSnapshot",
+        "ScriptFile":  "16_ServicesSnapshot.ps1",
+        "Status":  "Success",
+        "ItemsNote":  "Services + process snapshot + persistent crash/hang \u0026 SCM history collected",
+        "ErrorMessage":  "",
+        "DurationSec":  4,
+        "StartedAt":  "2026-08-19T15:09:48"
+    },
+    {
+        "Phase":  "Timeline_And_Resources (LIVE 30 min capture)",
+        "ScriptFile":  "01_TimelineAndResources.ps1",
+        "Status":  "Success",
+        "ItemsNote":  "141 samples, 0 proc events, 0 file events, 0 crash/hang events",
+        "ErrorMessage":  "",
+        "DurationSec":  1812.1,
+        "StartedAt":  "2026-08-19T15:09:52"
+    }
+]

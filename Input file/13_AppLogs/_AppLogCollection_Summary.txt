@@ -1,0 +1,28 @@
+﻿APPLICATION LOG COLLECTION SUMMARY
+Collected from (1): Zscaler
+
+Skipped / not present (16):
+CiscoAnyConnect_VPN (not found - app likely not installed / no logs yet)
+GlobalProtect_VPN (not found - app likely not installed / no logs yet)
+MicrosoftTeams (not found - app likely not installed / no logs yet)
+MicrosoftTeams_New (not found - app likely not installed / no logs yet)
+Outlook (not found - app likely not installed / no logs yet)
+OneDrive (not found - app likely not installed / no logs yet)
+GoogleChrome (not found - app likely not installed / no logs yet)
+MicrosoftEdge (not found - app likely not installed / no logs yet)
+Zoom (not found - app likely not installed / no logs yet)
+Slack (not found - app likely not installed / no logs yet)
+Windows_WER (not found - app likely not installed / no logs yet)
+CrowdStrike (not found - app likely not installed / no logs yet)
+Symantec_Endpoint (not found - app likely not installed / no logs yet)
+DellCommandUpdate (not found - app likely not installed / no logs yet)
+LenovoVantage (not found - app likely not installed / no logs yet)
+OfficeClickToRun (not found - app likely not installed / no logs yet)
+
+TO ADD MORE APPS: edit $knownAppLogPaths array at the top of
+Modules\13_AppLogs.ps1 and re-run. Add the app name and its log folder path
+(supports wildcards). Common places to look for an unlisted app's logs:
+  %APPDATA%\<AppName>\logs
+  %LOCALAPPDATA%\<AppName>\logs
+  %PROGRAMDATA%\<AppName>\logs
+  Install folder itself (Program Files\<AppName>\logs)

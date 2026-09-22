@@ -1,0 +1,13 @@
+﻿
+
+SecurityHealth : {4, 0, 0, 0...}
+PSPath         : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\StartupAppr
+                 oved\Run
+PSParentPath   : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\StartupAppr
+                 oved
+PSChildName    : Run
+PSDrive        : HKLM
+PSProvider     : Microsoft.PowerShell.Core\Registry
+
+
+

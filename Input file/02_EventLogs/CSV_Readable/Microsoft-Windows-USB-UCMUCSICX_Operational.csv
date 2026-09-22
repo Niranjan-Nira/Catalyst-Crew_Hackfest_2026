@@ -1,0 +1,11 @@
+﻿"TimeCreated","Id","LevelDisplayName","ProviderName","Message"
+"20-07-2026 09:59:02","1","Error","Microsoft-Windows-USB-UCMUCSICX","UcmUcsiCx device has encountered a failure. Please contact the manufacturer of your computer or device to investigate.                     
+Device Instance ID: ACPI\USBC000\1                     
+Service: UcmUcsiAcpiClient                     
+Failure Type: Command Timeout                     
+UCSI Command: AckCcCi"
+"27-05-2026 12:41:21","1","Error","Microsoft-Windows-USB-UCMUCSICX","UcmUcsiCx device has encountered a failure. Please contact the manufacturer of your computer or device to investigate.                     
+Device Instance ID: ACPI\USBC000\1                     
+Service: UcmUcsiAcpiClient                     
+Failure Type: Command Timeout                     
+UCSI Command: GetPdos"

@@ -1,0 +1,8 @@
+event_id,device_id,category,label,confidence,confidence_reason,description,source_file,evidence_detail,timestamp
+EVT00001,device_01,disk,not_anomaly,90,Comfortably above the low-space caution threshold,Drive C: has healthy free space (34.6% free),05_Disk/Drives_SizeFreeSpace.csv,PercentFree=34.6,
+EVT00048,device_02,disk,not_anomaly,90,SMART firmware reports no failure prediction for this drive,SMART healthy for SCSI\Disk&Ven_NVMe&Prod_BG6_KIOXIA_512GB\4&2eee6be6&0&020000_0,DiskHealth/SMART_FailurePredictStatus.csv,PredictFailure=False,
+EVT00049,device_02,disk,not_anomaly,88,Windows reports Healthy status for this physical disk,Disk 'NVMe BG6 KIOXIA 512GB' is Healthy,DiskHealth/PhysicalDiskHealth.csv,HealthStatus=Healthy,
+EVT00050,device_02,disk,anomaly,75,"38 disk IO retry/warning events is a high volume, consistent with a struggling drive or controller",38 disk-related warning/retry events recorded,DiskHealth/DiskRelatedEvents.csv,count=38,
+EVT00059,device_04,disk,not_anomaly,90,Comfortably above the low-space caution threshold,Drive C: has healthy free space (62.5% free),05_Disk/Drives_SizeFreeSpace.csv,PercentFree=62.5,
+EVT00082,device_05,disk,not_anomaly,90,Comfortably above the low-space caution threshold,Drive C: has healthy free space (46.8% free),05_Disk/Drives_SizeFreeSpace.csv,PercentFree=46.8,
+EVT00142,device_06,disk,not_anomaly,90,Comfortably above the low-space caution threshold,Drive C: has healthy free space (60.2% free),05_Disk/Drives_SizeFreeSpace.csv,PercentFree=60.2,

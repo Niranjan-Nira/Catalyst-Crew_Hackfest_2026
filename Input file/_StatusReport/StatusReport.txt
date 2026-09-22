@@ -1,0 +1,42 @@
+﻿ENTERPRISE LAPTOP DIAGNOSTIC COLLECTION - STATUS REPORT
+Generated: 08/19/2026 15:40:04
+Ran as Administrator: True
+Output folder: C:\Users\arjo5004\AppData\Local\Temp\Collection_20260819_143345
+
+SUMMARY: 14 succeeded / 2 partial / 0 failed (out of 16 phases)
+-------------------------------------------------------------
+[Success] SystemInfo  (30.3s)
+    Note : System, BIOS, OS, driver & OEM software info collected
+[Success] WindowsUpdates  (31.8s)
+    Note : KB history, pending updates, OS version collected
+[Success] HardwareDevices  (17.7s)
+    Note : Device manager inventory + driver versions + error codes collected
+[Success] DiskInfo  (1.9s)
+    Note : Disk size/free space/health/SMART/errors collected
+[Partial] MemoryInfo  (1.2s)
+    Note : Some memory sub-items unavailable (may just mean no errors found)
+    Error: WHEA memory errors (none found or access issue): No events were found that match the specified selection criteria. | Memory diagnostic results none present, not run before: No events were found that match the specified selection criteria.
+[Partial] CpuInfo  (2.9s)
+    Note : Temperature sensor often blocked by OEM firmware - see README in output folder
+    Error: WHEA CPU errors (none found or access issue): No events were found that match the specified selection criteria. | ACPI thermal zone not exposed by this OEM/BIOS (common on laptops)
+[Success] ReliabilityMonitor  (27.8s)
+    Note : Reliability Monitor history + daily stability index collected
+[Success] BatteryHealth  (1s)
+    Note : Battery health report (design vs full charge capacity), status, AC/DC state collected
+[Success] StartupApps  (3.9s)
+    Note : Startup programs + scheduled tasks collected
+[Success] NetworkInfo  (35.8s)
+    Note : Adapters, WiFi/LAN status, IP config, throughput sample collected
+[Success] InstalledApps  (15.9s)
+    Note : Installed apps (Win32 registry, MSI, and UWP/Store) with version+install date collected
+[Success] AppLogs  (0.4s)
+    Note : 1 app log sources copied. See _AppLogCollection_Summary.txt
+[Success] CrashDumps_WER  (1.2s)
+    Note : 93 WER crash reports copied, minidumps inventoried
+[Success] EventLogs  (1990.9s)
+    Note : 166/166 event logs exported (raw .evtx + readable CSV)
+[Success] ServicesProcessesSnapshot  (4s)
+    Note : Services + process snapshot + persistent crash/hang & SCM history collected
+[Success] Timeline_And_Resources (LIVE 30 min capture)  (1812.1s)
+    Note : 141 samples, 0 proc events, 0 file events, 0 crash/hang events
+-------------------------------------------------------------

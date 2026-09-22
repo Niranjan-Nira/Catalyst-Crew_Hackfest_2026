@@ -1,0 +1,9 @@
+Env/.env
+Credentials.txt
+__pycache__/
+*.pyc
+output/uploaded_cases/
+output/rag_cache/
+output/*.pdf
+output/*.md
+output/*.json

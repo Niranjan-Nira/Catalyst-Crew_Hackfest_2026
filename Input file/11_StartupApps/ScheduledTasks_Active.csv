@@ -1,0 +1,262 @@
+﻿"TaskName","LastRunTime","LastTaskResult","NextRunTime"
+"MDE_Service_Check","18-08-2026 14:31:21","0",
+"OneDrive Per-Machine Standalone Update Task","19-08-2026 13:20:14","2147806724","20-08-2026 16:53:15"
+"npcapwatchdog","18-08-2026 14:30:53","0",
+"Download_File_Watcher","18-08-2026 14:31:21","267009",
+"CustomerPluginUpdate","19-08-2026 11:07:36","2147942402","19-08-2026 15:07:35"
+"OneDrive Reporting Task-S-1-12-1-2357405129-1281513531-255772574-1816207334","18-08-2026 14:52:43","0","19-08-2026 14:52:42"
+"iGoAudioTask","18-08-2026 14:31:21","2147946720",
+"OneDrive Reporting Task-S-1-5-21-3608031908-443761264-1593342945-1000","30-11-1999 00:00:00","267011","19-08-2026 14:52:43"
+"OneDrive Reporting Task-S-1-12-1-4220155720-1073834589-1054805678-3526012841","30-11-1999 00:00:00","267011","19-08-2026 14:52:42"
+"MicrosoftEdgeUpdateTaskMachineCore{1436B79C-8C4B-4867-9BCC-E2311AC46636}","19-08-2026 10:13:06","0","20-08-2026 10:13:05"
+"OneDrive Startup Task-S-1-12-1-4220155720-1073834589-1054805678-3526012841","30-11-1999 00:00:00","267011",
+"OneDrive Startup Task-S-1-12-1-2357405129-1281513531-255772574-1816207334","18-08-2026 14:41:22","0",
+"OneDrive Startup Task-S-1-5-21-3608031908-443761264-1593342945-1000","30-11-1999 00:00:00","267011",
+"MicrosoftEdgeUpdateTaskMachineUA{62F28F55-DF7B-4A5C-8F9D-AD23FC47952F}","19-08-2026 14:02:32","0","19-08-2026 14:43:06"
+"iGoAudioTaskSession","18-08-2026 14:31:21","267009",
+"GoogleUpdaterTaskSystem152.0.7933.0{0834C5D3-6E36-40BA-858A-ABF48946C707}","19-08-2026 14:02:32","0","19-08-2026 14:50:57"
+"SensorFramework-LogonTask-{100ee514-48c8-f419-6760-6fb8cb2767cd}","18-08-2026 14:31:21","0",
+"Intune Management Extension Client Cert Checker","19-08-2026 14:02:28","0","19-08-2026 15:05:30"
+"Intune Management Extension Health Evaluation","19-08-2026 11:37:35","0","20-08-2026 11:01:53"
+"Office ClickToRun Service Monitor","19-08-2026 10:02:31","0","20-08-2026 05:19:27"
+"Office Automatic Updates 2.0","19-08-2026 13:29:09","0","20-08-2026 03:09:48"
+"Office Actions Server","18-08-2026 14:41:22","0","19-08-2026 15:00:00"
+"Office Performance Monitor","30-11-1999 00:00:00","267011",
+".NET Framework NGEN v4.0.30319","19-08-2026 10:07:31","0",
+"Office Serviceability Manager","30-11-1999 00:00:00","267011","20-08-2026 01:44:28"
+"Office Startup Maintenance","19-08-2026 10:02:31","4294967288","20-08-2026 08:16:23"
+"Office Feature Updates Logon","19-08-2026 14:24:08","0",
+"Office Feature Updates","19-08-2026 11:54:15","0","19-08-2026 19:52:35"
+"Office Background Push Maintenance","19-08-2026 00:26:08","0","19-08-2026 20:48:45"
+".NET Framework NGEN v4.0.30319 64","19-08-2026 10:07:31","0",
+"RecoverabilityToastTask","19-08-2026 14:09:38","0",
+"PolicyConverter","18-08-2026 14:32:56","0",
+"EDP Policy Manager","30-11-1999 00:00:00","267011",
+"MareBackup","30-11-1999 00:00:00","267011",
+"VerifiedPublisherCertStoreCheck","19-08-2026 14:02:24","0",
+"AD RMS Rights Policy Template Management (Manual)","30-11-1999 00:00:00","267011",
+"Microsoft Compatibility Appraiser Exp","30-11-1999 00:00:00","267011",
+"SdbinstMergeDbTask","30-11-1999 00:00:00","267011",
+"PcaPatchDbTask","19-08-2026 10:02:31","0","19-08-2026 15:52:38"
+"DsSvcCleanup","19-08-2026 10:07:29","0",
+"StartupAppTask","18-08-2026 09:51:39","0",
+"appuriverifierinstall","18-08-2026 10:31:26","0",
+"appuriverifierdaily","19-08-2026 10:07:29","0",
+"CleanupTemporaryState","17-08-2026 10:02:57","0",
+"Proxy","18-08-2026 15:25:46","0",
+"BitLocker Encrypt All Drives","30-11-1999 00:00:00","267011",
+"UCPD velocity","19-08-2026 10:07:29","0",
+"BitLocker MDM policy Refresh","19-08-2026 13:56:02","0",
+"Backup","19-08-2026 10:07:29","0",
+"BackupNonMaintenance","11-08-2026 12:07:33","0","22-08-2026 00:42:38"
+"UninstallDeviceTask","30-11-1999 00:00:00","267011",
+"BgTaskRegistrationMaintenanceTask","19-08-2026 10:07:29","268435456",
+"AikCertEnrollTask","19-08-2026 10:18:09","0",
+"maintenancetasks","19-08-2026 10:07:29","0",
+"CryptoPolicyTask","30-11-1999 00:00:00","267011",
+"KeyPreGenTask","19-08-2026 10:17:24","0",
+"SystemTask","19-08-2026 14:31:11","0",
+"UserTask-Roam","19-08-2026 14:09:07","0",
+"ProactiveScan","19-08-2026 10:07:29","0",
+"SyspartRepair","17-06-2026 19:13:36","0",
+"UserTask","19-08-2026 14:31:22","0",
+"CreateObjectTask","23-05-2026 11:01:52","0",
+"Backup","18-08-2026 14:39:49","0","27-08-2026 06:53:02"
+"CmCleanup","30-11-1999 00:00:00","267011",
+"Restore","30-11-1999 00:00:00","267011",
+"UnifiedConsentSyncTask","19-08-2026 13:38:49","0","20-08-2026 12:28:36"
+"Consolidator","19-08-2026 12:00:01","0","19-08-2026 18:00:00"
+"UsbCeip","17-08-2026 10:02:57","2147943568",
+"Data Integrity Check And Scan","30-11-1999 00:00:00","267011","19-08-2026 23:30:15"
+"Data Integrity Scan","30-11-1999 00:00:00","267011",
+"ScheduledDefrag","17-08-2026 10:02:57","0",
+"Device","19-08-2026 10:02:31","0","20-08-2026 04:28:48"
+"Data Integrity Scan for Crash Recovery","30-11-1999 00:00:00","267011",
+"HandleWnsCommand","30-11-1999 00:00:00","267011",
+"Metadata Refresh","04-08-2026 09:19:33","0",
+"HandleCommand","30-11-1999 00:00:00","267011",
+"Device User","18-08-2026 15:00:50","0",
+"RegisterDevicePolicyChange","14-07-2026 09:38:03","0",
+"LocateCommandUserSession","30-11-1999 00:00:00","267011",
+"RegisterDeviceAccountChange","18-08-2026 14:46:22","0",
+"IntegrityCheck","18-08-2026 10:49:30","0","26-08-2026 10:36:02"
+"RegisterDeviceProtectionStateChanged","18-08-2026 15:06:11","0",
+"RecommendedTroubleshootingScanner","23-05-2026 10:53:24","0",
+"RegisterUserDevice","18-08-2026 14:46:22","0",
+"RegisterDeviceSettingChange","23-05-2026 23:19:30","0",
+"Scheduled","17-08-2026 10:02:57","0",
+"UnexpectedCodepath","19-08-2026 09:57:01","0",
+"DXGIAdapterCache","18-08-2026 14:31:54","0",
+"DirectXDatabaseUpdater","11-07-2026 09:10:17","0",
+"StorageSense","19-08-2026 10:07:29","2147746132",
+"Diagnostics","19-08-2026 10:07:29","0",
+"dusmtask","30-11-1999 00:00:00","267011",
+"SilentCleanup","19-08-2026 13:29:09","2147946720",
+"EDP App Launch Task","30-11-1999 00:00:00","267011",
+"EDP Auth Task","30-11-1999 00:00:00","267011",
+"EDP Inaccessible Credentials Task","30-11-1999 00:00:00","267011",
+"OS Edition Upgrade event listener created by enrollment client","30-11-1999 00:00:00","267011",
+"StorageCardEncryption Task","30-11-1999 00:00:00","267011",
+"Passport for Work alert created by enrollment client","25-05-2026 09:01:31","2192310788",
+"Provisioning initiated session","30-11-1999 00:00:00","267011",
+"Policy Manager Login Refresh Schedule","18-08-2026 14:31:21","0",
+"PushRenewal","18-08-2026 14:31:01","0","02-09-2026 10:29:08"
+"PushLaunch","13-08-2026 12:37:05","0",
+"Login Schedule created by enrollment client","18-08-2026 14:31:21","0",
+"Schedule #1 created by enrollment client","23-05-2026 11:08:15","2147943467",
+"Schedule created by enrollment client for renewal of certificate warning","30-11-1999 00:00:00","267011","09-04-2027 19:35:00"
+"Schedule #2 created by enrollment client","23-05-2026 12:56:01","0",
+"Schedule #3 created by enrollment client","19-08-2026 13:11:01","0","19-08-2026 21:11:00"
+"Schedule to run OMADMClient by server","30-11-1999 00:00:00","267011",
+"Schedule to run OMADMClient by client","19-08-2026 13:11:10","0",
+"Win10 S Mode event listener created by enrollment client","30-11-1999 00:00:00","267011",
+"OS Edition Upgrade event listener created by enrollment client","30-11-1999 00:00:00","267011",
+"Passport for Work alert created by enrollment client","25-05-2026 09:01:31","0",
+"Login Schedule created by enrollment client","18-08-2026 14:31:21","0",
+"Provisioning initiated session","30-11-1999 00:00:00","267011",
+"PushRenewal","18-08-2026 14:31:01","0","02-09-2026 10:29:08"
+"PushLaunch","18-08-2026 17:46:26","0",
+"Schedule #1 created by enrollment client","23-05-2026 11:13:04","0",
+"Win10 S Mode event listener created by enrollment client","30-11-1999 00:00:00","267011",
+"Schedule #3 created by enrollment client","19-08-2026 13:56:01","0","19-08-2026 17:46:00"
+"Refresh schedule created by Declared Configuration to refresh any settings changed on the device","19-08-2026 11:00:01","0","19-08-2026 15:00:00"
+"Schedule to run OMADMClient by server","30-11-1999 00:00:00","267011",
+"Schedule to run OMADMClient by client","19-08-2026 13:56:12","0",
+"Schedule #2 created by enrollment client","23-05-2026 13:31:01","0",
+"Watchdog schedule created by Declared Configuration to configure device","17-08-2026 09:42:34","2147549183","22-08-2026 11:00:00"
+"ExploitGuard MDM policy Refresh","18-08-2026 14:30:53","0",
+"Schedule created by enrollment client for renewal of certificate warning","30-11-1999 00:00:00","267011","22-02-2027 21:32:00"
+"DmClient","19-08-2026 10:07:29","0",
+"DmClientOnScenarioDownload","19-08-2026 10:11:35","0",
+"GovernedFeatureUsageProcessing","30-11-1999 00:00:00","267011",
+"File History (maintenance mode)","17-08-2026 10:02:57","0",
+"ReconcileConfigs","30-11-1999 00:00:00","267011",
+"ReconcileFeatures","19-08-2026 10:07:30","0",
+"UsageDataFlushing","18-08-2026 14:36:25","0",
+"UsageDataReceiver","19-08-2026 14:14:06","0",
+"SafeguardsReconciliation","19-08-2026 10:07:30","0",
+"UsageDataReporting","19-08-2026 10:07:29","0",
+"InputSettingsRestoreDataAvailable","30-11-1999 00:00:00","267011",
+"RefreshCache","19-08-2026 14:31:16","0","19-08-2026 18:20:10"
+"LocalUserSyncDataAvailable","18-08-2026 14:31:21","0",
+"Monitoring","19-08-2026 10:07:15","0","20-08-2026 03:09:15"
+"MouseSyncDataAvailable","30-11-1999 00:00:00","267011",
+"RemoteMouseSyncDataAvailable","30-11-1999 00:00:00","267011",
+"PenSyncDataAvailable","23-05-2026 11:06:41","0",
+"RemotePenSyncDataAvailable","30-11-1999 00:00:00","267011",
+"RemoteTouchpadSyncDataAvailable","30-11-1999 00:00:00","267011",
+"syncpensettings","30-11-1999 00:00:00","267011",
+"TouchpadSyncDataAvailable","30-11-1999 00:00:00","267011",
+"RestoreDevice","18-08-2026 15:31:02","0",
+"ScanForUpdates","19-08-2026 10:02:31","0","20-08-2026 07:18:51"
+"ScanForUpdatesAsUser","19-08-2026 10:07:29","0",
+"SmartRetry","18-08-2026 10:49:30","0",
+"La57Cleanup","17-08-2026 10:02:57","0",
+"Installation","18-08-2026 14:46:22","0",
+"Synchronize Language Settings","18-08-2026 14:31:52","0",
+"ReconcileLanguageResources","18-08-2026 16:31:22","0",
+"WinSAT","30-11-1999 00:00:00","267011",
+"TempSignedLicenseExchange","19-08-2026 10:07:29","0",
+"WindowsActionDialog","30-11-1999 00:00:00","267011",
+"DetectHardwareChange","23-05-2026 11:06:03","0",
+"Logon","18-08-2026 14:55:46","0",
+"Cellular","30-11-1999 00:00:00","267011",
+"MapsToastTask","30-11-1999 00:00:00","267011",
+"LPRemove","17-08-2026 10:02:57","0",
+"AutomaticOfflineMemoryDiagnostic","23-05-2026 11:01:36","0",
+"ProcessMemoryDiagnosticEvents","30-11-1999 00:00:00","267011",
+"SystemSoundsService","18-08-2026 14:31:21","267009",
+"NcsiIdentifyUserProxies","18-08-2026 14:31:21","0",
+"WiFiTask","30-11-1999 00:00:00","267011",
+"ShowFeedbackToast","30-11-1999 00:00:00","267011",
+"PCR Prediction Framework Firmware Update Task","30-11-1999 00:00:00","267011",
+"Sqm-Tasks","30-07-2026 09:44:49","0",
+"WhesvcToast","30-11-1999 00:00:00","267011",
+"Secure-Boot-Update","19-08-2026 09:56:31","0",
+"Sysprep Generalize Drivers","30-11-1999 00:00:00","267011",
+"Device Install Group Policy","14-07-2026 09:38:04","0",
+"Pluton-Ksp-Provisioning","30-11-1999 00:00:00","267011",
+"AnalyzeSystem","19-08-2026 10:07:37","0",
+"EduPrintProv","30-11-1999 00:00:00","267011",
+"Device Install Reboot Required","18-08-2026 14:31:21","0",
+"PrinterCleanupTask","28-07-2026 12:00:01","0","27-08-2026 12:00:00"
+"LoginCheck","18-08-2026 16:31:22","0",
+"Registration","18-08-2026 14:39:49","0","19-08-2026 14:39:50"
+"MobilityManager","30-11-1999 00:00:00","267011",
+"RegIdleBackup","17-08-2026 10:02:57","0",
+"RemoteAssistanceTask","30-11-1999 00:00:00","267011",
+"VerifyWinRE","30-11-1999 00:00:00","267011",
+"Initialization","30-11-1999 00:00:00","267011",
+"SetupRecoveryDataTask","06-08-2026 05:13:17","0","20-08-2026 02:28:58"
+"PITRTask","18-08-2026 15:25:46","0",
+"CreateObjectTask","18-08-2026 19:01:09","0",
+"StartComponentCleanup","17-08-2026 10:02:57","0",
+"FamilySafetyRefreshTask","30-11-1999 00:00:00","267011",
+"IndexerAutomaticMaintenance","19-08-2026 10:07:29","0",
+"UpdateUserPictureTaskContained","23-05-2026 13:22:25","0",
+"FamilySafetyMonitor","30-11-1999 00:00:00","267011",
+"SpaceAgentTask","30-11-1999 00:00:00","267011",
+"UpdateUserPictureTask","30-11-1999 00:00:00","267011",
+"SpeechModelDownloadTask","19-08-2026 10:07:15","0","20-08-2026 03:18:39"
+"SpaceManagerTask","30-11-1999 00:00:00","267011",
+"MaintenanceTasks","19-08-2026 10:07:29","0",
+"SvcRestartTask","30-11-1999 00:00:00","267011","26-07-2126 14:35:10"
+"Storage Tiers Management Initialization","30-11-1999 00:00:00","267011",
+"EnableLicenseAcquisition","18-08-2026 14:30:54","0",
+"ThemesSyncedImageDownload","19-08-2026 10:07:29","2147942583",
+"PowerGridForecastTask","19-08-2026 12:41:28","0","20-08-2026 12:40:44"
+"LicenseAcquisition","19-08-2026 10:02:31","0","20-08-2026 09:10:11"
+"ResPriStaticDbSync","13-08-2026 09:26:55","0",
+"SustainabilityTelemetry","13-08-2026 09:24:54","0",
+"Interactive","30-11-1999 00:00:00","267011",
+"Tpm-Maintenance","19-08-2026 10:17:24","0",
+"SR","18-08-2026 09:51:53","0",
+"WsSwapAssessmentTask","24-07-2026 10:30:45","0",
+"Tpm-HASCertRetr","19-08-2026 10:03:34","0",
+"SynchronizeTime","19-08-2026 10:07:29","0",
+"Report policies","19-08-2026 10:07:29","0",
+"ForceSynchronizeTime","18-08-2026 14:31:01","0",
+"SynchronizeTimeZone","17-08-2026 10:02:57","0",
+"Tpm-PreAttestationHealthCheck","19-08-2026 09:56:32","0",
+"MsCtfMonitor","18-08-2026 14:31:21","0",
+"Schedule Scan Static Task","18-08-2026 16:36:02","0",
+"Schedule Scan","19-08-2026 12:49:20","0","19-08-2026 18:00:40"
+"StartOobeAppsScanAfterUpdate","30-11-1999 00:00:00","267011",
+"Start Oobe Expedite Work","18-08-2026 14:45:53","0",
+"Schedule Work","19-08-2026 10:11:43","0","24-08-2026 06:19:28"
+"StartOobeAppsScan_LicenseAccepted","30-11-1999 00:00:00","267011",
+"UIEOrchestrator","19-08-2026 10:02:31","0","20-08-2026 13:05:09"
+"StartOobeAppsScan_OobeAppReady","23-05-2026 11:01:55","0",
+"UPnPHostConfig","30-11-1999 00:00:00","267011",
+"USO_UxBroker","19-08-2026 10:18:28","2147942402","20-08-2026 16:18:39"
+"Usb-Notifications","12-08-2026 09:22:41","0",
+"UsageAndQualityInsights-MaintenanceTask","19-08-2026 10:02:31","0","19-08-2026 18:56:54"
+"UUS Failover Task","30-11-1999 00:00:00","267011",
+"PerformRemediation","17-08-2026 09:42:34","0","23-08-2026 04:21:55"
+"WiFiTask","27-05-2026 09:27:41","0",
+"ResolutionHost","18-08-2026 14:45:56","267009",
+"Windows Defender Cache Maintenance","19-08-2026 13:29:27","0",
+"Windows Defender Cleanup","19-08-2026 13:29:27","0",
+"BfeOnServiceStartTypeChange","30-11-1999 00:00:00","267011",
+"Windows Defender Verification","19-08-2026 13:29:27","0",
+"QueueReporting","19-08-2026 14:18:37","0","19-08-2026 17:40:50"
+"ModelCachingLimit","30-11-1999 00:00:00","267011",
+"UpdateLibrary","30-11-1999 00:00:00","267011",
+"ModelCachingUpdate","18-08-2026 10:30:27","0",
+"Refresh Group Policy Cache","14-07-2026 09:38:03","0",
+"MoProfileManagement","30-11-1999 00:00:00","267011",
+"PolicyConfiguration","19-08-2026 14:09:07","0",
+"CDSSync","18-08-2026 14:32:23","0",
+"Scheduled Start","30-11-1999 00:00:00","267011",
+"WIM-Hash-Management","30-11-1999 00:00:00","267011",
+"InitialConfiguration","18-08-2026 14:35:54","0",
+"Work Folders Logon Synchronization","18-08-2026 14:36:22","0",
+"NotificationTask","30-11-1999 00:00:00","267011",
+"Device-Sync","19-08-2026 10:20:32","0",
+"Work Folders Maintenance Work","19-08-2026 10:07:29","0",
+"XblGameSaveTask","30-11-1999 00:00:00","267011",
+"OobeDiscovery","18-08-2026 14:30:54","0",
+"Calibration Loader","18-08-2026 14:31:21","0",
+"SoftLandingCreativeManagementTask","19-08-2026 13:54:25","0","20-08-2026 13:54:24"
+"CacheTask","18-08-2026 14:31:21","267009",
+"SoftLandingDeferralTask-{8103d214-1b7e-418e-9840-c3e0e9afe627}","19-08-2026 14:24:01","0","19-08-2026 14:39:00"

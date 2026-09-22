@@ -1,0 +1,2605 @@
+﻿"TimeCreated","Id","LevelDisplayName","ProviderName","Message"
+"19-08-2026 09:57:39","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x6908
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 12562"
+"19-08-2026 09:57:29","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3008 milliseconds.
+Thread ID: 0x6908
+Device: ACPI\PNP0A08\0
+Service: pci"
+"19-08-2026 09:57:26","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x6908
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 3881"
+"19-08-2026 09:57:25","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3014 milliseconds.
+Thread ID: 0x6908
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"18-08-2026 09:40:54","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x5CB8
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4932"
+"18-08-2026 09:40:52","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3009 milliseconds.
+Thread ID: 0x5CB8
+Device: ACPI\PNP0A08\0
+Service: pci"
+"14-08-2026 20:08:53","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x34E4
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb
+Total run time in milliseconds: 5003"
+"14-08-2026 20:08:51","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3014 milliseconds.
+Thread ID: 0x34E4
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb"
+"14-08-2026 13:22:30","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x5D18
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3280"
+"14-08-2026 13:22:30","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3011 milliseconds.
+Thread ID: 0x5D18
+Device: ACPI\PNP0A08\0
+Service: pci"
+"13-08-2026 19:10:11","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x2E2C
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb
+Total run time in milliseconds: 5000"
+"13-08-2026 19:10:09","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3000 milliseconds.
+Thread ID: 0x2E2C
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb"
+"13-08-2026 09:13:50","901","Information","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue has been completed.
+Thread ID: 0x52C8
+Device: PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3
+Service: Netwaw18
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x15
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3
+
+Total run time in milliseconds: 9855"
+"13-08-2026 09:13:43","900","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue was detected. The thread has been running for 3009 milliseconds.
+Thread ID: 0x52C8
+Device: PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3
+Service: Netwaw18
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x15
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3"
+"13-08-2026 09:13:41","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x73A0
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 7815"
+"13-08-2026 09:13:36","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3003 milliseconds.
+Thread ID: 0x73A0
+Device: ACPI\PNP0A08\0
+Service: pci"
+"12-08-2026 08:56:01","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x2E80
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3322"
+"12-08-2026 08:56:01","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3010 milliseconds.
+Thread ID: 0x2E80
+Device: ACPI\PNP0A08\0
+Service: pci"
+"12-08-2026 08:55:58","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x2E80
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 6169"
+"12-08-2026 08:55:55","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3013 milliseconds.
+Thread ID: 0x2E80
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"11-08-2026 14:06:12","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x109C
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3364"
+"11-08-2026 14:06:12","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3004 milliseconds.
+Thread ID: 0x109C
+Device: ACPI\PNP0A08\0
+Service: pci"
+"11-08-2026 12:50:44","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x4838
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3301"
+"11-08-2026 12:50:43","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3010 milliseconds.
+Thread ID: 0x4838
+Device: ACPI\PNP0A08\0
+Service: pci"
+"11-08-2026 09:11:39","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x6304
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 29229"
+"11-08-2026 09:11:12","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3000 milliseconds.
+Thread ID: 0x6304
+Device: ACPI\PNP0A08\0
+Service: pci"
+"10-08-2026 12:01:45","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x7308
+Device: USB\ROOT_HUB30\4&2169287b&0&0
+Service: USBHUB3
+Total run time in milliseconds: 12661"
+"10-08-2026 12:01:35","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3009 milliseconds.
+Thread ID: 0x7308
+Device: USB\ROOT_HUB30\4&2169287b&0&0
+Service: USBHUB3"
+"10-08-2026 09:40:23","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x14CC
+Device: PCI\VEN_8086&DEV_7EC6&SUBSYS_0CE81028&REV_10\3&11583659&0&38
+Service: pci
+Total run time in milliseconds: 3099"
+"10-08-2026 09:40:23","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3004 milliseconds.
+Thread ID: 0x14CC
+Device: PCI\VEN_8086&DEV_7EC6&SUBSYS_0CE81028&REV_10\3&11583659&0&38
+Service: pci"
+"10-08-2026 09:40:20","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x14CC
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 35403"
+"10-08-2026 09:39:47","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3005 milliseconds.
+Thread ID: 0x14CC
+Device: ACPI\PNP0A08\0
+Service: pci"
+"10-08-2026 09:39:44","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x14CC
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 4997"
+"10-08-2026 09:39:42","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3010 milliseconds.
+Thread ID: 0x14CC
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"07-08-2026 18:21:56","901","Information","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue has been completed.
+Thread ID: 0xA1A0
+Device: 
+Service: 
+Event Category: 2
+Event GUID: {cb3a4005-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x0
+Argument Status: 0x0
+Category Specific Data:
+{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+\??\DISPLAY#DELA1B9#4&20b8d095&0&UID8263#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+
+Total run time in milliseconds: 4376"
+"07-08-2026 18:21:54","900","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue was detected. The thread has been running for 3000 milliseconds.
+Thread ID: 0xA1A0
+Device: 
+Service: 
+Event Category: 2
+Event GUID: {cb3a4005-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x0
+Argument Status: 0x0
+Category Specific Data:
+{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+\??\DISPLAY#DELA1B9#4&20b8d095&0&UID8263#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}"
+"07-08-2026 12:27:20","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x8854
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3424"
+"07-08-2026 12:27:19","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3010 milliseconds.
+Thread ID: 0x8854
+Device: ACPI\PNP0A08\0
+Service: pci"
+"07-08-2026 09:20:02","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x6EF4
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3293"
+"07-08-2026 09:20:02","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3005 milliseconds.
+Thread ID: 0x6EF4
+Device: ACPI\PNP0A08\0
+Service: pci"
+"07-08-2026 09:16:46","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x9954
+Device: USB\ROOT_HUB30\4&2169287b&0&0
+Service: USBHUB3
+Total run time in milliseconds: 5863"
+"07-08-2026 09:16:44","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3013 milliseconds.
+Thread ID: 0x9954
+Device: USB\ROOT_HUB30\4&2169287b&0&0
+Service: USBHUB3"
+"06-08-2026 19:03:31","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x7B70
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb
+Total run time in milliseconds: 5003"
+"06-08-2026 19:03:29","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3014 milliseconds.
+Thread ID: 0x7B70
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb"
+"06-08-2026 16:34:04","905","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device removal has been completed.
+Thread ID: 0x198C
+Device: INTELAUDIO\SGPC_FUNC_01&VEN_8086&DEV_281D&SUBSYS_80860101&REV_1000\5&32640736&1&0201DIF_000B&UIF_0000
+Service: AcxHdAudio
+Total run time in milliseconds: 5062"
+"06-08-2026 16:34:02","904","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device removal was detected. The thread has been running for 3012 milliseconds.
+Thread ID: 0x198C
+Device: INTELAUDIO\SGPC_FUNC_01&VEN_8086&DEV_281D&SUBSYS_80860101&REV_1000\5&32640736&1&0201DIF_000B&UIF_0000
+Service: AcxHdAudio"
+"06-08-2026 14:44:43","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x8AC0
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3345"
+"06-08-2026 14:44:42","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3013 milliseconds.
+Thread ID: 0x8AC0
+Device: ACPI\PNP0A08\0
+Service: pci"
+"06-08-2026 08:58:30","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x46E8
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3232"
+"06-08-2026 08:58:30","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3005 milliseconds.
+Thread ID: 0x46E8
+Device: ACPI\PNP0A08\0
+Service: pci"
+"06-08-2026 08:55:36","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x7038
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3330"
+"06-08-2026 08:55:36","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3004 milliseconds.
+Thread ID: 0x7038
+Device: ACPI\PNP0A08\0
+Service: pci"
+"06-08-2026 08:54:54","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x4CC8
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 6273"
+"06-08-2026 08:54:50","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3006 milliseconds.
+Thread ID: 0x4CC8
+Device: ACPI\PNP0A08\0
+Service: pci"
+"05-08-2026 19:42:26","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x7BA8
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3591"
+"05-08-2026 19:42:25","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3000 milliseconds.
+Thread ID: 0x7BA8
+Device: ACPI\PNP0A08\0
+Service: pci"
+"05-08-2026 09:38:54","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x776C
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 10126"
+"05-08-2026 09:38:47","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3010 milliseconds.
+Thread ID: 0x776C
+Device: ACPI\PNP0A08\0
+Service: pci"
+"05-08-2026 09:38:44","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x776C
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 12324"
+"05-08-2026 09:38:35","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3006 milliseconds.
+Thread ID: 0x776C
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"04-08-2026 18:36:21","905","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device removal has been completed.
+Thread ID: 0x8BAC
+Device: USB\VID_047F&PID_C058\EBFF498BA439F1488A177C405ACDFDF0
+Service: usbccgp
+Total run time in milliseconds: 3002"
+"04-08-2026 18:36:21","904","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device removal was detected. The thread has been running for 3000 milliseconds.
+Thread ID: 0x8BAC
+Device: USB\VID_047F&PID_C058\EBFF498BA439F1488A177C405ACDFDF0
+Service: usbccgp"
+"03-08-2026 17:58:52","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x4EB4
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3684"
+"03-08-2026 17:58:51","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3009 milliseconds.
+Thread ID: 0x4EB4
+Device: ACPI\PNP0A08\0
+Service: pci"
+"03-08-2026 17:28:54","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x216C
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3335"
+"03-08-2026 17:28:53","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3002 milliseconds.
+Thread ID: 0x216C
+Device: ACPI\PNP0A08\0
+Service: pci"
+"03-08-2026 16:58:53","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x14E8
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3457"
+"03-08-2026 16:58:52","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3014 milliseconds.
+Thread ID: 0x14E8
+Device: ACPI\PNP0A08\0
+Service: pci"
+"03-08-2026 16:28:51","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x5470
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3376"
+"03-08-2026 16:28:51","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3012 milliseconds.
+Thread ID: 0x5470
+Device: ACPI\PNP0A08\0
+Service: pci"
+"03-08-2026 15:58:53","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x63A4
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4672"
+"03-08-2026 15:58:51","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3002 milliseconds.
+Thread ID: 0x63A4
+Device: ACPI\PNP0A08\0
+Service: pci"
+"03-08-2026 14:28:54","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x2FBC
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4587"
+"03-08-2026 14:28:52","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3007 milliseconds.
+Thread ID: 0x2FBC
+Device: ACPI\PNP0A08\0
+Service: pci"
+"03-08-2026 12:01:07","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x3BD0
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 5505"
+"03-08-2026 12:01:05","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3010 milliseconds.
+Thread ID: 0x3BD0
+Device: ACPI\PNP0A08\0
+Service: pci"
+"03-08-2026 09:43:16","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x1178
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3181"
+"03-08-2026 09:43:16","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3007 milliseconds.
+Thread ID: 0x1178
+Device: ACPI\PNP0A08\0
+Service: pci"
+"03-08-2026 09:28:50","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x1D4
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4751"
+"03-08-2026 09:28:48","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3006 milliseconds.
+Thread ID: 0x1D4
+Device: ACPI\PNP0A08\0
+Service: pci"
+"31-07-2026 15:32:36","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x90B0
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3565"
+"31-07-2026 15:32:35","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3006 milliseconds.
+Thread ID: 0x90B0
+Device: ACPI\PNP0A08\0
+Service: pci"
+"31-07-2026 10:25:41","901","Information","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue has been completed.
+Thread ID: 0x3E64
+Device: USB\VID_0424&PID_7206\5&266331bc&0&5
+Service: USBHUB3
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x18
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+USB\VID_0424&PID_7206\5&266331bc&0&5
+
+Total run time in milliseconds: 3279"
+"31-07-2026 10:25:41","900","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue was detected. The thread has been running for 3006 milliseconds.
+Thread ID: 0x3E64
+Device: USB\VID_0424&PID_7206\5&266331bc&0&5
+Service: USBHUB3
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x18
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+USB\VID_0424&PID_7206\5&266331bc&0&5"
+"31-07-2026 09:30:12","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x11E0
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 11024"
+"31-07-2026 09:30:04","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3012 milliseconds.
+Thread ID: 0x11E0
+Device: ACPI\PNP0A08\0
+Service: pci"
+"31-07-2026 09:30:01","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x11E0
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 6909"
+"31-07-2026 09:29:57","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3000 milliseconds.
+Thread ID: 0x11E0
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"30-07-2026 18:40:32","905","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device removal has been completed.
+Thread ID: 0x6ACC
+Device: INTELAUDIO\SGPC_FUNC_01&VEN_8086&DEV_281D&SUBSYS_80860101&REV_1000\5&32640736&1&0201DIF_000B&UIF_0000
+Service: AcxHdAudio
+Total run time in milliseconds: 5509"
+"30-07-2026 18:40:29","904","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device removal was detected. The thread has been running for 3007 milliseconds.
+Thread ID: 0x6ACC
+Device: INTELAUDIO\SGPC_FUNC_01&VEN_8086&DEV_281D&SUBSYS_80860101&REV_1000\5&32640736&1&0201DIF_000B&UIF_0000
+Service: AcxHdAudio"
+"30-07-2026 18:21:25","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x57D8
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3036"
+"30-07-2026 18:21:25","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3004 milliseconds.
+Thread ID: 0x57D8
+Device: ACPI\PNP0A08\0
+Service: pci"
+"30-07-2026 12:00:27","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x474C
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 5065"
+"30-07-2026 12:00:25","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3003 milliseconds.
+Thread ID: 0x474C
+Device: ACPI\PNP0A08\0
+Service: pci"
+"30-07-2026 09:37:06","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x8F0
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3282"
+"30-07-2026 09:37:06","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3013 milliseconds.
+Thread ID: 0x8F0
+Device: ACPI\PNP0A08\0
+Service: pci"
+"30-07-2026 09:34:09","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x2844
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 7098"
+"30-07-2026 09:34:05","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3001 milliseconds.
+Thread ID: 0x2844
+Device: ACPI\PNP0A08\0
+Service: pci"
+"29-07-2026 19:21:31","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x43AC
+Device: PCI\VEN_8086&DEV_7D41&SUBSYS_0CE81028&REV_00\3&11583659&0&10
+Service: igfxn
+Total run time in milliseconds: 4919"
+"29-07-2026 19:21:29","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3008 milliseconds.
+Thread ID: 0x43AC
+Device: PCI\VEN_8086&DEV_7D41&SUBSYS_0CE81028&REV_00\3&11583659&0&10
+Service: igfxn"
+"29-07-2026 12:00:24","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x6210
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3220"
+"29-07-2026 12:00:24","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3014 milliseconds.
+Thread ID: 0x6210
+Device: ACPI\PNP0A08\0
+Service: pci"
+"29-07-2026 09:25:37","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x3B18
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 5659"
+"29-07-2026 09:25:35","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3000 milliseconds.
+Thread ID: 0x3B18
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"29-07-2026 09:24:55","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x6210
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 7122"
+"29-07-2026 09:24:50","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3004 milliseconds.
+Thread ID: 0x6210
+Device: ACPI\PNP0A08\0
+Service: pci"
+"28-07-2026 12:01:17","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x22B4
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3101"
+"28-07-2026 12:01:16","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3013 milliseconds.
+Thread ID: 0x22B4
+Device: ACPI\PNP0A08\0
+Service: pci"
+"28-07-2026 09:25:27","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x78A8
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4764"
+"28-07-2026 09:25:25","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3005 milliseconds.
+Thread ID: 0x78A8
+Device: ACPI\PNP0A08\0
+Service: pci"
+"28-07-2026 09:23:39","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0xFFC
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 8433"
+"28-07-2026 09:23:34","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3001 milliseconds.
+Thread ID: 0xFFC
+Device: ACPI\PNP0A08\0
+Service: pci"
+"28-07-2026 09:23:31","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0xFFC
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 4986"
+"28-07-2026 09:23:29","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3014 milliseconds.
+Thread ID: 0xFFC
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"28-07-2026 09:22:41","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x7804
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 6192"
+"28-07-2026 09:22:38","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3009 milliseconds.
+Thread ID: 0x7804
+Device: ACPI\PNP0A08\0
+Service: pci"
+"27-07-2026 18:56:34","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x1D4
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4665"
+"27-07-2026 18:56:33","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3000 milliseconds.
+Thread ID: 0x1D4
+Device: ACPI\PNP0A08\0
+Service: pci"
+"27-07-2026 16:11:36","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x3BA0
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4805"
+"27-07-2026 16:11:34","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3004 milliseconds.
+Thread ID: 0x3BA0
+Device: ACPI\PNP0A08\0
+Service: pci"
+"27-07-2026 12:37:36","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x3C10
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 6462"
+"27-07-2026 12:37:33","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3013 milliseconds.
+Thread ID: 0x3C10
+Device: ACPI\PNP0A08\0
+Service: pci"
+"27-07-2026 12:07:33","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x4070
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3533"
+"27-07-2026 12:07:32","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3004 milliseconds.
+Thread ID: 0x4070
+Device: ACPI\PNP0A08\0
+Service: pci"
+"27-07-2026 12:00:47","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x400C
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3482"
+"27-07-2026 12:00:46","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3007 milliseconds.
+Thread ID: 0x400C
+Device: ACPI\PNP0A08\0
+Service: pci"
+"27-07-2026 09:30:47","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x9EC8
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 9524"
+"27-07-2026 09:30:40","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3011 milliseconds.
+Thread ID: 0x9EC8
+Device: ACPI\PNP0A08\0
+Service: pci"
+"27-07-2026 09:15:26","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x957C
+Device: PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3
+Service: Netwaw18
+Total run time in milliseconds: 3604"
+"27-07-2026 09:15:26","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3010 milliseconds.
+Thread ID: 0x957C
+Device: PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3
+Service: Netwaw18"
+"27-07-2026 09:15:22","901","Information","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue has been completed.
+Thread ID: 0x9DFC
+Device: PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3
+Service: Netwaw18
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x15
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3
+
+Total run time in milliseconds: 3861"
+"27-07-2026 09:15:21","900","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue was detected. The thread has been running for 3261 milliseconds.
+Thread ID: 0x9DFC
+Device: PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3
+Service: Netwaw18
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x15
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3"
+"27-07-2026 09:15:13","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x9ED4
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3469"
+"27-07-2026 09:15:13","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3014 milliseconds.
+Thread ID: 0x9ED4
+Device: ACPI\PNP0A08\0
+Service: pci"
+"24-07-2026 23:56:09","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x44C0
+Device: PCI\VEN_8086&DEV_7EC6&SUBSYS_0CE81028&REV_10\3&11583659&0&38
+Service: pci
+Total run time in milliseconds: 3168"
+"24-07-2026 23:56:09","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3001 milliseconds.
+Thread ID: 0x44C0
+Device: PCI\VEN_8086&DEV_7EC6&SUBSYS_0CE81028&REV_10\3&11583659&0&38
+Service: pci"
+"24-07-2026 09:29:53","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x8AF4
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 8435"
+"24-07-2026 09:29:47","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3013 milliseconds.
+Thread ID: 0x8AF4
+Device: ACPI\PNP0A08\0
+Service: pci"
+"23-07-2026 12:01:27","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x8AA0
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 7255"
+"23-07-2026 12:01:23","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3009 milliseconds.
+Thread ID: 0x8AA0
+Device: ACPI\PNP0A08\0
+Service: pci"
+"23-07-2026 09:37:28","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x68FC
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 5482"
+"23-07-2026 09:37:25","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3011 milliseconds.
+Thread ID: 0x68FC
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"23-07-2026 09:36:27","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x2ECC
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3250"
+"23-07-2026 09:36:27","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3011 milliseconds.
+Thread ID: 0x2ECC
+Device: ACPI\PNP0A08\0
+Service: pci"
+"22-07-2026 15:24:14","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x8984
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3298"
+"22-07-2026 15:24:14","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3009 milliseconds.
+Thread ID: 0x8984
+Device: ACPI\PNP0A08\0
+Service: pci"
+"22-07-2026 09:49:33","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x6DF0
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3262"
+"22-07-2026 09:49:32","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3007 milliseconds.
+Thread ID: 0x6DF0
+Device: ACPI\PNP0A08\0
+Service: pci"
+"22-07-2026 09:42:55","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x7F60
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 4209"
+"22-07-2026 09:42:54","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3007 milliseconds.
+Thread ID: 0x7F60
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"21-07-2026 12:01:14","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x2098
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4778"
+"21-07-2026 12:01:12","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3011 milliseconds.
+Thread ID: 0x2098
+Device: ACPI\PNP0A08\0
+Service: pci"
+"21-07-2026 07:24:05","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x1F2C
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb
+Total run time in milliseconds: 5012"
+"21-07-2026 07:24:03","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3005 milliseconds.
+Thread ID: 0x1F2C
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb"
+"21-07-2026 07:17:48","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x1F2C
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3857"
+"21-07-2026 07:17:47","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3010 milliseconds.
+Thread ID: 0x1F2C
+Device: ACPI\PNP0A08\0
+Service: pci"
+"21-07-2026 07:17:44","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x1F2C
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 6159"
+"21-07-2026 07:17:41","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3013 milliseconds.
+Thread ID: 0x1F2C
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"21-07-2026 04:16:12","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x85F0
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3978"
+"21-07-2026 04:16:11","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3003 milliseconds.
+Thread ID: 0x85F0
+Device: ACPI\PNP0A08\0
+Service: pci"
+"21-07-2026 04:16:08","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x85F0
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 3310"
+"21-07-2026 04:16:08","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3007 milliseconds.
+Thread ID: 0x85F0
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"20-07-2026 12:01:06","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x9720
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 5350"
+"20-07-2026 12:01:04","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3015 milliseconds.
+Thread ID: 0x9720
+Device: ACPI\PNP0A08\0
+Service: pci"
+"20-07-2026 10:08:12","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x3980
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3465"
+"20-07-2026 10:08:11","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3001 milliseconds.
+Thread ID: 0x3980
+Device: ACPI\PNP0A08\0
+Service: pci"
+"20-07-2026 09:58:57","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x3980
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 6490"
+"20-07-2026 09:58:53","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3013 milliseconds.
+Thread ID: 0x3980
+Device: ACPI\PNP0A08\0
+Service: pci"
+"15-07-2026 09:16:16","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x5DAC
+Device: PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3
+Service: Netwaw18
+Total run time in milliseconds: 4836"
+"15-07-2026 09:16:14","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3000 milliseconds.
+Thread ID: 0x5DAC
+Device: PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3
+Service: Netwaw18"
+"15-07-2026 09:16:03","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x5DAC
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 7488"
+"15-07-2026 09:15:59","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3009 milliseconds.
+Thread ID: 0x5DAC
+Device: ACPI\PNP0A08\0
+Service: pci"
+"15-07-2026 09:15:56","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x5DAC
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 4588"
+"15-07-2026 09:15:54","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3014 milliseconds.
+Thread ID: 0x5DAC
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"15-07-2026 09:15:51","901","Information","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue has been completed.
+Thread ID: 0x70DC
+Device: PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3
+Service: Netwaw18
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x15
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3
+
+Total run time in milliseconds: 10590902"
+"15-07-2026 09:15:51","900","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue was detected. The thread has been running for 10590128 milliseconds.
+Thread ID: 0x70DC
+Device: PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3
+Service: Netwaw18
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x15
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3"
+"14-07-2026 09:36:57","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x3980
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 6504"
+"14-07-2026 09:36:54","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3008 milliseconds.
+Thread ID: 0x3980
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"13-07-2026 09:41:21","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x6280
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3346"
+"13-07-2026 09:41:21","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3012 milliseconds.
+Thread ID: 0x6280
+Device: ACPI\PNP0A08\0
+Service: pci"
+"13-07-2026 09:39:34","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x50BC
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 11446"
+"13-07-2026 09:39:25","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3014 milliseconds.
+Thread ID: 0x50BC
+Device: ACPI\PNP0A08\0
+Service: pci"
+"12-07-2026 22:31:48","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0xFC
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3157"
+"12-07-2026 22:31:47","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3015 milliseconds.
+Thread ID: 0xFC
+Device: ACPI\PNP0A08\0
+Service: pci"
+"12-07-2026 18:26:15","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x5388
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4168"
+"12-07-2026 18:26:13","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3008 milliseconds.
+Thread ID: 0x5388
+Device: ACPI\PNP0A08\0
+Service: pci"
+"12-07-2026 18:21:10","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x2A0C
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4947"
+"12-07-2026 18:21:08","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3014 milliseconds.
+Thread ID: 0x2A0C
+Device: ACPI\PNP0A08\0
+Service: pci"
+"11-07-2026 18:36:28","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x47BC
+Device: USB\ROOT_HUB30\4&2169287b&0&0
+Service: USBHUB3
+Total run time in milliseconds: 3192"
+"11-07-2026 18:36:28","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3011 milliseconds.
+Thread ID: 0x47BC
+Device: USB\ROOT_HUB30\4&2169287b&0&0
+Service: USBHUB3"
+"11-07-2026 12:01:24","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x7A4
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3260"
+"11-07-2026 12:01:24","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3014 milliseconds.
+Thread ID: 0x7A4
+Device: ACPI\PNP0A08\0
+Service: pci"
+"11-07-2026 09:12:23","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x1FB4
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3342"
+"11-07-2026 09:12:23","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3004 milliseconds.
+Thread ID: 0x1FB4
+Device: ACPI\PNP0A08\0
+Service: pci"
+"11-07-2026 09:08:29","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x9044
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3018"
+"11-07-2026 09:08:29","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3005 milliseconds.
+Thread ID: 0x9044
+Device: ACPI\PNP0A08\0
+Service: pci"
+"11-07-2026 09:08:06","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x4C18
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 3785"
+"11-07-2026 09:08:06","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3001 milliseconds.
+Thread ID: 0x4C18
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"10-07-2026 12:01:40","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0xA3C0
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3392"
+"10-07-2026 12:01:40","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3010 milliseconds.
+Thread ID: 0xA3C0
+Device: ACPI\PNP0A08\0
+Service: pci"
+"10-07-2026 10:00:10","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x5614
+Device: USB\ROOT_HUB30\4&2169287b&0&0
+Service: USBHUB3
+Total run time in milliseconds: 5307"
+"10-07-2026 10:00:08","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3013 milliseconds.
+Thread ID: 0x5614
+Device: USB\ROOT_HUB30\4&2169287b&0&0
+Service: USBHUB3"
+"10-07-2026 09:59:27","901","Information","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue has been completed.
+Thread ID: 0x6948
+Device: PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3
+Service: Netwaw18
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x15
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3
+
+Total run time in milliseconds: 7470"
+"10-07-2026 09:59:23","900","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue was detected. The thread has been running for 3011 milliseconds.
+Thread ID: 0x6948
+Device: PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3
+Service: Netwaw18
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x15
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3"
+"09-07-2026 09:11:03","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x95A8
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4267"
+"09-07-2026 09:11:01","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3002 milliseconds.
+Thread ID: 0x95A8
+Device: ACPI\PNP0A08\0
+Service: pci"
+"09-07-2026 09:09:52","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x5650
+Device: INTELAUDIO\DSP_CTLR_DEV_7728&VEN_8086&DEV_0222&SUBSYS_0CE81028&REV_0000\4&417d3cc&0&0800DIF_000B&UIF_0000
+Service: IntcOED
+Total run time in milliseconds: 3266"
+"09-07-2026 09:09:51","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3005 milliseconds.
+Thread ID: 0x5650
+Device: INTELAUDIO\DSP_CTLR_DEV_7728&VEN_8086&DEV_0222&SUBSYS_0CE81028&REV_0000\4&417d3cc&0&0800DIF_000B&UIF_0000
+Service: IntcOED"
+"09-07-2026 09:09:04","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x75A4
+Device: USB\ROOT_HUB30\4&2169287b&0&0
+Service: USBHUB3
+Total run time in milliseconds: 3823"
+"09-07-2026 09:09:03","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3003 milliseconds.
+Thread ID: 0x75A4
+Device: USB\ROOT_HUB30\4&2169287b&0&0
+Service: USBHUB3"
+"08-07-2026 16:33:53","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x4738
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3191"
+"08-07-2026 16:33:53","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3005 milliseconds.
+Thread ID: 0x4738
+Device: ACPI\PNP0A08\0
+Service: pci"
+"08-07-2026 08:34:21","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x8984
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb
+Total run time in milliseconds: 5009"
+"08-07-2026 08:34:19","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3002 milliseconds.
+Thread ID: 0x8984
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb"
+"07-07-2026 19:48:34","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x304C
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb
+Total run time in milliseconds: 5000"
+"07-07-2026 19:48:32","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3009 milliseconds.
+Thread ID: 0x304C
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb"
+"07-07-2026 19:40:47","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x5758
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 11091"
+"07-07-2026 19:40:39","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3010 milliseconds.
+Thread ID: 0x5758
+Device: ACPI\PNP0A08\0
+Service: pci"
+"07-07-2026 19:40:36","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x5758
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 3658"
+"07-07-2026 19:40:36","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3014 milliseconds.
+Thread ID: 0x5758
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"07-07-2026 09:31:10","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x414
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 8555"
+"07-07-2026 09:31:04","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3005 milliseconds.
+Thread ID: 0x414
+Device: ACPI\PNP0A08\0
+Service: pci"
+"07-07-2026 09:07:34","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x861C
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3064"
+"07-07-2026 09:07:34","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3010 milliseconds.
+Thread ID: 0x861C
+Device: ACPI\PNP0A08\0
+Service: pci"
+"06-07-2026 09:14:26","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x1D74
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 6578"
+"06-07-2026 09:14:22","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3007 milliseconds.
+Thread ID: 0x1D74
+Device: ACPI\PNP0A08\0
+Service: pci"
+"06-07-2026 09:11:21","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x63AC
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 9661"
+"06-07-2026 09:11:15","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3014 milliseconds.
+Thread ID: 0x63AC
+Device: ACPI\PNP0A08\0
+Service: pci"
+"06-07-2026 09:11:12","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x63AC
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 4539"
+"06-07-2026 09:11:10","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3005 milliseconds.
+Thread ID: 0x63AC
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"06-07-2026 09:11:07","901","Information","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue has been completed.
+Thread ID: 0x6C8
+Device: PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3
+Service: Netwaw18
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x15
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3
+
+Total run time in milliseconds: 3455"
+"06-07-2026 09:11:07","900","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue was detected. The thread has been running for 3041 milliseconds.
+Thread ID: 0x6C8
+Device: PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3
+Service: Netwaw18
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x15
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3"
+"04-07-2026 14:16:30","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x1CE4
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4336"
+"04-07-2026 14:16:29","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3007 milliseconds.
+Thread ID: 0x1CE4
+Device: ACPI\PNP0A08\0
+Service: pci"
+"04-07-2026 13:58:12","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x4060
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 5117"
+"04-07-2026 13:58:10","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3008 milliseconds.
+Thread ID: 0x4060
+Device: ACPI\PNP0A08\0
+Service: pci"
+"04-07-2026 13:54:24","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x648C
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 11656"
+"04-07-2026 13:54:15","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3006 milliseconds.
+Thread ID: 0x648C
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"03-07-2026 16:19:21","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x7D34
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb
+Total run time in milliseconds: 5000"
+"03-07-2026 16:19:19","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3000 milliseconds.
+Thread ID: 0x7D34
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb"
+"03-07-2026 11:23:12","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x5A4
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 8337"
+"03-07-2026 11:23:06","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3013 milliseconds.
+Thread ID: 0x5A4
+Device: ACPI\PNP0A08\0
+Service: pci"
+"02-07-2026 09:12:03","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x72A8
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 7432"
+"02-07-2026 09:11:59","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3001 milliseconds.
+Thread ID: 0x72A8
+Device: ACPI\PNP0A08\0
+Service: pci"
+"01-07-2026 17:20:06","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x660
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb
+Total run time in milliseconds: 5000"
+"01-07-2026 17:20:04","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3014 milliseconds.
+Thread ID: 0x660
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb"
+"01-07-2026 10:26:28","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x1AC
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 5139"
+"01-07-2026 10:26:26","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3012 milliseconds.
+Thread ID: 0x1AC
+Device: ACPI\PNP0A08\0
+Service: pci"
+"01-07-2026 09:38:09","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x99C4
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3205"
+"01-07-2026 09:38:08","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3012 milliseconds.
+Thread ID: 0x99C4
+Device: ACPI\PNP0A08\0
+Service: pci"
+"30-06-2026 19:16:15","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x5730
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb
+Total run time in milliseconds: 5000"
+"30-06-2026 19:16:13","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3015 milliseconds.
+Thread ID: 0x5730
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb"
+"30-06-2026 16:24:11","901","Information","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue has been completed.
+Thread ID: 0x60DC
+Device: USB\VID_0424&PID_7206\5&266331bc&0&4
+Service: USBHUB3
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x18
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+USB\VID_0424&PID_7206\5&266331bc&0&4
+
+Total run time in milliseconds: 3526"
+"30-06-2026 16:24:11","900","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue was detected. The thread has been running for 3001 milliseconds.
+Thread ID: 0x60DC
+Device: USB\VID_0424&PID_7206\5&266331bc&0&4
+Service: USBHUB3
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x18
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+USB\VID_0424&PID_7206\5&266331bc&0&4"
+"30-06-2026 09:16:38","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x8AE4
+Device: INTELAUDIO\DSP_CTLR_DEV_7728&VEN_8086&DEV_0222&SUBSYS_0CE81028&REV_0000\4&417d3cc&0&0800DIF_000B&UIF_0000
+Service: IntcOED
+Total run time in milliseconds: 3131"
+"30-06-2026 09:16:38","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3007 milliseconds.
+Thread ID: 0x8AE4
+Device: INTELAUDIO\DSP_CTLR_DEV_7728&VEN_8086&DEV_0222&SUBSYS_0CE81028&REV_0000\4&417d3cc&0&0800DIF_000B&UIF_0000
+Service: IntcOED"
+"30-06-2026 09:15:49","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x4B0C
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 3023"
+"30-06-2026 09:15:49","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3000 milliseconds.
+Thread ID: 0x4B0C
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"29-06-2026 20:01:57","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x80E8
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb
+Total run time in milliseconds: 5007"
+"29-06-2026 20:01:55","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3002 milliseconds.
+Thread ID: 0x80E8
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb"
+"29-06-2026 12:00:30","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x5508
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3234"
+"29-06-2026 12:00:30","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3009 milliseconds.
+Thread ID: 0x5508
+Device: ACPI\PNP0A08\0
+Service: pci"
+"29-06-2026 10:28:28","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x3F44
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 16692"
+"29-06-2026 10:28:14","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3000 milliseconds.
+Thread ID: 0x3F44
+Device: ACPI\PNP0A08\0
+Service: pci"
+"29-06-2026 10:28:11","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x3F44
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 6417"
+"29-06-2026 10:28:07","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3003 milliseconds.
+Thread ID: 0x3F44
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"29-06-2026 09:06:41","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x4E28
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 19813"
+"29-06-2026 09:06:24","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3012 milliseconds.
+Thread ID: 0x4E28
+Device: ACPI\PNP0A08\0
+Service: pci"
+"29-06-2026 09:06:21","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x4E28
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 13279"
+"29-06-2026 09:06:11","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3009 milliseconds.
+Thread ID: 0x4E28
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"26-06-2026 17:34:24","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x2C98
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3019"
+"26-06-2026 17:34:24","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3015 milliseconds.
+Thread ID: 0x2C98
+Device: ACPI\PNP0A08\0
+Service: pci"
+"26-06-2026 09:42:46","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0xA98
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4385"
+"26-06-2026 09:42:45","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3009 milliseconds.
+Thread ID: 0xA98
+Device: ACPI\PNP0A08\0
+Service: pci"
+"25-06-2026 09:39:44","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x26D0
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4799"
+"25-06-2026 09:39:42","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3002 milliseconds.
+Thread ID: 0x26D0
+Device: ACPI\PNP0A08\0
+Service: pci"
+"25-06-2026 09:34:45","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x14A8
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 8429"
+"25-06-2026 09:34:39","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3004 milliseconds.
+Thread ID: 0x14A8
+Device: ACPI\PNP0A08\0
+Service: pci"
+"24-06-2026 15:16:52","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x7B7C
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4192"
+"24-06-2026 15:16:51","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3004 milliseconds.
+Thread ID: 0x7B7C
+Device: ACPI\PNP0A08\0
+Service: pci"
+"24-06-2026 12:00:41","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x9ACC
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3781"
+"24-06-2026 12:00:41","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3008 milliseconds.
+Thread ID: 0x9ACC
+Device: ACPI\PNP0A08\0
+Service: pci"
+"24-06-2026 10:45:25","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x4274
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 5316"
+"24-06-2026 10:45:23","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3015 milliseconds.
+Thread ID: 0x4274
+Device: ACPI\PNP0A08\0
+Service: pci"
+"24-06-2026 10:42:33","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x4F48
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4723"
+"24-06-2026 10:42:32","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3000 milliseconds.
+Thread ID: 0x4F48
+Device: ACPI\PNP0A08\0
+Service: pci"
+"24-06-2026 10:42:29","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x4F48
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 3101"
+"24-06-2026 10:42:28","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3015 milliseconds.
+Thread ID: 0x4F48
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"24-06-2026 10:41:46","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x78C4
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4565"
+"24-06-2026 10:41:45","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3006 milliseconds.
+Thread ID: 0x78C4
+Device: ACPI\PNP0A08\0
+Service: pci"
+"23-06-2026 08:59:37","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x1E64
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 14208"
+"23-06-2026 08:59:26","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3012 milliseconds.
+Thread ID: 0x1E64
+Device: ACPI\PNP0A08\0
+Service: pci"
+"22-06-2026 17:53:45","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x9C0
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3940"
+"22-06-2026 17:53:44","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3011 milliseconds.
+Thread ID: 0x9C0
+Device: ACPI\PNP0A08\0
+Service: pci"
+"22-06-2026 14:10:04","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x2CC
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 3397"
+"22-06-2026 14:10:04","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3008 milliseconds.
+Thread ID: 0x2CC
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"22-06-2026 13:44:11","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x6B44
+Device: PCI\VEN_8086&DEV_7EC6&SUBSYS_0CE81028&REV_10\3&11583659&0&38
+Service: pci
+Total run time in milliseconds: 3599"
+"22-06-2026 13:44:10","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3015 milliseconds.
+Thread ID: 0x6B44
+Device: PCI\VEN_8086&DEV_7EC6&SUBSYS_0CE81028&REV_10\3&11583659&0&38
+Service: pci"
+"22-06-2026 13:44:07","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x6B44
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4186"
+"22-06-2026 13:44:05","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3010 milliseconds.
+Thread ID: 0x6B44
+Device: ACPI\PNP0A08\0
+Service: pci"
+"22-06-2026 12:32:41","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x8B44
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3371"
+"22-06-2026 12:32:41","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3003 milliseconds.
+Thread ID: 0x8B44
+Device: ACPI\PNP0A08\0
+Service: pci"
+"22-06-2026 08:55:39","901","Information","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue has been completed.
+Thread ID: 0x5BA0
+Device: USB\VID_1D5C&PID_5510\5&2dc84fba&0&1
+Service: USBHUB3
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x18
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+USB\VID_1D5C&PID_5510\5&2dc84fba&0&1
+
+Total run time in milliseconds: 3016"
+"22-06-2026 08:55:39","900","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue was detected. The thread has been running for 3010 milliseconds.
+Thread ID: 0x5BA0
+Device: USB\VID_1D5C&PID_5510\5&2dc84fba&0&1
+Service: USBHUB3
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x18
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+USB\VID_1D5C&PID_5510\5&2dc84fba&0&1"
+"22-06-2026 08:50:41","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x5404
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3399"
+"22-06-2026 08:50:40","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3005 milliseconds.
+Thread ID: 0x5404
+Device: ACPI\PNP0A08\0
+Service: pci"
+"19-06-2026 20:16:50","901","Information","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue has been completed.
+Thread ID: 0x50E8
+Device: USB\VID_047F&PID_C058\EBFF498BA439F1488A177C405ACDFDF0
+Service: usbccgp
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x36
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+USB\VID_047F&PID_C058\EBFF498BA439F1488A177C405ACDFDF0
+
+Total run time in milliseconds: 3581"
+"19-06-2026 20:16:50","900","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue was detected. The thread has been running for 3003 milliseconds.
+Thread ID: 0x50E8
+Device: USB\VID_047F&PID_C058\EBFF498BA439F1488A177C405ACDFDF0
+Service: usbccgp
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x36
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+USB\VID_047F&PID_C058\EBFF498BA439F1488A177C405ACDFDF0"
+"19-06-2026 19:46:34","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x41C
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb
+Total run time in milliseconds: 5003"
+"19-06-2026 19:46:32","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3000 milliseconds.
+Thread ID: 0x41C
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb"
+"19-06-2026 09:02:11","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x7508
+Device: INTELAUDIO\SDW_CTLR_DEV_7728&VEN_8086&DEV_0333\5&32640736&1
+Service: IntcSdwBus
+Total run time in milliseconds: 3229"
+"19-06-2026 09:02:10","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3009 milliseconds.
+Thread ID: 0x7508
+Device: INTELAUDIO\SDW_CTLR_DEV_7728&VEN_8086&DEV_0333\5&32640736&1
+Service: IntcSdwBus"
+"18-06-2026 12:01:41","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x6188
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3841"
+"18-06-2026 12:01:40","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3012 milliseconds.
+Thread ID: 0x6188
+Device: ACPI\PNP0A08\0
+Service: pci"
+"18-06-2026 09:09:50","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x94
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 31110"
+"18-06-2026 09:09:22","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3007 milliseconds.
+Thread ID: 0x94
+Device: ACPI\PNP0A08\0
+Service: pci"
+"18-06-2026 09:09:19","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x94
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 7253"
+"18-06-2026 09:09:15","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3011 milliseconds.
+Thread ID: 0x94
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"17-06-2026 19:13:44","932","Warning","Microsoft-Windows-Kernel-PnP","Synchronous notification {aca73f8e-8d23-11d1-ac7d-0000f87571d0} to process 4056 (\Device\HarddiskVolume3\Windows\System32\svchost.exe) was removed after 5012 milliseconds
+Event Category: 3
+Device Instance ID: STORAGE\Volume\{31506422-56d6-11f1-a26a-806e6f6e6963}#0000000000100000
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+STORAGE\Volume\{31506422-56d6-11f1-a26a-806e6f6e6963}#0000000000100000"
+"17-06-2026 18:20:58","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x94DC
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 4328"
+"17-06-2026 18:20:57","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3013 milliseconds.
+Thread ID: 0x94DC
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"17-06-2026 12:46:55","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x1AD0
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3457"
+"17-06-2026 12:46:54","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3003 milliseconds.
+Thread ID: 0x1AD0
+Device: ACPI\PNP0A08\0
+Service: pci"
+"17-06-2026 12:00:42","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0xA44
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 8227"
+"17-06-2026 12:00:37","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3008 milliseconds.
+Thread ID: 0xA44
+Device: ACPI\PNP0A08\0
+Service: pci"
+"17-06-2026 11:01:55","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x8CD4
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4099"
+"17-06-2026 11:01:54","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3004 milliseconds.
+Thread ID: 0x8CD4
+Device: ACPI\PNP0A08\0
+Service: pci"
+"17-06-2026 09:36:13","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x7A8C
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4967"
+"17-06-2026 09:36:11","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3011 milliseconds.
+Thread ID: 0x7A8C
+Device: ACPI\PNP0A08\0
+Service: pci"
+"17-06-2026 09:34:34","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x5024
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 18589"
+"17-06-2026 09:34:18","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3014 milliseconds.
+Thread ID: 0x5024
+Device: ACPI\PNP0A08\0
+Service: pci"
+"17-06-2026 09:34:15","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x5024
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 5407"
+"17-06-2026 09:34:13","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3000 milliseconds.
+Thread ID: 0x5024
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"16-06-2026 20:25:04","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x866C
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb
+Total run time in milliseconds: 5001"
+"16-06-2026 20:25:02","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3002 milliseconds.
+Thread ID: 0x866C
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb"
+"16-06-2026 20:24:56","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x866C
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3921"
+"16-06-2026 20:24:55","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3008 milliseconds.
+Thread ID: 0x866C
+Device: ACPI\PNP0A08\0
+Service: pci"
+"16-06-2026 17:17:45","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x4398
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3313"
+"16-06-2026 17:17:44","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3009 milliseconds.
+Thread ID: 0x4398
+Device: ACPI\PNP0A08\0
+Service: pci"
+"16-06-2026 13:02:43","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x760
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3049"
+"16-06-2026 13:02:43","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3001 milliseconds.
+Thread ID: 0x760
+Device: ACPI\PNP0A08\0
+Service: pci"
+"16-06-2026 12:32:45","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x7A78
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3205"
+"16-06-2026 12:32:45","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3001 milliseconds.
+Thread ID: 0x7A78
+Device: ACPI\PNP0A08\0
+Service: pci"
+"16-06-2026 12:02:49","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x1A48
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3429"
+"16-06-2026 12:02:49","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3004 milliseconds.
+Thread ID: 0x1A48
+Device: ACPI\PNP0A08\0
+Service: pci"
+"16-06-2026 12:00:57","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x566C
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 7631"
+"16-06-2026 12:00:52","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3000 milliseconds.
+Thread ID: 0x566C
+Device: ACPI\PNP0A08\0
+Service: pci"
+"16-06-2026 11:17:47","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x3628
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3544"
+"16-06-2026 11:17:46","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3000 milliseconds.
+Thread ID: 0x3628
+Device: ACPI\PNP0A08\0
+Service: pci"
+"16-06-2026 09:05:19","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x78CC
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 8282"
+"16-06-2026 09:05:14","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3008 milliseconds.
+Thread ID: 0x78CC
+Device: ACPI\PNP0A08\0
+Service: pci"
+"15-06-2026 20:20:34","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x79A8
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb
+Total run time in milliseconds: 5000"
+"15-06-2026 20:20:32","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3000 milliseconds.
+Thread ID: 0x79A8
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb"
+"15-06-2026 18:52:34","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x77C8
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3910"
+"15-06-2026 18:52:33","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3014 milliseconds.
+Thread ID: 0x77C8
+Device: ACPI\PNP0A08\0
+Service: pci"
+"15-06-2026 17:27:58","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x3FFC
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4606"
+"15-06-2026 17:27:57","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3001 milliseconds.
+Thread ID: 0x3FFC
+Device: ACPI\PNP0A08\0
+Service: pci"
+"15-06-2026 12:00:48","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x7B00
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3411"
+"15-06-2026 12:00:48","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3014 milliseconds.
+Thread ID: 0x7B00
+Device: ACPI\PNP0A08\0
+Service: pci"
+"15-06-2026 11:27:58","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x8F68
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3033"
+"15-06-2026 11:27:57","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3004 milliseconds.
+Thread ID: 0x8F68
+Device: ACPI\PNP0A08\0
+Service: pci"
+"15-06-2026 08:56:45","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x4ECC
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 6539"
+"15-06-2026 08:56:42","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3014 milliseconds.
+Thread ID: 0x4ECC
+Device: ACPI\PNP0A08\0
+Service: pci"
+"15-06-2026 08:54:05","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x27B0
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 16319"
+"15-06-2026 08:53:52","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3005 milliseconds.
+Thread ID: 0x27B0
+Device: ACPI\PNP0A08\0
+Service: pci"
+"15-06-2026 08:53:49","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x27B0
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 3989"
+"15-06-2026 08:53:48","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3012 milliseconds.
+Thread ID: 0x27B0
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"12-06-2026 12:00:57","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x222C
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3110"
+"12-06-2026 12:00:56","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3014 milliseconds.
+Thread ID: 0x222C
+Device: ACPI\PNP0A08\0
+Service: pci"
+"12-06-2026 09:19:43","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x7258
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3068"
+"12-06-2026 09:19:42","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3002 milliseconds.
+Thread ID: 0x7258
+Device: ACPI\PNP0A08\0
+Service: pci"
+"11-06-2026 08:50:12","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x59C0
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 6740"
+"11-06-2026 08:50:08","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3003 milliseconds.
+Thread ID: 0x59C0
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"11-06-2026 08:49:12","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x51F0
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 5488"
+"11-06-2026 08:49:10","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3012 milliseconds.
+Thread ID: 0x51F0
+Device: ACPI\PNP0A08\0
+Service: pci"
+"10-06-2026 20:04:28","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x538C
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3284"
+"10-06-2026 20:04:28","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3014 milliseconds.
+Thread ID: 0x538C
+Device: ACPI\PNP0A08\0
+Service: pci"
+"10-06-2026 14:29:21","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x908C
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3929"
+"10-06-2026 14:29:20","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3008 milliseconds.
+Thread ID: 0x908C
+Device: ACPI\PNP0A08\0
+Service: pci"
+"10-06-2026 12:00:58","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x5EF0
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3390"
+"10-06-2026 12:00:58","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3014 milliseconds.
+Thread ID: 0x5EF0
+Device: ACPI\PNP0A08\0
+Service: pci"
+"10-06-2026 09:54:52","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x1694
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 6759"
+"10-06-2026 09:54:48","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3002 milliseconds.
+Thread ID: 0x1694
+Device: ACPI\PNP0A08\0
+Service: pci"
+"10-06-2026 09:54:45","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x1694
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 6152"
+"10-06-2026 09:54:42","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3004 milliseconds.
+Thread ID: 0x1694
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"10-06-2026 09:53:44","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x9980
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 5693"
+"10-06-2026 09:53:41","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3008 milliseconds.
+Thread ID: 0x9980
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"09-06-2026 12:00:41","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x5FC
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 5547"
+"09-06-2026 12:00:38","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3011 milliseconds.
+Thread ID: 0x5FC
+Device: ACPI\PNP0A08\0
+Service: pci"
+"09-06-2026 09:47:09","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x6A80
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3178"
+"09-06-2026 09:47:09","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3004 milliseconds.
+Thread ID: 0x6A80
+Device: ACPI\PNP0A08\0
+Service: pci"
+"09-06-2026 09:46:11","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x30F8
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4256"
+"09-06-2026 09:46:10","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3013 milliseconds.
+Thread ID: 0x30F8
+Device: ACPI\PNP0A08\0
+Service: pci"
+"09-06-2026 09:46:07","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x30F8
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 4375"
+"09-06-2026 09:46:05","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3007 milliseconds.
+Thread ID: 0x30F8
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"09-06-2026 09:45:43","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x17A8
+Device: PCI\VEN_8086&DEV_7778&SUBSYS_0CE81028&REV_00\3&11583659&0&A8
+Service: iaLPSS2_I2C_MTL
+Total run time in milliseconds: 3531"
+"09-06-2026 09:45:42","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3004 milliseconds.
+Thread ID: 0x17A8
+Device: PCI\VEN_8086&DEV_7778&SUBSYS_0CE81028&REV_00\3&11583659&0&A8
+Service: iaLPSS2_I2C_MTL"
+"09-06-2026 09:45:32","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x17A8
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 9455"
+"09-06-2026 09:45:25","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3004 milliseconds.
+Thread ID: 0x17A8
+Device: ACPI\PNP0A08\0
+Service: pci"
+"09-06-2026 09:45:12","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x17A8
+Device: USB\ROOT_HUB30\4&2169287b&0&0
+Service: USBHUB3
+Total run time in milliseconds: 3430"
+"09-06-2026 09:45:11","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3003 milliseconds.
+Thread ID: 0x17A8
+Device: USB\ROOT_HUB30\4&2169287b&0&0
+Service: USBHUB3"
+"08-06-2026 20:47:46","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x3E90
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 7161"
+"08-06-2026 20:47:42","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3011 milliseconds.
+Thread ID: 0x3E90
+Device: ACPI\PNP0A08\0
+Service: pci"
+"08-06-2026 20:47:28","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x3E10
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 9134"
+"08-06-2026 20:47:22","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3003 milliseconds.
+Thread ID: 0x3E10
+Device: ACPI\PNP0A08\0
+Service: pci"
+"08-06-2026 19:16:02","905","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device removal has been completed.
+Thread ID: 0x1C0
+Device: USB\VID_047F&PID_C058\EBFF498BA439F1488A177C405ACDFDF0
+Service: usbccgp
+Total run time in milliseconds: 4307"
+"08-06-2026 19:16:01","904","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device removal was detected. The thread has been running for 3006 milliseconds.
+Thread ID: 0x1C0
+Device: USB\VID_047F&PID_C058\EBFF498BA439F1488A177C405ACDFDF0
+Service: usbccgp"
+"08-06-2026 16:55:42","901","Information","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue has been completed.
+Thread ID: 0x6FA8
+Device: PCI\VEN_8086&DEV_7728&SUBSYS_0CE81028&REV_00\3&11583659&0&FB
+Service: IntcAudioBus
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x15
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+PCI\VEN_8086&DEV_7728&SUBSYS_0CE81028&REV_00\3&11583659&0&FB
+
+Total run time in milliseconds: 9318"
+"08-06-2026 16:55:36","900","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue was detected. The thread has been running for 3552 milliseconds.
+Thread ID: 0x6FA8
+Device: PCI\VEN_8086&DEV_7728&SUBSYS_0CE81028&REV_00\3&11583659&0&FB
+Service: IntcAudioBus
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x15
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+PCI\VEN_8086&DEV_7728&SUBSYS_0CE81028&REV_00\3&11583659&0&FB"
+"08-06-2026 04:48:59","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x5448
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3282"
+"08-06-2026 04:48:59","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3004 milliseconds.
+Thread ID: 0x5448
+Device: ACPI\PNP0A08\0
+Service: pci"
+"07-06-2026 19:14:39","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x58EC
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3249"
+"07-06-2026 19:14:39","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3011 milliseconds.
+Thread ID: 0x58EC
+Device: ACPI\PNP0A08\0
+Service: pci"
+"07-06-2026 19:13:45","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x614
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 5706"
+"07-06-2026 19:13:42","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3006 milliseconds.
+Thread ID: 0x614
+Device: ACPI\PNP0A08\0
+Service: pci"
+"07-06-2026 04:54:05","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x64C8
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3238"
+"07-06-2026 04:54:05","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3002 milliseconds.
+Thread ID: 0x64C8
+Device: ACPI\PNP0A08\0
+Service: pci"
+"07-06-2026 01:07:15","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x77F0
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb
+Total run time in milliseconds: 5010"
+"07-06-2026 01:07:13","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3000 milliseconds.
+Thread ID: 0x77F0
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb"
+"06-06-2026 17:41:54","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x80C0
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 5893"
+"06-06-2026 17:41:51","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3000 milliseconds.
+Thread ID: 0x80C0
+Device: ACPI\PNP0A08\0
+Service: pci"
+"05-06-2026 12:00:20","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x8B18
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3199"
+"05-06-2026 12:00:20","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3007 milliseconds.
+Thread ID: 0x8B18
+Device: ACPI\PNP0A08\0
+Service: pci"
+"05-06-2026 09:28:20","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x7558
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4092"
+"05-06-2026 09:28:19","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3000 milliseconds.
+Thread ID: 0x7558
+Device: ACPI\PNP0A08\0
+Service: pci"
+"05-06-2026 09:27:22","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x54BC
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3271"
+"05-06-2026 09:27:22","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3009 milliseconds.
+Thread ID: 0x54BC
+Device: ACPI\PNP0A08\0
+Service: pci"
+"05-06-2026 09:26:40","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x7558
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 15633"
+"05-06-2026 09:26:28","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3003 milliseconds.
+Thread ID: 0x7558
+Device: ACPI\PNP0A08\0
+Service: pci"
+"04-06-2026 09:03:14","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x6A30
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3026"
+"04-06-2026 09:03:14","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3009 milliseconds.
+Thread ID: 0x6A30
+Device: ACPI\PNP0A08\0
+Service: pci"
+"03-06-2026 12:00:37","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x3AF0
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3210"
+"03-06-2026 12:00:37","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3009 milliseconds.
+Thread ID: 0x3AF0
+Device: ACPI\PNP0A08\0
+Service: pci"
+"03-06-2026 10:18:02","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0xE98
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 18100"
+"03-06-2026 10:17:47","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3002 milliseconds.
+Thread ID: 0xE98
+Device: ACPI\PNP0A08\0
+Service: pci"
+"03-06-2026 10:17:44","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0xE98
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 3796"
+"03-06-2026 10:17:43","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3014 milliseconds.
+Thread ID: 0xE98
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"03-06-2026 10:16:51","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x1D0
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 6740"
+"03-06-2026 10:16:47","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3003 milliseconds.
+Thread ID: 0x1D0
+Device: ACPI\PNP0A08\0
+Service: pci"
+"02-06-2026 23:58:39","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x79EC
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4112"
+"02-06-2026 23:58:38","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3009 milliseconds.
+Thread ID: 0x79EC
+Device: ACPI\PNP0A08\0
+Service: pci"
+"02-06-2026 23:58:35","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x79EC
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 3188"
+"02-06-2026 23:58:35","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3007 milliseconds.
+Thread ID: 0x79EC
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"02-06-2026 11:47:41","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x3FD8
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3160"
+"02-06-2026 11:47:41","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3012 milliseconds.
+Thread ID: 0x3FD8
+Device: ACPI\PNP0A08\0
+Service: pci"
+"02-06-2026 10:32:41","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x94
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3009"
+"02-06-2026 10:32:41","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3009 milliseconds.
+Thread ID: 0x94
+Device: ACPI\PNP0A08\0
+Service: pci"
+"02-06-2026 09:49:54","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x8F20
+Device: USB\ROOT_HUB30\4&2169287b&0&0
+Service: USBHUB3
+Total run time in milliseconds: 15245"
+"02-06-2026 09:49:41","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3012 milliseconds.
+Thread ID: 0x8F20
+Device: USB\ROOT_HUB30\4&2169287b&0&0
+Service: USBHUB3"
+"02-06-2026 09:49:38","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x8F20
+Device: PCI\VEN_8086&DEV_7D0B&SUBSYS_0CE81028&REV_00\3&11583659&0&70
+Service: iaStorVD
+Total run time in milliseconds: 8579"
+"02-06-2026 09:49:33","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3009 milliseconds.
+Thread ID: 0x8F20
+Device: PCI\VEN_8086&DEV_7D0B&SUBSYS_0CE81028&REV_00\3&11583659&0&70
+Service: iaStorVD"
+"02-06-2026 09:49:30","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x8F20
+Device: USB\ROOT_HUB30\4&2855494a&0&0
+Service: USBHUB3
+Total run time in milliseconds: 3461"
+"02-06-2026 09:49:29","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3009 milliseconds.
+Thread ID: 0x8F20
+Device: USB\ROOT_HUB30\4&2855494a&0&0
+Service: USBHUB3"
+"02-06-2026 09:49:10","901","Information","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue has been completed.
+Thread ID: 0x5314
+Device: PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3
+Service: Netwaw18
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x15
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3
+
+Total run time in milliseconds: 17369"
+"02-06-2026 09:49:03","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x5140
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 11012"
+"02-06-2026 09:48:55","900","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue was detected. The thread has been running for 3003 milliseconds.
+Thread ID: 0x5314
+Device: PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3
+Service: Netwaw18
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x15
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3"
+"02-06-2026 09:48:55","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3008 milliseconds.
+Thread ID: 0x5140
+Device: ACPI\PNP0A08\0
+Service: pci"
+"01-06-2026 11:52:20","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x61E0
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3075"
+"01-06-2026 11:52:20","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3003 milliseconds.
+Thread ID: 0x61E0
+Device: ACPI\PNP0A08\0
+Service: pci"
+"01-06-2026 09:22:10","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x1A4
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 6164"
+"01-06-2026 09:22:07","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3007 milliseconds.
+Thread ID: 0x1A4
+Device: ACPI\PNP0A08\0
+Service: pci"
+"01-06-2026 09:18:30","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x7284
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 5381"
+"01-06-2026 09:18:27","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3001 milliseconds.
+Thread ID: 0x7284
+Device: ACPI\PNP0A08\0
+Service: pci"
+"01-06-2026 09:17:45","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x1480
+Device: USB\ROOT_HUB30\4&2169287b&0&0
+Service: USBHUB3
+Total run time in milliseconds: 11553"
+"01-06-2026 09:17:36","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3005 milliseconds.
+Thread ID: 0x1480
+Device: USB\ROOT_HUB30\4&2169287b&0&0
+Service: USBHUB3"
+"01-06-2026 09:16:45","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x6694
+Device: PCI\VEN_8086&DEV_7D0B&SUBSYS_0CE81028&REV_00\3&11583659&0&70
+Service: iaStorVD
+Total run time in milliseconds: 4139"
+"01-06-2026 09:16:44","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3011 milliseconds.
+Thread ID: 0x6694
+Device: PCI\VEN_8086&DEV_7D0B&SUBSYS_0CE81028&REV_00\3&11583659&0&70
+Service: iaStorVD"
+"31-05-2026 22:18:15","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x83C
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb
+Total run time in milliseconds: 5005"
+"31-05-2026 22:18:13","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3000 milliseconds.
+Thread ID: 0x83C
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb"
+"31-05-2026 20:24:18","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x74BC
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3133"
+"31-05-2026 20:24:18","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3010 milliseconds.
+Thread ID: 0x74BC
+Device: ACPI\PNP0A08\0
+Service: pci"
+"31-05-2026 11:15:39","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x3B78
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3243"
+"31-05-2026 11:15:39","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3005 milliseconds.
+Thread ID: 0x3B78
+Device: ACPI\PNP0A08\0
+Service: pci"
+"31-05-2026 11:13:14","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x83C
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 14842"
+"31-05-2026 11:13:02","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3001 milliseconds.
+Thread ID: 0x83C
+Device: ACPI\PNP0A08\0
+Service: pci"
+"31-05-2026 11:12:59","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x83C
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 8376"
+"31-05-2026 11:12:54","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3005 milliseconds.
+Thread ID: 0x83C
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"29-05-2026 20:41:23","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x8B74
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb
+Total run time in milliseconds: 5071"
+"29-05-2026 20:41:21","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3000 milliseconds.
+Thread ID: 0x8B74
+Device: USB\VID_FFFF&PID_BACE&REV_0002&MI_00\2&2cee342a&0&0000
+Service: HidUsb"
+"29-05-2026 12:00:22","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x1D0
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3266"
+"29-05-2026 12:00:21","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3015 milliseconds.
+Thread ID: 0x1D0
+Device: ACPI\PNP0A08\0
+Service: pci"
+"29-05-2026 10:05:47","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x5B04
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3476"
+"29-05-2026 10:05:47","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3006 milliseconds.
+Thread ID: 0x5B04
+Device: ACPI\PNP0A08\0
+Service: pci"
+"29-05-2026 10:03:53","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x803C
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 8450"
+"29-05-2026 10:03:48","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3012 milliseconds.
+Thread ID: 0x803C
+Device: ACPI\PNP0A08\0
+Service: pci"
+"29-05-2026 10:03:45","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x803C
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 4491"
+"29-05-2026 10:03:44","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3008 milliseconds.
+Thread ID: 0x803C
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"28-05-2026 13:07:51","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x1B8
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3133"
+"28-05-2026 13:07:51","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3013 milliseconds.
+Thread ID: 0x1B8
+Device: ACPI\PNP0A08\0
+Service: pci"
+"28-05-2026 09:50:46","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x2784
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 7134"
+"28-05-2026 09:50:42","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3006 milliseconds.
+Thread ID: 0x2784
+Device: ACPI\PNP0A08\0
+Service: pci"
+"28-05-2026 09:50:39","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x2784
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 8347"
+"28-05-2026 09:50:33","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3003 milliseconds.
+Thread ID: 0x2784
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"28-05-2026 09:48:56","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x4A7C
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 6890"
+"28-05-2026 09:48:52","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3007 milliseconds.
+Thread ID: 0x4A7C
+Device: ACPI\PNP0A08\0
+Service: pci"
+"28-05-2026 09:48:49","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x4A7C
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 13203"
+"28-05-2026 09:48:39","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3004 milliseconds.
+Thread ID: 0x4A7C
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"27-05-2026 12:30:29","901","Information","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue has been completed.
+Thread ID: 0x7048
+Device: USB\VID_0424&PID_7206\5&266331bc&0&4
+Service: USBHUB3
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x18
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+USB\VID_0424&PID_7206\5&266331bc&0&4
+
+Total run time in milliseconds: 3530"
+"27-05-2026 12:30:28","900","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue was detected. The thread has been running for 3014 milliseconds.
+Thread ID: 0x7048
+Device: USB\VID_0424&PID_7206\5&266331bc&0&4
+Service: USBHUB3
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x18
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+USB\VID_0424&PID_7206\5&266331bc&0&4"
+"27-05-2026 09:27:40","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x6200
+Device: PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3
+Service: Netwaw18
+Total run time in milliseconds: 3436"
+"27-05-2026 09:27:40","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3000 milliseconds.
+Thread ID: 0x6200
+Device: PCI\VEN_8086&DEV_7740&SUBSYS_40E08086&REV_00\3&11583659&0&A3
+Service: Netwaw18"
+"27-05-2026 09:27:10","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x54E0
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI
+Total run time in milliseconds: 11146"
+"27-05-2026 09:27:02","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3003 milliseconds.
+Thread ID: 0x54E0
+Device: ACPI_HAL\PNP0C08\0
+Service: ACPI"
+"26-05-2026 20:09:39","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x7A00
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3606"
+"26-05-2026 20:09:38","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3005 milliseconds.
+Thread ID: 0x7A00
+Device: ACPI\PNP0A08\0
+Service: pci"
+"26-05-2026 09:41:28","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x20CC
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3132"
+"26-05-2026 09:41:28","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3015 milliseconds.
+Thread ID: 0x20CC
+Device: ACPI\PNP0A08\0
+Service: pci"
+"26-05-2026 09:40:57","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x1AA4
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3112"
+"26-05-2026 09:40:57","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3014 milliseconds.
+Thread ID: 0x1AA4
+Device: ACPI\PNP0A08\0
+Service: pci"
+"25-05-2026 12:00:39","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x1770
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3495"
+"25-05-2026 12:00:38","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3003 milliseconds.
+Thread ID: 0x1770
+Device: ACPI\PNP0A08\0
+Service: pci"
+"25-05-2026 10:42:47","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x5F9C
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 3157"
+"25-05-2026 10:42:47","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3010 milliseconds.
+Thread ID: 0x5F9C
+Device: ACPI\PNP0A08\0
+Service: pci"
+"25-05-2026 09:25:57","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x1748
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 9788"
+"25-05-2026 09:25:50","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3012 milliseconds.
+Thread ID: 0x1748
+Device: ACPI\PNP0A08\0
+Service: pci"
+"25-05-2026 09:22:02","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0x5A4C
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4927"
+"25-05-2026 09:22:00","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3000 milliseconds.
+Thread ID: 0x5A4C
+Device: ACPI\PNP0A08\0
+Service: pci"
+"25-05-2026 09:02:44","903","Information","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing has been completed.
+Thread ID: 0xD8
+Device: ACPI\PNP0A08\0
+Service: pci
+Total run time in milliseconds: 4042"
+"25-05-2026 09:02:43","902","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for device start processing was detected. The thread has been running for 3014 milliseconds.
+Thread ID: 0xD8
+Device: ACPI\PNP0A08\0
+Service: pci"
+"23-05-2026 23:06:32","901","Information","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue has been completed.
+Thread ID: 0x1C0
+Device: {F67B0BEA-BDB7-47D3-9131-75877CDE0ED4}\Streaming_Speaker&CP_{315065c5-56d6-11f1-a26a-a95a57ce4523}\6&24274c2a&0
+Service: 
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x15
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+{F67B0BEA-BDB7-47D3-9131-75877CDE0ED4}\Streaming_Speaker&CP_{315065c5-56d6-11f1-a26a-a95a57ce4523}\6&24274c2a&0
+
+Total run time in milliseconds: 5453"
+"23-05-2026 23:06:29","900","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue was detected. The thread has been running for 3027 milliseconds.
+Thread ID: 0x1C0
+Device: {F67B0BEA-BDB7-47D3-9131-75877CDE0ED4}\Streaming_Speaker&CP_{315065c5-56d6-11f1-a26a-a95a57ce4523}\6&24274c2a&0
+Service: 
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x15
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+{F67B0BEA-BDB7-47D3-9131-75877CDE0ED4}\Streaming_Speaker&CP_{315065c5-56d6-11f1-a26a-a95a57ce4523}\6&24274c2a&0"
+"23-05-2026 23:06:19","901","Information","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue has been completed.
+Thread ID: 0x1BC
+Device: INTELAUDIO\DSP_CTLR_DEV_7728&VEN_8086&DEV_0222&SUBSYS_0CE81028&REV_0000\4&417d3cc&0&0800DIF_000B&UIF_0000
+Service: IntcOED
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x15
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+INTELAUDIO\DSP_CTLR_DEV_7728&VEN_8086&DEV_0222&SUBSYS_0CE81028&REV_0000\4&417d3cc&0&0800DIF_000B&UIF_0000
+
+Total run time in milliseconds: 14414"
+"23-05-2026 23:06:08","900","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue was detected. The thread has been running for 3004 milliseconds.
+Thread ID: 0x1BC
+Device: INTELAUDIO\DSP_CTLR_DEV_7728&VEN_8086&DEV_0222&SUBSYS_0CE81028&REV_0000\4&417d3cc&0&0800DIF_000B&UIF_0000
+Service: IntcOED
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x15
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+INTELAUDIO\DSP_CTLR_DEV_7728&VEN_8086&DEV_0222&SUBSYS_0CE81028&REV_0000\4&417d3cc&0&0800DIF_000B&UIF_0000"
+"23-05-2026 23:05:59","901","Information","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue has been completed.
+Thread ID: 0x1A0
+Device: PCI\VEN_8086&DEV_7D03&SUBSYS_0CE81028&REV_05\3&11583659&0&20
+Service: ipf_cpu
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x15
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+PCI\VEN_8086&DEV_7D03&SUBSYS_0CE81028&REV_05\3&11583659&0&20
+
+Total run time in milliseconds: 7847"
+"23-05-2026 23:05:54","900","Warning","Microsoft-Windows-Kernel-PnP","A long running thread for the device event queue was detected. The thread has been running for 3012 milliseconds.
+Thread ID: 0x1A0
+Device: PCI\VEN_8086&DEV_7D03&SUBSYS_0CE81028&REV_05\3&11583659&0&20
+Service: ipf_cpu
+Event Category: 1
+Event GUID: {cb3a400e-46f0-11d0-b08f-00609713053f}
+Event Argument: 0x15
+Argument Status: 0x0
+Category Specific Data:
+{00000000-0000-0000-0000-000000000000}
+PCI\VEN_8086&DEV_7D03&SUBSYS_0CE81028&REV_05\3&11583659&0&20"

@@ -1,0 +1,4 @@
+﻿"TimeCreated","Id","LevelDisplayName","ProviderName","Message"
+"23-05-2026 10:57:53","1300","Information","Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider","Enrollment Status Tracking: Starting status tracking for resource. Resource Area: (NetworkProfile) Resource Name: (./Device/Vendor/MSFT/WiFi/Profile) Resource Type: (ExpectedNetworkProfiles)."
+"23-05-2026 10:57:53","1300","Information","Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider","Enrollment Status Tracking: Starting status tracking for resource. Resource Area: (Policy) Resource Name: (./Vendor/MSFT/DMClient/Provider/MS%20DM%20Server) Resource Type: (ExpectedPolicies)."
+"23-05-2026 10:57:53","1300","Information","Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider","Enrollment Status Tracking: Starting status tracking for resource. Resource Area: (Policy) Resource Name: (./Device/Vendor/MSFT/Policy/Config/Update) Resource Type: (ExpectedPolicies)."

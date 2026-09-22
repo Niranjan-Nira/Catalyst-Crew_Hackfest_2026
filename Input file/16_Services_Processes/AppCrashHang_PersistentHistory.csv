@@ -1,0 +1,215 @@
+﻿"TimeCreated","Id","LevelDisplayName","Message"
+"18-08-2026 19:05:00","1002","Error","The program powershell.exe version 10.0.26100.8875 stopped interacting with Windows and was closed. To see if more information about the problem is available, check the problem history in the Security and Maintenance control panel.
+"
+"18-08-2026 15:05:16","1000","Error","Faulting application name: MsMpEng.exe, version: 4.18.26070.9, time stamp: 0x9a78fc05
+Faulting module name: mpengine.dll, version: 1.1.26070.7, time stamp: 0xa09e75a9
+Exception code: 0xc0000005
+Fault offset: 0x000000000092e48b
+Faulting process id: 0x1480
+Faulting application start time: 0x1DD2EF01397DC34
+Faulting application path: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26070.9-0\MsMpEng.exe
+Faulting module path: C:\ProgramData\Microsoft\Windows Defender\Definition Updates\{963F1F3B-CA03-4FB1-9D33-3F52DEC47426}\mpengine.dll
+Report Id: 8f6814a3-576a-4a5f-a649-799fff271dcb
+Faulting package full name: 
+Faulting package-relative application ID: "
+"18-08-2026 14:11:36","1000","Error","Faulting application name: MsMpEng.exe, version: 4.18.26070.9, time stamp: 0x9a78fc05
+Faulting module name: mpengine.dll, version: 1.1.26070.7, time stamp: 0xa09e75a9
+Exception code: 0xc0000005
+Fault offset: 0x000000000092e48b
+Faulting process id: 0x1284
+Faulting application start time: 0x1DD2ECE46CEE47C
+Faulting application path: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26070.9-0\MsMpEng.exe
+Faulting module path: C:\ProgramData\Microsoft\Windows Defender\Definition Updates\{963F1F3B-CA03-4FB1-9D33-3F52DEC47426}\mpengine.dll
+Report Id: c17d810f-9e26-4dd2-97e6-70c4867d196f
+Faulting package full name: 
+Faulting package-relative application ID: "
+"14-08-2026 14:17:11","1000","Error","Faulting application name: mmc.exe, version: 10.0.26100.8737, time stamp: 0xd6725746
+Faulting module name: GPOAdmin.dll, version: 10.0.17132.1, time stamp: 0xd867d680
+Exception code: 0xc0000005
+Fault offset: 0x00000000000ba27b
+Faulting process id: 0x8198
+Faulting application start time: 0x1DD2BC963F3A3E6
+Faulting application path: C:\Windows\system32\mmc.exe
+Faulting module path: C:\Windows\System32\GPOAdmin.dll
+Report Id: ee1b5dc8-c55b-4a14-b6a8-aa647fc3b48b
+Faulting package full name: 
+Faulting package-relative application ID: "
+"07-08-2026 18:24:11","1000","Error","Faulting application name: ms-teams.exe, version: 26183.1903.4892.4448, time stamp: 0x6a4f37ea
+Faulting module name: ntdll.dll, version: 10.0.26100.8875, time stamp: 0xba65e4a2
+Exception code: 0xc0000005
+Fault offset: 0x000000000012731b
+Faulting process id: 0x90F8
+Faulting application start time: 0x1DD266BC689E723
+Faulting application path: C:\Program Files\WindowsApps\MSTeams_26183.1903.4892.4448_x64__8wekyb3d8bbwe\ms-teams.exe
+Faulting module path: C:\Windows\SYSTEM32\ntdll.dll
+Report Id: 4d76b1cf-0a50-4812-b12b-d5b035af3948
+Faulting package full name: MSTeams_26183.1903.4892.4448_x64__8wekyb3d8bbwe
+Faulting package-relative application ID: MSTeams"
+"07-08-2026 18:23:43","1000","Error","Faulting application name: Licensing.Service.exe, version: 11.5.245.374, time stamp: 0x68936d04
+Faulting module name: KERNELBASE.dll, version: 10.0.26100.8875, time stamp: 0xca32cd54
+Exception code: 0xe0434352
+Fault offset: 0x00000000000c1ada
+Faulting process id: 0x1208
+Faulting application start time: 0x1DD22FC01D6F1E0
+Faulting application path: C:\Program Files\Seagull\BarTender 11.5\Licensing.Service.exe
+Faulting module path: C:\Windows\System32\KERNELBASE.dll
+Report Id: 5265dade-8877-4dba-a015-4b6921418d4a
+Faulting package full name: 
+Faulting package-relative application ID: "
+"07-08-2026 18:23:42","1000","Error","Faulting application name: dwm.exe, version: 10.0.26100.8737, time stamp: 0x1a511bb0
+Faulting module name: dwmcore.dll, version: 10.0.26100.8875, time stamp: 0x3b3711f9
+Exception code: 0xc00001ad
+Fault offset: 0x00000000001aa2e8
+Faulting process id: 0x30F0
+Faulting application start time: 0x1DD266BAC256C35
+Faulting application path: C:\Windows\system32\dwm.exe
+Faulting module path: C:\Windows\system32\dwmcore.dll
+Report Id: 0a4a73a0-b9e7-4c4e-92f9-65e2798c8523
+Faulting package full name: 
+Faulting package-relative application ID: "
+"07-08-2026 18:22:49","1000","Error","Faulting application name: BtSystem.Service.exe, version: 11.5.245.374, time stamp: 0x68936cfe
+Faulting module name: KERNELBASE.dll, version: 10.0.26100.8875, time stamp: 0xca32cd54
+Exception code: 0xe0434352
+Fault offset: 0x00000000000c1ada
+Faulting process id: 0x1CA8
+Faulting application start time: 0x1DD266B7F186522
+Faulting application path: C:\Program Files\Seagull\BarTender 11.5\BtSystem.Service.exe
+Faulting module path: C:\Windows\System32\KERNELBASE.dll
+Report Id: f3d2c687-e6b4-4029-b46a-1a42da5078fa
+Faulting package full name: 
+Faulting package-relative application ID: "
+"07-08-2026 18:22:21","1000","Error","Faulting application name: SenseTracer.exe, version: 10.8830.27933.1000, time stamp: 0x39600e97
+Faulting module name: SenseTracer.exe, version: 10.8830.27933.1000, time stamp: 0x39600e97
+Exception code: 0xc0000005
+Fault offset: 0x0000000000350ef1
+Faulting process id: 0x41B4
+Faulting application start time: 0x1DD266B9018A1E9
+Faulting application path: C:\Program Files\Windows Defender Advanced Threat Protection\SenseTracer.exe
+Faulting module path: C:\Program Files\Windows Defender Advanced Threat Protection\SenseTracer.exe
+Report Id: a2a572e4-d80e-4e6f-99c9-159435dd55cf
+Faulting package full name: 
+Faulting package-relative application ID: "
+"07-08-2026 18:22:11","1000","Error","Faulting application name: mspaint.exe, version: 11.2605.71.0, time stamp: 0x6a43e62f
+Faulting module name: CoreMessagingXP.dll, version: 10.0.27200.1038, time stamp: 0x726459b5
+Exception code: 0xc000027b
+Fault offset: 0x0000000000095d06
+Faulting process id: 0x4134
+Faulting application start time: 0x1DD255EB5B931A6
+Faulting application path: C:\Program Files\WindowsApps\Microsoft.Paint_11.2605.71.0_x64__8wekyb3d8bbwe\PaintApp\mspaint.exe
+Faulting module path: C:\Program Files\WindowsApps\Microsoft.WindowsAppRuntime.2_2.3.1.0_x64__8wekyb3d8bbwe\CoreMessagingXP.dll
+Report Id: 276a47b3-f0ba-4180-9459-7bade5a2e874
+Faulting package full name: Microsoft.Paint_11.2605.71.0_x64__8wekyb3d8bbwe
+Faulting package-relative application ID: App"
+"07-08-2026 18:22:00","1000","Error","Faulting application name: IntelGraphicsSoftware.Service.exe, version: 26.18.2353.2, time stamp: 0x69a70000
+Faulting module name: KERNELBASE.dll, version: 10.0.26100.8875, time stamp: 0xca32cd54
+Exception code: 0xe0434352
+Fault offset: 0x00000000000c1ada
+Faulting process id: 0x1EE0
+Faulting application start time: 0x1DD22FC041E10E3
+Faulting application path: C:\Program Files\WindowsApps\AppUp.IntelArcSoftware_26.18.2353.0_x64__8j3eq9eme6ctt\VFS\ProgramFilesX64\Intel\Intel Graphics Software\IntelGraphicsSoftware.Service.exe
+Faulting module path: C:\Windows\System32\KERNELBASE.dll
+Report Id: ad9a69a3-4afc-433e-9c22-f3e2a163886f
+Faulting package full name: AppUp.IntelArcSoftware_26.18.2353.0_x64__8j3eq9eme6ctt
+Faulting package-relative application ID: INTELGRAPHICSSOFTWARE"
+"07-08-2026 18:21:54","1000","Error","Faulting application name: spksvc.exe, version: 3.0.8.0, time stamp: 0x6a45abf4
+Faulting module name: spksvc.exe, version: 3.0.8.0, time stamp: 0x6a45abf4
+Exception code: 0xc0000409
+Fault offset: 0x00000000003f6885
+Faulting process id: 0x1328
+Faulting application start time: 0x1DD22FC01D9BE77
+Faulting application path: C:\Program Files\Spektion\Spektion Sensor\spksvc.exe
+Faulting module path: C:\Program Files\Spektion\Spektion Sensor\spksvc.exe
+Report Id: 5296f816-6040-4753-909d-65ae8f28b152
+Faulting package full name: 
+Faulting package-relative application ID: "
+"06-08-2026 15:42:34","1002","Error","The program dllhost.exe version 10.0.26100.8737 stopped interacting with Windows and was closed. To see if more information about the problem is available, check the problem history in the Security and Maintenance control panel.
+"
+"05-08-2026 11:57:36","1002","Error","The program dllhost.exe version 10.0.26100.8737 stopped interacting with Windows and was closed. To see if more information about the problem is available, check the problem history in the Security and Maintenance control panel.
+"
+"03-08-2026 09:26:50","1000","Error","Faulting application name: TextInputHost.exe, version: 2605.22000.400.0, time stamp: 0x6a30360a
+Faulting module name: edgehtml.dll, version: 11.0.26100.8875, time stamp: 0x5b295192
+Exception code: 0x80004005
+Fault offset: 0x000000000005af5b
+Faulting process id: 0x5188
+Faulting application start time: 0x1DD22FC1BF2C0C7
+Faulting application path: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+Faulting module path: C:\Windows\SYSTEM32\edgehtml.dll
+Report Id: 5c0fda05-b24f-4e24-8d04-2c7473fb32ee
+Faulting package full name: MicrosoftWindows.Client.CBS_1000.26100.334.0_x64__cw5n1h2txyewy
+Faulting package-relative application ID: InputApp"
+"29-07-2026 16:45:25","1000","Error","Faulting application name: POWERPNT.EXE, version: 16.0.20131.20152, time stamp: 0x6a5290ed
+Faulting module name: ntdll.dll, version: 10.0.26100.8875, time stamp: 0xba65e4a2
+Exception code: 0xc0000374
+Fault offset: 0x0000000000112165
+Faulting process id: 0x1B4
+Faulting application start time: 0x1DD1F32B81B9AF7
+Faulting application path: C:\Program Files\Microsoft Office\Root\Office16\POWERPNT.EXE
+Faulting module path: C:\Windows\SYSTEM32\ntdll.dll
+Report Id: caf4add8-db88-4038-a9f2-6e7ac77c1e5b
+Faulting package full name: 
+Faulting package-relative application ID: "
+"29-07-2026 15:45:09","1002","Error","The program dllhost.exe version 10.0.26100.8737 stopped interacting with Windows and was closed. To see if more information about the problem is available, check the problem history in the Security and Maintenance control panel.
+"
+"29-07-2026 13:47:20","1000","Error","Faulting application name: POWERPNT.EXE, version: 16.0.20131.20152, time stamp: 0x6a5290ed
+Faulting module name: ntdll.dll, version: 10.0.26100.8875, time stamp: 0xba65e4a2
+Exception code: 0xc0000374
+Fault offset: 0x0000000000112165
+Faulting process id: 0x713C
+Faulting application start time: 0x1DD1E51CB13A893
+Faulting application path: C:\Program Files\Microsoft Office\Root\Office16\POWERPNT.EXE
+Faulting module path: C:\Windows\SYSTEM32\ntdll.dll
+Report Id: 95f50bc3-d35e-4d3b-99b1-1f1c6d884e19
+Faulting package full name: 
+Faulting package-relative application ID: "
+"27-07-2026 09:30:09","1000","Error","Faulting application name: TrGUI.exe, version: 98.61.5.602, time stamp: 0x662b984f
+Faulting module name: TrGUI.exe, version: 98.61.5.602, time stamp: 0x662b984f
+Exception code: 0xc0000005
+Fault offset: 0x00099da0
+Faulting process id: 0x757C
+Faulting application start time: 0x1DD1D7C69F55191
+Faulting application path: C:\Program Files (x86)\CheckPoint\Endpoint Connect\TrGUI.exe
+Faulting module path: C:\Program Files (x86)\CheckPoint\Endpoint Connect\TrGUI.exe
+Report Id: 2ecba656-0ec5-4743-b292-d83d0ef41cba
+Faulting package full name: 
+Faulting package-relative application ID: "
+"20-07-2026 14:48:35","1000","Error","Faulting application name: Explorer.EXE, version: 10.0.26100.8655, time stamp: 0x28f35f49
+Faulting module name: FileExplorerExtensions.dll, version: 2604.27005.0.0, time stamp: 0x69eff5d6
+Exception code: 0xc0000005
+Fault offset: 0x00000000000e74e4
+Faulting process id: 0x3AD0
+Faulting application start time: 0x1DD11FEB35F18A0
+Faulting application path: C:\Windows\Explorer.EXE
+Faulting module path: C:\Windows\SystemApps\MicrosoftWindows.Client.FileExp_cw5n1h2txyewy\FileExplorerExtensions.dll
+Report Id: 8ce36a9a-d2d4-42dd-a385-0020154c700b
+Faulting package full name: 
+Faulting package-relative application ID: "
+"13-07-2026 09:39:25","1002","Error","The program StartMenuExperienceHost.exe version 10.0.26100.8655 stopped interacting with Windows and was closed. To see if more information about the problem is available, check the problem history in the Security and Maintenance control panel.
+"
+"12-07-2026 18:22:11","1002","Error","The program ShellExperienceHost.exe version 10.0.26100.8521 stopped interacting with Windows and was closed. To see if more information about the problem is available, check the problem history in the Security and Maintenance control panel.
+"
+"10-07-2026 10:37:40","1000","Error","Faulting application name: POWERPNT.EXE, version: 16.0.20026.20166, time stamp: 0x6a234e64
+Faulting module name: ntdll.dll, version: 10.0.26100.8521, time stamp: 0xccc028d4
+Exception code: 0xc0000374
+Fault offset: 0x0000000000112265
+Faulting process id: 0x75E8
+Faulting application start time: 0x1DD0DE03CA80143
+Faulting application path: C:\Program Files\Microsoft Office\root\Office16\POWERPNT.EXE
+Faulting module path: C:\Windows\SYSTEM32\ntdll.dll
+Report Id: 6ea89edb-be6e-4c94-82b3-c9514238b629
+Faulting package full name: 
+Faulting package-relative application ID: "
+"23-06-2026 09:01:40","1002","Error","The program ShellExperienceHost.exe version 10.0.26100.8521 stopped interacting with Windows and was closed. To see if more information about the problem is available, check the problem history in the Security and Maintenance control panel.
+"
+"22-06-2026 11:12:13","1002","Error","The program Microsoft.Notes.exe version 6.1.4.0 stopped interacting with Windows and was closed. To see if more information about the problem is available, check the problem history in the Security and Maintenance control panel.
+"
+"08-06-2026 17:01:05","1000","Error","Faulting application name: OneDrive.exe, version: 26.88.510.4, time stamp: 0x34ae8a1e
+Faulting module name: ucrtbase.dll, version: 10.0.26100.8246, time stamp: 0x4eb988a2
+Exception code: 0xc0000409
+Fault offset: 0x00000000000a4aee
+Faulting process id: 0x2268
+Faulting application start time: 0x1DCF6FCD2AC64D1
+Faulting application path: C:\Program Files\Microsoft OneDrive\OneDrive.exe
+Faulting module path: C:\Windows\System32\ucrtbase.dll
+Report Id: 73559ed1-22bd-4b39-9b38-9e01f5d3d92a
+Faulting package full name: 
+Faulting package-relative application ID: "

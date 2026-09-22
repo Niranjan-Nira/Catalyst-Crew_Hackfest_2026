@@ -1,0 +1,327 @@
+﻿"TimeCreated","Id","LevelDisplayName","ProviderName","Message"
+"18-08-2026 14:35:02","103","Information","Microsoft-Windows-AppReadiness",
+"18-08-2026 14:35:02","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"18-08-2026 14:32:32","108","Information","Microsoft-Windows-AppReadiness",
+"18-08-2026 10:46:39","103","Information","Microsoft-Windows-AppReadiness",
+"18-08-2026 10:46:39","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"18-08-2026 10:44:09","108","Information","Microsoft-Windows-AppReadiness",
+"18-08-2026 10:42:02","103","Information","Microsoft-Windows-AppReadiness",
+"18-08-2026 10:42:02","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"18-08-2026 10:39:32","108","Information","Microsoft-Windows-AppReadiness",
+"18-08-2026 10:32:09","103","Information","Microsoft-Windows-AppReadiness",
+"18-08-2026 10:32:09","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"18-08-2026 10:30:10","217","Information","Microsoft-Windows-AppReadiness","Activity for 'S-1-12-1-2357405129-1281513531-255772574-1816207334' has resumed."
+"17-08-2026 13:34:24","103","Information","Microsoft-Windows-AppReadiness",
+"17-08-2026 13:34:24","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"17-08-2026 13:31:55","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: The package could not be installed because resources it modifies are currently in use.."
+"17-08-2026 13:31:54","108","Information","Microsoft-Windows-AppReadiness",
+"17-08-2026 10:06:46","103","Information","Microsoft-Windows-AppReadiness",
+"17-08-2026 10:06:46","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"17-08-2026 10:04:20","108","Information","Microsoft-Windows-AppReadiness",
+"17-08-2026 10:04:19","108","Information","Microsoft-Windows-AppReadiness",
+"17-08-2026 10:04:16","108","Information","Microsoft-Windows-AppReadiness",
+"12-08-2026 13:55:16","103","Information","Microsoft-Windows-AppReadiness",
+"12-08-2026 13:55:16","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"12-08-2026 13:52:53","108","Information","Microsoft-Windows-AppReadiness",
+"12-08-2026 13:52:46","108","Information","Microsoft-Windows-AppReadiness",
+"12-08-2026 09:20:13","103","Information","Microsoft-Windows-AppReadiness",
+"12-08-2026 09:20:13","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"12-08-2026 09:17:43","108","Information","Microsoft-Windows-AppReadiness",
+"11-08-2026 12:18:58","103","Information","Microsoft-Windows-AppReadiness",
+"11-08-2026 12:18:58","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"11-08-2026 12:16:28","108","Information","Microsoft-Windows-AppReadiness",
+"11-08-2026 12:09:40","103","Information","Microsoft-Windows-AppReadiness",
+"11-08-2026 12:09:40","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"11-08-2026 12:08:49","108","Information","Microsoft-Windows-AppReadiness",
+"11-08-2026 12:07:40","217","Information","Microsoft-Windows-AppReadiness","Activity for 'S-1-12-1-2357405129-1281513531-255772574-1816207334' has resumed."
+"10-08-2026 11:08:07","103","Information","Microsoft-Windows-AppReadiness",
+"10-08-2026 11:08:07","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"10-08-2026 11:05:49","108","Information","Microsoft-Windows-AppReadiness",
+"10-08-2026 11:05:37","108","Information","Microsoft-Windows-AppReadiness",
+"10-08-2026 10:15:36","103","Information","Microsoft-Windows-AppReadiness",
+"10-08-2026 10:15:36","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"10-08-2026 10:13:06","108","Information","Microsoft-Windows-AppReadiness",
+"10-08-2026 09:44:01","103","Information","Microsoft-Windows-AppReadiness",
+"10-08-2026 09:44:01","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"10-08-2026 09:43:45","108","Information","Microsoft-Windows-AppReadiness",
+"10-08-2026 09:42:01","217","Information","Microsoft-Windows-AppReadiness","Activity for 'S-1-12-1-2357405129-1281513531-255772574-1816207334' has resumed."
+"06-08-2026 15:43:12","103","Information","Microsoft-Windows-AppReadiness",
+"06-08-2026 15:43:12","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"06-08-2026 15:40:55","108","Information","Microsoft-Windows-AppReadiness",
+"06-08-2026 15:40:42","108","Information","Microsoft-Windows-AppReadiness",
+"06-08-2026 11:15:35","103","Information","Microsoft-Windows-AppReadiness",
+"06-08-2026 11:15:35","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"06-08-2026 11:13:05","108","Information","Microsoft-Windows-AppReadiness",
+"05-08-2026 11:58:18","103","Information","Microsoft-Windows-AppReadiness",
+"05-08-2026 11:58:18","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"05-08-2026 11:55:58","108","Information","Microsoft-Windows-AppReadiness",
+"05-08-2026 11:55:48","108","Information","Microsoft-Windows-AppReadiness",
+"03-08-2026 11:18:05","103","Information","Microsoft-Windows-AppReadiness",
+"03-08-2026 11:18:05","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"03-08-2026 11:15:35","108","Information","Microsoft-Windows-AppReadiness",
+"03-08-2026 09:31:24","103","Information","Microsoft-Windows-AppReadiness",
+"03-08-2026 09:31:24","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"03-08-2026 09:28:54","108","Information","Microsoft-Windows-AppReadiness",
+"03-08-2026 09:28:51","103","Information","Microsoft-Windows-AppReadiness",
+"03-08-2026 09:28:51","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"03-08-2026 09:26:52","217","Information","Microsoft-Windows-AppReadiness","Activity for 'S-1-12-1-2357405129-1281513531-255772574-1816207334' has resumed."
+"31-07-2026 09:47:42","103","Information","Microsoft-Windows-AppReadiness",
+"31-07-2026 09:47:42","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"31-07-2026 09:46:37","108","Information","Microsoft-Windows-AppReadiness",
+"31-07-2026 09:45:43","217","Information","Microsoft-Windows-AppReadiness","Activity for 'S-1-12-1-2357405129-1281513531-255772574-1816207334' has resumed."
+"31-07-2026 09:35:07","103","Information","Microsoft-Windows-AppReadiness",
+"31-07-2026 09:35:07","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"31-07-2026 09:32:38","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: The package could not be installed because resources it modifies are currently in use.."
+"31-07-2026 09:32:37","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: The package could not be installed because resources it modifies are currently in use.."
+"31-07-2026 09:32:37","108","Information","Microsoft-Windows-AppReadiness",
+"29-07-2026 15:45:47","103","Information","Microsoft-Windows-AppReadiness",
+"29-07-2026 15:45:47","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"29-07-2026 15:43:30","108","Information","Microsoft-Windows-AppReadiness",
+"29-07-2026 15:43:19","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: The package could not be installed because resources it modifies are currently in use.."
+"29-07-2026 15:43:18","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: The package could not be installed because resources it modifies are currently in use.."
+"29-07-2026 15:43:17","108","Information","Microsoft-Windows-AppReadiness",
+"27-07-2026 11:52:58","103","Information","Microsoft-Windows-AppReadiness",
+"27-07-2026 11:52:58","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"27-07-2026 11:50:28","108","Information","Microsoft-Windows-AppReadiness",
+"27-07-2026 09:52:43","103","Information","Microsoft-Windows-AppReadiness",
+"27-07-2026 09:52:43","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"27-07-2026 09:50:13","108","Information","Microsoft-Windows-AppReadiness",
+"27-07-2026 09:46:51","103","Information","Microsoft-Windows-AppReadiness",
+"27-07-2026 09:46:51","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"27-07-2026 09:45:31","108","Information","Microsoft-Windows-AppReadiness",
+"27-07-2026 09:45:04","217","Information","Microsoft-Windows-AppReadiness","Activity for 'S-1-12-1-2357405129-1281513531-255772574-1816207334' has resumed."
+"27-07-2026 09:35:52","103","Information","Microsoft-Windows-AppReadiness",
+"27-07-2026 09:35:03","108","Information","Microsoft-Windows-AppReadiness",
+"23-07-2026 10:07:07","103","Information","Microsoft-Windows-AppReadiness",
+"23-07-2026 10:07:07","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"23-07-2026 10:04:43","108","Information","Microsoft-Windows-AppReadiness",
+"23-07-2026 10:04:38","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: The package could not be installed because resources it modifies are currently in use.."
+"23-07-2026 10:04:37","108","Information","Microsoft-Windows-AppReadiness",
+"21-07-2026 08:47:27","103","Information","Microsoft-Windows-AppReadiness",
+"21-07-2026 08:47:27","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"21-07-2026 08:47:20","108","Information","Microsoft-Windows-AppReadiness",
+"21-07-2026 08:45:42","108","Information","Microsoft-Windows-AppReadiness",
+"21-07-2026 08:45:41","108","Information","Microsoft-Windows-AppReadiness",
+"21-07-2026 08:45:40","108","Information","Microsoft-Windows-AppReadiness",
+"21-07-2026 08:45:28","217","Information","Microsoft-Windows-AppReadiness","Activity for 'S-1-12-1-2357405129-1281513531-255772574-1816207334' has resumed."
+"20-07-2026 14:59:37","103","Information","Microsoft-Windows-AppReadiness",
+"20-07-2026 14:59:37","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"20-07-2026 14:57:17","108","Information","Microsoft-Windows-AppReadiness",
+"20-07-2026 14:57:07","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: The package could not be installed because resources it modifies are currently in use.."
+"20-07-2026 14:57:07","108","Information","Microsoft-Windows-AppReadiness",
+"20-07-2026 10:41:24","103","Information","Microsoft-Windows-AppReadiness",
+"20-07-2026 10:41:24","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"20-07-2026 10:38:55","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: The package could not be installed because resources it modifies are currently in use.."
+"20-07-2026 10:38:54","108","Information","Microsoft-Windows-AppReadiness",
+"12-07-2026 18:38:14","103","Information","Microsoft-Windows-AppReadiness",
+"12-07-2026 18:38:14","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"12-07-2026 18:35:44","108","Information","Microsoft-Windows-AppReadiness",
+"12-07-2026 18:35:03","103","Information","Microsoft-Windows-AppReadiness",
+"12-07-2026 18:35:02","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"12-07-2026 18:34:52","108","Information","Microsoft-Windows-AppReadiness",
+"12-07-2026 18:33:03","217","Information","Microsoft-Windows-AppReadiness","Activity for 'S-1-12-1-2357405129-1281513531-255772574-1816207334' has resumed."
+"08-07-2026 12:26:14","103","Information","Microsoft-Windows-AppReadiness",
+"08-07-2026 12:26:14","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"08-07-2026 12:23:51","108","Information","Microsoft-Windows-AppReadiness",
+"08-07-2026 12:23:46","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: The package could not be installed because resources it modifies are currently in use.."
+"08-07-2026 12:23:44","108","Information","Microsoft-Windows-AppReadiness",
+"07-07-2026 09:33:24","103","Information","Microsoft-Windows-AppReadiness",
+"07-07-2026 09:33:24","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"07-07-2026 09:30:54","108","Information","Microsoft-Windows-AppReadiness",
+"04-07-2026 14:15:43","103","Information","Microsoft-Windows-AppReadiness",
+"04-07-2026 14:15:43","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"04-07-2026 14:15:37","108","Information","Microsoft-Windows-AppReadiness",
+"04-07-2026 14:13:46","217","Information","Microsoft-Windows-AppReadiness","Activity for 'S-1-12-1-2357405129-1281513531-255772574-1816207334' has resumed."
+"03-07-2026 11:24:58","103","Information","Microsoft-Windows-AppReadiness",
+"03-07-2026 11:24:58","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"03-07-2026 11:23:48","108","Information","Microsoft-Windows-AppReadiness",
+"03-07-2026 11:22:59","217","Information","Microsoft-Windows-AppReadiness","Activity for 'S-1-12-1-2357405129-1281513531-255772574-1816207334' has resumed."
+"01-07-2026 14:05:09","103","Information","Microsoft-Windows-AppReadiness",
+"01-07-2026 14:05:09","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"01-07-2026 14:02:48","108","Information","Microsoft-Windows-AppReadiness",
+"01-07-2026 14:02:39","108","Information","Microsoft-Windows-AppReadiness",
+"01-07-2026 10:14:21","103","Information","Microsoft-Windows-AppReadiness",
+"01-07-2026 10:14:21","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"01-07-2026 10:11:51","108","Information","Microsoft-Windows-AppReadiness",
+"29-06-2026 10:28:02","103","Information","Microsoft-Windows-AppReadiness",
+"29-06-2026 10:28:02","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"29-06-2026 10:25:32","108","Information","Microsoft-Windows-AppReadiness",
+"29-06-2026 09:05:20","103","Information","Microsoft-Windows-AppReadiness",
+"29-06-2026 09:05:20","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"29-06-2026 09:04:06","108","Information","Microsoft-Windows-AppReadiness",
+"29-06-2026 09:03:20","217","Information","Microsoft-Windows-AppReadiness","Activity for 'S-1-12-1-2357405129-1281513531-255772574-1816207334' has resumed."
+"25-06-2026 09:40:56","103","Information","Microsoft-Windows-AppReadiness",
+"25-06-2026 09:40:56","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"25-06-2026 09:40:08","108","Information","Microsoft-Windows-AppReadiness",
+"25-06-2026 09:38:57","217","Information","Microsoft-Windows-AppReadiness","Activity for 'S-1-12-1-2357405129-1281513531-255772574-1816207334' has resumed."
+"24-06-2026 12:43:47","103","Information","Microsoft-Windows-AppReadiness",
+"24-06-2026 12:43:47","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"24-06-2026 12:41:32","108","Information","Microsoft-Windows-AppReadiness",
+"24-06-2026 12:41:17","108","Information","Microsoft-Windows-AppReadiness",
+"23-06-2026 09:02:21","103","Information","Microsoft-Windows-AppReadiness",
+"23-06-2026 09:02:21","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"23-06-2026 09:01:26","108","Information","Microsoft-Windows-AppReadiness",
+"23-06-2026 09:00:23","217","Information","Microsoft-Windows-AppReadiness","Activity for 'S-1-12-1-2357405129-1281513531-255772574-1816207334' has resumed."
+"19-06-2026 09:04:05","103","Information","Microsoft-Windows-AppReadiness",
+"19-06-2026 09:04:05","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"19-06-2026 09:01:35","108","Information","Microsoft-Windows-AppReadiness",
+"18-06-2026 09:09:31","103","Information","Microsoft-Windows-AppReadiness",
+"18-06-2026 09:09:31","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"18-06-2026 09:09:10","108","Information","Microsoft-Windows-AppReadiness",
+"18-06-2026 09:07:40","217","Information","Microsoft-Windows-AppReadiness","Activity for 'S-1-12-1-2357405129-1281513531-255772574-1816207334' has resumed."
+"17-06-2026 19:15:35","103","Information","Microsoft-Windows-AppReadiness",
+"17-06-2026 19:14:33","108","Information","Microsoft-Windows-AppReadiness",
+"17-06-2026 15:43:01","103","Information","Microsoft-Windows-AppReadiness",
+"17-06-2026 15:43:01","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"17-06-2026 15:40:39","108","Information","Microsoft-Windows-AppReadiness",
+"17-06-2026 15:40:31","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: The package could not be installed because resources it modifies are currently in use.."
+"17-06-2026 15:40:31","108","Information","Microsoft-Windows-AppReadiness",
+"16-06-2026 10:02:18","103","Information","Microsoft-Windows-AppReadiness",
+"16-06-2026 10:02:18","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"16-06-2026 10:00:45","108","Information","Microsoft-Windows-AppReadiness",
+"16-06-2026 10:00:20","217","Information","Microsoft-Windows-AppReadiness","Activity for 'S-1-12-1-2357405129-1281513531-255772574-1816207334' has resumed."
+"15-06-2026 11:32:05","103","Information","Microsoft-Windows-AppReadiness",
+"15-06-2026 11:32:05","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"15-06-2026 11:29:37","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: The package could not be installed because resources it modifies are currently in use.."
+"15-06-2026 11:29:37","108","Information","Microsoft-Windows-AppReadiness",
+"15-06-2026 11:29:36","108","Information","Microsoft-Windows-AppReadiness",
+"15-06-2026 11:29:35","108","Information","Microsoft-Windows-AppReadiness",
+"12-06-2026 09:57:46","103","Information","Microsoft-Windows-AppReadiness",
+"12-06-2026 09:57:32","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"12-06-2026 09:55:39","108","Information","Microsoft-Windows-AppReadiness",
+"12-06-2026 09:55:33","217","Information","Microsoft-Windows-AppReadiness","Activity for 'S-1-12-1-2357405129-1281513531-255772574-1816207334' has resumed."
+"11-06-2026 08:52:18","103","Information","Microsoft-Windows-AppReadiness",
+"11-06-2026 08:52:18","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"11-06-2026 08:49:54","108","Information","Microsoft-Windows-AppReadiness",
+"11-06-2026 08:49:49","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: The package could not be installed because resources it modifies are currently in use.."
+"11-06-2026 08:49:48","108","Information","Microsoft-Windows-AppReadiness",
+"10-06-2026 10:57:53","103","Information","Microsoft-Windows-AppReadiness",
+"10-06-2026 10:57:53","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"10-06-2026 10:55:23","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: The package could not be installed because resources it modifies are currently in use.."
+"10-06-2026 10:55:23","108","Information","Microsoft-Windows-AppReadiness",
+"08-06-2026 19:21:02","103","Information","Microsoft-Windows-AppReadiness",
+"08-06-2026 19:21:02","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"08-06-2026 19:14:45","108","Information","Microsoft-Windows-AppReadiness",
+"08-06-2026 17:06:52","103","Information","Microsoft-Windows-AppReadiness",
+"08-06-2026 17:06:52","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"08-06-2026 17:04:22","108","Information","Microsoft-Windows-AppReadiness",
+"08-06-2026 17:03:57","103","Information","Microsoft-Windows-AppReadiness",
+"08-06-2026 17:03:57","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"08-06-2026 17:01:27","108","Information","Microsoft-Windows-AppReadiness",
+"08-06-2026 15:53:17","103","Information","Microsoft-Windows-AppReadiness",
+"08-06-2026 15:53:17","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"08-06-2026 15:50:47","108","Information","Microsoft-Windows-AppReadiness",
+"08-06-2026 09:43:39","103","Information","Microsoft-Windows-AppReadiness",
+"08-06-2026 09:43:39","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"08-06-2026 09:41:09","108","Information","Microsoft-Windows-AppReadiness",
+"04-06-2026 11:17:49","103","Information","Microsoft-Windows-AppReadiness",
+"04-06-2026 11:17:49","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"04-06-2026 11:15:25","108","Information","Microsoft-Windows-AppReadiness",
+"04-06-2026 11:15:19","108","Information","Microsoft-Windows-AppReadiness",
+"03-06-2026 10:24:37","103","Information","Microsoft-Windows-AppReadiness",
+"03-06-2026 10:24:37","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"03-06-2026 10:22:07","108","Information","Microsoft-Windows-AppReadiness",
+"03-06-2026 00:24:39","103","Information","Microsoft-Windows-AppReadiness",
+"03-06-2026 00:24:39","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"03-06-2026 00:22:36","108","Information","Microsoft-Windows-AppReadiness",
+"03-06-2026 00:22:10","108","Information","Microsoft-Windows-AppReadiness",
+"03-06-2026 00:22:09","108","Information","Microsoft-Windows-AppReadiness",
+"03-06-2026 00:22:09","108","Information","Microsoft-Windows-AppReadiness",
+"03-06-2026 00:17:22","103","Information","Microsoft-Windows-AppReadiness",
+"03-06-2026 00:17:22","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"03-06-2026 00:14:52","108","Information","Microsoft-Windows-AppReadiness",
+"02-06-2026 10:17:34","103","Information","Microsoft-Windows-AppReadiness",
+"02-06-2026 10:17:34","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"02-06-2026 10:15:04","108","Information","Microsoft-Windows-AppReadiness",
+"01-06-2026 09:30:02","103","Information","Microsoft-Windows-AppReadiness",
+"01-06-2026 09:30:02","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"01-06-2026 09:28:22","108","Information","Microsoft-Windows-AppReadiness",
+"01-06-2026 09:28:04","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: Install failed. Please contact your software vendor.."
+"01-06-2026 09:28:03","217","Information","Microsoft-Windows-AppReadiness","Activity for 'S-1-12-1-2357405129-1281513531-255772574-1816207334' has resumed."
+"29-05-2026 11:58:05","103","Information","Microsoft-Windows-AppReadiness",
+"29-05-2026 11:58:05","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"29-05-2026 11:55:45","108","Information","Microsoft-Windows-AppReadiness",
+"29-05-2026 11:55:37","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: Install failed. Please contact your software vendor.."
+"29-05-2026 11:55:37","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: Install failed. Please contact your software vendor.."
+"29-05-2026 11:55:35","108","Information","Microsoft-Windows-AppReadiness",
+"28-05-2026 10:22:43","103","Information","Microsoft-Windows-AppReadiness",
+"28-05-2026 10:22:43","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"28-05-2026 10:22:34","108","Information","Microsoft-Windows-AppReadiness",
+"28-05-2026 10:21:28","108","Information","Microsoft-Windows-AppReadiness",
+"28-05-2026 10:21:27","108","Information","Microsoft-Windows-AppReadiness",
+"28-05-2026 10:21:27","108","Information","Microsoft-Windows-AppReadiness",
+"28-05-2026 10:20:46","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: Install failed. Please contact your software vendor.."
+"28-05-2026 10:20:46","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: Install failed. Please contact your software vendor.."
+"28-05-2026 10:20:46","217","Information","Microsoft-Windows-AppReadiness","Activity for 'S-1-12-1-2357405129-1281513531-255772574-1816207334' has resumed."
+"26-05-2026 09:48:51","103","Information","Microsoft-Windows-AppReadiness",
+"26-05-2026 09:48:51","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"26-05-2026 09:46:27","108","Information","Microsoft-Windows-AppReadiness",
+"26-05-2026 09:46:22","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: Install failed. Please contact your software vendor.."
+"26-05-2026 09:46:22","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: Install failed. Please contact your software vendor.."
+"26-05-2026 09:46:21","108","Information","Microsoft-Windows-AppReadiness",
+"25-05-2026 09:08:43","103","Information","Microsoft-Windows-AppReadiness",
+"25-05-2026 09:08:43","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"25-05-2026 09:06:16","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: Install failed. Please contact your software vendor.."
+"25-05-2026 09:06:14","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: Install failed. Please contact your software vendor.."
+"25-05-2026 09:06:13","108","Information","Microsoft-Windows-AppReadiness",
+"25-05-2026 09:05:46","103","Information","Microsoft-Windows-AppReadiness",
+"25-05-2026 09:05:46","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"25-05-2026 09:03:17","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: Install failed. Please contact your software vendor.."
+"25-05-2026 09:03:16","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: Install failed. Please contact your software vendor.."
+"25-05-2026 09:03:16","108","Information","Microsoft-Windows-AppReadiness",
+"25-05-2026 09:03:01","103","Information","Microsoft-Windows-AppReadiness",
+"25-05-2026 09:03:01","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"25-05-2026 09:01:33","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: Install failed. Please contact your software vendor.."
+"25-05-2026 09:01:32","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: Install failed. Please contact your software vendor.."
+"25-05-2026 09:01:02","217","Information","Microsoft-Windows-AppReadiness","Activity for 'S-1-12-1-2357405129-1281513531-255772574-1816207334' has resumed."
+"23-05-2026 21:52:13","103","Information","Microsoft-Windows-AppReadiness",
+"23-05-2026 21:52:13","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"23-05-2026 21:51:06","108","Information","Microsoft-Windows-AppReadiness",
+"23-05-2026 21:50:18","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: Install failed. Please contact your software vendor.."
+"23-05-2026 21:50:17","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: Install failed. Please contact your software vendor.."
+"23-05-2026 21:50:14","217","Information","Microsoft-Windows-AppReadiness","Activity for 'S-1-12-1-2357405129-1281513531-255772574-1816207334' has resumed."
+"23-05-2026 13:43:08","103","Information","Microsoft-Windows-AppReadiness",
+"23-05-2026 13:43:08","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"23-05-2026 13:40:40","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: Install failed. Please contact your software vendor.."
+"23-05-2026 13:40:39","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: Install failed. Please contact your software vendor.."
+"23-05-2026 13:40:39","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: The package could not be installed because resources it modifies are currently in use.."
+"23-05-2026 13:40:38","108","Information","Microsoft-Windows-AppReadiness",
+"23-05-2026 11:22:54","103","Information","Microsoft-Windows-AppReadiness",
+"23-05-2026 11:22:54","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"23-05-2026 11:22:39","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: Install failed. Please contact your software vendor.."
+"23-05-2026 11:22:13","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: Install failed. Please contact your software vendor.."
+"23-05-2026 11:21:29","217","Information","Microsoft-Windows-AppReadiness","Activity for 'S-1-12-1-2357405129-1281513531-255772574-1816207334' has resumed."
+"23-05-2026 11:20:24","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=false, Reason=ExternalObjects)"
+"23-05-2026 11:17:54","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=false, Reason=ExternalObjects)"
+"23-05-2026 11:15:24","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=false, Reason=ExternalObjects)"
+"23-05-2026 11:12:54","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=false, Reason=ExternalObjects)"
+"23-05-2026 11:12:10","108","Information","Microsoft-Windows-AppReadiness",
+"23-05-2026 11:11:48","108","Information","Microsoft-Windows-AppReadiness",
+"23-05-2026 11:11:00","108","Information","Microsoft-Windows-AppReadiness",
+"23-05-2026 11:10:59","108","Information","Microsoft-Windows-AppReadiness",
+"23-05-2026 11:10:57","108","Information","Microsoft-Windows-AppReadiness",
+"23-05-2026 11:10:39","108","Information","Microsoft-Windows-AppReadiness",
+"23-05-2026 11:10:24","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=false, Reason=ExternalObjects)"
+"23-05-2026 11:07:54","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=false, Reason=ExternalObjects)"
+"23-05-2026 11:05:29","310","Information","Microsoft-Windows-AppReadiness","Finished registry flush for 'S-1-12-1-2357405129-1281513531-255772574-1816207334'."
+"23-05-2026 11:05:29","309","Information","Microsoft-Windows-AppReadiness","Starting registry flush for 'S-1-12-1-2357405129-1281513531-255772574-1816207334'."
+"23-05-2026 11:05:27","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: The system cannot find the file specified.."
+"23-05-2026 11:05:27","11","Warning","Microsoft-Windows-AppReadiness","A exception was caught: Package was not found.."
+"23-05-2026 11:04:07","103","Information","Microsoft-Windows-AppReadiness",
+"23-05-2026 11:04:07","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"23-05-2026 11:02:05","107","Information","Microsoft-Windows-AppReadiness","'S-1-5-21-3608031908-443761264-1593342945-1000' has logged off."
+"23-05-2026 11:00:48","103","Information","Microsoft-Windows-AppReadiness",
+"23-05-2026 11:00:47","107","Information","Microsoft-Windows-AppReadiness","'S-1-5-21-3608031908-443761264-1593342945-1000' has logged off."
+"23-05-2026 10:59:25","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=false, Reason=S-1-5-21-3608031908-443761264-1593342945-1000)"
+"23-05-2026 10:56:55","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=false, Reason=S-1-5-21-3608031908-443761264-1593342945-1000)"
+"23-05-2026 10:54:30","108","Information","Microsoft-Windows-AppReadiness",
+"23-05-2026 10:54:25","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=false, Reason=S-1-5-21-3608031908-443761264-1593342945-1000)"
+"23-05-2026 10:52:25","217","Information","Microsoft-Windows-AppReadiness","Activity for 'S-1-5-21-3608031908-443761264-1593342945-1000' has resumed."
+"23-05-2026 10:51:22","103","Information","Microsoft-Windows-AppReadiness",
+"23-05-2026 10:51:22","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=true, Reason=None)"
+"23-05-2026 10:51:21","107","Information","Microsoft-Windows-AppReadiness","'S-1-5-21-3608031908-443761264-1593342945-1000' has logged off."
+"23-05-2026 23:18:52","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=false, Reason=S-1-5-21-3608031908-443761264-1593342945-1000)"
+"23-05-2026 23:16:22","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=false, Reason=S-1-5-21-3608031908-443761264-1593342945-1000)"
+"23-05-2026 23:13:52","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=false, Reason=S-1-5-21-3608031908-443761264-1593342945-1000)"
+"23-05-2026 23:11:22","105","Information","Microsoft-Windows-AppReadiness","Checking for service idle. (Result=false, Reason=S-1-5-21-3608031908-443761264-1593342945-1000)"
+"23-05-2026 23:08:56","106","Information","Microsoft-Windows-AppReadiness","'S-1-5-21-3608031908-443761264-1593342945-1000' has logged on."

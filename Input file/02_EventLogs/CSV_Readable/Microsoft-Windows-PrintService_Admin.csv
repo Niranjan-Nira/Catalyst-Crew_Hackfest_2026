@@ -1,0 +1,3 @@
+﻿"TimeCreated","Id","LevelDisplayName","ProviderName","Message"
+"23-05-2026 23:08:06","808","Error","Microsoft-Windows-PrintService","The print spooler failed to load a plug-in module PrintConfig registration failed: C:\Windows\system32\regsvr32.exe /s ""C:\Windows\system32\spool\drivers\x64\3\PrintConfig.dll"", error code 0x5. See the event user data for context information."
+"23-05-2026 23:08:05","808","Error","Microsoft-Windows-PrintService","The print spooler failed to load a plug-in module PrintConfig registration failed: C:\Windows\system32\regsvr32.exe /s ""C:\Windows\system32\spool\drivers\x64\3\PrintConfig.dll"", error code 0x5. See the event user data for context information."

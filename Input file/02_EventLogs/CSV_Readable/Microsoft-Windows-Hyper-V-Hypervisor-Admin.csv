@@ -1,0 +1,223 @@
+﻿"TimeCreated","Id","LevelDisplayName","ProviderName","Message"
+"18-08-2026 14:30:45","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"18-08-2026 14:30:41","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"18-08-2026 10:28:47","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"18-08-2026 10:28:44","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"11-08-2026 12:02:24","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"11-08-2026 12:02:20","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"10-08-2026 09:35:54","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"10-08-2026 09:35:49","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"03-08-2026 09:25:56","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"03-08-2026 09:25:52","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"31-07-2026 09:44:12","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"31-07-2026 09:44:09","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"27-07-2026 11:49:10","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"27-07-2026 11:49:06","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"27-07-2026 09:37:01","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"27-07-2026 09:36:56","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"27-07-2026 09:34:13","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"27-07-2026 09:34:08","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"21-07-2026 08:44:09","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"21-07-2026 08:44:06","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"12-07-2026 18:31:48","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"12-07-2026 18:31:46","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"07-07-2026 09:28:14","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"07-07-2026 09:28:09","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"04-07-2026 14:12:33","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"04-07-2026 14:12:29","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"03-07-2026 11:20:13","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"03-07-2026 11:20:10","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"01-07-2026 10:08:09","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"01-07-2026 10:08:06","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"29-06-2026 10:24:09","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"29-06-2026 10:24:05","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"29-06-2026 09:02:20","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"29-06-2026 09:02:16","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"25-06-2026 09:35:52","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"25-06-2026 09:35:49","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"18-06-2026 09:05:26","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"18-06-2026 09:05:23","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"17-06-2026 19:18:03","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"17-06-2026 19:17:58","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"17-06-2026 19:16:35","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"17-06-2026 19:16:30","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"17-06-2026 19:13:28","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"17-06-2026 19:13:22","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"16-06-2026 09:59:14","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"16-06-2026 09:59:11","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"12-06-2026 09:54:24","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"12-06-2026 09:54:21","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"08-06-2026 19:13:42","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"08-06-2026 19:13:38","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"08-06-2026 09:39:58","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"08-06-2026 09:39:55","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"03-06-2026 10:13:55","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"03-06-2026 10:13:53","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"03-06-2026 00:13:25","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"03-06-2026 00:13:22","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"02-06-2026 10:13:59","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"02-06-2026 10:13:53","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"01-06-2026 09:19:13","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"01-06-2026 09:19:10","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"28-05-2026 10:19:26","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"28-05-2026 10:19:22","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"25-05-2026 08:59:52","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"25-05-2026 08:59:49","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"23-05-2026 21:48:24","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"23-05-2026 21:48:20","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"23-05-2026 11:01:28","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"23-05-2026 11:01:26","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"23-05-2026 10:51:46","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"23-05-2026 10:51:43","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"23-05-2026 23:08:23","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"23-05-2026 23:08:21","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"
+"23-05-2026 23:05:49","155","Information","Microsoft-Windows-Hyper-V-Hypervisor","Host processor features mask: 
+
+Host xsave features mask: 0x4058381F
+
+Host cache line flush size: 64 bytes"
+"23-05-2026 23:05:37","156","Information","Microsoft-Windows-Hyper-V-Hypervisor","Hypervisor initial page allocation NUMA policy: Proportional NUMA distribution"

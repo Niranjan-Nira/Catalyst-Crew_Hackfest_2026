@@ -1,0 +1,14 @@
+[
+  {
+    "event_id":"EVT00052",
+    "device_id":"device_02",
+    "category":"update_failure",
+    "label":"possible_anomaly",
+    "confidence":55,
+    "confidence_reason":"13 update installation failures recorded \u2014 worth checking if these correlate with any instability window",
+    "description":"13 update installation failures in Reliability history",
+    "source_file":"ReliabilityHistory\/ReliabilityRecords.csv",
+    "evidence_detail":"{'TimeGenerated': '29-07-2026 12:31:21', 'SourceName': 'Microsoft-Windows-WindowsUpdateClient', 'Message': 'Installation Failure: Windows failed to install the following update with error 0x80073D02: 9WZDNCRD29V9-MICROSOFT.MICROSOFTOFFICEHUB.', 'EventIdentifier': 20, 'ProductName': '9WZDNCRD29V9-MICROSOFT.MICROSOFTOFFICEHUB', 'User': 'NT AUTHORITY\\\\SYSTEM'}",
+    "timestamp":null
+  }
+]

@@ -1,0 +1,295 @@
+﻿"TimeCreated","Id","LevelDisplayName","ProviderName","Message"
+"18-08-2026 19:01:13","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4320
+    Transaction Time (msec): 610
+    Transaction Commit Time (msec): 94
+    Configured Threshold (msec): 500"
+"13-08-2026 12:28:58","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4148
+    Transaction Time (msec): 844
+    Transaction Commit Time (msec): 203
+    Configured Threshold (msec): 500"
+"07-08-2026 18:17:58","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4224
+    Transaction Time (msec): 984
+    Transaction Commit Time (msec): 78
+    Configured Threshold (msec): 500"
+"07-08-2026 18:15:08","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4224
+    Transaction Time (msec): 2266
+    Transaction Commit Time (msec): 109
+    Configured Threshold (msec): 500"
+"27-07-2026 18:58:54","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4172
+    Transaction Time (msec): 500
+    Transaction Commit Time (msec): 125
+    Configured Threshold (msec): 500"
+"27-07-2026 09:15:21","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4036
+    Transaction Time (msec): 594
+    Transaction Commit Time (msec): 203
+    Configured Threshold (msec): 500"
+"24-07-2026 18:30:23","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4036
+    Transaction Time (msec): 781
+    Transaction Commit Time (msec): 109
+    Configured Threshold (msec): 500"
+"23-07-2026 18:20:20","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4036
+    Transaction Time (msec): 875
+    Transaction Commit Time (msec): 125
+    Configured Threshold (msec): 500"
+"20-07-2026 10:28:52","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 3928
+    Transaction Time (msec): 688
+    Transaction Commit Time (msec): 47
+    Configured Threshold (msec): 500"
+"20-07-2026 09:58:51","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 3928
+    Transaction Time (msec): 953
+    Transaction Commit Time (msec): 625
+    Configured Threshold (msec): 500"
+"15-07-2026 18:03:53","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4636
+    Transaction Time (msec): 78531
+    Transaction Commit Time (msec): 0
+    Configured Threshold (msec): 500"
+"14-07-2026 21:25:57","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 3928
+    Transaction Time (msec): 516
+    Transaction Commit Time (msec): 219
+    Configured Threshold (msec): 500"
+"13-07-2026 09:38:41","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 3928
+    Transaction Time (msec): 1656
+    Transaction Commit Time (msec): 484
+    Configured Threshold (msec): 500"
+"12-07-2026 18:21:28","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4228
+    Transaction Time (msec): 813
+    Transaction Commit Time (msec): 47
+    Configured Threshold (msec): 500"
+"12-07-2026 18:21:07","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4228
+    Transaction Time (msec): 844
+    Transaction Commit Time (msec): 844
+    Configured Threshold (msec): 500"
+"11-07-2026 17:19:44","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4228
+    Transaction Time (msec): 828
+    Transaction Commit Time (msec): 203
+    Configured Threshold (msec): 500"
+"11-07-2026 17:19:37","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4228
+    Transaction Time (msec): 969
+    Transaction Commit Time (msec): 266
+    Configured Threshold (msec): 500"
+"11-07-2026 09:08:07","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4228
+    Transaction Time (msec): 1407
+    Transaction Commit Time (msec): 375
+    Configured Threshold (msec): 500"
+"06-07-2026 18:52:20","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4180
+    Transaction Time (msec): 547
+    Transaction Commit Time (msec): 188
+    Configured Threshold (msec): 500"
+"06-07-2026 09:11:05","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4180
+    Transaction Time (msec): 719
+    Transaction Commit Time (msec): 157
+    Configured Threshold (msec): 500"
+"01-07-2026 17:26:01","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4740
+    Transaction Time (msec): 306656
+    Transaction Commit Time (msec): 0
+    Configured Threshold (msec): 500"
+"01-07-2026 09:34:58","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4360
+    Transaction Time (msec): 594
+    Transaction Commit Time (msec): 94
+    Configured Threshold (msec): 500"
+"30-06-2026 20:07:07","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 5024
+    Transaction Time (msec): 2847110
+    Transaction Commit Time (msec): 0
+    Configured Threshold (msec): 500"
+"24-06-2026 19:40:45","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4212
+    Transaction Time (msec): 735
+    Transaction Commit Time (msec): 110
+    Configured Threshold (msec): 500"
+"24-06-2026 15:48:05","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4212
+    Transaction Time (msec): 859
+    Transaction Commit Time (msec): 94
+    Configured Threshold (msec): 500"
+"24-06-2026 13:51:33","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4212
+    Transaction Time (msec): 563
+    Transaction Commit Time (msec): 563
+    Configured Threshold (msec): 500"
+"23-06-2026 12:15:18","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4212
+    Transaction Time (msec): 531
+    Transaction Commit Time (msec): 125
+    Configured Threshold (msec): 500"
+"22-06-2026 14:14:56","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4212
+    Transaction Time (msec): 687
+    Transaction Commit Time (msec): 218
+    Configured Threshold (msec): 500"
+"22-06-2026 13:05:34","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4812
+    Transaction Time (msec): 892609
+    Transaction Commit Time (msec): 0
+    Configured Threshold (msec): 500"
+"22-06-2026 11:16:22","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4812
+    Transaction Time (msec): 7281
+    Transaction Commit Time (msec): 0
+    Configured Threshold (msec): 500"
+"17-06-2026 19:18:27","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4712
+    Transaction Time (msec): 562
+    Transaction Commit Time (msec): 531
+    Configured Threshold (msec): 500"
+"16-06-2026 16:23:07","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4340
+    Transaction Time (msec): 703
+    Transaction Commit Time (msec): 156
+    Configured Threshold (msec): 500"
+"16-06-2026 16:23:05","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4340
+    Transaction Time (msec): 750
+    Transaction Commit Time (msec): 265
+    Configured Threshold (msec): 500"
+"15-06-2026 16:35:28","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4736
+    Transaction Time (msec): 500
+    Transaction Commit Time (msec): 16
+    Configured Threshold (msec): 500"
+"15-06-2026 16:35:22","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4736
+    Transaction Time (msec): 704
+    Transaction Commit Time (msec): 141
+    Configured Threshold (msec): 500"
+"15-06-2026 16:34:49","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4736
+    Transaction Time (msec): 687
+    Transaction Commit Time (msec): 312
+    Configured Threshold (msec): 500"
+"15-06-2026 16:28:08","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4736
+    Transaction Time (msec): 719
+    Transaction Commit Time (msec): 94
+    Configured Threshold (msec): 500"
+"15-06-2026 15:08:18","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4736
+    Transaction Time (msec): 1328
+    Transaction Commit Time (msec): 469
+    Configured Threshold (msec): 500"
+"15-06-2026 08:53:04","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4736
+    Transaction Time (msec): 1187
+    Transaction Commit Time (msec): 875
+    Configured Threshold (msec): 500"
+"12-06-2026 09:19:44","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4664
+    Transaction Time (msec): 860
+    Transaction Commit Time (msec): 0
+    Configured Threshold (msec): 500"
+"09-06-2026 20:18:09","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4664
+    Transaction Time (msec): 1141
+    Transaction Commit Time (msec): 125
+    Configured Threshold (msec): 500"
+"09-06-2026 09:45:09","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4664
+    Transaction Time (msec): 546
+    Transaction Commit Time (msec): 218
+    Configured Threshold (msec): 500"
+"02-06-2026 19:47:11","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 5012
+    Transaction Time (msec): 311734
+    Transaction Commit Time (msec): 0
+    Configured Threshold (msec): 500"
+"01-06-2026 15:29:31","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4360
+    Transaction Time (msec): 531
+    Transaction Commit Time (msec): 78
+    Configured Threshold (msec): 500"
+"01-06-2026 14:27:57","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4360
+    Transaction Time (msec): 500
+    Transaction Commit Time (msec): 109
+    Configured Threshold (msec): 500"
+"31-05-2026 18:14:18","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4548
+    Transaction Time (msec): 547
+    Transaction Commit Time (msec): 203
+    Configured Threshold (msec): 500"
+"29-05-2026 19:16:13","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 5012
+    Transaction Time (msec): 102656
+    Transaction Commit Time (msec): 0
+    Configured Threshold (msec): 500"
+"29-05-2026 10:03:43","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 4548
+    Transaction Time (msec): 875
+    Transaction Commit Time (msec): 781
+    Configured Threshold (msec): 500"
+"23-05-2026 11:01:50","1030","Warning","Microsoft-Windows-WFP","Transaction Watchdog Timeout
+The filtering engine has exceeded the configured threshold to process a transaction. This could indicate a suboptimal policy configuration that may cause temporary network outages.
+    Owning Process ID: 5148
+    Transaction Time (msec): 562
+    Transaction Commit Time (msec): 547
+    Configured Threshold (msec): 500"

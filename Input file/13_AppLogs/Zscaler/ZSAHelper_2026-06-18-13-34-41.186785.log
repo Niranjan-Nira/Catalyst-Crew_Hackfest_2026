@@ -1,0 +1,12 @@
+2026-06-18 13:34:41.186785(+0530)[15300:21568] INF Timezone: India Standard Time, Offset: 19800, Standard Name: India Standard Time, UTC Offset: 19800
+2026-06-18 13:34:41.186785(+0530)[15300:21568] INF ZSAHelper App Version: 4.7.0.141
+2026-06-18 13:34:41.186785(+0530)[15300:21568] INF ZSAHelper Architecture: x64
+2026-06-18 13:34:41.186785(+0530)[15300:21568] INF ZSAHelper GIT Hash: 4ee4b7d7870f443d29c6d1bda9662f24ede0696c
+2026-06-18 13:34:41.186785(+0530)[15300:21568] INF x64 BINARY (Supports both gov and commercial clouds)
+2026-06-18 13:34:41.186785(+0530)[15300:21568] DBG Config Dir: C:\ProgramData\Zscaler
+2026-06-18 13:34:41.186785(+0530)[15300:21568] DBG App options initialized successfully
+2026-06-18 13:34:41.186785(+0530)[15300:21568] INF Performing op: --stopZsawdrvDriver
+2026-06-18 13:34:41.186785(+0530)[15300:21568] INF Attempting ZSAWDRV driver stop
+2026-06-18 13:34:41.186785(+0530)[15300:21568] INF No dependent services found
+2026-06-19 03:29:32.500305(+0530)[15300:21568] ERR Failed to stop Service on time [ZSAWDRV]
+2026-06-19 03:29:32.988314(+0530)[15300:21568] INF ZSAHelper return code: 1460

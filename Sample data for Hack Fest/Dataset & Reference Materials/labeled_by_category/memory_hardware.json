@@ -1,0 +1,50 @@
+[
+  {
+    "event_id":"EVT00002",
+    "device_id":"device_01",
+    "category":"memory_hardware",
+    "label":"not_anomaly",
+    "confidence":85,
+    "confidence_reason":"No WHEA hardware memory error events were found in the System log",
+    "description":"No hardware memory errors detected",
+    "source_file":"06_Memory\/WHEA_HardwareMemoryErrors.csv",
+    "evidence_detail":"0 rows",
+    "timestamp":null
+  },
+  {
+    "event_id":"EVT00060",
+    "device_id":"device_04",
+    "category":"memory_hardware",
+    "label":"possible_anomaly",
+    "confidence":40,
+    "confidence_reason":"1 WHEA event(s) present but logged at Information level only \u2014 Windows itself did not classify these as faults, so treat as worth watching, not confirmed",
+    "description":"1 informational-level WHEA hardware event(s) recorded",
+    "source_file":"06_Memory\/WHEA_HardwareMemoryErrors.csv",
+    "evidence_detail":"{'TimeCreated': '8\/4\/2026 7:29:01 AM', 'Id': 3, 'LevelDisplayName': 'Information', 'Message': 'A hardware event has occurred. An informational record describing the condition is contained in the data section of this event.'}",
+    "timestamp":"2026-08-04T07:29:01"
+  },
+  {
+    "event_id":"EVT00083",
+    "device_id":"device_05",
+    "category":"memory_hardware",
+    "label":"possible_anomaly",
+    "confidence":40,
+    "confidence_reason":"1 WHEA event(s) present but logged at Information level only \u2014 Windows itself did not classify these as faults, so treat as worth watching, not confirmed",
+    "description":"1 informational-level WHEA hardware event(s) recorded",
+    "source_file":"06_Memory\/WHEA_HardwareMemoryErrors.csv",
+    "evidence_detail":"{'TimeCreated': '2\/24\/2026 11:44:04 AM', 'Id': 3, 'LevelDisplayName': 'Information', 'Message': 'A hardware event has occurred. An informational record describing the condition is contained in the data section of this event.'}",
+    "timestamp":"2026-02-24T11:44:04"
+  },
+  {
+    "event_id":"EVT00143",
+    "device_id":"device_06",
+    "category":"memory_hardware",
+    "label":"possible_anomaly",
+    "confidence":40,
+    "confidence_reason":"3 WHEA event(s) present but logged at Information level only \u2014 Windows itself did not classify these as faults, so treat as worth watching, not confirmed",
+    "description":"3 informational-level WHEA hardware event(s) recorded",
+    "source_file":"06_Memory\/WHEA_HardwareMemoryErrors.csv",
+    "evidence_detail":"{'TimeCreated': '24-08-2026 13:26:09', 'Id': 3, 'LevelDisplayName': 'Information', 'Message': 'A hardware event has occurred. An informational record describing the condition is contained in the data section of this event.'}",
+    "timestamp":"2026-08-24T13:26:09"
+  }
+]

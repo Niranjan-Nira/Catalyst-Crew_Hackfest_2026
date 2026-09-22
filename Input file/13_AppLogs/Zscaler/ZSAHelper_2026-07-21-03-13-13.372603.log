@@ -1,0 +1,17 @@
+2026-07-21 03:13:13.372603(+0530)[28192:20932] INF Timezone: India Standard Time, Offset: 19800, Standard Name: India Standard Time, UTC Offset: 19800
+2026-07-21 03:13:13.372603(+0530)[28192:20932] INF ZSAHelper App Version: 4.8.0.232
+2026-07-21 03:13:13.372603(+0530)[28192:20932] INF ZSAHelper Architecture: x64
+2026-07-21 03:13:13.372603(+0530)[28192:20932] INF ZSAHelper GIT Hash: 8f4d1a1eacfec3e316e9064003d36808c1c70589
+2026-07-21 03:13:13.372603(+0530)[28192:20932] INF x64 BINARY (Supports both gov and commercial clouds)
+2026-07-21 03:13:13.372603(+0530)[28192:20932] DBG Config Dir: C:\ProgramData\Zscaler
+2026-07-21 03:13:13.372603(+0530)[28192:20932] DBG App options initialized successfully
+2026-07-21 03:13:13.372603(+0530)[28192:20932] INF Performing op: --stopZsawdrvDriver
+2026-07-21 03:13:13.372603(+0530)[28192:20932] INF Attempting ZSAWDRV driver stop
+2026-07-21 03:13:13.372603(+0530)[28192:20932] INF No dependent services found
+2026-07-21 03:13:23.386524(+0530)[28192:22608] ERR Error while opening 'DumpFolder' for 'ZSAHelper.exe' registry. Error Code: 2
+2026-07-21 03:13:23.386524(+0530)[28192:22608] DBG [findFilesAndOperateV2] Operating on C:\ProgramData\Zscaler
+2026-07-21 03:13:23.386524(+0530)[28192:22608] DBG [findFilesAndOperateV2] Operation done on C:\ProgramData\Zscaler
+2026-07-21 03:13:23.386524(+0530)[28192:22608] DBG called removeDumpFile for [dumpFiles:0, dwMaxDumpToRetain:10, bDeleteOldDump:1]
+2026-07-21 03:13:23.386524(+0530)[28192:22608] DBG called removeDumpFile for [dumpFiles:0, dwMaxDumpToRetain:10, bDeleteOldDump:0]
+2026-07-21 03:13:23.592593(+0530)[28192:20932] INF Service stopped successfully
+2026-07-21 03:13:23.592593(+0530)[28192:20932] INF ZSAHelper return code: 0

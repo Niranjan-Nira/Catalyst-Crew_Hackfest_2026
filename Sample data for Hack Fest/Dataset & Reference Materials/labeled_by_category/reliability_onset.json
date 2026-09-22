@@ -1,0 +1,98 @@
+[
+  {
+    "event_id":"EVT00006",
+    "device_id":"device_01",
+    "category":"reliability_onset",
+    "label":"possible_anomaly",
+    "confidence":55,
+    "confidence_reason":"A sharp day-over-day drop marks WHEN instability began but doesn't by itself identify WHY \u2014 needs correlation with other categories",
+    "description":"Stability index dropped from 7.54 to 5.15 on 2026-08-03",
+    "source_file":"09_ReliabilityMonitor\/StabilityIndex_DailyScore.csv",
+    "evidence_detail":"prev=7.54, new=5.15",
+    "timestamp":"2026-08-03T08:30:00"
+  },
+  {
+    "event_id":"EVT00007",
+    "device_id":"device_01",
+    "category":"reliability_onset",
+    "label":"possible_anomaly",
+    "confidence":55,
+    "confidence_reason":"A sharp day-over-day drop marks WHEN instability began but doesn't by itself identify WHY \u2014 needs correlation with other categories",
+    "description":"Stability index dropped from 5.79 to 2.00 on 2026-08-07",
+    "source_file":"09_ReliabilityMonitor\/StabilityIndex_DailyScore.csv",
+    "evidence_detail":"prev=5.79, new=2.00",
+    "timestamp":"2026-08-07T17:30:00"
+  },
+  {
+    "event_id":"EVT00051",
+    "device_id":"device_02",
+    "category":"reliability_onset",
+    "label":"possible_anomaly",
+    "confidence":55,
+    "confidence_reason":"A sharp day-over-day drop marks WHEN instability began but not WHY",
+    "description":"Stability index dropped from 9.94 to 6.68 on 2026-08-18",
+    "source_file":"ReliabilityHistory\/StabilityIndex.csv",
+    "evidence_detail":"prev=9.94, new=6.68",
+    "timestamp":"2026-08-18T13:30:00"
+  },
+  {
+    "event_id":"EVT00065",
+    "device_id":"device_04",
+    "category":"reliability_onset",
+    "label":"possible_anomaly",
+    "confidence":55,
+    "confidence_reason":"A sharp day-over-day drop marks WHEN instability began but doesn't by itself identify WHY \u2014 needs correlation with other categories",
+    "description":"Stability index dropped from 9.48 to 6.39 on 2026-08-08",
+    "source_file":"09_ReliabilityMonitor\/StabilityIndex_DailyScore.csv",
+    "evidence_detail":"prev=9.48, new=6.39",
+    "timestamp":"2026-08-08T07:30:00"
+  },
+  {
+    "event_id":"EVT00087",
+    "device_id":"device_05",
+    "category":"reliability_onset",
+    "label":"possible_anomaly",
+    "confidence":55,
+    "confidence_reason":"A sharp day-over-day drop marks WHEN instability began but doesn't by itself identify WHY \u2014 needs correlation with other categories",
+    "description":"Stability index dropped from 6.89 to 4.74 on 2026-08-06",
+    "source_file":"09_ReliabilityMonitor\/StabilityIndex_DailyScore.csv",
+    "evidence_detail":"prev=6.89, new=4.74",
+    "timestamp":"2026-08-06T17:30:00"
+  },
+  {
+    "event_id":"EVT00088",
+    "device_id":"device_05",
+    "category":"reliability_onset",
+    "label":"possible_anomaly",
+    "confidence":55,
+    "confidence_reason":"A sharp day-over-day drop marks WHEN instability began but doesn't by itself identify WHY \u2014 needs correlation with other categories",
+    "description":"Stability index dropped from 6.93 to 4.76 on 2026-08-12",
+    "source_file":"09_ReliabilityMonitor\/StabilityIndex_DailyScore.csv",
+    "evidence_detail":"prev=6.93, new=4.76",
+    "timestamp":"2026-08-12T19:30:00"
+  },
+  {
+    "event_id":"EVT00089",
+    "device_id":"device_05",
+    "category":"reliability_onset",
+    "label":"possible_anomaly",
+    "confidence":55,
+    "confidence_reason":"A sharp day-over-day drop marks WHEN instability began but doesn't by itself identify WHY \u2014 needs correlation with other categories",
+    "description":"Stability index dropped from 8.00 to 4.26 on 2026-08-24",
+    "source_file":"09_ReliabilityMonitor\/StabilityIndex_DailyScore.csv",
+    "evidence_detail":"prev=8.00, new=4.26",
+    "timestamp":"2026-08-24T17:30:00"
+  },
+  {
+    "event_id":"EVT00147",
+    "device_id":"device_06",
+    "category":"reliability_onset",
+    "label":"not_anomaly",
+    "confidence":70,
+    "confidence_reason":"No sharp day-over-day drop in the daily stability index across the recorded window",
+    "description":"No stability onset event detected",
+    "source_file":"09_ReliabilityMonitor\/StabilityIndex_DailyScore.csv",
+    "evidence_detail":"no qualifying drop",
+    "timestamp":null
+  }
+]

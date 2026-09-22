@@ -1,0 +1,4763 @@
+﻿<!DOCTYPE html>
+<!-- saved from url=(0016)http://localhost -->
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>wlan report</title>
+<style type="text/css">
+          body {
+          margin: 0;
+          padding: 0;
+          background-color: #EFEFEF;
+          font-family: "segoe ui light", "segoe ui";
+          letter-spacing: 0.03em;
+          }
+
+          table {
+          border-collapse: collapse;
+          }
+
+          th {
+          border: 1px solid #222;
+          text-align: center;
+          }
+
+          tr {
+          height: 1.5em;
+          border: 1px solid #222;
+          }
+
+          td {
+          border: 1px solid #222;
+          }
+
+          #top-btn {
+          position: fixed;
+          padding: 5px;
+          border: 2px solid #333;
+          cursor: pointer;
+          }
+          #top-btn p {
+          margin: 0;
+          }
+
+          #report-wrapper {
+          width: 1000px;
+          margin: 0 auto;
+          }
+
+          #session-graph-wrapper {
+          background-color: #1F1F1F;
+          outline: 2px solid #AAA;
+          }
+
+          #session-graph {
+          cursor: pointer;
+          }
+
+          #graph-event-info {
+          float: left;
+          width: 500px;
+          height: 170px;
+          color: #DDD;
+          padding: 0px 30px 0px 20px;
+          }
+          #graph-event-info h4 {
+          margin: 0px 0px 10px 0px;
+          }
+
+          #event-info {
+          margin: 0;
+          height: 135px overflow: scroll;
+          }
+
+          #sysinfo {
+          margin: 0px 0px 30px 0px;
+          }
+          #sysinfo p {
+          margin: 0;
+          padding: 0;
+          }
+
+          #report-info p {
+          margin: 0;
+          padding: 0;
+          }
+
+          #disconnect-status tr {
+          border: 1px solid #222;
+          }
+
+          #disconnect-status td {
+          border: 1px solid #222;
+          }
+
+          #disconnect-status .status {
+          width: 300px;
+          padding-top: 0px;
+          }
+
+          #disconnect-reasons .reason {
+          width: 800px;
+          padding-top: 0;
+          }
+
+          .count {
+          width: 75px;
+          text-align: center;
+          }
+
+          .graph-background {
+          position: absolute;
+          z-index: -1;
+          height: 1.5em;
+          margin: -1px;
+          background-color: rgb(171,168,244);
+          }
+          .graph-background.success {
+          background-color: rgb(108, 216, 108);
+          }
+
+          .graph-background.failure {
+          background-color: rgb(216, 108, 108);
+          }
+
+          .graph-background.warning {
+          background-color: rgb(216, 216, 108);
+          }
+
+          #session-durations {
+          border-left: 1px solid #222;
+          overflow: hidden;
+          }
+
+          #duration-labels {
+          text-align: center;
+          }
+
+          #duration-graph {
+          height: 550px;
+          border: none;
+          }
+          #duration-graph td {
+          width: 80px;
+          padding: 0px 2px 0px 2px;
+          vertical-align: top;
+          position: relative;
+          border: none;
+          }
+
+          .duration-bar {
+          width: 80px;
+          position: absolute;
+          }
+
+          .bar-label {
+          width: 80px;
+          position: absolute;
+          text-align: center;
+          font-weight: bold;
+          }
+
+          .bar-background {
+          background-color: rgb(171,168,244);
+          display: block;
+          width: 100%;
+          height: 100%;
+          outline: 1px solid #222;
+          }
+
+          .session {
+          background-color: #FFF;
+          margin: 0px 0px 20px 0px;
+          padding: 10px;
+          border: 2px solid #666;
+          }
+          .session p {
+          margin: 0.2em;
+          }
+
+          .session table {
+          width: 100%;
+          }
+
+          .session .event-header {
+          width: 75px;
+          }
+
+          .session .time-header {
+          width: 180px;
+          }
+
+          .session .message-header {
+          width: auto;
+          }
+
+          .successful {
+          background-color: #1BEB00;
+          }
+
+          .warning {
+          background-color: #EBEB00;
+          }
+
+          .failed {
+          background-color: #F00;
+          }
+
+          .info {
+          background-color: #E2E2E2;
+          }
+
+          .message {
+          width: 700px;
+          height: 1.5em;
+          overflow: hidden;
+          white-space: pre;
+          text-overflow: ellipsis;
+          }
+          .message.show {
+          height: auto;
+          overflow: auto;
+          white-space: normal;
+          }
+
+          .message .expand-btn {
+          cursor: pointer;
+          }
+
+          .error {
+          background-color: rgb(255,178,178);
+          font-weight: bold;
+          }
+
+          .ndis.sleep {
+          background-color: #AF9AE4;
+          }
+
+          .ndis.wake {
+          background-color: #E49AEF;
+          }
+
+          .wlan {
+          background-color: #FFF;
+          }
+          .wlan.connect {
+          background-color: #9AE4A6;
+          }
+
+          .wlan.disconnect {
+          background-color: #F5BE9C;
+          }
+
+          .ncsi.internet {
+          background-color: #9CCAF5;
+          }
+
+          .ncsi.local {
+          background-color: #F1F59C;
+          }
+
+          .ncsi.none {
+          background-color: #F59C9C;
+          }
+		  
+          .wcm {
+          background-color: #F0FFFF;
+          }
+		  
+          .eap {
+          background-color: #FFFFF0;
+          }
+		  
+          .glow {
+          font-weight: bold;
+          outline: 3px solid #000000;
+          }
+		  
+          #commands-output {
+          margin: 0px 0px 30px 0px;
+          }
+          .command-output {
+          background-color: #000;
+          color: #C0C0C0;
+          padding: 5px;
+          outline: 5px solid #BBB;
+          }
+        </style>
+</head>
+<body>
+<div id="top-btn">
+<p>Top</p>
+</div>
+<div id="report-wrapper">
+<h1>Wlan Report</h1>
+<div id="session-graph-wrapper"><canvas id="session-graph" width="1000" height="315"></canvas><div id="graph-event-info">
+<h4>Summary</h4>
+<p id="event-info">
+                            Hover over a session or event to view a summary <br>
+                            Click on an event to jump to it in the session list
+                        </p>
+</div><canvas id="graph-legend" width="400" height="170"></canvas></div>
+<div id="report-info">
+<h2>Report Info</h2>
+<p>Report created:<b>2026-08-19T14:35:46Z</b></p>
+<p>Report duration:<b>3 days</b></p>
+</div>
+<div id="sysinfo">
+<h2>General System Info</h2>
+<p>ComputerName: <b>LIND55MBVC4</b></p>
+<p>System Manufacturer:<b>Dell Inc.</b></p>
+<p>System Product Name:<b>Dell Pro 14 Plus PB14250</b></p>
+<p>BIOS Date:<b>07/03/2026</b></p>
+<p>BIOS Version:<b>2.14.4</b></p>
+<p>OS Build:<b>26100.1.amd64fre.ge_release.240331-1435</b></p>
+<p>Machine Id: <b>{459ECE89-D24E-4281-ABDA-31AEA3A93431}</b></p>
+<p>MDM joined: 
+                                <b>True</b></p>
+<h2>User Info</h2>
+<p>Username: <b>arjo5004.T1</b></p>
+<p>User Domain:<b>ENTERPRISE</b></p>
+<p>User DNS Domain:<b>enterprisenet.org</b></p>
+<h2>Network Adapters</h2>
+<p>Device: <b>WAN Miniport (PPPOE)</b></p>
+<p>PNP ID: <b>SWD\MSRRAS\MS_PPPOEMINIPORT</b></p>
+<p>Guid: <b>{84E2FF51-98F5-4751-9C20-7C7B89B97B55}</b></p>
+<p>Current driver version: <b>10.0.26100.1</b></p>
+<p>Driver date: <b>6-21-2006 </b></p>
+<p>DevNode flags: <b>0x180200a</b></p><br><p>Device: <b>Check Point Virtual Network Adapter For Endpoint VPN Client</b></p>
+<p>PNP ID: <b>ROOT\NET\0000</b></p>
+<p>Guid: <b>{26CB5C5D-910C-487E-BBEE-B743191F35B5}</b></p>
+<p>Current driver version: <b>2.1.3.0</b></p>
+<p>Driver date: <b>7-27-2022 </b></p>
+<p>DevNode flags: <b>0x180200b</b></p><br><p>Device: <b>WAN Miniport (PPTP)</b></p>
+<p>PNP ID: <b>SWD\MSRRAS\MS_PPTPMINIPORT</b></p>
+<p>Guid: <b>{5A244CDB-7EE5-43C7-8644-03DDD76F7BC5}</b></p>
+<p>Current driver version: <b>10.0.26100.1</b></p>
+<p>Driver date: <b>6-21-2006 </b></p>
+<p>DevNode flags: <b>0x180200a</b></p><br><p>Device: <b>WAN Miniport (IKEv2)</b></p>
+<p>PNP ID: <b>SWD\MSRRAS\MS_AGILEVPNMINIPORT</b></p>
+<p>Guid: <b>{9AC81BDA-E248-470A-A5FB-7F6F2F7687FB}</b></p>
+<p>Current driver version: <b>10.0.26100.1</b></p>
+<p>Driver date: <b>6-21-2006 </b></p>
+<p>DevNode flags: <b>0x180200a</b></p><br><p>Device: <b>Microsoft Kernel Debug Network Adapter</b></p>
+<p>PNP ID: <b>ROOT\KDNIC\0000</b></p>
+<p>Guid: <b>{DBA12CB9-3CEF-4705-8435-B496E60C7C3C}</b></p>
+<p>Current driver version: <b>10.0.26100.8521</b></p>
+<p>Driver date: <b>6-21-2006 </b></p>
+<p>DevNode flags: <b>0x4180200b</b></p><br><p>Device: <b>WAN Miniport (Network Monitor)</b></p>
+<p>PNP ID: <b>SWD\MSRRAS\MS_NDISWANBH</b></p>
+<p>Guid: <b>{29A9A189-2B89-4E8D-A9BE-3A52DADB59A0}</b></p>
+<p>Current driver version: <b>10.0.26100.1</b></p>
+<p>Driver date: <b>6-21-2006 </b></p>
+<p>DevNode flags: <b>0x180200a</b></p><br><p>Device: <b>WAN Miniport (IP)</b></p>
+<p>PNP ID: <b>SWD\MSRRAS\MS_NDISWANIP</b></p>
+<p>Guid: <b>{A489CB1F-200D-4263-8F95-3C00DCDE81EE}</b></p>
+<p>Current driver version: <b>10.0.26100.1</b></p>
+<p>Driver date: <b>6-21-2006 </b></p>
+<p>DevNode flags: <b>0x180200a</b></p><br><p>Device: <b>Intel(R) Ethernet Connection (24) I219-LM</b></p>
+<p>PNP ID: <b>PCI\VEN_8086&amp;DEV_57A0&amp;SUBSYS_0CE81028&amp;REV_00\3&amp;11583659&amp;0&amp;FE</b></p>
+<p>Guid: <b>{6A4487BF-5A41-42E8-893A-9749E37014C0}</b></p>
+<p>Current driver version: <b>20.0.3.28</b></p>
+<p>Driver date: <b>2-5-2026 </b></p>
+<p>DevNode flags: <b>0x1802400</b></p>
+<p>Problem number: <b>43</b></p><br><p>Device: <b>WAN Miniport (SSTP)</b></p>
+<p>PNP ID: <b>SWD\MSRRAS\MS_SSTPMINIPORT</b></p>
+<p>Guid: <b>{15818DF7-E62E-44BD-8982-58181B64D348}</b></p>
+<p>Current driver version: <b>10.0.26100.1</b></p>
+<p>Driver date: <b>6-21-2006 </b></p>
+<p>DevNode flags: <b>0x180200a</b></p><br><p>Device: <b>Intel(R) Wi-Fi 7 BE201 320MHz</b></p>
+<p>PNP ID: <b>PCI\VEN_8086&amp;DEV_7740&amp;SUBSYS_40E08086&amp;REV_00\3&amp;11583659&amp;0&amp;A3</b></p>
+<p>Guid: <b>{556D9BDF-D387-4AB9-BE4C-A7E220FAF218}</b></p>
+<p>Current driver version: <b>24.50.0.4</b></p>
+<p>Driver date: <b>5-20-2026 </b></p>
+<p>DevNode flags: <b>0x180200a</b></p><br><p>Device: <b>Realtek USB GbE Family Controller</b></p>
+<p>PNP ID: <b>USB\VID_0BDA&amp;PID_8153\0033000001</b></p>
+<p>Guid: <b>{9DD2647C-6C78-4A23-B861-C580FDEC2864}</b></p>
+<p>Current driver version: <b>1156.22.20.113</b></p>
+<p>Driver date: <b>1-13-2026 </b></p>
+<p>DevNode flags: <b>0x180600a</b></p><br><p>Device: <b>WAN Miniport (IPv6)</b></p>
+<p>PNP ID: <b>SWD\MSRRAS\MS_NDISWANIPV6</b></p>
+<p>Guid: <b>{C60BF8E1-1D6F-45C6-B4F2-62D7D0FEF201}</b></p>
+<p>Current driver version: <b>10.0.26100.1</b></p>
+<p>Driver date: <b>6-21-2006 </b></p>
+<p>DevNode flags: <b>0x180200a</b></p><br><p>Device: <b>WAN Miniport (L2TP)</b></p>
+<p>PNP ID: <b>SWD\MSRRAS\MS_L2TPMINIPORT</b></p>
+<p>Guid: <b>{13382480-2598-4476-8623-A50783E44BBB}</b></p>
+<p>Current driver version: <b>10.0.26100.1</b></p>
+<p>Driver date: <b>6-21-2006 </b></p>
+<p>DevNode flags: <b>0x180200a</b></p><br></div>
+<div id="commands-output">
+<h2>Script Output</h2>
+<h3> Output for <em>'ipconfig /all'</em></h3><textarea class="command-output" cols="91" rows="25" readonly="true" spellcheck="false">
+
+Windows IP Configuration
+
+
+
+   Host Name . . . . . . . . . . . . : LIND55MBVC4
+
+   Primary Dns Suffix  . . . . . . . : 
+
+   Node Type . . . . . . . . . . . . : Peer-Peer
+
+   IP Routing Enabled. . . . . . . . : No
+
+   WINS Proxy Enabled. . . . . . . . : No
+
+   DNS Suffix Search List. . . . . . : enterprisenet.org
+
+                                       gfk.com
+
+                                       ext.gfk
+
+
+
+Ethernet adapter Ethernet 3:
+
+
+
+   Media State . . . . . . . . . . . : Media disconnected
+
+   Connection-specific DNS Suffix  . : 
+
+   Description . . . . . . . . . . . : Realtek USB GbE Family Controller
+
+   Physical Address. . . . . . . . . : C0-47-0E-A6-D7-23
+
+   DHCP Enabled. . . . . . . . . . . : Yes
+
+   Autoconfiguration Enabled . . . . : Yes
+
+
+
+Ethernet adapter Ethernet 2:
+
+
+
+   Media State . . . . . . . . . . . : Media disconnected
+
+   Connection-specific DNS Suffix  . : enterprisenet.org
+
+   Description . . . . . . . . . . . : Check Point Virtual Network Adapter For Endpoint VPN Client
+
+   Physical Address. . . . . . . . . : 54-58-2D-32-ED-0C
+
+   DHCP Enabled. . . . . . . . . . . : Yes
+
+   Autoconfiguration Enabled . . . . : Yes
+
+
+
+Wireless LAN adapter Local Area Connection* 2:
+
+
+
+   Media State . . . . . . . . . . . : Media disconnected
+
+   Connection-specific DNS Suffix  . : 
+
+   Description . . . . . . . . . . . : Intel(R) Wi-Fi 7 BE201 320MHz #2
+
+   Physical Address. . . . . . . . . : C0-A8-10-9D-15-AD
+
+   DHCP Enabled. . . . . . . . . . . : Yes
+
+   Autoconfiguration Enabled . . . . : Yes
+
+
+
+Wireless LAN adapter Local Area Connection* 5:
+
+
+
+   Media State . . . . . . . . . . . : Media disconnected
+
+   Connection-specific DNS Suffix  . : 
+
+   Description . . . . . . . . . . . : Intel(R) Wi-Fi 7 BE201 320MHz #5
+
+   Physical Address. . . . . . . . . : C2-A8-10-9D-15-AC
+
+   DHCP Enabled. . . . . . . . . . . : Yes
+
+   Autoconfiguration Enabled . . . . : Yes
+
+
+
+Wireless LAN adapter Wi-Fi:
+
+
+
+   Connection-specific DNS Suffix  . : enterprisenet.org
+
+   Description . . . . . . . . . . . : Intel(R) Wi-Fi 7 BE201 320MHz
+
+   Physical Address. . . . . . . . . : C0-A8-10-9D-15-AC
+
+   DHCP Enabled. . . . . . . . . . . : Yes
+
+   Autoconfiguration Enabled . . . . : Yes
+
+   IPv4 Address. . . . . . . . . . . : 10.243.80.65(Preferred) 
+
+   Subnet Mask . . . . . . . . . . . : 255.255.248.0
+
+   Lease Obtained. . . . . . . . . . : 19 August 2026 09:56:34
+
+   Lease Expires . . . . . . . . . . : 19 August 2026 22:35:45
+
+   Default Gateway . . . . . . . . . : 10.243.80.1
+
+   DHCP Server . . . . . . . . . . . : 10.250.41.143
+
+   DNS Servers . . . . . . . . . . . : 10.250.240.101
+
+                                       10.90.240.101
+
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+</textarea><h3> Output for <em>'netsh wlan show all'</em></h3><textarea class="command-output" cols="91" rows="25" readonly="true" spellcheck="false">Wireless System Information Summary
+
+(Time: 19-08-2026 14:35:48 India Standard Time)
+
+
+
+
+
+======================================================================= 
+
+============================== SHOW DRIVERS =========================== 
+
+=======================================================================
+
+
+
+
+
+Interface name: Wi-Fi
+
+
+
+    Driver                    : Intel(R) Wi-Fi 7 BE201 320MHz
+
+    Vendor                    : Intel Corporation
+
+    Provider                  : Intel
+
+    Date                      : 20-05-2026
+
+    Version                   : 24.50.0.4
+
+    INF file                  : oem533.inf
+
+    Type                      : Native Wi-Fi Driver
+
+    Radio types supported     : 802.11b 802.11g 802.11n 802.11a 802.11ac 802.11ax 802.11be
+
+    FIPS 140 mode supported   : Yes
+
+    802.11w Management Frame Protection supported : Yes
+
+    Hosted network supported  : No
+
+    Authentication and cipher supported in infrastructure mode:
+
+                                Open             None
+
+                                Open             WEP-40bit
+
+                                Open             WEP-104bit
+
+                                Open             WEP
+
+                                WPA-Enterprise   TKIP
+
+                                WPA-Enterprise   CCMP
+
+                                WPA-Personal     TKIP
+
+                                WPA-Personal     CCMP
+
+                                WPA2-Enterprise  TKIP
+
+                                WPA2-Enterprise  CCMP
+
+                                WPA2-Personal    TKIP
+
+                                WPA2-Personal    CCMP
+
+                                Open             Vendor defined
+
+                                WPA3-Personal    CCMP
+
+                                WPA3-Personal    GCMP-256
+
+                                Vendor defined   Vendor defined
+
+                                WPA3-Enterprise 192 Bits GCMP-256
+
+                                OWE              CCMP
+
+                                OWE              GCMP-256
+
+                                WPA3-Enterprise  CCMP
+
+                                WPA3-Enterprise  GCMP-256
+
+    Number of supported bands : 3
+
+                                2.4 GHz [ 2412 MHz - 2472 MHz]
+
+                                5 GHz [ 5180 MHz - 5885 MHz]
+
+                                6 GHz [ 5955 MHz - 7115 MHz]
+
+    IHV service present       : Yes
+
+    IHV adapter OUI           : [00 00 00], type: [00]
+
+    IHV extensibility DLL path: C:\Windows\System32\DriverStore\FileRepository\netwtw6e.inf_amd64_bd0a3abded73be0b\IntelIHVRouter18.dll
+
+    IHV UI extensibility ClSID: {00000000-0000-0000-0000-000000000000}
+
+    IHV diagnostics CLSID     : {00000000-0000-0000-0000-000000000000}
+
+    Wireless Display Supported: Yes (Graphics Driver: Yes, Wi-Fi Driver: Yes)
+
+
+
+
+
+======================================================================= 
+
+============================= SHOW INTERFACES ========================= 
+
+=======================================================================
+
+
+
+
+
+There is 1 interface on the system: 
+
+
+
+    Name                   : Wi-Fi
+
+    Description            : Intel(R) Wi-Fi 7 BE201 320MHz
+
+    GUID                   : 556d9bdf-d387-4ab9-be4c-a7e220faf218
+
+    Physical address       : c0:a8:10:9d:15:ac
+
+    Interface type         : Primary
+
+    State                  : connected
+
+    SSID                   : NIQ
+
+    AP BSSID               : 88:9c:ad:27:47:cf
+
+    Band                   : 5 GHz
+
+    Channel                : 132
+
+    Connected Akm-cipher   : [ akm = 00-0f-ac:01, cipher =  00-0f-ac:04 ]
+
+    Network type           : Infrastructure
+
+    Radio type             : 802.11ax
+
+    Authentication         : WPA2-Enterprise
+
+    Cipher                 : CCMP
+
+    Connection mode        : Auto Connect
+
+    Receive rate (Mbps)    : 258
+
+    Transmit rate (Mbps)   : 287
+
+    Signal                 : 83% 
+
+    Rssi                   : -59
+
+    Profile                : NIQ 
+
+    QoS MSCS Configured         : 0
+
+    QoS Map Configured          : 0
+
+    QoS Map Allowed by Policy   : 0
+
+
+
+
+
+======================================================================= 
+
+=========================== SHOW HOSTED NETWORK ======================= 
+
+=======================================================================
+
+
+
+
+
+Hosted network settings 
+
+----------------------- 
+
+    Mode                   : Allowed
+
+    Settings               : &lt;Not configured&gt;
+
+
+
+Hosted network status 
+
+--------------------- 
+
+    Status                 : Not available
+
+
+
+
+
+======================================================================= 
+
+============================= SHOW SETTINGS =========================== 
+
+=======================================================================
+
+
+
+
+
+Wireless LAN settings 
+
+--------------------- 
+
+    Show blocked networks in visible network list: No
+
+    Only use GP profiles on GP-configured networks: No
+
+    Hosted network mode allowed in WLAN service: Yes
+
+
+
+    Allow shared user credentials for network authentication: Yes
+
+    Block period: Not Configured.
+
+
+
+    Auto configuration logic is enabled on interface "Wi-Fi"
+
+    MAC randomization disabled on interface Wi-Fi
+
+
+
+
+
+======================================================================= 
+
+============================== SHOW FILTERS =========================== 
+
+=======================================================================
+
+
+
+
+
+Allow list on the system (group policy) 
+
+--------------------------------------- 
+
+    &lt;None&gt;
+
+
+
+Allow list on the system (user) 
+
+------------------------------- 
+
+    &lt;None&gt;
+
+
+
+Block list on the system (group policy) 
+
+--------------------------------------- 
+
+    &lt;None&gt;
+
+
+
+Block list on the system (user) 
+
+------------------------------- 
+
+    &lt;None&gt;
+
+
+
+
+
+======================================================================= 
+
+=========================== SHOW CREATEALLUSER ======================== 
+
+=======================================================================
+
+
+
+
+
+Everyone is allowed to create all user profiles.
+
+
+
+
+
+======================================================================= 
+
+============================= SHOW PROFILES =========================== 
+
+=======================================================================
+
+
+
+
+
+Profiles on interface Wi-Fi:
+
+
+
+Group policy profiles (read only)
+
+---------------------------------
+
+    &lt;None&gt;
+
+
+
+User profiles
+
+-------------
+
+    All User Profile     : NIQ
+
+    All User Profile     : Cressida_5G
+
+    All User Profile     : Cressida_2G
+
+
+
+
+
+======================================================================= 
+
+========================== SHOW PROFILES NAMES ======================== 
+
+=======================================================================
+
+
+
+
+
+Profile NIQ on interface Wi-Fi: 
+
+======================================================================= 
+
+
+
+Applied: All User Profile    
+
+
+
+Profile information 
+
+------------------- 
+
+    Version                : 1
+
+    Type                   : Wireless LAN
+
+    Name                   : NIQ
+
+    Control options        : 
+
+        Connection mode    : Connect automatically
+
+        Network broadcast  : Connect even if this network is not broadcasting
+
+        AutoSwitch         : Do not switch to other networks
+
+        MAC Randomization  : Disabled
+
+
+
+Connectivity settings 
+
+--------------------- 
+
+    Number of SSIDs        : 1
+
+    SSID name              : "NIQ"
+
+    Network type           : Infrastructure
+
+    Radio type             : [ Any Radio Type ]
+
+    Vendor extension          : Not present
+
+
+
+Security settings 
+
+----------------- 
+
+    Authentication         : WPA2-Enterprise
+
+    Cipher                 : GCMP
+
+    Authentication         : WPA2-Enterprise
+
+    Cipher                 : CCMP
+
+    Security key           : Absent
+
+    802.1X                 : Enabled
+
+    EAP type               : Microsoft: Smart Card or other certificate (EAP-TLS)
+
+    802.1X auth credential : Machine credential
+
+    Cache user information : Yes
+
+
+
+Cost settings 
+
+------------- 
+
+    Cost                   : Unrestricted
+
+    Congested              : No
+
+    Approaching Data Limit : No
+
+    Over Data Limit        : No
+
+    Roaming                : No
+
+    Cost Source            : Default
+
+
+
+
+
+Profile Cressida_5G on interface Wi-Fi: 
+
+======================================================================= 
+
+
+
+Applied: All User Profile    
+
+
+
+Profile information 
+
+------------------- 
+
+    Version                : 1
+
+    Type                   : Wireless LAN
+
+    Name                   : Cressida_5G
+
+    Control options        : 
+
+        Connection mode    : Connect automatically
+
+        Network broadcast  : Connect only if this network is broadcasting
+
+        AutoSwitch         : Do not switch to other networks
+
+        MAC Randomization  : Disabled
+
+
+
+Connectivity settings 
+
+--------------------- 
+
+    Number of SSIDs        : 1
+
+    SSID name              : "Cressida_5G"
+
+    Network type           : Infrastructure
+
+    Radio type             : [ Any Radio Type ]
+
+    Vendor extension          : Not present
+
+
+
+Security settings 
+
+----------------- 
+
+    Authentication         : WPA3-Personal
+
+    Cipher                 : GCMP-256
+
+    Authentication         : WPA3-Personal
+
+    Cipher                 : GCMP
+
+    Authentication         : WPA3-Personal
+
+    Cipher                 : CCMP
+
+    Authentication         : WPA2-Personal
+
+    Cipher                 : GCMP
+
+    Authentication         : WPA2-Personal
+
+    Cipher                 : CCMP
+
+    Security key           : Present
+
+
+
+Cost settings 
+
+------------- 
+
+    Cost                   : Unrestricted
+
+    Congested              : No
+
+    Approaching Data Limit : No
+
+    Over Data Limit        : No
+
+    Roaming                : No
+
+    Cost Source            : Default
+
+
+
+
+
+Profile Cressida_2G on interface Wi-Fi: 
+
+======================================================================= 
+
+
+
+Applied: All User Profile    
+
+
+
+Profile information 
+
+------------------- 
+
+    Version                : 1
+
+    Type                   : Wireless LAN
+
+    Name                   : Cressida_2G
+
+    Control options        : 
+
+        Connection mode    : Connect manually
+
+        Network broadcast  : Connect only if this network is broadcasting
+
+        AutoSwitch         : Do not switch to other networks
+
+        MAC Randomization  : Disabled
+
+
+
+Connectivity settings 
+
+--------------------- 
+
+    Number of SSIDs        : 1
+
+    SSID name              : "Cressida_2G"
+
+    Network type           : Infrastructure
+
+    Radio type             : [ Any Radio Type ]
+
+    Vendor extension          : Not present
+
+
+
+Security settings 
+
+----------------- 
+
+    Authentication         : WPA3-Personal
+
+    Cipher                 : GCMP-256
+
+    Authentication         : WPA3-Personal
+
+    Cipher                 : GCMP
+
+    Authentication         : WPA3-Personal
+
+    Cipher                 : CCMP
+
+    Authentication         : WPA2-Personal
+
+    Cipher                 : GCMP
+
+    Authentication         : WPA2-Personal
+
+    Cipher                 : CCMP
+
+    Security key           : Present
+
+
+
+Cost settings 
+
+------------- 
+
+    Cost                   : Unrestricted
+
+    Congested              : No
+
+    Approaching Data Limit : No
+
+    Over Data Limit        : No
+
+    Roaming                : No
+
+    Cost Source            : Default
+
+
+
+
+
+======================================================================= 
+
+======================= SHOW NETWORKS MODE=BSSID ====================== 
+
+=======================================================================
+
+
+
+ 
+
+Interface name : Wi-Fi 
+
+There are 5 networks currently visible. 
+
+
+
+SSID 1 : NIQ
+
+    Network type            : Infrastructure
+
+    Authentication          : WPA2-Enterprise
+
+    Encryption              : CCMP 
+
+    BSSID 1                 : 88:9c:ad:27:4d:af
+
+         Signal             : 26%  
+
+         Radio type         : 802.11ax
+
+         Band               : 5 GHz
+
+         Channel            : 36 
+
+         Bss Load:
+
+             Connected Stations:         39
+
+             Channel Utilization:        63 (24 %)
+
+             Medium Available Capacity:  23437 (749984 us/s)
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 18
+
+         Other rates (Mbps) : 24 36 48 54
+
+    BSSID 2                 : 88:9c:ad:27:4f:cf
+
+         Signal             : 50%  
+
+         Radio type         : 802.11ax
+
+         Band               : 5 GHz
+
+         Channel            : 36 
+
+         Bss Load:
+
+             Connected Stations:         24
+
+             Channel Utilization:        84 (32 %)
+
+             Medium Available Capacity:  23437 (749984 us/s)
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 18
+
+         Other rates (Mbps) : 24 36 48 54
+
+    BSSID 3                 : 88:9c:ad:27:52:8f
+
+         Signal             : 31%  
+
+         Radio type         : 802.11ax
+
+         Band               : 5 GHz
+
+         Channel            : 165 
+
+         Bss Load:
+
+             Connected Stations:         32
+
+             Channel Utilization:        62 (24 %)
+
+             Medium Available Capacity:  23437 (749984 us/s)
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 18
+
+         Other rates (Mbps) : 24 36 48 54
+
+    BSSID 4                 : 88:9c:ad:27:50:4f
+
+         Signal             : 38%  
+
+         Radio type         : 802.11ax
+
+         Band               : 5 GHz
+
+         Channel            : 56 
+
+         Bss Load:
+
+             Connected Stations:         18
+
+             Channel Utilization:        44 (17 %)
+
+             Medium Available Capacity:  23437 (749984 us/s)
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 18
+
+         Other rates (Mbps) : 24 36 48 54
+
+    BSSID 5                 : 88:9c:ad:27:4c:4f
+
+         Signal             : 70%  
+
+         Radio type         : 802.11ax
+
+         Band               : 5 GHz
+
+         Channel            : 100 
+
+         Bss Load:
+
+             Connected Stations:         18
+
+             Channel Utilization:        41 (16 %)
+
+             Medium Available Capacity:  23437 (749984 us/s)
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 18
+
+         Other rates (Mbps) : 24 36 48 54
+
+    BSSID 6                 : 88:9c:ad:27:47:cf
+
+         Signal             : 83%  
+
+         Radio type         : 802.11ax
+
+         Band               : 5 GHz
+
+         Channel            : 132 
+
+         Bss Load:
+
+             Connected Stations:         25
+
+             Channel Utilization:        59 (23 %)
+
+             Medium Available Capacity:  23437 (749984 us/s)
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 18
+
+         Other rates (Mbps) : 24 36 48 54
+
+    BSSID 7                 : 88:9c:ad:27:47:67
+
+         Signal             : 50%  
+
+         Radio type         : 802.11ax
+
+         Band               : 5 GHz
+
+         Channel            : 48 
+
+         Bss Load:
+
+             Connected Stations:         5
+
+             Channel Utilization:        22 (8 %)
+
+             Medium Available Capacity:  23437 (749984 us/s)
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 18
+
+         Other rates (Mbps) : 24 36 48 54
+
+    BSSID 8                 : 88:9c:ad:27:4c:47
+
+         Signal             : 35%  
+
+         Radio type         : 802.11ax
+
+         Band               : 5 GHz
+
+         Channel            : 48 
+
+         Bss Load:
+
+             Connected Stations:         6
+
+             Channel Utilization:        33 (12 %)
+
+             Medium Available Capacity:  23437 (749984 us/s)
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 18
+
+         Other rates (Mbps) : 24 36 48 54
+
+    BSSID 9                 : 88:9c:ad:27:47:c7
+
+         Signal             : 62%  
+
+         Radio type         : 802.11ax
+
+         Band               : 5 GHz
+
+         Channel            : 64 
+
+         Bss Load:
+
+             Connected Stations:         7
+
+             Channel Utilization:        58 (22 %)
+
+             Medium Available Capacity:  23437 (749984 us/s)
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 18
+
+         Other rates (Mbps) : 24 36 48 54
+
+    BSSID 10                 : 88:9c:ad:26:f0:4f
+
+         Signal             : 38%  
+
+         Radio type         : 802.11ax
+
+         Band               : 5 GHz
+
+         Channel            : 136 
+
+         Bss Load:
+
+             Connected Stations:         22
+
+             Channel Utilization:        60 (23 %)
+
+             Medium Available Capacity:  23437 (749984 us/s)
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 18
+
+         Other rates (Mbps) : 24 36 48 54
+
+    BSSID 11                 : 88:9c:ad:27:47:6f
+
+         Signal             : 57%  
+
+         Radio type         : 802.11ax
+
+         Band               : 5 GHz
+
+         Channel            : 120 
+
+         Bss Load:
+
+             Connected Stations:         15
+
+             Channel Utilization:        29 (11 %)
+
+             Medium Available Capacity:  23437 (749984 us/s)
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 18
+
+         Other rates (Mbps) : 24 36 48 54
+
+    BSSID 12                 : 88:9c:ad:27:4e:0f
+
+         Signal             : 31%  
+
+         Radio type         : 802.11ax
+
+         Band               : 5 GHz
+
+         Channel            : 157 
+
+         Bss Load:
+
+             Connected Stations:         22
+
+             Channel Utilization:        48 (18 %)
+
+             Medium Available Capacity:  23437 (749984 us/s)
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 18
+
+         Other rates (Mbps) : 24 36 48 54
+
+    BSSID 13                 : 88:9c:ad:26:f0:47
+
+         Signal             : 29%  
+
+         Radio type         : 802.11ax
+
+         Band               : 5 GHz
+
+         Channel            : 64 
+
+         Bss Load:
+
+             Connected Stations:         9
+
+             Channel Utilization:        59 (23 %)
+
+             Medium Available Capacity:  23437 (749984 us/s)
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 18
+
+         Other rates (Mbps) : 24 36 48 54
+
+
+
+SSID 2 : NIQ_Guest
+
+    Network type            : Infrastructure
+
+    Authentication          : Open
+
+    Encryption              : None 
+
+    BSSID 1                 : 88:9c:ad:27:47:65
+
+         Signal             : 40%  
+
+         Radio type         : 802.11ac
+
+         Band               : 5 GHz
+
+         Channel            : 48 
+
+         Bss Load:
+
+             Connected Stations:         0
+
+             Channel Utilization:        27 (10 %)
+
+             Medium Available Capacity:  23437 (749984 us/s)
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 18
+
+         Other rates (Mbps) : 24 36 48 54
+
+    BSSID 2                 : 88:9c:ad:27:4c:4d
+
+         Signal             : 70%  
+
+         Radio type         : 802.11ac
+
+         Band               : 5 GHz
+
+         Channel            : 100 
+
+         Bss Load:
+
+             Connected Stations:         0
+
+             Channel Utilization:        41 (16 %)
+
+             Medium Available Capacity:  23437 (749984 us/s)
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 18
+
+         Other rates (Mbps) : 24 36 48 54
+
+    BSSID 3                 : 88:9c:ad:27:47:c5
+
+         Signal             : 62%  
+
+         Radio type         : 802.11ac
+
+         Band               : 5 GHz
+
+         Channel            : 64 
+
+         Bss Load:
+
+             Connected Stations:         0
+
+             Channel Utilization:        58 (22 %)
+
+             Medium Available Capacity:  23437 (749984 us/s)
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 18
+
+         Other rates (Mbps) : 24 36 48 54
+
+    BSSID 4                 : 88:9c:ad:26:f0:4d
+
+         Signal             : 38%  
+
+         Radio type         : 802.11ac
+
+         Band               : 5 GHz
+
+         Channel            : 136 
+
+         Bss Load:
+
+             Connected Stations:         0
+
+             Channel Utilization:        60 (23 %)
+
+             Medium Available Capacity:  23437 (749984 us/s)
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 18
+
+         Other rates (Mbps) : 24 36 48 54
+
+    BSSID 5                 : 88:9c:ad:26:f0:45
+
+         Signal             : 29%  
+
+         Radio type         : 802.11ac
+
+         Band               : 5 GHz
+
+         Channel            : 64 
+
+         Bss Load:
+
+             Connected Stations:         0
+
+             Channel Utilization:        59 (23 %)
+
+             Medium Available Capacity:  23437 (749984 us/s)
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 18
+
+         Other rates (Mbps) : 24 36 48 54
+
+    BSSID 6                 : 88:9c:ad:27:4f:cd
+
+         Signal             : 46%  
+
+         Radio type         : 802.11ac
+
+         Band               : 5 GHz
+
+         Channel            : 36 
+
+         Bss Load:
+
+             Connected Stations:         0
+
+             Channel Utilization:        84 (32 %)
+
+             Medium Available Capacity:  23437 (749984 us/s)
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 18
+
+         Other rates (Mbps) : 24 36 48 54
+
+    BSSID 7                 : 88:9c:ad:27:47:6d
+
+         Signal             : 57%  
+
+         Radio type         : 802.11ac
+
+         Band               : 5 GHz
+
+         Channel            : 120 
+
+         Bss Load:
+
+             Connected Stations:         1
+
+             Channel Utilization:        29 (11 %)
+
+             Medium Available Capacity:  23437 (749984 us/s)
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 18
+
+         Other rates (Mbps) : 24 36 48 54
+
+    BSSID 8                 : 88:9c:ad:27:4c:45
+
+         Signal             : 35%  
+
+         Radio type         : 802.11ac
+
+         Band               : 5 GHz
+
+         Channel            : 48 
+
+         Bss Load:
+
+             Connected Stations:         0
+
+             Channel Utilization:        33 (12 %)
+
+             Medium Available Capacity:  23437 (749984 us/s)
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 18
+
+         Other rates (Mbps) : 24 36 48 54
+
+    BSSID 9                 : 88:9c:ad:27:4e:0d
+
+         Signal             : 31%  
+
+         Radio type         : 802.11ac
+
+         Band               : 5 GHz
+
+         Channel            : 157 
+
+         Bss Load:
+
+             Connected Stations:         1
+
+             Channel Utilization:        48 (18 %)
+
+             Medium Available Capacity:  23437 (749984 us/s)
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 18
+
+         Other rates (Mbps) : 24 36 48 54
+
+    BSSID 10                 : 88:9c:ad:27:50:4d
+
+         Signal             : 40%  
+
+         Radio type         : 802.11ac
+
+         Band               : 5 GHz
+
+         Channel            : 56 
+
+         Bss Load:
+
+             Connected Stations:         0
+
+             Channel Utilization:        44 (17 %)
+
+             Medium Available Capacity:  23437 (749984 us/s)
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 18
+
+         Other rates (Mbps) : 24 36 48 54
+
+    BSSID 11                 : 88:9c:ad:27:52:8d
+
+         Signal             : 31%  
+
+         Radio type         : 802.11ac
+
+         Band               : 5 GHz
+
+         Channel            : 165 
+
+         Bss Load:
+
+             Connected Stations:         0
+
+             Channel Utilization:        62 (24 %)
+
+             Medium Available Capacity:  23437 (749984 us/s)
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 18
+
+         Other rates (Mbps) : 24 36 48 54
+
+
+
+SSID 3 : vivo V40
+
+    Network type            : Infrastructure
+
+    Authentication          : WPA2-Personal
+
+    Encryption              : CCMP 
+
+    BSSID 1                 : 12:0f:f9:6f:ea:c0
+
+         Signal             : 65%  
+
+         Radio type         : 802.11ac
+
+         Band               : 5 GHz
+
+         Channel            : 36 
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 6 12 24
+
+         Other rates (Mbps) : 9 18 36 48 54
+
+
+
+SSID 4 : REDMI Turbo 5
+
+    Network type            : Infrastructure
+
+    Authentication          : WPA2-Personal
+
+    Encryption              : CCMP 
+
+    BSSID 1                 : a6:36:a4:a3:76:99
+
+         Signal             : 57%  
+
+         Radio type         : 802.11ax
+
+         Band               : 2.4 GHz
+
+         Channel            : 1 
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 1
+
+         Basic rates (Mbps) : 1 2 5.5 11
+
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+
+
+SSID 5 : realme 10 Pro 5G
+
+    Network type            : Infrastructure
+
+    Authentication          : WPA3-Personal
+
+    Encryption              : CCMP 
+
+    BSSID 1                 : 4e:0b:6c:a4:b5:22
+
+         Signal             : 81%  
+
+         Radio type         : 802.11ac
+
+         Band               : 2.4 GHz
+
+         Channel            : 11 
+
+         Details            :  (H2E Not supported) 
+
+         QoS MSCS Supported    : 0
+
+         QoS Map Supported     : 0
+
+         Basic rates (Mbps) : 1 2 5.5 11
+
+         Other rates (Mbps) : 6 9 12 18 24 36 48 54
+
+
+
+
+
+======================================================================= 
+
+======================= SHOW INTERFACE CAPABILITIES =================== 
+
+=======================================================================
+
+
+
+
+
+Wireless System Capabilities 
+
+---------------------------- 
+
+    Number of antennas connected to the 802.11 radio (value not available)
+
+    Max number of channels the device can operate on, simultaneously (value not available)
+
+    Co-existence Support                        : Unknown
+
+
+
+
+
+Wireless Device Capabilities 
+
+---------------------------- 
+
+
+
+Interface name: Wi-Fi
+
+
+
+    WDI Version (Windows)                       : 0.2.0.14
+
+    WDI Version (IHV)                           : 0.2.0.13
+
+    WiFiCx Version (Windows)                    : 1.3
+
+    WiFiCx Version (IHV)                        : 1.2
+
+    WiFiCx Framework Type                       : KMDF
+
+    Firmware Version                            : 96.02
+
+    Station                                     : Supported
+
+    Soft AP                                     : Not supported
+
+    Network monitor mode                        : Not supported
+
+    Wi-Fi Direct Device                         : Supported
+
+    Wi-Fi Direct GO                             : Supported
+
+    Wi-Fi Direct Client                         : Supported
+
+    Protected Management Frames                 : Supported
+
+    DOT11k neighbor report                      : Supported
+
+    ANQP Service Information Discovery          : Supported
+
+    Action Frame                                : Supported
+
+    Diversity Antenna                           : Unknown
+
+    IBSS                                        : Not Supported
+
+    Promiscuous Mode                            : Not Supported
+
+    P2P Device Discovery                        : Supported
+
+    P2P Service Name Discovery                  : Supported
+
+    P2P Service Info Discovery                  : Not Supported
+
+    P2P Background Discovery                    : Supported
+
+    P2P GO on 5 GHz                             : Supported
+
+    P2P GO on 6 GHz                             : Supported
+
+    P2P Sae on GO                               : Supported
+
+    ASP 2.0 Service Name Discovery              : Not Supported
+
+    ASP 2.0 Service Information Discovery       : Not Supported
+
+    IP Docking Capable                          : Not Supported
+
+    Host FIPS Mode                              : Supported
+
+    Instant Connect                             : Supported
+
+    Dx Standby NLO                              : Supported
+
+    Extended Channel Switch Announcement        : Supported
+
+    Function Level Reset                        : Not Supported
+
+    Platform Level Reset                        : Supported
+
+    Bus Level Reset                             : Supported
+
+    MAC Randomization                           : Supported
+
+    Fast Transition                             : Supported
+
+    MU-MIMO                                     : Supported
+
+    Miracast Sink                               : Supported
+
+    BSS Transition (802.11v)                    : Supported
+
+    IHV Extensibility Module Configured         : Supported
+
+    SAE Authentication                          : Supported
+
+    SAE Hash-to-Element Authentication          : Supported
+
+    WPA3 SUITE-B Authentication                 : Not Supported
+
+    OWE Authentication                          : Supported
+
+    FTM as Initiator                            : Not Supported
+
+    MBO Support                                 : Supported
+
+    Number of Tx Spatial Streams                : 2
+
+    Number of Rx Spatial Streams                : 2
+
+    Number of Concurrent Channels Supported     : 0
+
+    Number of Radios                            : 1
+
+    P2P GO ports count                          : 1
+
+    P2P Clients Port Count                      : 1
+
+    P2P Max Mobile AP Clients                   : 8
+
+    Max ANQP Service Advertisements Supported   : 0
+
+    Maximum Number of Secondary STAs Supported  : 0
+
+    Number of MLO Connections Supported         : 4
+
+    Wi-Fi 7 Enterprise                          : Supported
+
+    QoS MSCS Supported                          : Supported
+
+    QoS DSCP to UP Mapping Supported            : Supported
+
+    Max Number of Wake on Incoming Action Frame Patterns Supported: 2
+
+    Wpa3-Sae with 384-bit Pmk Supported         : Supported
+
+    Cross Akm/Cipher Roaming                    : Supported
+
+    Co-existence Support                        : Wi-Fi performance is maintained
+
+
+
+
+
+</textarea><h3> Output for <em>'certutil -store -silent My &amp; certutil -store -silent -user My'</em></h3><textarea class="command-output" cols="91" rows="25" readonly="true" spellcheck="false">My "Personal"
+
+================ Certificate 0 ================
+
+Serial Number: d30072bf13611097480155a11a495628
+
+Issuer: CN=Microsoft Intune Device Management Device CA
+
+ NotBefore: 23-05-2026 10:48
+
+ NotAfter: 22-05-2027 21:32
+
+Subject: CN=77385012-b75e-4a3a-bd03-1f62964f2351
+
+Non-root Certificate
+
+Cert Hash(sha1): a14fd9a3510d0ce4f9798f638df0347651966b1e
+
+  Key Container = ConfigMgrEnrollment0
+
+  Unique container name: 08fc720c0ee27916086f3e4c6ba4c04e_871e017e-bcbc-4dc7-98b5-1cc935df09e8
+
+  Provider = Microsoft Software Key Storage Provider
+
+Encryption test passed
+
+
+
+================ Certificate 1 ================
+
+Serial Number: f70ab900968ce5864887bb1d0270cc37
+
+Issuer: DC=net + DC=windows + CN=MS-Organization-Access + OU=82dbaca4-3e81-46ca-9c73-0950c1eaca97
+
+ NotBefore: 23-05-2026 10:22
+
+ NotAfter: 23-05-2036 10:52
+
+Subject: CN=b0a5bc0f-7566-4771-a98b-e1b6a6bd0645
+
+Non-root Certificate
+
+Cert Hash(sha1): 7a91a1d5182c772b92c6c8c87f6474fe7bbc6d21
+
+  Key Container = 894aa884-9c0f-4f14-97e3-645f40dedf58
+
+  Unique container name: C:\ProgramData\Microsoft\Crypto\PCPKSP\9f936d018d17e8cb3e02cc971b49657c9b79bec3\1a616074672937ac342975f8ea508a8b9b085ce0.PCPKEY
+
+  Provider = Microsoft Platform Crypto Provider
+
+Private key is NOT exportable
+
+Signature test passed
+
+
+
+================ Certificate 2 ================
+
+Serial Number: 63000d43addfcb68810c2dd51c000f000d43ad
+
+Issuer: CN=Enterprise, OU=Enterprise Network Operations, O=VNU, Inc, L=Schaumburg, S=IL, C=US, E=gmolloy@vnuinc.com
+
+ NotBefore: 23-05-2026 10:43
+
+ NotAfter: 23-05-2027 10:43
+
+Subject: CN=LIND55MBVC4.enterprisenet.org
+
+Non-root Certificate
+
+Template: 1.3.6.1.4.1.311.21.8.7003407.3958144.11815553.4384176.3614440.95.7433886.12971501
+
+Cert Hash(sha1): 43610d87d71d4914cba447bd59b36deaca01f26f
+
+  Key Container = LIND55MBVC4.enterprisenet.org-f03ba095-94b5-4cf1-a03a-6ea4816d22f1
+
+  Unique container name: cc6d35ef0172719aec013bbe0e9040f3_871e017e-bcbc-4dc7-98b5-1cc935df09e8
+
+  Provider = Microsoft Software Key Storage Provider
+
+Private key is NOT exportable
+
+Encryption test passed
+
+
+
+================ Certificate 3 ================
+
+Serial Number: 466931c67867d5834b503b52064c5a30
+
+Issuer: CN=Microsoft Intune MDM Device CA
+
+ NotBefore: 23-05-2026 10:58
+
+ NotAfter: 20-05-2027 19:35
+
+Subject: CN=46b30eff-b58c-4cca-ac40-cb8e346dc927
+
+Non-root Certificate
+
+Cert Hash(sha1): 270f41586894a3d992f49df83e68d3d765d9ec8a
+
+  Key Container = ConfigMgrEnrollment1
+
+  Unique container name: C:\ProgramData\Microsoft\Crypto\PCPKSP\9f936d018d17e8cb3e02cc971b49657c9b79bec3\66724352bfbd9abd4ab7b0180e8aa0f93675e67b.PCPKEY
+
+  Provider = Microsoft Platform Crypto Provider
+
+Private key is NOT exportable
+
+Encryption test passed
+
+
+
+================ Certificate 4 ================
+
+Serial Number: 7d02fb1c4f3e9ba8d30283352b889b76
+
+Issuer: CN=MS-Organization-P2P-Access [2025]
+
+ NotBefore: 19-08-2026 10:15
+
+ NotAfter: 20-08-2026 10:20
+
+Subject: CN=b0a5bc0f-7566-4771-a98b-e1b6a6bd0645, DC=6ac7a1f4-5fb1-4153-bb4f-12d2020a1f7d
+
+Non-root Certificate
+
+Cert Hash(sha1): 0d2602e77276a75f38d74091d9fefa2bc31b8e80
+
+  Key Container = 4FDB8D01-07B9-4A50-8FAF-B488D8E38BA9
+
+  Unique container name: C:\ProgramData\Microsoft\Crypto\PCPKSP\9f936d018d17e8cb3e02cc971b49657c9b79bec3\1e9bfce099625bb59b15d7a4483bb24546a01383.PCPKEY
+
+  Provider = Microsoft Platform Crypto Provider
+
+Private key is NOT exportable
+
+Encryption test passed
+
+
+My "Personal"
+
+</textarea></div>
+<div id="commands-output">
+<h2>Profile Output</h2><textarea class="command-output" cols="91" rows="25" readonly="true" spellcheck="false">
+<!--Interface: Wi-Fi, Profile: Cressida_2G-->
+&lt;?xml version="1.0"?&gt;&lt;WLANProfile xmlns="http://www.microsoft.com/networking/WLAN/profile/v1"&gt;&lt;name&gt;Cressida_2G&lt;/name&gt;&lt;SSIDConfig&gt;&lt;SSID&gt;&lt;hex&gt;43726573736964615F3247&lt;/hex&gt;&lt;name&gt;Cressida_2G&lt;/name&gt;&lt;/SSID&gt;&lt;/SSIDConfig&gt;&lt;connectionType&gt;ESS&lt;/connectionType&gt;&lt;connectionMode&gt;manual&lt;/connectionMode&gt;&lt;MSM&gt;&lt;security&gt;&lt;authEncryption&gt;&lt;authentication&gt;WPA3SAE&lt;/authentication&gt;&lt;encryption&gt;AES&lt;/encryption&gt;&lt;useOneX&gt;false&lt;/useOneX&gt;&lt;transitionMode xmlns="http://www.microsoft.com/networking/WLAN/profile/v4"&gt;true&lt;/transitionMode&gt;&lt;/authEncryption&gt;&lt;sharedKey&gt;&lt;keyType&gt;passPhrase&lt;/keyType&gt;&lt;protected&gt;true&lt;/protected&gt;&lt;keyMaterial&gt;01000000D08C9DDF0115D1118C7A00C04FC297EB01000000E2664E9E9BE10843A3D65697606DAB6700000000020000000000106600000001000020000000C73FB7F73031E5A655E83A52FE9A404DDD88E05342E63D37CBA82E398FE87B7C000000000E80000000020000200000004E41A9675EF0A61A0600897D9249C497BC236B1CFB0C436E3A77BA73D07C7BE410000000DB250D6B57A50372A531FA033601F8CD400000000616826C15324373C9A0552A7362259D2E869116A0C71FD0AB1E7EC98844C0B39D9594CE373491F8492653F7E263F0550E0F80D0D027E8DE132B41AE2605A930&lt;/keyMaterial&gt;&lt;/sharedKey&gt;&lt;/security&gt;&lt;/MSM&gt;&lt;MacRandomization xmlns="http://www.microsoft.com/networking/WLAN/profile/v3"&gt;&lt;enableRandomization&gt;false&lt;/enableRandomization&gt;&lt;randomizationSeed&gt;469588582&lt;/randomizationSeed&gt;&lt;/MacRandomization&gt;&lt;/WLANProfile&gt;
+<!--Interface: Wi-Fi, Profile: Cressida_5G-->
+&lt;?xml version="1.0"?&gt;&lt;WLANProfile xmlns="http://www.microsoft.com/networking/WLAN/profile/v1"&gt;&lt;name&gt;Cressida_5G&lt;/name&gt;&lt;SSIDConfig&gt;&lt;SSID&gt;&lt;hex&gt;43726573736964615F3547&lt;/hex&gt;&lt;name&gt;Cressida_5G&lt;/name&gt;&lt;/SSID&gt;&lt;/SSIDConfig&gt;&lt;connectionType&gt;ESS&lt;/connectionType&gt;&lt;connectionMode&gt;auto&lt;/connectionMode&gt;&lt;MSM&gt;&lt;security&gt;&lt;authEncryption&gt;&lt;authentication&gt;WPA3SAE&lt;/authentication&gt;&lt;encryption&gt;AES&lt;/encryption&gt;&lt;useOneX&gt;false&lt;/useOneX&gt;&lt;transitionMode xmlns="http://www.microsoft.com/networking/WLAN/profile/v4"&gt;true&lt;/transitionMode&gt;&lt;/authEncryption&gt;&lt;sharedKey&gt;&lt;keyType&gt;passPhrase&lt;/keyType&gt;&lt;protected&gt;true&lt;/protected&gt;&lt;keyMaterial&gt;01000000D08C9DDF0115D1118C7A00C04FC297EB01000000E2664E9E9BE10843A3D65697606DAB670000000002000000000010660000000100002000000091DF2A99C88D33427483F12B86A237FDEF9F3D4A917D9F08B5603555129EBF7A000000000E800000000200002000000003B1570281D82F86C17587BF9C16C3A8593C92AC4C006107671A54ACA3F224EA10000000985FF8FD5A51A76815ABAB7CB27D388440000000DA2A699AE3E7F827A6CA4532BE7CBD0329093CDA649D3308B06053693B766D9B29B07AA5EC1C3E56A7BFAAC642159B607BD074DB1E3A39D2010825172C258AE9&lt;/keyMaterial&gt;&lt;/sharedKey&gt;&lt;/security&gt;&lt;/MSM&gt;&lt;MacRandomization xmlns="http://www.microsoft.com/networking/WLAN/profile/v3"&gt;&lt;enableRandomization&gt;false&lt;/enableRandomization&gt;&lt;randomizationSeed&gt;932209490&lt;/randomizationSeed&gt;&lt;/MacRandomization&gt;&lt;/WLANProfile&gt;
+<!--Interface: Wi-Fi, Profile: NIQ-->
+&lt;?xml version="1.0"?&gt;&lt;WLANProfile xmlns="http://www.microsoft.com/networking/WLAN/profile/v1"&gt;&lt;name&gt;NIQ&lt;/name&gt;&lt;SSIDConfig&gt;&lt;SSID&gt;&lt;hex&gt;4E4951&lt;/hex&gt;&lt;name&gt;NIQ&lt;/name&gt;&lt;/SSID&gt;&lt;nonBroadcast&gt;true&lt;/nonBroadcast&gt;&lt;/SSIDConfig&gt;&lt;connectionType&gt;ESS&lt;/connectionType&gt;&lt;connectionMode&gt;auto&lt;/connectionMode&gt;&lt;autoSwitch&gt;false&lt;/autoSwitch&gt;&lt;MSM&gt;&lt;security&gt;&lt;authEncryption&gt;&lt;authentication&gt;WPA2&lt;/authentication&gt;&lt;encryption&gt;AES&lt;/encryption&gt;&lt;useOneX&gt;true&lt;/useOneX&gt;&lt;FIPSMode xmlns="http://www.microsoft.com/networking/WLAN/profile/v2"&gt;false&lt;/FIPSMode&gt;&lt;/authEncryption&gt;&lt;PMKCacheMode&gt;enabled&lt;/PMKCacheMode&gt;&lt;PMKCacheTTL&gt;720&lt;/PMKCacheTTL&gt;&lt;PMKCacheSize&gt;128&lt;/PMKCacheSize&gt;&lt;preAuthMode&gt;disabled&lt;/preAuthMode&gt;&lt;OneX xmlns="http://www.microsoft.com/networking/OneX/v1"&gt;&lt;authMode&gt;machine&lt;/authMode&gt;&lt;EAPConfig&gt;&lt;EapHostConfig xmlns="http://www.microsoft.com/provisioning/EapHostConfig"&gt;&lt;EapMethod&gt;&lt;Type xmlns="http://www.microsoft.com/provisioning/EapCommon"&gt;13&lt;/Type&gt;&lt;VendorId xmlns="http://www.microsoft.com/provisioning/EapCommon"&gt;0&lt;/VendorId&gt;&lt;VendorType xmlns="http://www.microsoft.com/provisioning/EapCommon"&gt;0&lt;/VendorType&gt;&lt;AuthorId xmlns="http://www.microsoft.com/provisioning/EapCommon"&gt;0&lt;/AuthorId&gt;&lt;/EapMethod&gt;&lt;Config&gt;&lt;Eap xmlns="http://www.microsoft.com/provisioning/BaseEapConnectionPropertiesV1"&gt;&lt;Type&gt;13&lt;/Type&gt;&lt;EapType xmlns="http://www.microsoft.com/provisioning/EapTlsConnectionPropertiesV1"&gt;&lt;CredentialsSource&gt;&lt;CertificateStore&gt;&lt;SimpleCertSelection&gt;true&lt;/SimpleCertSelection&gt;&lt;/CertificateStore&gt;&lt;/CredentialsSource&gt;&lt;ServerValidation&gt;&lt;DisableUserPromptForServerValidation&gt;false&lt;/DisableUserPromptForServerValidation&gt;&lt;ServerNames&gt;&lt;/ServerNames&gt;&lt;/ServerValidation&gt;&lt;DifferentUsername&gt;false&lt;/DifferentUsername&gt;&lt;PerformServerValidation xmlns="http://www.microsoft.com/provisioning/EapTlsConnectionPropertiesV2"&gt;false&lt;/PerformServerValidation&gt;&lt;AcceptServerName xmlns="http://www.microsoft.com/provisioning/EapTlsConnectionPropertiesV2"&gt;false&lt;/AcceptServerName&gt;&lt;TLSExtensions xmlns="http://www.microsoft.com/provisioning/EapTlsConnectionPropertiesV2"&gt;&lt;FilteringInfo xmlns="http://www.microsoft.com/provisioning/EapTlsConnectionPropertiesV3"&gt;&lt;CAHashList Enabled="true"&gt;&lt;IssuerHash&gt;62 ee 07 53 e8 93 ef a0 6e 21 ca 07 5e 69 93 cf db d3 c5 3a &lt;/IssuerHash&gt;&lt;/CAHashList&gt;&lt;/FilteringInfo&gt;&lt;/TLSExtensions&gt;&lt;/EapType&gt;&lt;/Eap&gt;&lt;/Config&gt;&lt;/EapHostConfig&gt;&lt;/EAPConfig&gt;&lt;/OneX&gt;&lt;/security&gt;&lt;/MSM&gt;&lt;/WLANProfile&gt;</textarea></div>
+<div id="events-summary">
+<h2>Summary</h2>
+<h3>Session Success/Failures</h3>
+<table id="disconnect-status">
+<tr>
+<th>Status</th>
+<th>Count</th>
+</tr>
+<tr>
+<td class="status"><span class="graph-background success" style="width: 0px">
+                                     
+                                </span>
+                                Successes
+                            </td>
+<td class="count">0</td>
+</tr>
+<tr>
+<td><span class="graph-background failure" style="width: 150px">
+                                     
+                                </span>
+                                Failures
+                            </td>
+<td class="count">1</td>
+</tr>
+<tr>
+<td class="status"><span class="graph-background warning" style="width: 150px">
+                                     
+                                </span>
+                                Warnings
+                            </td>
+<td class="count">1</td>
+</tr>
+</table>
+<h3>Disconnect Reasons</h3>
+<table id="disconnect-reasons">
+<tr>
+<th>Reason</th>
+<th>Count</th>
+</tr>
+<tr>
+<td class="reason"><span class="
+                                            graph-background failure" style="width: 800px">
+                                         
+                                    </span>The network is disconnected due to a policy disabling auto connect on this interface.</td>
+<td class="count">2</td>
+</tr>
+</table>
+<h3>Session Durations</h3>
+<table id="session-durations">
+<tr id="duration-graph">
+<td style="top: 550px;">
+<div class="duration-bar" style="height: 0px;"><span class="bar-label" style="bottom: 0px;">0</span><span class="bar-background">
+                                             
+                                        </span></div>
+</td>
+<td style="top: 550px;">
+<div class="duration-bar" style="height: 0px;"><span class="bar-label" style="bottom: 0px;">0</span><span class="bar-background">
+                                             
+                                        </span></div>
+</td>
+<td style="top: 550px;">
+<div class="duration-bar" style="height: 0px;"><span class="bar-label" style="bottom: 0px;">0</span><span class="bar-background">
+                                             
+                                        </span></div>
+</td>
+<td style="top: 550px;">
+<div class="duration-bar" style="height: 0px;"><span class="bar-label" style="bottom: 0px;">0</span><span class="bar-background">
+                                             
+                                        </span></div>
+</td>
+<td style="top: 550px;">
+<div class="duration-bar" style="height: 0px;"><span class="bar-label" style="bottom: 0px;">0</span><span class="bar-background">
+                                             
+                                        </span></div>
+</td>
+<td style="top: 550px;">
+<div class="duration-bar" style="height: 0px;"><span class="bar-label" style="bottom: 0px;">0</span><span class="bar-background">
+                                             
+                                        </span></div>
+</td>
+<td style="top: 30px;">
+<div class="duration-bar" style="height: 520px;"><span class="bar-label" style="bottom: 520px;">2</span><span class="bar-background">
+                                             
+                                        </span></div>
+</td>
+</tr>
+<tr id="duration-labels">
+<td>0 - 1<br>minutes
+                                </td>
+<td>1 - 5<br>minutes
+                                </td>
+<td>5 - 10<br>minutes
+                                </td>
+<td>10 - 30<br>minutes
+                                </td>
+<td>30 - 60<br>minutes
+                                </td>
+<td>60 - 360<br>minutes
+                                </td>
+<td>360+<br>minutes
+                                </td>
+</tr>
+</table>
+</div>
+<h2>Wireless Sessions</h2>
+<div id="session-list">
+<div class="session">
+<p>Interface:<b>Intel(R) Wi-Fi 7 BE201 320MHz</b></p>
+<p>Interface GUID: <b>556d9bdf-d387-4ab9-be4c-a7e220faf218</b></p>
+<p>Connection Mode:<b>Automatic connection with a profile</b></p>
+<p>Profile:<b>NIQ</b></p>
+<p>SSID:<b>NIQ</b></p>
+<p>BSS Type:<b>Infrastructure</b></p>
+<p>Session Duration:
+                                        <b>11 hours
+                                            51 minutes
+                                            28 seconds
+                                        </b></p>
+<p>Disconnect Reason:<b>The network is disconnected due to a policy disabling auto connect on this interface.</b></p>
+<table>
+<tr class="warning">
+<th class="event-header">EventId</th>
+<th class="time-header">Time</th>
+<th class="message-header">Message</th>
+</tr>
+<tr class="wlan ">
+<td>11010<a id="1"></a></td>
+<td>2026-08-17T09:36:35</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Authentication: WPA2-Enterprise<br>Encryption: AES-GCMP-128<br>FIPS Mode: Disabled<br>802.1x Enabled: Yes<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>12014<a id="2"></a></td>
+<td>2026-08-17T09:36:36</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless 802.1x authentication was restarted.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Eap Information: Type 13, Vendor ID 0, Vendor Type 0, Author ID 0<br>Restart Reason: Peer Initiated<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>12014<a id="3"></a></td>
+<td>2026-08-17T09:36:36</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless 802.1x authentication was restarted.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Eap Information: Type 13, Vendor ID 0, Vendor Type 0, Author ID 0<br>Restart Reason: Peer Initiated<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>12011<a id="4"></a></td>
+<td>2026-08-17T09:36:36</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless 802.1x authentication started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Eap Information: Type 13, Vendor ID 0, Vendor Type 0, Author ID 0<br></span></div>
+</td>
+</tr>
+<tr class="eap">
+<td>2088<a id="121"></a></td>
+<td>2026-08-17T09:36:36</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">User Uses Saved Credentials.</span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>12011<a id="5"></a></td>
+<td>2026-08-17T09:36:38</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless 802.1x authentication started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Eap Information: Type 13, Vendor ID 0, Vendor Type 0, Author ID 0<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>12014<a id="6"></a></td>
+<td>2026-08-17T09:36:38</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless 802.1x authentication was restarted.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Eap Information: Type 13, Vendor ID 0, Vendor Type 0, Author ID 0<br>Restart Reason: Msm Initiated<br></span></div>
+</td>
+</tr>
+<tr class="
+                                                    error
+                                                ">
+<td>101<a id="136"></a></td>
+<td>2026-08-17T09:36:38</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Authentication failed for EAP method type 13. The error was 0x54F.</span></div>
+</td>
+</tr>
+<tr class="eap">
+<td>2088<a id="122"></a></td>
+<td>2026-08-17T09:36:38</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">User Uses Saved Credentials.</span></div>
+</td>
+</tr>
+<tr class="eap">
+<td>2089<a id="123"></a></td>
+<td>2026-08-17T09:36:41</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">EAP session is completing during the authentication phase.</span></div>
+</td>
+</tr>
+<tr class="eap">
+<td>100<a id="137"></a></td>
+<td>2026-08-17T09:36:41</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Authentication succeeded for EAP method type 13.</span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>12012<a id="7"></a></td>
+<td>2026-08-17T09:36:41</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless 802.1x authentication succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Identity: host/LIND55MBVC4.enterprisenet.org<br>User: <br>Domain: <br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11005<a id="8"></a></td>
+<td>2026-08-17T09:36:41</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br></span></div>
+</td>
+</tr>
+<tr class="ncsi local">
+<td>4042<a id="105"></a></td>
+<td>2026-08-17T09:36:45</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Capability change on {556d9bdf-d387-4ab9-be4c-a7e220faf218} (0x47008000000000 Family: V4 Capability: Local ChangeReason: PassivePacketHops)</span></div>
+</td>
+</tr>
+<tr class="ncsi internet">
+<td>4042<a id="106"></a></td>
+<td>2026-08-17T09:36:45</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Capability change on {556d9bdf-d387-4ab9-be4c-a7e220faf218} (0x47008000000000 Family: V4 Capability: Internet ChangeReason: ActiveHttpProbeSucceeded)</span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11004<a id="9"></a></td>
+<td>2026-08-17T16:07:44</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security stopped.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Security Hint: The operation was successful.<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11010<a id="10"></a></td>
+<td>2026-08-17T16:07:44</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Authentication: WPA2-Enterprise<br>Encryption: AES-GCMP-128<br>FIPS Mode: Disabled<br>802.1x Enabled: Yes<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11005<a id="11"></a></td>
+<td>2026-08-17T16:07:44</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11004<a id="12"></a></td>
+<td>2026-08-17T16:56:31</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security stopped.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Security Hint: The operation was successful.<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11010<a id="13"></a></td>
+<td>2026-08-17T16:56:31</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Authentication: WPA2-Enterprise<br>Encryption: AES-GCMP-128<br>FIPS Mode: Disabled<br>802.1x Enabled: Yes<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11005<a id="14"></a></td>
+<td>2026-08-17T16:56:31</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11004<a id="15"></a></td>
+<td>2026-08-17T16:57:03</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security stopped.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Security Hint: The operation was successful.<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11010<a id="16"></a></td>
+<td>2026-08-17T16:57:03</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Authentication: WPA2-Enterprise<br>Encryption: AES-GCMP-128<br>FIPS Mode: Disabled<br>802.1x Enabled: Yes<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11005<a id="17"></a></td>
+<td>2026-08-17T16:57:04</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11004<a id="18"></a></td>
+<td>2026-08-17T16:57:27</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security stopped.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Security Hint: The operation was successful.<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11010<a id="19"></a></td>
+<td>2026-08-17T16:57:28</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Authentication: WPA2-Enterprise<br>Encryption: AES-GCMP-128<br>FIPS Mode: Disabled<br>802.1x Enabled: Yes<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11005<a id="20"></a></td>
+<td>2026-08-17T16:57:28</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11004<a id="21"></a></td>
+<td>2026-08-17T17:47:35</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security stopped.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Security Hint: The operation was successful.<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11010<a id="22"></a></td>
+<td>2026-08-17T17:47:35</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Authentication: WPA2-Enterprise<br>Encryption: AES-GCMP-128<br>FIPS Mode: Disabled<br>802.1x Enabled: Yes<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11005<a id="23"></a></td>
+<td>2026-08-17T17:47:35</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11004<a id="24"></a></td>
+<td>2026-08-17T17:47:41</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security stopped.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Security Hint: The operation was successful.<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11010<a id="25"></a></td>
+<td>2026-08-17T17:47:42</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Authentication: WPA2-Enterprise<br>Encryption: AES-GCMP-128<br>FIPS Mode: Disabled<br>802.1x Enabled: Yes<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11005<a id="26"></a></td>
+<td>2026-08-17T17:47:42</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11004<a id="27"></a></td>
+<td>2026-08-17T17:48:08</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security stopped.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Security Hint: The operation was successful.<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11010<a id="28"></a></td>
+<td>2026-08-17T17:48:08</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Authentication: WPA2-Enterprise<br>Encryption: AES-GCMP-128<br>FIPS Mode: Disabled<br>802.1x Enabled: Yes<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11005<a id="29"></a></td>
+<td>2026-08-17T17:48:08</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11004<a id="30"></a></td>
+<td>2026-08-17T17:51:44</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security stopped.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Security Hint: The operation was successful.<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11010<a id="31"></a></td>
+<td>2026-08-17T17:51:44</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Authentication: WPA2-Enterprise<br>Encryption: AES-GCMP-128<br>FIPS Mode: Disabled<br>802.1x Enabled: Yes<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11005<a id="32"></a></td>
+<td>2026-08-17T17:51:45</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11004<a id="33"></a></td>
+<td>2026-08-17T20:08:02</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security stopped.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Security Hint: The operation was successful.<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11010<a id="34"></a></td>
+<td>2026-08-17T20:08:02</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Authentication: WPA2-Enterprise<br>Encryption: AES-GCMP-128<br>FIPS Mode: Disabled<br>802.1x Enabled: Yes<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11005<a id="35"></a></td>
+<td>2026-08-17T20:08:03</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br></span></div>
+</td>
+</tr>
+<tr class="wcm">
+<td>1023<a id="144"></a></td>
+<td>2026-08-17T21:08:14</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WCM exited connected standby</span></div>
+</td>
+</tr>
+<tr class="wcm">
+<td>1015<a id="145"></a></td>
+<td>2026-08-17T21:28:02</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Interface Token Applied<br><br>Interface: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Media Type: Wlan<br>Manual enabled: false<br>Auto enabled: false</span></div>
+</td>
+</tr>
+<tr class="ncsi none">
+<td>4042<a id="107"></a></td>
+<td>2026-08-17T21:28:03</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Capability change on {556d9bdf-d387-4ab9-be4c-a7e220faf218} (0x47008000000000 Family: V4 Capability: None ChangeReason: CapabilityReset)</span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11004<a id="36"></a></td>
+<td>2026-08-17T21:28:03</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security stopped.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Security Hint: The operation was successful.<br></span></div>
+</td>
+</tr>
+<tr class="wlan disconnect">
+<td>8003<a id="37"></a></td>
+<td>2026-08-17T21:28:03</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WLAN AutoConfig service has successfully disconnected from a wireless network.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Connection Mode: Automatic connection with a profile<br>Profile Name: NIQ<br>SSID: NIQ<br>BSS Type: Infrastructure<br>Reason: The network is disconnected due to a policy disabling auto connect on this interface.<br></span></div>
+</td>
+</tr>
+<tr class="wcm">
+<td>1015<a id="146"></a></td>
+<td>2026-08-18T06:22:45</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Interface Token Applied<br><br>Interface: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Media Type: Wlan<br>Manual enabled: true<br>Auto enabled: true</span></div>
+</td>
+</tr>
+</table>
+</div>
+<div class="session">
+<p>Interface:<b>Intel(R) Wi-Fi 7 BE201 320MHz</b></p>
+<p>Interface GUID: <b>556d9bdf-d387-4ab9-be4c-a7e220faf218</b></p>
+<p>Connection Mode:<b>Automatic connection with a profile</b></p>
+<p>Profile:<b>NIQ</b></p>
+<p>SSID:<b>NIQ</b></p>
+<p>BSS Type:<b>Infrastructure</b></p>
+<p>Session Duration:
+                                        <b>12 hours
+                                            45 minutes
+                                            40 seconds
+                                        </b></p>
+<p>Disconnect Reason:<b>The network is disconnected due to a policy disabling auto connect on this interface.</b></p>
+<table>
+<tr class="failed">
+<th class="event-header">EventId</th>
+<th class="time-header">Time</th>
+<th class="message-header">Message</th>
+</tr>
+<tr class="wlan ">
+<td>8011<a id="38"></a></td>
+<td>2026-08-18T06:22:46</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Connect to last good network <br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br> Profile Name: NIQ<br>SSID: NIQ<br>BSS type: infrastructure<br></span></div>
+</td>
+</tr>
+<tr class="wcm">
+<td>1023<a id="147"></a></td>
+<td>2026-08-18T06:22:46</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WCM exited connected standby</span></div>
+</td>
+</tr>
+<tr class="wlan connect">
+<td>8000<a id="39"></a></td>
+<td>2026-08-18T06:22:46</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WLAN AutoConfig service started a connection to a wireless network.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Connection Mode: Automatic connection with a profile<br>Profile Name: NIQ<br>SSID: NIQ<br>BSS Type: Infrastructure<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11000<a id="40"></a></td>
+<td>2026-08-18T06:22:46</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless network association started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Authentication: WPA2-Enterprise<br>Encryption: AES-GCMP-128<br>802.1X Enabled: Yes<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11001<a id="41"></a></td>
+<td>2026-08-18T06:22:46</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless network association succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Management Frame Protection Enabled: 0xa00000000<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11010<a id="42"></a></td>
+<td>2026-08-18T06:22:46</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Authentication: WPA2-Enterprise<br>Encryption: AES-GCMP-128<br>FIPS Mode: Disabled<br>802.1x Enabled: Yes<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>12011<a id="43"></a></td>
+<td>2026-08-18T06:22:47</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless 802.1x authentication started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Eap Information: Type 13, Vendor ID 0, Vendor Type 0, Author ID 0<br></span></div>
+</td>
+</tr>
+<tr class="eap">
+<td>2088<a id="124"></a></td>
+<td>2026-08-18T06:22:47</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">User Uses Saved Credentials.</span></div>
+</td>
+</tr>
+<tr class="eap">
+<td>2089<a id="125"></a></td>
+<td>2026-08-18T06:22:48</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">EAP session is completing during the authentication phase.</span></div>
+</td>
+</tr>
+<tr class="eap">
+<td>100<a id="138"></a></td>
+<td>2026-08-18T06:22:48</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Authentication succeeded for EAP method type 13.</span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>12012<a id="44"></a></td>
+<td>2026-08-18T06:22:48</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless 802.1x authentication succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Identity: host/LIND55MBVC4.enterprisenet.org<br>User: <br>Domain: <br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11005<a id="45"></a></td>
+<td>2026-08-18T06:22:48</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>8001<a id="46"></a></td>
+<td>2026-08-18T06:22:48</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WLAN AutoConfig service has successfully connected to a wireless network.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Connection Mode: Automatic connection with a profile<br>Profile Name: NIQ<br>SSID: NIQ<br>BSS Type: Infrastructure<br>PHY Type: 802.11ax<br>Authentication: WPA2-Enterprise<br>Encryption: AES-CCMP<br>802.1x Enabled: Yes<br>Hidden: true<br></span></div>
+</td>
+</tr>
+<tr class="ncsi internet">
+<td>4042<a id="108"></a></td>
+<td>2026-08-18T06:22:50</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Capability change on {556d9bdf-d387-4ab9-be4c-a7e220faf218} (0x47008000000000 Family: V4 Capability: Internet ChangeReason: ActiveHttpProbeSucceeded)</span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11004<a id="47"></a></td>
+<td>2026-08-18T06:23:03</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security stopped.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Security Hint: The operation was successful.<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11010<a id="48"></a></td>
+<td>2026-08-18T09:40:49</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Authentication: WPA2-Enterprise<br>Encryption: AES-GCMP-128<br>FIPS Mode: Disabled<br>802.1x Enabled: Yes<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>12014<a id="49"></a></td>
+<td>2026-08-18T09:40:50</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless 802.1x authentication was restarted.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Eap Information: Type 13, Vendor ID 0, Vendor Type 0, Author ID 0<br>Restart Reason: Peer Initiated<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>12014<a id="50"></a></td>
+<td>2026-08-18T09:40:50</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless 802.1x authentication was restarted.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Eap Information: Type 13, Vendor ID 0, Vendor Type 0, Author ID 0<br>Restart Reason: Peer Initiated<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>12011<a id="51"></a></td>
+<td>2026-08-18T09:40:50</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless 802.1x authentication started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Eap Information: Type 13, Vendor ID 0, Vendor Type 0, Author ID 0<br></span></div>
+</td>
+</tr>
+<tr class="eap">
+<td>2088<a id="126"></a></td>
+<td>2026-08-18T09:40:50</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">User Uses Saved Credentials.</span></div>
+</td>
+</tr>
+<tr class="eap">
+<td>2089<a id="127"></a></td>
+<td>2026-08-18T09:40:52</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">EAP session is completing during the authentication phase.</span></div>
+</td>
+</tr>
+<tr class="eap">
+<td>100<a id="139"></a></td>
+<td>2026-08-18T09:40:52</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Authentication succeeded for EAP method type 13.</span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>12012<a id="52"></a></td>
+<td>2026-08-18T09:40:52</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless 802.1x authentication succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Identity: host/LIND55MBVC4.enterprisenet.org<br>User: <br>Domain: <br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11005<a id="53"></a></td>
+<td>2026-08-18T09:40:52</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br></span></div>
+</td>
+</tr>
+<tr class="ncsi none">
+<td>4042<a id="109"></a></td>
+<td>2026-08-18T10:28:21</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Capability change on {556d9bdf-d387-4ab9-be4c-a7e220faf218} (0x47008000000000 Family: V4 Capability: None ChangeReason: CapabilityReset)</span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11004<a id="54"></a></td>
+<td>2026-08-18T10:28:21</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security stopped.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Security Hint: The operation was successful.<br></span></div>
+</td>
+</tr>
+<tr class="
+                                                    error
+                                                ">
+<td>10002<a id="96"></a></td>
+<td>2026-08-18T10:28:21</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WLAN Extensibility Module has stopped.<br><br>Module Path: C:\Windows\System32\DriverStore\FileRepository\netwtw6e.inf_amd64_bd0a3abded73be0b\IntelIHVRouter18.dll<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>4001<a id="97"></a></td>
+<td>2026-08-18T10:28:21</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WLAN AutoConfig service has successfully stopped.<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>12<a id="168"></a></td>
+<td>2026-08-18T10:28:44</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">The operating system started at system time ‎2026‎-‎08‎-‎18T04:58:43.500000000Z.</span></div>
+</td>
+</tr>
+<tr class="wcm">
+<td>1009<a id="148"></a></td>
+<td>2026-08-18T10:28:57</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">CDE reported an L2 adapter arrival <br><br> Interface: {6a4487bf-5a41-42e8-893a-9749e37014c0} <br><br> Type: Ethernet.</span></div>
+</td>
+</tr>
+<tr class="wcm">
+<td>1009<a id="149"></a></td>
+<td>2026-08-18T10:28:57</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">CDE reported an L2 adapter arrival <br><br> Interface: {9dd2647c-6c78-4a23-b861-c580fdec2864} <br><br> Type: Ethernet.</span></div>
+</td>
+</tr>
+<tr class="wcm">
+<td>1009<a id="150"></a></td>
+<td>2026-08-18T10:28:57</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">CDE reported an L2 adapter arrival <br><br> Interface: {f3ee0e1e-4745-4f87-ae39-b7b48921c065} <br><br> Type: Ethernet.</span></div>
+</td>
+</tr>
+<tr class="wcm">
+<td>1009<a id="151"></a></td>
+<td>2026-08-18T10:28:57</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">CDE reported an L2 adapter arrival <br><br> Interface: {50b111d2-408a-4661-81de-9197fee6662c} <br><br> Type: Ethernet.</span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>4000<a id="98"></a></td>
+<td>2026-08-18T10:29:01</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WLAN AutoConfig service has successfully started.<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>10001<a id="99"></a></td>
+<td>2026-08-18T10:29:01</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WLAN Extensibility Module has successfully started.<br><br>Module Path: C:\Windows\System32\DriverStore\FileRepository\netwtw6e.inf_amd64_bd0a3abded73be0b\IntelIHVRouter18.dll<br></span></div>
+</td>
+</tr>
+<tr class="wcm">
+<td>1009<a id="152"></a></td>
+<td>2026-08-18T10:29:01</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">CDE reported an L2 adapter arrival <br><br> Interface: {556d9bdf-d387-4ab9-be4c-a7e220faf218} <br><br> Type: Wlan</span></div>
+</td>
+</tr>
+<tr class="wcm">
+<td>1015<a id="153"></a></td>
+<td>2026-08-18T10:29:02</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Interface Token Applied<br><br>Interface: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Media Type: Wlan<br>Manual enabled: true<br>Auto enabled: true</span></div>
+</td>
+</tr>
+<tr class="wlan connect">
+<td>8000<a id="55"></a></td>
+<td>2026-08-18T10:29:05</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WLAN AutoConfig service started a connection to a wireless network.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Connection Mode: Automatic connection with a profile<br>Profile Name: NIQ<br>SSID: NIQ<br>BSS Type: Infrastructure<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11000<a id="56"></a></td>
+<td>2026-08-18T10:29:05</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless network association started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Authentication: WPA2-Enterprise<br>Encryption: AES-GCMP-128<br>802.1X Enabled: Yes<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11001<a id="57"></a></td>
+<td>2026-08-18T10:29:05</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless network association succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Management Frame Protection Enabled: 0x100000000<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11010<a id="58"></a></td>
+<td>2026-08-18T10:29:05</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Authentication: WPA2-Enterprise<br>Encryption: AES-GCMP-128<br>FIPS Mode: Disabled<br>802.1x Enabled: Yes<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>12011<a id="59"></a></td>
+<td>2026-08-18T10:29:05</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless 802.1x authentication started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Eap Information: Type 13, Vendor ID 0, Vendor Type 0, Author ID 0<br></span></div>
+</td>
+</tr>
+<tr class="eap">
+<td>2088<a id="128"></a></td>
+<td>2026-08-18T10:29:05</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">User Uses Saved Credentials.</span></div>
+</td>
+</tr>
+<tr class="eap">
+<td>2089<a id="129"></a></td>
+<td>2026-08-18T10:29:06</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">EAP session is completing during the authentication phase.</span></div>
+</td>
+</tr>
+<tr class="eap">
+<td>100<a id="140"></a></td>
+<td>2026-08-18T10:29:06</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Authentication succeeded for EAP method type 13.</span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>12012<a id="60"></a></td>
+<td>2026-08-18T10:29:06</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless 802.1x authentication succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Identity: host/LIND55MBVC4.enterprisenet.org<br>User: <br>Domain: <br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11005<a id="61"></a></td>
+<td>2026-08-18T10:29:06</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>8001<a id="62"></a></td>
+<td>2026-08-18T10:29:06</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WLAN AutoConfig service has successfully connected to a wireless network.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Connection Mode: Automatic connection with a profile<br>Profile Name: NIQ<br>SSID: NIQ<br>BSS Type: Infrastructure<br>PHY Type: 802.11ax<br>Authentication: WPA2-Enterprise<br>Encryption: AES-CCMP<br>802.1x Enabled: Yes<br>Hidden: true<br></span></div>
+</td>
+</tr>
+<tr class="ncsi internet">
+<td>4042<a id="110"></a></td>
+<td>2026-08-18T10:29:07</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Capability change on {556d9bdf-d387-4ab9-be4c-a7e220faf218} (0x47008000000000 Family: V4 Capability: Internet ChangeReason: ActiveHttpProbeSucceeded)</span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11004<a id="63"></a></td>
+<td>2026-08-18T10:59:00</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security stopped.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Security Hint: The operation was successful.<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11010<a id="64"></a></td>
+<td>2026-08-18T10:59:00</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Authentication: WPA2-Enterprise<br>Encryption: AES-GCMP-128<br>FIPS Mode: Disabled<br>802.1x Enabled: Yes<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11005<a id="65"></a></td>
+<td>2026-08-18T10:59:00</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br></span></div>
+</td>
+</tr>
+<tr class="wcm">
+<td>1023<a id="154"></a></td>
+<td>2026-08-18T13:07:05</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WCM exited connected standby</span></div>
+</td>
+</tr>
+<tr class="wcm">
+<td>1023<a id="155"></a></td>
+<td>2026-08-18T13:07:36</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WCM exited connected standby</span></div>
+</td>
+</tr>
+<tr class="wcm">
+<td>1023<a id="156"></a></td>
+<td>2026-08-18T13:12:52</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WCM exited connected standby</span></div>
+</td>
+</tr>
+<tr class="ncsi none">
+<td>4042<a id="111"></a></td>
+<td>2026-08-18T14:20:34</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Capability change on {556d9bdf-d387-4ab9-be4c-a7e220faf218} (0x47008000000000 Family: V4 Capability: None ChangeReason: CapabilityReset)</span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11004<a id="66"></a></td>
+<td>2026-08-18T14:20:34</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security stopped.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Security Hint: The operation was successful.<br></span></div>
+</td>
+</tr>
+<tr class="
+                                                    error
+                                                ">
+<td>10002<a id="100"></a></td>
+<td>2026-08-18T14:20:34</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WLAN Extensibility Module has stopped.<br><br>Module Path: C:\Windows\System32\DriverStore\FileRepository\netwtw6e.inf_amd64_bd0a3abded73be0b\IntelIHVRouter18.dll<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>4001<a id="101"></a></td>
+<td>2026-08-18T14:20:34</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WLAN AutoConfig service has successfully stopped.<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>12<a id="169"></a></td>
+<td>2026-08-18T14:30:41</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">The operating system started at system time ‎2026‎-‎08‎-‎18T09:00:40.500000000Z.</span></div>
+</td>
+</tr>
+<tr class="wcm">
+<td>1009<a id="157"></a></td>
+<td>2026-08-18T14:30:54</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">CDE reported an L2 adapter arrival <br><br> Interface: {6a4487bf-5a41-42e8-893a-9749e37014c0} <br><br> Type: Ethernet.</span></div>
+</td>
+</tr>
+<tr class="wcm">
+<td>1009<a id="158"></a></td>
+<td>2026-08-18T14:30:54</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">CDE reported an L2 adapter arrival <br><br> Interface: {9dd2647c-6c78-4a23-b861-c580fdec2864} <br><br> Type: Ethernet.</span></div>
+</td>
+</tr>
+<tr class="wcm">
+<td>1009<a id="159"></a></td>
+<td>2026-08-18T14:30:54</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">CDE reported an L2 adapter arrival <br><br> Interface: {f3ee0e1e-4745-4f87-ae39-b7b48921c065} <br><br> Type: Ethernet.</span></div>
+</td>
+</tr>
+<tr class="wcm">
+<td>1009<a id="160"></a></td>
+<td>2026-08-18T14:30:54</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">CDE reported an L2 adapter arrival <br><br> Interface: {50b111d2-408a-4661-81de-9197fee6662c} <br><br> Type: Ethernet.</span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>4000<a id="102"></a></td>
+<td>2026-08-18T14:30:57</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WLAN AutoConfig service has successfully started.<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>10001<a id="103"></a></td>
+<td>2026-08-18T14:30:57</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WLAN Extensibility Module has successfully started.<br><br>Module Path: C:\Windows\System32\DriverStore\FileRepository\netwtw6e.inf_amd64_bd0a3abded73be0b\IntelIHVRouter18.dll<br></span></div>
+</td>
+</tr>
+<tr class="wcm">
+<td>1009<a id="161"></a></td>
+<td>2026-08-18T14:30:57</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">CDE reported an L2 adapter arrival <br><br> Interface: {556d9bdf-d387-4ab9-be4c-a7e220faf218} <br><br> Type: Wlan</span></div>
+</td>
+</tr>
+<tr class="wcm">
+<td>1015<a id="162"></a></td>
+<td>2026-08-18T14:30:57</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Interface Token Applied<br><br>Interface: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Media Type: Wlan<br>Manual enabled: true<br>Auto enabled: true</span></div>
+</td>
+</tr>
+<tr class="wlan connect">
+<td>8000<a id="67"></a></td>
+<td>2026-08-18T14:31:00</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WLAN AutoConfig service started a connection to a wireless network.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Connection Mode: Automatic connection with a profile<br>Profile Name: NIQ<br>SSID: NIQ<br>BSS Type: Infrastructure<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11000<a id="68"></a></td>
+<td>2026-08-18T14:31:00</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless network association started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Authentication: WPA2-Enterprise<br>Encryption: AES-GCMP-128<br>802.1X Enabled: Yes<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11001<a id="69"></a></td>
+<td>2026-08-18T14:31:00</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless network association succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Management Frame Protection Enabled: 0x100000000<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11010<a id="70"></a></td>
+<td>2026-08-18T14:31:00</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Authentication: WPA2-Enterprise<br>Encryption: AES-GCMP-128<br>FIPS Mode: Disabled<br>802.1x Enabled: Yes<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>12011<a id="71"></a></td>
+<td>2026-08-18T14:31:00</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless 802.1x authentication started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Eap Information: Type 13, Vendor ID 0, Vendor Type 0, Author ID 0<br></span></div>
+</td>
+</tr>
+<tr class="eap">
+<td>2088<a id="130"></a></td>
+<td>2026-08-18T14:31:00</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">User Uses Saved Credentials.</span></div>
+</td>
+</tr>
+<tr class="eap">
+<td>2089<a id="131"></a></td>
+<td>2026-08-18T14:31:01</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">EAP session is completing during the authentication phase.</span></div>
+</td>
+</tr>
+<tr class="eap">
+<td>100<a id="141"></a></td>
+<td>2026-08-18T14:31:01</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Authentication succeeded for EAP method type 13.</span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>12012<a id="72"></a></td>
+<td>2026-08-18T14:31:01</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless 802.1x authentication succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Identity: host/LIND55MBVC4.enterprisenet.org<br>User: <br>Domain: <br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11005<a id="73"></a></td>
+<td>2026-08-18T14:31:01</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>8001<a id="74"></a></td>
+<td>2026-08-18T14:31:01</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WLAN AutoConfig service has successfully connected to a wireless network.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Connection Mode: Automatic connection with a profile<br>Profile Name: NIQ<br>SSID: NIQ<br>BSS Type: Infrastructure<br>PHY Type: 802.11ax<br>Authentication: WPA2-Enterprise<br>Encryption: AES-CCMP<br>802.1x Enabled: Yes<br>Hidden: true<br></span></div>
+</td>
+</tr>
+<tr class="ncsi internet">
+<td>4042<a id="112"></a></td>
+<td>2026-08-18T14:31:02</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Capability change on {556d9bdf-d387-4ab9-be4c-a7e220faf218} (0x47008000000000 Family: V4 Capability: Internet ChangeReason: ActiveHttpProbeSucceeded)</span></div>
+</td>
+</tr>
+<tr class="wcm">
+<td>1023<a id="163"></a></td>
+<td>2026-08-18T19:06:09</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WCM exited connected standby</span></div>
+</td>
+</tr>
+<tr class="wcm">
+<td>1023<a id="164"></a></td>
+<td>2026-08-18T19:06:22</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WCM exited connected standby</span></div>
+</td>
+</tr>
+<tr class="wcm">
+<td>1015<a id="165"></a></td>
+<td>2026-08-18T19:08:25</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Interface Token Applied<br><br>Interface: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Media Type: Wlan<br>Manual enabled: false<br>Auto enabled: false</span></div>
+</td>
+</tr>
+<tr class="ncsi none">
+<td>4042<a id="113"></a></td>
+<td>2026-08-18T19:08:25</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Capability change on {556d9bdf-d387-4ab9-be4c-a7e220faf218} (0x47008000000000 Family: V4 Capability: None ChangeReason: CapabilityReset)</span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11004<a id="75"></a></td>
+<td>2026-08-18T19:08:26</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security stopped.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Security Hint: The operation was successful.<br></span></div>
+</td>
+</tr>
+<tr class="wlan disconnect">
+<td>8003<a id="76"></a></td>
+<td>2026-08-18T19:08:26</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WLAN AutoConfig service has successfully disconnected from a wireless network.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Connection Mode: Automatic connection with a profile<br>Profile Name: NIQ<br>SSID: NIQ<br>BSS Type: Infrastructure<br>Reason: The network is disconnected due to a policy disabling auto connect on this interface.<br></span></div>
+</td>
+</tr>
+</table>
+</div>
+<div class="session">
+<table>
+<tr class="info">
+<th class="event-header">EventId</th>
+<th class="time-header">Time</th>
+<th class="message-header">Message</th>
+</tr>
+<tr class="wcm">
+<td>1015<a id="166"></a></td>
+<td>2026-08-19T00:26:02</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Interface Token Applied<br><br>Interface: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Media Type: Wlan<br>Manual enabled: true<br>Auto enabled: true</span></div>
+</td>
+</tr>
+<tr class="wcm">
+<td>1023<a id="167"></a></td>
+<td>2026-08-19T00:26:02</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WCM exited connected standby</span></div>
+</td>
+</tr>
+</table>
+</div>
+<div class="session">
+<p>Interface:<b>Intel(R) Wi-Fi 7 BE201 320MHz</b></p>
+<p>Interface GUID: <b>556d9bdf-d387-4ab9-be4c-a7e220faf218</b></p>
+<p>Connection Mode:<b>Automatic connection with a profile</b></p>
+<p>Profile:<b>NIQ</b></p>
+<p>SSID:<b>NIQ</b></p>
+<p>BSS Type:<b>Infrastructure</b></p>
+<p>Session Duration:
+                                        <b>14 hours
+                                            9 minutes
+                                            45 seconds
+                                        </b></p>
+<p>Disconnect Reason:<b>Unknown</b></p>
+<table>
+<tr class="successful">
+<th class="event-header">EventId</th>
+<th class="time-header">Time</th>
+<th class="message-header">Message</th>
+</tr>
+<tr class="wlan ">
+<td>8011<a id="77"></a></td>
+<td>2026-08-19T00:26:02</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Connect to last good network <br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br> Profile Name: NIQ<br>SSID: NIQ<br>BSS type: infrastructure<br></span></div>
+</td>
+</tr>
+<tr class="wlan connect">
+<td>8000<a id="78"></a></td>
+<td>2026-08-19T00:26:02</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WLAN AutoConfig service started a connection to a wireless network.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Connection Mode: Automatic connection with a profile<br>Profile Name: NIQ<br>SSID: NIQ<br>BSS Type: Infrastructure<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11000<a id="79"></a></td>
+<td>2026-08-19T00:26:02</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless network association started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Authentication: WPA2-Enterprise<br>Encryption: AES-GCMP-128<br>802.1X Enabled: Yes<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11001<a id="80"></a></td>
+<td>2026-08-19T00:26:03</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless network association succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Management Frame Protection Enabled: 0x200000000<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11010<a id="81"></a></td>
+<td>2026-08-19T00:26:03</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Authentication: WPA2-Enterprise<br>Encryption: AES-GCMP-128<br>FIPS Mode: Disabled<br>802.1x Enabled: Yes<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>12011<a id="82"></a></td>
+<td>2026-08-19T00:26:03</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless 802.1x authentication started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Eap Information: Type 13, Vendor ID 0, Vendor Type 0, Author ID 0<br></span></div>
+</td>
+</tr>
+<tr class="eap">
+<td>2088<a id="132"></a></td>
+<td>2026-08-19T00:26:03</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">User Uses Saved Credentials.</span></div>
+</td>
+</tr>
+<tr class="eap">
+<td>2089<a id="133"></a></td>
+<td>2026-08-19T00:26:04</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">EAP session is completing during the authentication phase.</span></div>
+</td>
+</tr>
+<tr class="eap">
+<td>100<a id="142"></a></td>
+<td>2026-08-19T00:26:04</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Authentication succeeded for EAP method type 13.</span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>12012<a id="83"></a></td>
+<td>2026-08-19T00:26:04</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless 802.1x authentication succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Identity: host/LIND55MBVC4.enterprisenet.org<br>User: <br>Domain: <br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11005<a id="84"></a></td>
+<td>2026-08-19T00:26:04</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>8001<a id="85"></a></td>
+<td>2026-08-19T00:26:04</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">WLAN AutoConfig service has successfully connected to a wireless network.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Connection Mode: Automatic connection with a profile<br>Profile Name: NIQ<br>SSID: NIQ<br>BSS Type: Infrastructure<br>PHY Type: 802.11ax<br>Authentication: WPA2-Enterprise<br>Encryption: AES-CCMP<br>802.1x Enabled: Yes<br>Hidden: true<br></span></div>
+</td>
+</tr>
+<tr class="ncsi internet">
+<td>4042<a id="114"></a></td>
+<td>2026-08-19T00:26:06</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Capability change on {556d9bdf-d387-4ab9-be4c-a7e220faf218} (0x47008000000000 Family: V4 Capability: Internet ChangeReason: ActiveHttpProbeSucceeded)</span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11004<a id="86"></a></td>
+<td>2026-08-19T00:26:12</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security stopped.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Security Hint: The operation was successful.<br></span></div>
+</td>
+</tr>
+<tr class="ncsi none">
+<td>4042<a id="115"></a></td>
+<td>2026-08-19T09:56:32</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Capability change on {556d9bdf-d387-4ab9-be4c-a7e220faf218} (0x47008000000000 Family: V4 Capability: None ChangeReason: NoAddress)</span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11010<a id="87"></a></td>
+<td>2026-08-19T09:56:33</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Authentication: WPA2-Enterprise<br>Encryption: AES-GCMP-128<br>FIPS Mode: Disabled<br>802.1x Enabled: Yes<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>12014<a id="88"></a></td>
+<td>2026-08-19T09:56:33</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless 802.1x authentication was restarted.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Eap Information: Type 13, Vendor ID 0, Vendor Type 0, Author ID 0<br>Restart Reason: Peer Initiated<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>12014<a id="89"></a></td>
+<td>2026-08-19T09:56:33</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless 802.1x authentication was restarted.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Eap Information: Type 13, Vendor ID 0, Vendor Type 0, Author ID 0<br>Restart Reason: Peer Initiated<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>12011<a id="90"></a></td>
+<td>2026-08-19T09:56:33</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless 802.1x authentication started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Eap Information: Type 13, Vendor ID 0, Vendor Type 0, Author ID 0<br></span></div>
+</td>
+</tr>
+<tr class="eap">
+<td>2088<a id="134"></a></td>
+<td>2026-08-19T09:56:33</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">User Uses Saved Credentials.</span></div>
+</td>
+</tr>
+<tr class="eap">
+<td>2089<a id="135"></a></td>
+<td>2026-08-19T09:56:34</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">EAP session is completing during the authentication phase.</span></div>
+</td>
+</tr>
+<tr class="eap">
+<td>100<a id="143"></a></td>
+<td>2026-08-19T09:56:34</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Authentication succeeded for EAP method type 13.</span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>12012<a id="91"></a></td>
+<td>2026-08-19T09:56:34</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless 802.1x authentication succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Identity: host/LIND55MBVC4.enterprisenet.org<br>User: <br>Domain: <br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11005<a id="92"></a></td>
+<td>2026-08-19T09:56:34</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br></span></div>
+</td>
+</tr>
+<tr class="ncsi internet">
+<td>4042<a id="116"></a></td>
+<td>2026-08-19T09:56:36</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Capability change on {556d9bdf-d387-4ab9-be4c-a7e220faf218} (0x47008000000000 Family: V4 Capability: Internet ChangeReason: ActiveHttpProbeSucceeded)</span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11004<a id="93"></a></td>
+<td>2026-08-19T10:35:42</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security stopped.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Security Hint: The operation was successful.<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11010<a id="94"></a></td>
+<td>2026-08-19T10:35:42</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security started.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br>Authentication: WPA2-Enterprise<br>Encryption: AES-GCMP-128<br>FIPS Mode: Disabled<br>802.1x Enabled: Yes<br></span></div>
+</td>
+</tr>
+<tr class="wlan ">
+<td>11005<a id="95"></a></td>
+<td>2026-08-19T10:35:42</td>
+<td>
+<div class="message"><span class="expand-btn">[+]</span><span class="message-body">Wireless security succeeded.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Local MAC Address: C0:A8:10:9D:15:AC<br>Network SSID: NIQ<br>BSS Type: Infrastructure<br></span></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div><script type="text/javascript">
+                var snapshots = [
+                    
+                        {
+                            "type":"Internet",
+                            "error":"0",
+                            "time":"134315871960622416",
+                            "message":"Capability change on {556d9bdf-d387-4ab9-be4c-a7e220faf218} (0x47008000000000 Family: V4 Capability: Internet ChangeReason: ActiveHttpProbeSucceeded)",
+                            "connectionMode":"",
+                            "profileName":"",
+                            "ssid":"",
+                            "disconnectReason":"",
+                            "correspondingEvent":"116" 
+                        },
+                    
+                        {
+                            "type":"None",
+                            "error":"0",
+                            "time":"134315871923228588",
+                            "message":"Capability change on {556d9bdf-d387-4ab9-be4c-a7e220faf218} (0x47008000000000 Family: V4 Capability: None ChangeReason: NoAddress)",
+                            "connectionMode":"",
+                            "profileName":"",
+                            "ssid":"",
+                            "disconnectReason":"",
+                            "correspondingEvent":"115" 
+                        },
+                    
+                        {
+                            "type":"Internet",
+                            "error":"0",
+                            "time":"134315529664631820",
+                            "message":"Capability change on {556d9bdf-d387-4ab9-be4c-a7e220faf218} (0x47008000000000 Family: V4 Capability: Internet ChangeReason: ActiveHttpProbeSucceeded)",
+                            "connectionMode":"",
+                            "profileName":"",
+                            "ssid":"",
+                            "disconnectReason":"",
+                            "correspondingEvent":"114" 
+                        },
+                    
+                        {
+                            "type":"Connect",
+                            "error":"0",
+                            "time":"134315529622476102",
+                            "message":"WLAN AutoConfig service started a connection to a wireless network.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Connection Mode: Automatic connection with a profile<br>Profile Name: NIQ<br>SSID: NIQ<br>BSS Type: Infrastructure<br>",
+                            "connectionMode":"Automatic connection with a profile",
+                            "profileName":"NIQ",
+                            "ssid":"NIQ",
+                            "disconnectReason":"",
+                            "correspondingEvent":"78" 
+                        },
+                    
+                        {
+                            "type":"Disconnect",
+                            "error":"0",
+                            "time":"134315339061534218",
+                            "message":"WLAN AutoConfig service has successfully disconnected from a wireless network.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Connection Mode: Automatic connection with a profile<br>Profile Name: NIQ<br>SSID: NIQ<br>BSS Type: Infrastructure<br>Reason: The network is disconnected due to a policy disabling auto connect on this interface.<br>",
+                            "connectionMode":"Automatic connection with a profile",
+                            "profileName":"NIQ",
+                            "ssid":"NIQ",
+                            "disconnectReason":"The network is disconnected due to a policy disabling auto connect on this interface.",
+                            "correspondingEvent":"76" 
+                        },
+                    
+                        {
+                            "type":"None",
+                            "error":"0",
+                            "time":"134315339058892686",
+                            "message":"Capability change on {556d9bdf-d387-4ab9-be4c-a7e220faf218} (0x47008000000000 Family: V4 Capability: None ChangeReason: CapabilityReset)",
+                            "connectionMode":"",
+                            "profileName":"",
+                            "ssid":"",
+                            "disconnectReason":"",
+                            "correspondingEvent":"113" 
+                        },
+                    
+                        {
+                            "type":"Internet",
+                            "error":"0",
+                            "time":"134315172621566328",
+                            "message":"Capability change on {556d9bdf-d387-4ab9-be4c-a7e220faf218} (0x47008000000000 Family: V4 Capability: Internet ChangeReason: ActiveHttpProbeSucceeded)",
+                            "connectionMode":"",
+                            "profileName":"",
+                            "ssid":"",
+                            "disconnectReason":"",
+                            "correspondingEvent":"112" 
+                        },
+                    
+                        {
+                            "type":"Connect",
+                            "error":"0",
+                            "time":"134315172602505413",
+                            "message":"WLAN AutoConfig service started a connection to a wireless network.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Connection Mode: Automatic connection with a profile<br>Profile Name: NIQ<br>SSID: NIQ<br>BSS Type: Infrastructure<br>",
+                            "connectionMode":"Automatic connection with a profile",
+                            "profileName":"NIQ",
+                            "ssid":"NIQ",
+                            "disconnectReason":"",
+                            "correspondingEvent":"67" 
+                        },
+                    
+                        {
+                            "type":"None",
+                            "error":"0",
+                            "time":"134315166342000623",
+                            "message":"Capability change on {556d9bdf-d387-4ab9-be4c-a7e220faf218} (0x47008000000000 Family: V4 Capability: None ChangeReason: CapabilityReset)",
+                            "connectionMode":"",
+                            "profileName":"",
+                            "ssid":"",
+                            "disconnectReason":"",
+                            "correspondingEvent":"111" 
+                        },
+                    
+                        {
+                            "type":"Internet",
+                            "error":"0",
+                            "time":"134315027472078768",
+                            "message":"Capability change on {556d9bdf-d387-4ab9-be4c-a7e220faf218} (0x47008000000000 Family: V4 Capability: Internet ChangeReason: ActiveHttpProbeSucceeded)",
+                            "connectionMode":"",
+                            "profileName":"",
+                            "ssid":"",
+                            "disconnectReason":"",
+                            "correspondingEvent":"110" 
+                        },
+                    
+                        {
+                            "type":"Connect",
+                            "error":"0",
+                            "time":"134315027450926943",
+                            "message":"WLAN AutoConfig service started a connection to a wireless network.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Connection Mode: Automatic connection with a profile<br>Profile Name: NIQ<br>SSID: NIQ<br>BSS Type: Infrastructure<br>",
+                            "connectionMode":"Automatic connection with a profile",
+                            "profileName":"NIQ",
+                            "ssid":"NIQ",
+                            "disconnectReason":"",
+                            "correspondingEvent":"55" 
+                        },
+                    
+                        {
+                            "type":"None",
+                            "error":"0",
+                            "time":"134315027015043138",
+                            "message":"Capability change on {556d9bdf-d387-4ab9-be4c-a7e220faf218} (0x47008000000000 Family: V4 Capability: None ChangeReason: CapabilityReset)",
+                            "connectionMode":"",
+                            "profileName":"",
+                            "ssid":"",
+                            "disconnectReason":"",
+                            "correspondingEvent":"109" 
+                        },
+                    
+                        {
+                            "type":"Internet",
+                            "error":"0",
+                            "time":"134314879700673818",
+                            "message":"Capability change on {556d9bdf-d387-4ab9-be4c-a7e220faf218} (0x47008000000000 Family: V4 Capability: Internet ChangeReason: ActiveHttpProbeSucceeded)",
+                            "connectionMode":"",
+                            "profileName":"",
+                            "ssid":"",
+                            "disconnectReason":"",
+                            "correspondingEvent":"108" 
+                        },
+                    
+                        {
+                            "type":"Connect",
+                            "error":"0",
+                            "time":"134314879661158190",
+                            "message":"WLAN AutoConfig service started a connection to a wireless network.<br><br>Network Adapter: Intel(R) Wi-Fi 7 BE201 320MHz<br>Interface GUID: {556d9bdf-d387-4ab9-be4c-a7e220faf218}<br>Connection Mode: Automatic connection with a profile<br>Profile Name: NIQ<br>SSID: NIQ<br>BSS Type: Infrastructure<br>",
+                            "connectionMode":"Automatic connection with a profile",
+                            "profileName":"NIQ",
+                            "ssid":"NIQ",
+                            "disconnectReason":"",
+                            "correspondingEvent":"39" 
+                        },
+                    
+                ];
+            
+                
+        var wlanReport = ( function()
+        {
+            var wlanReport = {},
+
+            pointRadius = 8,
+            eventOffset = 50,
+            wlanYOffset = 0,
+            ncsiYOffset = 100,
+            ndisYOffset = 200,
+            eventRenderInfo,
+            boundRenderInfo,
+            wlanBounds = [],
+            connectivityBounds = [],
+            powerBounds = [],
+
+            bindToggleMessageBtns,
+            toggleMessage,
+            timeToXCoord,
+            findNewestEvent,
+            calculateEventCoordinates,
+            findwlanBounds,
+            findConnectivityBounds,
+            findPowerBounds,
+            drawEvents,
+            drawPoint,
+            drawSessionBounds,
+            drawBound,
+            drawAxis,
+            drawEventRegionLabels,
+            drawLegend,
+            drawLegendLabel,
+            drawSessionGraph,
+            eventClickHandler,
+            eventMouseMoveHandler,
+            calculateSessionDuration,
+            getSnapshotAtXY,
+            getSessionAtXY,
+            convertSnapshotTimes,
+            convertFileTimeToUnixTime,
+            fixCommandOutputFormatting,
+			checkForEmptyReport,
+            bindTopBtn;
+
+            eventRenderInfo = {
+                'Connect':   {'label':'C', 'color':'#9AE4A6'},
+                'Disconnect':{'label':'D', 'color':'#F5BE9C'},
+                'Sleep':     {'label':'S', 'color':'#AF9AE4'},
+                'CS-Sleep':  {'label':'S', 'color':'#AF9AE4'},
+                'Wake':      {'label':'W', 'color':'#E49AEF'},
+                'CS-Wake':   {'label':'W', 'color':'#E49AEF'},
+                'Internet':  {'label':'I', 'color':'#9CCAF5'},
+                'Local':     {'label':'L', 'color':'#F1F59C'},
+                'None':      {'label':'N', 'color':'#F59C9C'},
+                'Error':     {'label':'X', 'color':'#FF0000'}
+            };
+
+            boundRenderInfo = {
+                'Connected':       {'fill':'rgba(0,210,0,0.3)','stroke':'rgba(0,210,0,0.8)', 'lineWidth':'3'},
+                'Power':           {'fill':'rgba(0,0,0,0.95)', 'stroke':'rgba(20,20,20,1.0)','lineWidth':'1'},
+                'ConnectedStandby':{'fill':'rgba(0,135,0,0.3)','stroke':'rgba(0,100,0,0.95)','lineWidth':'1'}
+            };
+
+            bindToggleMessageBtns = function()
+            {
+                var divElements,
+                    expandBtn,
+                    i;
+
+                divElements = document.getElementsByTagName('div');
+
+                for( i = 0; i < divElements.length; i++ ) {
+                    if( divElements[i].className === 'message' ) {
+                        expandBtn = divElements[i].firstChild;
+                        expandBtn.addEventListener('click', toggleMessage(expandBtn), false);
+                    }
+                }
+            };
+
+            toggleMessage = function(btn)
+            {
+                return function() {
+                    var message = btn.parentNode;
+
+                    if(message.className === "message")
+                    {
+                        message.className = "message show";
+                        btn.innerHTML = "[‒]"; //A digit width hyphen. This way the button doesn't shrink (by much)
+                    }
+                    else
+                    {
+                        message.className = "message";
+                        btn.innerHTML = "[+]";
+                    }
+                }
+            };
+            
+            // Calculate the X coordinate for the snapshot based on the time it
+            // occured relative to the 48 hours displayed on the graph.
+            timeToXCoord = function(startTimeStr, snapshotTimeStr, width)
+            {
+                var twoDaysInMS  = (1000 * 60 * 60 * 24) * 2,
+                    startTime    = parseInt(startTimeStr, 10),
+                    snapshotTime = parseInt(snapshotTimeStr, 10),
+                    endTime = startTime - twoDaysInMS,
+                    xPosRatio    = 0;
+
+                xPosRatio = (snapshotTime - startTime) / (endTime - startTime);
+
+                return (width - (xPosRatio * width));
+            };
+
+            calculateEventCoordinates = function(canvas)
+            {
+                var width,
+                    height,
+                    xOffset  = 10,
+                    yOffset  = 0,
+                    xPos     = 0,
+                    yPos     = 0,
+                    lastXPos = [],
+                    minXDiff = 2 * pointRadius, //The min difference between points to prevent them from overlapping
+                    startTime,
+                    i;
+
+                if(snapshots.length === 0) {
+                    return;
+                }
+
+                width = canvas.width;
+                height = canvas.height;
+
+                lastXPos[wlanYOffset] = -1;
+                lastXPos[ndisYOffset] = -1;
+                lastXPos[ncsiYOffset] = -1;
+
+                startTime = findNewestEvent();
+
+                for(i = 0; i < snapshots.length; i++)
+                {
+                    if(snapshots[i].type === 'Connect') {
+                        yOffset = wlanYOffset;
+                    } else if(snapshots[i].type === 'Disconnect') {
+                        yOffset = wlanYOffset;
+                    } else if(snapshots[i].type === 'Error') {
+                        yOffset = wlanYOffset;
+                    } else if(snapshots[i].type === 'Wake' || snapshots[i].type === 'CS-Wake') {
+                        yOffset = ndisYOffset;
+                    } else if(snapshots[i].type === 'Sleep' || snapshots[i].type === 'CS-Sleep') {
+                        yOffset = ndisYOffset;
+                    } else {
+                        yOffset = ncsiYOffset;
+                    }
+
+                    xPos = timeToXCoord(startTime, snapshots[i].time, width) - xOffset;
+                    if(lastXPos[yOffset] >= 0 && (lastXPos[yOffset]) - xPos < minXDiff)
+                    {
+                        // Keep track of the offset we are adding to events to make sure that events
+                        // remain in chronological order across their different y-axis channels (wlan,ndis,ncsi)
+                        xOffset += (minXDiff - (lastXPos[yOffset] - xPos));
+                        xPos = lastXPos[yOffset] - minXDiff;
+                    }
+                    
+                    yPos = eventOffset + yOffset;
+                    snapshots[i].x = xPos;
+                    snapshots[i].y = yPos;
+
+                    lastXPos[yOffset] = xPos;
+
+                    // If the xPos is greater than the width of the canvas
+                    // stop calculating cordinates since they won't fit anyways.
+                    if (xPos > width) {
+                        snapshots = snapshots.slice(0, i); //Discard the points that don't fit
+                        break;
+                    }
+                }
+            };
+
+            // Unfortunatly the newest event is not always the first event in the list,
+            // so we have to do a search for the newest event
+            findNewestEvent = function()
+            {
+                var startTime = 0,
+                    i;
+
+                for(i = 0; i < snapshots.length; i++) {
+                    startTime = Math.max(startTime, snapshots[i].time);
+                }
+
+                return startTime;
+            };
+
+            drawEvents = function(canvas)
+            {
+                var graph,
+                pointLabel,
+                snapshot,
+                style,
+                i;
+
+                graph = canvas.getContext('2d');
+
+                if(snapshots.length === 0){
+                    graph.font = "18px sans-serif";
+                    graph.fillStyle = "#EFEFEF";
+                    graph.textAlign = "center";
+                    graph.fillText("No events from the last 48 hours to display", canvas.width/2, canvas.height/2);
+                    return;
+                }
+
+                graph.strokeStyle = "#111";
+                graph.lineWidth = 1;
+
+                for( i = 0; i < snapshots.length; i++)
+                {
+                    snapshot = snapshots[i];
+                    
+                    if(snapshot.error !== "0") {
+                      style = eventRenderInfo["Error"];
+                    } else {
+                      style = eventRenderInfo[snapshot.type];
+                    }
+                
+                    if( style === undefined) {
+                        continue;
+                    }
+                
+                    graph.fillStyle = style.color;
+                    pointLabel = style.label;
+
+                    drawPoint(graph, snapshot.x, snapshot.y, pointLabel);
+
+                }
+            };
+
+            drawPoint = function(graph, x, y, label)
+            {
+                graph.font = "10px sans-serif";
+                graph.textAlign = "center";
+
+                graph.beginPath();
+                graph.arc( x, y, pointRadius, 0, 2 * Math.PI, false);
+                graph.fill();
+                graph.stroke();
+
+                graph.fillStyle = "#222";
+                graph.fillText(label, x, y + (pointRadius/2));
+            };
+
+            findwlanBounds = function()
+            {
+                var connectEvent    = null,
+                    disconnectEvent = null,
+                    isConnected     = false,
+                    currentEvent,
+                    type,
+                    boundType,
+                    i;
+
+                // Snapshots only include the state from the last 48 hours.
+                // In order to properly draw session bounds we need to know
+                // the state from when the 48 hours started. i.e. was a session
+                // in progress already when the 48 section began. To fnd this out
+                // look to see if the first wlan event is a disconnect or a connect.
+                for(i = snapshots.length - 1; i >= 0; i-- )
+                {
+                    if( snapshots[i].type === 'Disconnect' ) {
+                        isConnected = true;
+                        break;
+                    } else if (snapshots[i].type === 'Connect'){
+                        isConnected = false;
+                        break;
+                    }
+                }
+
+                // If we start in a connected state draw a bound from the left side
+                // of the graph to the first wlan/ndis event
+                if( isConnected ) {
+                    for(i = snapshots.length - 1; i >= 0; i-- )
+                    {
+                        type = snapshots[i].type;
+                        
+                        if(type === 'Wake' || type === 'CS-Wake' )
+                        {
+                            boundType = type === 'Wake' ? 'Sleep' : 'CS-Sleep';
+                            
+                            powerBounds.push({'type':boundType, 'sleepEvent':snapshots[i], 'wakeEvent':snapshots[i], 'x':0, 'y':snapshots[i].y,
+                                'width':snapshots[i].x, 'height':200});
+                                break;
+                        }
+                        else if(type === 'Disconnect')
+                        {
+                            wlanBounds.push({'connectEvent':snapshots[i], 'disconnectEvent':snapshots[i], 'x':0, 'y': wlanYOffset + eventOffset,
+                                'width':snapshots[i].x, 'height':200});
+                                break;
+                        }
+                    }
+                }
+                
+                // Loop through all of the events finding pairs of events to draw a box between
+                // indicating the start and stop of a particular wlan state. Current pairs include
+                //
+                // Connect->Disconnect/Error/Sleep/CS-Sleep
+                // Wake->Disconnect/Error/Sleep/CS-Sleep (if previously connected)
+                //
+                for(i = snapshots.length - 1; i >= 0; i-- )
+                {
+                    currentEvent = snapshots[i];
+                    type = currentEvent.type;
+
+                    if ( type === 'Internet' || type === 'Local' || type == 'None')
+                    {
+                        continue;
+                    }
+
+                    if( type === 'Connect' )
+                    {
+                        if (connectEvent === null)
+                        {
+                            connectEvent = snapshots[i];
+                        }
+                        isConnected = true;
+                    }
+                    else if( type === 'Disconnect' || type === 'Sleep' || type === 'CS-Sleep')
+                    {
+                        disconnectEvent = snapshots[i];
+
+                        // If we are stopping the session because of the Sleep, consider the
+                        // session to still be connected since we will likely do a fast reconnect
+                        // on wake meaning we will not see a new connect event
+                        if( type !== 'Sleep' && type !== 'CS-Sleep')
+                        {
+                            isConnected = false;
+                        }
+
+                        // If we have a connect event and a disconnect event, have the session bounds be a box connecting them
+                        if(connectEvent !== null && disconnectEvent !== null )
+                        {
+                            wlanBounds.push({'connectEvent':connectEvent, 'disconnectEvent':disconnectEvent, 'x':connectEvent.x, 'y': wlanYOffset + eventOffset,
+                                'width':disconnectEvent.x - connectEvent.x, 'height':200});
+                        }
+
+                        // If we only have a disconnect event, and it is the first connection event,
+                        // Draw a session bounds from the left end of the graph to the disconnect
+                        if( connectEvent === null && wlanBounds.length === 0 )
+                        {
+                            wlanBounds.push({'connectEvent':null, 'disconnectEvent':disconnectEvent, 'x':0, 'y':wlanYOffset + eventOffset,
+                                'width':disconnectEvent.x, 'height':200});
+                        }
+
+                        connectEvent = null;
+                        disconnectEvent = null;
+                    }
+                    else if( type === 'Wake' || type === 'CS-Wake' )
+                    {
+                        if(isConnected && connectEvent === null)
+                        {
+                            connectEvent = snapshots[i];
+                        }
+                    }
+                }
+
+                // If there is a current active session with no disconnect draw its bound
+                // The bound will be from the connect to beyond the end of the graph
+                if( connectEvent !== null && disconnectEvent === null)
+                {
+                    wlanBounds.push({'connectEvent':connectEvent, 'disconnectEvent':null, 'x':connectEvent.x, 'y':wlanYOffset + eventOffset,
+                        'width':1000, 'height':200});
+                }
+            };
+
+            findConnectivityBounds = function()
+            {
+                var connectivityStart    = null,
+                    connectivityEnd      = null,
+                    isConnectedToNetwork = false,
+                    i;
+
+                for(i = snapshots.length - 1; i >= 0; i-- )
+                {
+                    if (snapshots[i].type === 'Connect')
+                    {
+                        isConnectedToNetwork = true;
+                    }
+                    else if (snapshots[i].type === 'Disconnect' || snapshots[i].type === 'Sleep' || snapshots[i].type === 'Error')
+                    {
+                        connectivityEnd = snapshots[i];
+
+                        // Draw the bounds of the last capability from when it
+                        // started to when the disconnect event happened
+                        if (connectivityStart !== null) {
+                            connectivityBounds.push({'startEvent':connectivityStart, 'endEvent':connectivityEnd, 'x':connectivityStart.x, 'y':connectivityStart.y,
+                                'width':connectivityEnd.x - connectivityStart.x, 'height':2*pointRadius});
+                        }
+
+                        if (snapshots[i].type === 'Disconnect') {
+                            isConnectedToNetwork = false;
+                        }
+
+                        connectivityStart = null;
+                        connectivityEnd = null;
+                    }
+                    else if(snapshots[i].type === 'Internet' || snapshots[i].type === 'Local' || snapshots[i].type === 'None')
+                    {
+                        // Don't draw bounds between capability events
+                        // that are not part of a session
+                        if( !isConnectedToNetwork )
+                        {
+                            continue;
+                        }
+
+                        if( connectivityStart == null )
+                        {
+                            connectivityStart = snapshots[i];
+                        }
+                        else
+                        {
+                            connectivityEnd = snapshots[i];
+
+                            connectivityBounds.push({'startEvent':connectivityStart, 'endEvent':connectivityEnd, 'x':connectivityStart.x, 'y':connectivityStart.y,
+                                'width':connectivityEnd.x - connectivityStart.x, 'height':2*pointRadius});
+
+                            connectivityStart = connectivityEnd;
+                            connectivityEnd = null;
+                        }
+                    }
+                    else if ( snapshots[i].type === 'Disconnect' && connectivityStart !== null )
+                    {
+                        // Do not draw connectivity bounds that span from one session to another.
+                        // On disconnect there is an implicit capability None where the current
+                        // capability would end.
+                        connectivityBounds.push({'startEvent':connectivityStart, 'endEvent':snapshots[i], 'x':connectivityStart.x, 'y':connectivityStart.y,
+                            'width':snapshots[i].x - connectivityStart.x, 'height':2*pointRadius});
+
+                        connectivityStart = null;
+                        connectivityEnd = null;
+                    }
+                }
+
+                // If the last connectivity event started a bounds, creat a region
+                // from it to the edge of the graph
+                if(connectivityStart)
+                {
+                    connectivityBounds.push({'startEvent':connectivityStart, 'endEvent':null, 'x':connectivityStart.x, 'y':connectivityStart.y,
+                        'width':1000, 'height':2*pointRadius});
+                }
+            };
+
+            findPowerBounds = function()
+            {
+                var sleepEvent = null,
+                    wakeEvent  = null,
+                    isConnected = false,
+                    boundType = 'Sleep',
+                    i;
+                
+                // Find the initial connected state
+                for(i = snapshots.length - 1; i >= 0; i-- )
+                {
+                    if( snapshots[i].type === 'Disconnect' ) {
+                        isConnected = true;
+                        break;
+                    } else if (snapshots[i].type === 'Connect'){
+                        isConnected = false;
+                        break;
+                    }
+                }
+                
+                // Generate power bounds
+                for(i = snapshots.length - 1; i >= 0; i--)
+                {
+                    if(snapshots[i].type === 'CS-Sleep' || snapshots[i].type === 'Sleep')
+                    {
+                        sleepEvent = snapshots[i];
+                    }
+                    else if( snapshots[i].type === 'CS-Wake' || snapshots[i].type === 'Wake')
+                    {
+                        wakeEvent = snapshots[i];
+
+                        // If we have a sleep and a wake, draw a bounds between them
+                        if(sleepEvent !== null && wakeEvent !== null) {
+                            
+                            // If we are connected to a network and the power event is a connected standby
+                            // sleep, draw a light green box for the time asleep signifying that the 
+                            // connection is still active
+                            if( isConnected && sleepEvent.type === 'CS-Sleep')
+                            {
+                                boundType = 'CS-Sleep';
+                            }
+                            else
+                            {
+                                boundType = 'Sleep';
+                            }
+                            
+                            powerBounds.push({'type':boundType, 'sleepEvent':sleepEvent, 'wakeEvent':wakeEvent, 'x':sleepEvent.x, 'y':wakeEvent.y,
+                                'width':wakeEvent.x - sleepEvent.x, 'height':200});
+                        }
+
+                        sleepEvent = null;
+                        wakeEvent = null;
+                    }
+                    else if( snapshots[i].type === 'Connect')
+                    {
+                        isConnected = true;
+                    }
+                    else if( snapshots[i].type === 'Disconnect')
+                    {
+                        isConnected = false;
+                    }
+                }
+            };
+
+            drawSessionBounds = function(canvas)
+            {
+                var graph,
+                    session,
+                    i;
+
+                graph = canvas.getContext('2d');
+
+                if(wlanBounds)
+                {
+                    for(i = wlanBounds.length - 1; i >= 0; i--)
+                    {
+                        session = wlanBounds[i];
+                        drawBound(graph, 'Connect', session.x, session.width);
+                    }
+                }
+
+                if(powerBounds)
+                {
+                    for(i = powerBounds.length - 1; i >= 0; i--)
+                    {
+                        session = powerBounds[i];
+                        drawBound(graph, session.type, session.x, session.width);
+                    }
+                }
+
+                // Draw Internet/Limited connectivity bounds
+                graph.fillStyle = "rgba(235,235,0,0.4)";
+                graph.strokeStyle = "rgba(30,30,30,0.8)";
+                graph.lineWidth = 1;
+
+
+                if(connectivityBounds)
+                {
+                    for(i = 0; i < connectivityBounds.length; i++)
+                    {
+                        session = connectivityBounds[i];
+                        if(session.startEvent.type === 'Local')
+                        {
+                            graph.fillStyle = "rgba(235,235,0,0.4)";
+                        }
+                        else if(session.startEvent.type === 'None')
+                        {
+                            graph.fillStyle = "rgba(235,0,0,0.4)";
+                        }
+                        else
+                        {
+                            // Don't draw bounds when the capability is internet
+                            continue;
+                            //graph.fillStyle = "rgba(156,202,245,0.6)";
+                        }
+
+                        graph.fillRect( session.x, session.y - pointRadius, session.width, session.height);
+                    }
+                }
+            };
+
+            drawBound = function(graph, type, x, width)
+            {
+                var style,
+                    y      = 50,
+                    height = 200;
+
+                if(type === 'Connect' || type === 'Disconnect')
+                {
+                    style = boundRenderInfo['Connected'];
+                }
+                else if(type === 'Sleep' || type === 'Wake')
+                {
+                    style = boundRenderInfo['Power'];
+                }
+                else if(type === 'CS-Sleep' || type === 'CS-Wake' )
+                {
+                    style = boundRenderInfo['ConnectedStandby'];
+                }
+                else
+                {
+                    style = boundRenderInfo['Connected'];
+                }
+
+                graph.fillStyle = style['fill'];
+                graph.strokeStyle = style['stroke'];
+                graph.lineWidth = style['lineWidth'];
+
+                graph.fillRect(x, y, width, height);
+                graph.strokeRect(x, y, width, height);
+            }
+
+            drawAxis = function(canvas)
+            {
+                var graph,
+                    width,
+                    height,
+                    xPadding,
+                    yPadding,
+                    step,
+                    twoDaysInHours = 48,
+                    i;
+
+                width = canvas.width;
+                height = canvas.height;
+                xPadding = 10;
+                yPadding = 15;
+
+                graph = canvas.getContext('2d');
+
+
+                // Separate WLAN/NCSI/NDIS events
+                // into their own 'lanes'
+                graph.fillStyle = "#141414";
+                graph.fillRect(0, 0, width, 100);   //WLAN lane
+                graph.fillRect(0, 200, width, 100); //NDIS lane
+                
+                //Draw a line for each of the 48 hours in 2 days
+                graph.strokeStyle = "#333";
+                graph.lineWidth = 1;
+                graph.font = "12px sans-serif";
+                graph.fillStyle = "#555";
+                graph.textAlign = "center";
+
+                step = width/twoDaysInHours;
+
+                for( i = 0; i < twoDaysInHours; i++)
+                {
+                    graph.beginPath();
+                    graph.moveTo((step * i), 0);
+                    graph.lineTo((step * i), height - yPadding);
+                    graph.stroke();
+                }
+
+                // Label X axis
+                graph.fillText('Oldest', 30, height - 5);
+                graph.fillText('Newest', width - 30, height - 5);
+            };
+
+            drawEventRegionLabels = function(canvas)
+            {
+                var graph = canvas.getContext('2d');
+
+                // Label event regions
+                graph.font = "12px sans-serif";
+                graph.textAlign = "center";
+                graph.strokeStyle = "#333";
+                graph.lineWidth = 1;
+
+                graph.fillStyle = "#050505";
+                //WLAN
+                graph.fillRect(0, 0, 40, 20);
+                graph.strokeRect(0,0,40,20);
+                //NCSI
+                graph.fillRect(0, 101, 40, 20);
+                graph.strokeRect(0,101,40,20);
+                //NDIS
+                graph.fillRect(0, 201, 40, 20);
+                graph.strokeRect(0,201,40,20);
+
+                graph.fillStyle = "#EEE";
+                graph.fillText('WLAN', 20, 15);
+                graph.fillText('NCSI', 20, 115);
+                graph.fillText('NDIS', 20, 215);
+            };
+
+            drawLegend = function()
+            {
+                var canvas,
+                    legend,
+                    width,
+                    height,
+                    x;
+
+                canvas = document.getElementById('graph-legend');
+                width = canvas.width;
+                height = canvas.height;
+                symbolX = 20;
+                textX = 40;
+
+                legend = canvas.getContext('2d');
+
+                // Connect
+                legend.fillStyle = eventRenderInfo['Connect'].color;
+                drawPoint(legend, symbolX, 10, eventRenderInfo['Connect'].label);
+                drawLegendLabel(legend, textX, 13, "- Started a connection");
+
+                // Disconnect
+                legend.fillStyle = eventRenderInfo['Disconnect'].color;
+                drawPoint(legend, symbolX, 30, eventRenderInfo['Disconnect'].label);
+                drawLegendLabel(legend, textX, 33, "- Disconnected from a network");
+
+                // Sleep
+                legend.fillStyle = eventRenderInfo['Sleep'].color;
+                drawPoint(legend, symbolX, 50, eventRenderInfo['Sleep'].label);
+                drawLegendLabel(legend, textX, 53, "- Wireless adapter entered a low power state");
+
+                // Wake
+                legend.fillStyle = eventRenderInfo['Wake'].color;
+                drawPoint(legend, symbolX, 70, eventRenderInfo['Wake'].label);
+                drawLegendLabel(legend, textX, 73, "- Wireless adapter entered a working power state");
+
+                // Capability Internet
+                legend.fillStyle = eventRenderInfo['Internet'].color;
+                drawPoint(legend, symbolX, 90, eventRenderInfo['Internet'].label);
+                drawLegendLabel(legend, textX, 93, "- Network is connected to the internet");
+
+                // Capability Local
+                legend.fillStyle = eventRenderInfo['Local'].color;
+                drawPoint(legend, symbolX, 110, eventRenderInfo['Local'].label);
+                drawLegendLabel(legend, textX, 113, "- Network has limited connectivity");
+
+                // Capability None
+                legend.fillStyle = eventRenderInfo['None'].color;
+                drawPoint(legend, symbolX, 130, eventRenderInfo['None'].label);
+                drawLegendLabel(legend, textX, 133, "- Network has no connectivity");
+
+                // Error
+                legend.fillStyle = eventRenderInfo['Error'].color;
+                drawPoint(legend, symbolX, 150, eventRenderInfo['Error'].label);
+                drawLegendLabel(legend, textX, 153, "- Error");
+            };
+
+            drawLegendLabel = function(legend, x, y, text)
+            {
+                legend.font = "14px sans-serif";
+                legend.fillStyle = '#DDD';
+                legend.textAlign = "left";
+                legend.fillText(text, x, y);
+            };
+
+            drawSessionGraph = function()
+            {
+                var canvas,
+                    events;
+
+                canvas = document.getElementById('session-graph');
+
+                calculateEventCoordinates(canvas);
+
+                drawAxis(canvas);
+
+                findwlanBounds();
+                findConnectivityBounds();
+                findPowerBounds();
+                drawSessionBounds(canvas);
+
+                drawEvents(canvas);
+
+                drawEventRegionLabels(canvas);
+
+                drawLegend();
+
+                canvas.addEventListener('click', eventClickHandler, false);
+                canvas.addEventListener('mousemove', eventMouseMoveHandler, false);
+            };
+
+            eventClickHandler = function(e)
+            {
+                var canvas = document.getElementById('session-graph'),
+                    x,
+                    y,
+                    snapshot,
+                    originalClass;
+
+                e = e || window.event;
+
+                if( e.stopPropogation )
+                {
+                    e.stopPropogation();
+                } else {
+                    e.cancelBubble = true;
+                }
+
+                x = e.offsetX;
+                y = e.offsetY;
+
+                snapshot = getSnapshotAtXY(x,y);
+                
+                // Emphasize the selected event by placing a border
+                // around it that dissapears after one second
+                if( snapshot !== null)
+                {
+                    window.location.hash = snapshot.correspondingEvent;
+                    evtElement = document.getElementById(snapshot.correspondingEvent).parentNode.parentNode;
+                    originalClass = evtElement.className;
+                    evtElement.className = evtElement.className + ' glow';
+
+                    setTimeout(function(){
+                        evtElement.className = originalClass;
+                    }, 1000);
+                }
+            };
+
+            eventMouseMoveHandler = function(e)
+            {
+                var summary,
+                    x,
+                    y,
+                    snapshot,
+                    session,
+                    startEvent = null,
+                    endEvent   = null,
+                    i;
+
+                e = e || window.event;
+
+                if( e.stopPropogation )
+                {
+                    e.stopPropogation();
+                } else {
+                    e.cancelBubble = true;
+                }
+
+                x = e.offsetX;
+                y = e.offsetY;
+                summary = document.getElementById('event-info');
+
+                snapshot = getSnapshotAtXY(x,y);
+
+                summary.innerHTML = "Hover over a session or event to view a summary <br> Click on an event to jump to it in the session list";
+                
+                // Handle mouseover on snapshot events
+                if(snapshot !== null)
+                {
+                    if(snapshot.type === 'Connect')
+                    {
+                        summary.innerHTML = 'Started a connection to a wireless network <br>' +
+                        '<br>' + snapshot.date + '<br>' +
+                        'Connection mode: ' + snapshot.connectionMode + '<br>' +
+                        'Profile: ' + snapshot.profileName + '<br>' +
+                        'SSID: ' + snapshot.ssid;
+                    }
+                    else if(snapshot.type === 'Disconnect')
+                    {
+                        summary.innerHTML = snapshot.disconnectReason + '<br>' +
+                        '<br>' + snapshot.date + '<br>' +
+                        'Connection mode: ' + snapshot.connectionMode + '<br>' +
+                        'Profile: ' + snapshot.profileName + '<br>' +
+                        'SSID: ' + snapshot.ssid;
+                    }
+                    else if( snapshot.type === 'Wake' || snapshot.type === 'CS-Wake' ||
+                            snapshot.type === 'Sleep' || snapshot.type === 'CS-Sleep' )
+                    {
+                        summary.innerHTML = snapshot.message + '<br>' +
+                        '<br>' + snapshot.date + '<br>';
+
+                    }
+                    else if(snapshot.type === 'Internet' || snapshot.type == 'Local' || snapshot.type == 'None')
+                    {
+                        summary.innerHTML = snapshot.message + '<br>' +
+                        '<br>' + snapshot.date + '<br>';
+
+                    }
+                    else if( snapshot.type === 'Error' )
+                    {
+                        var messageCutoffIndex = 0;
+                        messageCutoffIndex = snapshot.message.indexOf('br') - 1;
+                        summary.innerHTML = snapshot.message.substring(0,messageCutoffIndex) + '<br>' +
+                        '<br>' + snapshot.date + '<br>';
+                    }
+
+                    return;
+                }
+
+                session = getSessionAtXY(x,y);
+                
+                // Handle mouseover on session bounds
+                if( session !== null)
+                {
+                    startEvent = session.connectEvent;
+                    endEvent = session.disconnectEvent;
+                    if(startEvent !== null && endEvent !== null)
+                    {
+                        summary.innerHTML = 'Session duration: ' + calculateSessionDuration(startEvent.time, endEvent.time) + '<br>' +
+                        'Start time: ' + startEvent.date.toLocaleString() + '<br>' +
+                        'End time: ' + endEvent.date.toLocaleString() + '<br>' +
+                        'Disconnect reason: ' + endEvent.disconnectReason + '<br>';
+                    }
+                    else if(startEvent !== null)
+                    {
+                        summary.innerHTML = 'Session duration: Ongoing' + '<br>' +
+                        'Start time: ' + startEvent.date.toLocaleString() + '<br>';
+                    }
+                    else if(endEvent !== null)
+                    {
+                        summary.innerHTML = 'End time: ' + endEvent.date.toLocaleString() + '<br>' +
+                        'Disconnect reason: ' + endEvent.disconnectReason + '<br>';
+                    }
+                }
+            };
+
+            calculateSessionDuration = function(start, end )
+            {
+                var duration = (end - start) / 1000,
+                    hours    = parseInt( duration / (60 * 60), 10),
+                    minutes  = parseInt((duration / 60) % 60, 10),
+                    seconds  = Math.round(duration % 60);
+
+                return (hours + ' hours ' + minutes + ' minutes ' + seconds + ' seconds');
+            };
+
+            getSnapshotAtXY = function(x, y)
+            {
+                var snapshot,
+                    i;
+
+                // Check to see if the mouse pointer correspondes to an event
+                for(i = 0; i < snapshots.length; i++)
+                {
+                    snapshot = snapshots[i];
+                    if( x >= snapshot.x - pointRadius && x <= snapshot.x + pointRadius )
+                    {
+                        if(y >= snapshot.y - pointRadius && y <= snapshot.y + pointRadius)
+                        {
+                            return snapshot;
+                        }
+                    }
+                }
+
+                return null;
+            };
+
+            getSessionAtXY = function(x, y)
+            {
+                var session,
+                    i;
+
+                // Check to see if the mouse pointer corresponds to a session
+                for(i = 0; i < wlanBounds.length; i++)
+                {
+                    session = wlanBounds[i];
+                    if( x >= session.x && x <= session.x + session.width )
+                    {
+                        if(y >= session.y && y <= session.y + session.height)
+                        {
+                            return session;
+                        }
+                    }
+                }
+
+                return null;
+            };
+
+            convertSnapshotTimes = function()
+            {
+                var i;
+                for(i = 0; i < snapshots.length; i++)
+                {
+                    snapshots[i].time = convertFileTimeToUnixTime(snapshots[i].time);
+                    snapshots[i].date = new Date(snapshots[i].time);
+                }
+            };
+
+            convertFileTimeToUnixTime = function(time)
+            {
+                var nanoSecondsPerMS   = 10000,
+                    yearDifferenceInMS = 11644473600000; //MS between 1601 and 1970
+
+                return (time / nanoSecondsPerMS) - yearDifferenceInMS;
+            };
+			
+            fixCommandOutputFormatting = function()
+            {
+                var commandTextboxes = document.getElementsByTagName("textarea"),
+                    textbox,
+                    i;
+				
+                for(i in commandTextboxes)
+                {
+                    textbox = commandTextboxes[i];
+                    if(textbox.className === "command-output")
+                    {
+	                    var output = textbox.innerHTML;
+	                    output = output.replace(/\n\n\n\n/g, '\n');
+	                    textbox.innerHTML = output.trim();
+                    }
+                }
+				
+            };
+			
+            checkForEmptyReport = function()
+            {
+                var sessionList = document.getElementById('session-list'),
+                    eventsSummary;
+				
+                if(sessionList.innerHTML == '')
+                {
+                    sessionList.innerHTML = "<h4>No WLAN events were found on this system.</h4>";
+                    sessionList.style.margin = "0 0 100px 0";
+					
+                    eventsSummary =  document.getElementById('events-summary');
+                    eventsSummary.parentNode.removeChild(eventsSummary);
+                }
+            };
+			
+            bindTopBtn = function()
+            {
+                var btn           = document.getElementById('top-btn'),
+                    reportWrapper = document.getElementById('report-wrapper');
+
+                btn.style.left = (reportWrapper.offsetLeft - btn.clientWidth - 20) + 'px';
+                btn.style.top = '30px';
+
+                btn.addEventListener('click', function() {
+                    window.scrollTo(0,0);
+                    window.history.replaceState({}, '', window.location.href.split('#')[0]);
+                }, false);
+            };
+
+            wlanReport.initialize = function()
+            {
+                bindTopBtn();
+                bindToggleMessageBtns();
+                convertSnapshotTimes();
+                drawSessionGraph();
+                fixCommandOutputFormatting();
+                checkForEmptyReport();
+            };
+
+            return wlanReport;
+        }());
+
+        window.addEventListener('load', wlanReport.initialize, false);
+    </script></body>
+</html>

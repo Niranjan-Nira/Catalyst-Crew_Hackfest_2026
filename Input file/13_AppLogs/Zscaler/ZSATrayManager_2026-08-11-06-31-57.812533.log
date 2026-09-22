@@ -1,0 +1,363 @@
+2026-08-11 06:31:57.815551(+0530)[32344:20588] INF Timezone: India Standard Time, Offset: 19800, Standard Name: India Standard Time, UTC Offset: 19800
+2026-08-11 06:31:57.815551(+0530)[32344:20588] INF ZSATrayManager Version: 4.8.0.232
+2026-08-11 06:31:57.815551(+0530)[32344:20588] INF ZSATrayManager Architecture: x64
+2026-08-11 06:31:57.815551(+0530)[32344:20588] INF UPM Hard Protocol Version: 28
+2026-08-11 06:31:57.815551(+0530)[32344:20588] INF UPM Soft Protocol Version: 912
+2026-08-11 06:31:57.815551(+0530)[32344:20588] INF ZAD Protocol Version: 4, 1
+2026-08-11 06:31:57.815551(+0530)[32344:20588] INF GIT Hash: 8f4d1a1eacfec3e316e9064003d36808c1c70589
+2026-08-11 06:31:57.815551(+0530)[32344:20588] INF x64 BINARY (Supports both gov and commercial clouds)
+2026-08-11 06:31:57.815551(+0530)[32344:20588] DBG Config Dir: C:\ProgramData\Zscaler
+2026-08-11 06:31:57.815551(+0530)[32344:20588] DBG App options initialized successfully
+2026-08-11 06:31:57.815551(+0530)[32344:20588] INF ZCCProfile: Init callback function.
+2026-08-11 06:31:57.815551(+0530)[32344:30240] INF ZSAServiceBase::serviceMain: registering for power events
+2026-08-11 06:31:57.815551(+0530)[32344:30240] INF ZSAServiceBase::serviceMain: registered for suspend-resume, power & battery notifications
+2026-08-11 06:31:57.820116(+0530)[32344:30240] INF ZSAServiceBase::registerPowerNotification: registered for 'GUID_TYPICAL_POWER_SAVINGS' power setting notification
+2026-08-11 06:31:57.820116(+0530)[32344:30240] INF ZSAServiceBase::registerPowerNotification: registered for 'GUID_POWERSCHEME_PERSONALITY' power setting notification
+2026-08-11 06:31:57.820116(+0530)[32344:30240] INF ZSAServiceBase::registerPowerNotification: registered for 'GUID_POWER_SAVING_STATUS' power setting notification
+2026-08-11 06:31:57.820116(+0530)[32344:30240] INF ZSAServiceBase::registerPowerNotification: registered for 'GUID_MIN_POWER_SAVINGS' power setting notification
+2026-08-11 06:31:57.820116(+0530)[32344:30240] INF ZSAServiceBase::registerPowerNotification: registered for 'GUID_MAX_POWER_SAVINGS' power setting notification
+2026-08-11 06:31:57.820116(+0530)[32344:20588] DBG ZSAServiceBase::serviceControllerHandler: service control: SERVICE_CONTROL_POWEREVENT
+2026-08-11 06:31:57.820116(+0530)[32344:30240] INF ZSAServiceBase::registerPowerNotification: registered for 'GUID_ACDC_POWER_SOURCE' power setting notification
+2026-08-11 06:31:57.820116(+0530)[32344:30240] INF ZSAServiceBase::registerPowerNotification: registered for 'GUID_BATTERY_PERCENTAGE_REMAINING' power setting notification
+2026-08-11 06:31:57.820116(+0530)[32344:20588] DBG ZSAServiceBase::serviceControllerHandler: service control: SERVICE_CONTROL_POWEREVENT
+2026-08-11 06:31:57.820116(+0530)[32344:30240] INF ZSAServiceBase::registerPowerNotification: registered for 'GUID_CONSOLE_DISPLAY_STATE' power setting notification
+2026-08-11 06:31:57.820116(+0530)[32344:20588] DBG ZSAServiceBase::serviceControllerHandler: service control: SERVICE_CONTROL_POWEREVENT
+2026-08-11 06:31:57.822123(+0530)[32344:20588] DBG ZSAServiceBase::serviceControllerHandler: service control: SERVICE_CONTROL_POWEREVENT
+2026-08-11 06:31:57.822123(+0530)[32344:30240] INF Failure actions is already configured.
+2026-08-11 06:31:57.822123(+0530)[32344:10188] DBG Checking security permission for C:\ProgramData\Zscaler and updating if required
+2026-08-11 06:31:57.822123(+0530)[32344:10188] DBG ZSAFileUtils::checkAndSetFileSecurityAttributes called with secType: 1
+2026-08-11 06:31:57.822123(+0530)[32344:10188] DBG ZSAFileUtils::checkFileSecurityAttributes called with secType: 1
+2026-08-11 06:31:57.822123(+0530)[32344:20588] DBG ZSAServiceBase::serviceControllerHandler: service control: SERVICE_CONTROL_POWEREVENT
+2026-08-11 06:31:57.822123(+0530)[32344:10188] DBG ZSAFileUtils::checkFileSecurityAttributes Received SecurityDescriptor: D:(A;OICI;0x1200a9;;;BU)(A;OICI;FA;;;SY)(A;OICI;FA;;;BA), Expected SecurityDescriptor: D:(A;OICI;FA;;;SY)(A;OICI;FA;;;BA)
+2026-08-11 06:31:57.822123(+0530)[32344:10188] DBG ZSAFileUtils::checkAndSetFileSecurityAttributes: reseting file SecurityAttributes
+2026-08-11 06:31:57.822123(+0530)[32344:10188] DBG ZSAFileUtils::setFileSecurityAttributes called with secType 1
+2026-08-11 06:31:57.822123(+0530)[32344:10188] DBG ZSAFileUtils::setFileSecurityAttributes set ACL succeed.
+2026-08-11 06:31:57.822123(+0530)[32344:10188] DBG ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent:1
+2026-08-11 06:31:57.822123(+0530)[32344:10188] INF ZSAFileUtils::setFileSecurityAttributes: SetSecurityInfo success
+2026-08-11 06:31:57.822123(+0530)[32344:10188] DBG Checking security permission for C:\ProgramData\Zscaler and updating if required
+2026-08-11 06:31:57.822123(+0530)[32344:10188] DBG ZSAFileUtils::checkAndSetFileSecurityAttributes called with secType: 1
+2026-08-11 06:31:57.822123(+0530)[32344:10188] DBG ZSAFileUtils::checkFileSecurityAttributes called with secType: 1
+2026-08-11 06:31:57.822123(+0530)[32344:10188] DBG ZSAFileUtils::checkFileSecurityAttributes Received SecurityDescriptor: D:(A;OICI;FA;;;SY)(A;OICI;FA;;;BA), Expected SecurityDescriptor: D:(A;OICI;FA;;;SY)(A;OICI;FA;;;BA)
+2026-08-11 06:31:57.822123(+0530)[32344:10188] DBG ZSARegistryHelper::setRegistryKeyPermission: Successfully set ACL: 1 for Registry:SOFTWARE\Zscaler Inc.\Zscaler\EXTRA 
+2026-08-11 06:31:58.199965(+0530)[32344:20588] DBG ZSAServiceBase::serviceControllerHandler: service control: SERVICE_CONTROL_SHUTDOWN
+2026-08-11 06:31:58.199965(+0530)[32344:20588] INF On service shutdown
+2026-08-11 06:31:59.031279(+0530)[32344:10188] DBG OpenProcessToken succeeded, enable process token privileges
+2026-08-11 06:31:59.031279(+0530)[32344:10188] DBG ZSAServiceRpcClient::getTMStartUpData called.
+2026-08-11 06:31:59.031279(+0530)[32344:10188] DBG [ZSAServiceRpcClient]::sendAsyncRequestAndWait RPC complete failed, error: 0x800706BA
+2026-08-11 06:31:59.031279(+0530)[32344:10188] INF getTMStartUpData result, isSuccess: 0, startUpDataJsonStr: 
+2026-08-11 06:31:59.031279(+0530)[32344:10188] DBG ZSATrayManagerService::run startUpDataParseRes : 0 (Error Code: 13)
+2026-08-11 06:31:59.031279(+0530)[32344:10188] INF Processing inital user session state. Initial State 0
+2026-08-11 06:31:59.031279(+0530)[32344:10188] INF ZEventsTransmitter: Resetting quit event.
+2026-08-11 06:31:59.031279(+0530)[32344:10188] INF ZEventsTransmitter: Resetting quit event.
+2026-08-11 06:31:59.031279(+0530)[32344:10188] INF ZEvents set source: 2
+2026-08-11 06:31:59.031279(+0530)[32344:10188] DBG UserSid: , sessionId: 4294967295 sha1: DA39A3EE5E6B4B0D3255BFEF95601890AFD80709
+2026-08-11 06:31:59.033290(+0530)[32344:10188] INF SecurityShared::FindActiveSession: No active session found.
+2026-08-11 06:31:59.033290(+0530)[32344:10188] DBG SecurityShared::getActiveUserSid: sessionID 4294967295
+2026-08-11 06:31:59.033290(+0530)[32344:10188] DBG SecurityShared::getActiveUserSid: No active console session found.
+2026-08-11 06:31:59.033290(+0530)[32344:10188] ERR ZSALocalization::getCurrentUserLangRegValue: Failed to retrieve active user SID. Registry lookup cannot proceed.
+2026-08-11 06:31:59.033290(+0530)[32344:10188] INF ZSALocalization::getCurrentUserLangRegValue returning <no value>
+2026-08-11 06:31:59.033290(+0530)[32344:10188] INF ZSALocalization::GetUserDefaultLocaleName succeeded. [localeName:en-IN]
+2026-08-11 06:31:59.033290(+0530)[32344:10188] INF ZSALocalization: got lang reg value 'en'current system locale
+2026-08-11 06:31:59.033290(+0530)[32344:10188] INF ZSALocalization: returning language: 9
+2026-08-11 06:31:59.033290(+0530)[32344:10188] ERR Either pSmBiosTable is null or invalid stringIndex. [stringIndex:0]
+2026-08-11 06:31:59.033290(+0530)[32344:10188] WAR Failed to parse Named Domain from registry value
+2026-08-11 06:31:59.033290(+0530)[32344:16364] DBG [findFilesAndOperateV2] Operating on C:\ProgramData\Zscaler
+2026-08-11 06:31:59.033290(+0530)[32344:10188] DBG ZCCProfile:readAndStoreInstallParams: Keys Added: 6
+2026-08-11 06:31:59.033290(+0530)[32344:10188] ERR Either pSmBiosTable is null or invalid stringIndex. [stringIndex:0]
+2026-08-11 06:31:59.033290(+0530)[32344:16364] DBG [findFilesAndOperateV2] Operating on C:\ProgramData\Zscaler\log-5BFF858269CC2D4D1FCC83EABC65FEA94E87F2AF
+2026-08-11 06:31:59.033290(+0530)[32344:16364] DBG [findFilesAndOperateV2] Operation done on C:\ProgramData\Zscaler\log-5BFF858269CC2D4D1FCC83EABC65FEA94E87F2AF
+2026-08-11 06:31:59.033290(+0530)[32344:16364] DBG [findFilesAndOperateV2] Operating on C:\ProgramData\Zscaler\ZEP
+2026-08-11 06:31:59.033290(+0530)[32344:16364] DBG [findFilesAndOperateV2] Operating on C:\ProgramData\Zscaler\ZEP\Logs
+2026-08-11 06:31:59.033290(+0530)[32344:16364] DBG [findFilesAndOperateV2] Operation done on C:\ProgramData\Zscaler\ZEP\Logs
+2026-08-11 06:31:59.033290(+0530)[32344:16364] DBG [findFilesAndOperateV2] Operation done on C:\ProgramData\Zscaler\ZEP
+2026-08-11 06:31:59.033290(+0530)[32344:16364] DBG [findFilesAndOperateV2] Operation done on C:\ProgramData\Zscaler
+2026-08-11 06:31:59.033290(+0530)[32344:10188] INF OS Branding: Microsoft Windows 11 Enterprise
+2026-08-11 06:31:59.033290(+0530)[32344:10188] INF OS: Microsoft Windows 11 Enterprise
+2026-08-11 06:31:59.033290(+0530)[32344:10188] DBG User Name retrieved from Reg: 
+2026-08-11 06:31:59.033290(+0530)[32344:10188] INF ImpersonateLoggedOnUser() for sessionID: 4294967295
+2026-08-11 06:31:59.033290(+0530)[32344:10188] ERR WTSQueryUserToken failed; error: 0x000003F0
+2026-08-11 06:31:59.033290(+0530)[32344:10188] ERR impersonateLoggedOnUser() failed, unable to read owner information
+2026-08-11 06:31:59.033290(+0530)[32344:10188] INF Owner: 
+2026-08-11 06:31:59.033290(+0530)[32344:10188] DBG getCloudNamefromMAHostName: Searching maAltenamePrefix=mobile6. (maHostname=, maHonamePrefix=mobile.)
+2026-08-11 06:31:59.033290(+0530)[32344:10188] INF EnableFips: 0
+2026-08-11 06:31:59.033290(+0530)[32344:10188] INF LWF Config Override: [0], Registry: [0], Architecture: [0]
+2026-08-11 06:31:59.033290(+0530)[32344:10188] ERR ZSARegistryInterfaceImpl::getValue: failed for Registry: SOFTWARE\Zscaler Inc.\Zscaler\EXTRA\ VHSignature, Error: 0x00000002
+2026-08-11 06:31:59.033290(+0530)[32344:10188] DBG getHardwareID:purpose: user_tunnel_generic, version: 3, hwid: Zjg1MDQ3MmZlMGIzZGFjNWEyZWE1NWU3YTVkODVkMzU2NjVlZjlmYmEwNGI3NDNjNGMxODRlNDgxNzIxZThkMg==
+2026-08-11 06:31:59.033290(+0530)[32344:10188] INF Hardware ID: Zjg1MDQ3MmZlMGIzZGFjNWEyZWE1NWU3YTVkODVkMzU2NjVlZjlmYmEwNGI3NDNjNGMxODRlNDgxNzIxZThkMg==
+2026-08-11 06:31:59.033290(+0530)[32344:10188] ERR ZSARegistryInterfaceImpl::getValue: failed for Registry: SOFTWARE\Zscaler Inc.\Zscaler\EXTRA\ VHSignature, Error: 0x00000002
+2026-08-11 06:31:59.033290(+0530)[32344:10188] ERR Either pSmBiosTable is null or invalid stringIndex. [stringIndex:0]
+2026-08-11 06:31:59.047104(+0530)[32344:10188] ERR Failed to connect to local WMI services; error: 0x8007045B
+2026-08-11 06:31:59.047104(+0530)[32344:10188] ERR Failed to connect to local WMI services; error: 0x8007045B
+2026-08-11 06:31:59.047104(+0530)[32344:10188] DBG machineUID is 55MBVC4
+2026-08-11 06:31:59.047104(+0530)[32344:10188] DBG serialNumber is 55MBVC4
+2026-08-11 06:31:59.047104(+0530)[32344:10188] DBG udid is 55MBVC4:DA39A3EE5E6B4B0D3255BFEF95601890AFD80709
+2026-08-11 06:31:59.047104(+0530)[32344:10188] INF HideUIOnLaunch: 0
+2026-08-11 06:31:59.047104(+0530)[32344:10188] INF StrictEnforcement: 0
+2026-08-11 06:31:59.047104(+0530)[32344:10188] INF Log level init.
+2026-08-11 06:31:59.047104(+0530)[32344:10188] ERR Either pSmBiosTable is null or invalid stringIndex. [stringIndex:0]
+2026-08-11 06:31:59.047104(+0530)[32344:10188] DBG ZSAOSUtil::readStringFromReg. Reg key: HARDWARE\DESCRIPTION\System\BIOS\SystemManufacturer, value: Dell Inc.
+2026-08-11 06:31:59.047104(+0530)[32344:10188] INF Manufacturer retrieved from Reg: Dell Inc.
+2026-08-11 06:31:59.047104(+0530)[32344:10188] INF Manufacturer: [Dell Inc.]
+2026-08-11 06:31:59.047104(+0530)[32344:10188] DBG ZSAOSUtil::readStringFromReg. Reg key: HARDWARE\DESCRIPTION\System\BIOS\SystemProductName, value: Dell Pro 14 Plus PB14250
+2026-08-11 06:31:59.047104(+0530)[32344:10188] INF Model retrieved from Reg: Dell Pro 14 Plus PB14250
+2026-08-11 06:31:59.047104(+0530)[32344:10188] INF model: [Dell Pro 14 Plus PB14250]
+2026-08-11 06:31:59.047104(+0530)[32344:10188] INF Resetting domain and loginName as user isn't enrolled
+2026-08-11 06:31:59.047104(+0530)[32344:10188] DBG User Domain retrieved from Reg: nielseniq.com
+2026-08-11 06:31:59.047104(+0530)[32344:10188] INF Domain: [nielseniq.com]
+2026-08-11 06:31:59.047104(+0530)[32344:10188] INF isSeedDomainConfigured: [true]
+2026-08-11 06:31:59.047104(+0530)[32344:10188] DBG User Name retrieved from Reg: 
+2026-08-11 06:31:59.047104(+0530)[32344:10188] INF isSeedUsernameConfigured: [false]
+2026-08-11 06:31:59.047104(+0530)[32344:10188] INF User enrolled: [0]
+2026-08-11 06:31:59.047104(+0530)[32344:10188] INF ExternalDeviceID is Empty
+2026-08-11 06:31:59.047104(+0530)[32344:10188] DBG ExternalDeviceID retrieved from Registry: 
+2026-08-11 06:31:59.047104(+0530)[32344:10188] INF ExternalDeviceId: []
+2026-08-11 06:31:59.047104(+0530)[32344:10188] INF manufacturer: [Dell Inc.], os_version: [10.0.26100], device_model: [Dell Pro 14 Plus PB14250]
+2026-08-11 06:31:59.047104(+0530)[32344:10188] ERR Failed to open SC manager (local); error: 0x0000045B
+2026-08-11 06:31:59.047104(+0530)[32344:10188] INF Service: ZSAUpm, isServiceInstalled: 0
+2026-08-11 06:31:59.047104(+0530)[32344:10188] ERR ZDX Service is not installed on the machine.
+2026-08-11 06:31:59.047104(+0530)[32344:10188] INF ZDP Binary Path: C:\Program Files\Zscaler\ZDP\ZDPService.exe
+2026-08-11 06:31:59.047104(+0530)[32344:10188] ERR Failed to open SC manager (local); error: 0x0000045B
+2026-08-11 06:31:59.047104(+0530)[32344:10188] INF Service: ZDPService, isServiceInstalled: 0
+2026-08-11 06:31:59.047104(+0530)[32344:10188] ERR ZDP Service is not installed on the machine.
+2026-08-11 06:31:59.047104(+0530)[32344:10188] DBG Config Dir: C:\ProgramData\Zscaler
+2026-08-11 06:31:59.047104(+0530)[32344:10188] WAR ZAD:: Install json was not found. Was it installed?
+2026-08-11 06:31:59.047104(+0530)[32344:10188] WAR ZAD:: Install json invalid/missing
+2026-08-11 06:31:59.047104(+0530)[32344:10188] ERR ZAD: Failed to get service bin path. Service name missing
+2026-08-11 06:31:59.047104(+0530)[32344:10188] WAR ZAD:: Failed to get protocol version. Could not get service path
+2026-08-11 06:31:59.134432(+0530)[32344:10188] INF ZEPSdk: GetZEPProductVersion return value: 26.05.0.36
+2026-08-11 06:31:59.136436(+0530)[32344:10188] DBG Config Dir: C:\ProgramData\Zscaler
+2026-08-11 06:31:59.136436(+0530)[32344:10188] INF ZSAConfiguration constructor
+2026-08-11 06:31:59.136436(+0530)[32344:10188] ERR No DDILConfigFilePath retrieved from registry
+2026-08-11 06:31:59.136436(+0530)[32344:10188] ERR No DDILMAPublicKeyHash retrieved from registry
+2026-08-11 06:31:59.136436(+0530)[32344:10188] DBG Config Dir: C:\ProgramData\Zscaler
+2026-08-11 06:31:59.136436(+0530)[32344:10188] INF getDDILConfig: configfile: []
+2026-08-11 06:31:59.136436(+0530)[32344:10188] INF DDILConfig: DDIL Config JSON is empty
+2026-08-11 06:31:59.136436(+0530)[32344:10188] INF DDILState: cleared DDIL configuration
+2026-08-11 06:31:59.136436(+0530)[32344:10188] ERR processDDILConfiguration: DDIL configuration not processed
+2026-08-11 06:31:59.136436(+0530)[32344:10188] DBG getCloudNamefromMAHostName: Searching maAltenamePrefix=mobile6. (maHostname=, maHonamePrefix=mobile.)
+2026-08-11 06:31:59.136436(+0530)[32344:10188] INF Getting local machine ROOT certificates.
+2026-08-11 06:31:59.138443(+0530)[32344:10188] INF Getting local machine CA certificates.
+2026-08-11 06:31:59.140450(+0530)[32344:10188] INF Auth::Lib::initializeAuthenticationLibrary: Called: 59
+2026-08-11 06:31:59.140450(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 15 12:00:00 2038 GMT
+2026-08-11 06:31:59.140450(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Oct 25 08:30:35 2036 GMT
+2026-08-11 06:31:59.140450(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: May  9 23:28:13 2021 GMT
+2026-08-11 06:31:59.140450(+0530)[32344:10188] INF Skip expired certificate
+2026-08-11 06:31:59.140450(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 23:59:59 2020 GMT
+2026-08-11 06:31:59.140450(+0530)[32344:10188] INF Skip expired certificate
+2026-08-11 06:31:59.140450(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 07:00:00 2020 GMT
+2026-08-11 06:31:59.140450(+0530)[32344:10188] INF Skip expired certificate
+2026-08-11 06:31:59.140450(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Sep 15 00:00:00 2030 GMT
+2026-08-11 06:31:59.140450(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Mar 14 23:59:59 2032 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 23:59:59 2037 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Mar 22 22:13:04 2036 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 23:59:59 1999 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Skip expired certificate
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jul 12 10:20:03 2038 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Feb 19 00:02:41 2031 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Nov 10 00:00:00 2031 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jun 23 22:04:01 2035 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Feb 27 21:00:12 2043 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 30 23:59:59 1999 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Skip expired certificate
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan  7 23:59:59 2004 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Skip expired certificate
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jun 20 16:38:20 2052 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Feb 27 20:50:46 2043 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Nov 10 00:00:00 2031 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Oct 22 22:15:19 2039 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Apr 16 18:44:40 2045 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 15 12:00:00 2038 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Mar 17 18:33:33 2021 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Skip expired certificate
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Mar 18 10:00:00 2029 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 23:59:59 2028 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 18 23:59:59 2038 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Mar 21 23:59:59 2046 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jun  4 11:04:38 2035 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Feb 12 17:39:39 2041 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 28 12:00:00 2028 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Nov 10 00:00:00 2031 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jul 16 23:59:59 2036 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec  7 17:55:54 2030 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 10 00:00:00 2034 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 15 12:00:00 2038 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Aug  1 23:59:59 2028 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 14 23:59:59 2046 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jul 24 14:15:12 2029 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Mar 18 00:00:00 2045 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jul 16 23:59:59 2036 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 23:59:59 2037 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Sep 17 19:46:36 2036 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec  1 23:59:59 2037 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 18 23:59:59 2038 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 23:59:59 2039 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: May  7 19:54:23 2030 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jun 25 21:27:11 2032 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: May  7 19:54:30 2030 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Oct 24 23:59:59 2016 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Skip expired certificate
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 10 21:39:28 2039 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jul 20 13:59:17 2028 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jul 20 12:56:39 2028 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Apr 28 23:59:59 2036 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: May  7 19:54:16 2030 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Sep 15 00:00:00 2028 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jun 25 21:27:05 2032 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Sep 15 00:00:00 2028 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 07:00:00 2002 GMT
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Skip expired certificate
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Lib:loadSSLCerts: Called: 56
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Lib::loadSSLCerts: Number of CA certs loaded: 53
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Auth::Lib::initializeAuthenticationLibrary: Finish
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF ZSATrayManagerUtil::isIPv4Capable exception: Host not found: ipv4only.arpa.
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF ZSATrayManagerUtil:: Changed Poco::Net::AFLT to 23
+2026-08-11 06:31:59.142197(+0530)[32344:10188] INF Getting local machine ROOT certificates.
+2026-08-11 06:31:59.162038(+0530)[32344:10188] INF Getting local machine CA certificates.
+2026-08-11 06:31:59.166053(+0530)[32344:10188] DBG getCloudNamefromMAHostName: Searching maAltenamePrefix=mobile6. (maHostname=, maHonamePrefix=mobile.)
+2026-08-11 06:31:59.166053(+0530)[32344:10188] INF One::ID::initialize OneId Lib with: 59 certs
+2026-08-11 06:31:59.168061(+0530)[32344:10188] INF One::ID::Skip expired certificate
+2026-08-11 06:31:59.168061(+0530)[32344:10188] INF One::ID::Skip expired certificate
+2026-08-11 06:31:59.168061(+0530)[32344:10188] INF One::ID::Skip expired certificate
+2026-08-11 06:31:59.168061(+0530)[32344:10188] INF One::ID::Skip expired certificate
+2026-08-11 06:31:59.168061(+0530)[32344:10188] INF One::ID::Skip expired certificate
+2026-08-11 06:31:59.168061(+0530)[32344:10188] INF One::ID::Skip expired certificate
+2026-08-11 06:31:59.168061(+0530)[32344:10188] INF One::ID::Skip expired certificate
+2026-08-11 06:31:59.168061(+0530)[32344:10188] INF One::ID::Skip expired certificate
+2026-08-11 06:31:59.168061(+0530)[32344:10188] INF One::ID::Skip expired certificate
+2026-08-11 06:31:59.168061(+0530)[32344:10188] INF One::ID:loadSSLCerts: 56
+2026-08-11 06:31:59.171814(+0530)[32344:10188] INF One::ID::loadSSLCerts: Number of CA certs loaded: 53
+2026-08-11 06:31:59.171814(+0530)[32344:10188] INF One::ID::initialize: Finish
+2026-08-11 06:31:59.171814(+0530)[32344:10188] ERR Either pSmBiosTable is null or invalid stringIndex. [stringIndex:0]
+2026-08-11 06:31:59.173824(+0530)[32344:10188] ERR ZSAEncryptedFile::readFromFile: file open failed: The system cannot find the file specified.
+2026-08-11 06:31:59.173824(+0530)[32344:10188] ERR Either pSmBiosTable is null or invalid stringIndex. [stringIndex:0]
+2026-08-11 06:31:59.173824(+0530)[32344:10188] INF Checking if MachineTunnelFile exists at path: [C:\ProgramData\Zscaler/Zjg1MDQ3MmZlMGIzZGFjNWEyZWE1NWU3YTVkODVkMzU2NjVlZjlmYmEwNGI3NDNjNGMxODRlNDgxNzIxZThkMg==_mtc.dat]
+2026-08-11 06:31:59.173824(+0530)[32344:10188] ERR machine tunnel, tunnel config file doesn't exist
+2026-08-11 06:31:59.173824(+0530)[32344:10188] INF ZMachineTunnelManager, mtTunnelVersion: 6
+2026-08-11 06:31:59.173824(+0530)[32344:10188] DBG startMachineTunnelIfRequired: checking config
+2026-08-11 06:31:59.173824(+0530)[32344:10188] ERR Either pSmBiosTable is null or invalid stringIndex. [stringIndex:0]
+2026-08-11 06:31:59.173824(+0530)[32344:10188] INF Checking if MachineTunnelFile exists at path: [C:\ProgramData\Zscaler/Zjg1MDQ3MmZlMGIzZGFjNWEyZWE1NWU3YTVkODVkMzU2NjVlZjlmYmEwNGI3NDNjNGMxODRlNDgxNzIxZThkMg==_mtc.dat]
+2026-08-11 06:31:59.173824(+0530)[32344:10188] ERR machine tunnel, tunnel config file doesn't exist
+2026-08-11 06:31:59.173824(+0530)[32344:10188] ERR Either pSmBiosTable is null or invalid stringIndex. [stringIndex:0]
+2026-08-11 06:31:59.173824(+0530)[32344:10188] DBG ZMachineTunnelFileUtils::readAndDecrypt: filepath C:\ProgramData\Zscaler/Zjg1MDQ3MmZlMGIzZGFjNWEyZWE1NWU3YTVkODVkMzU2NjVlZjlmYmEwNGI3NDNjNGMxODRlNDgxNzIxZThkMg==_mtt.dat
+2026-08-11 06:31:59.173824(+0530)[32344:10188] ERR ZSAEncryptedFile::readFromFile: file open failed: The system cannot find the file specified.
+2026-08-11 06:31:59.173824(+0530)[32344:10188] DBG machine tunnel zpn, tunnel token decrypted and loaded successful (ziaCloudName=, maHostname=)
+2026-08-11 06:31:59.173824(+0530)[32344:10188] INF ZPA machine tunnel is not configured, try fetching token from policy
+2026-08-11 06:31:59.175833(+0530)[32344:10188] ERR Either pSmBiosTable is null or invalid stringIndex. [stringIndex:0]
+2026-08-11 06:31:59.175833(+0530)[32344:10188] DBG ZMachineTunnelFileUtils::readAndDecrypt: filepath C:\ProgramData\Zscaler/Zjg1MDQ3MmZlMGIzZGFjNWEyZWE1NWU3YTVkODVkMzU2NjVlZjlmYmEwNGI3NDNjNGMxODRlNDgxNzIxZThkMg==_mtt.dat
+2026-08-11 06:31:59.175833(+0530)[32344:10188] ERR ZSAEncryptedFile::readFromFile: file open failed: The system cannot find the file specified.
+2026-08-11 06:31:59.175833(+0530)[32344:10188] DBG machine tunnel zpn, tunnel token decrypted and loaded successful (ziaCloudName=, maHostname=)
+2026-08-11 06:31:59.175833(+0530)[32344:10188] ERR fetchPolicybyToken:: Machine tunnel: machine config doesn't exist
+2026-08-11 06:31:59.175833(+0530)[32344:10188] DBG ZMachineTunnelFileUtils::readAndDecrypt: filepath C:\ProgramData\Zscaler/ZccMachineConfig_clp.dat
+2026-08-11 06:31:59.175833(+0530)[32344:10188] ERR ZSAEncryptedFile::readFromFile: file open failed: The system cannot find the file specified.
+2026-08-11 06:31:59.175833(+0530)[32344:10188] ERR Machine tunnel: failed to read/empty policyToken from reg
+2026-08-11 06:31:59.175833(+0530)[32344:10188] ERR Either pSmBiosTable is null or invalid stringIndex. [stringIndex:0]
+2026-08-11 06:31:59.175833(+0530)[32344:10188] DBG ZMachineTunnelFileUtils::readAndDecrypt: filepath C:\ProgramData\Zscaler/Zjg1MDQ3MmZlMGIzZGFjNWEyZWE1NWU3YTVkODVkMzU2NjVlZjlmYmEwNGI3NDNjNGMxODRlNDgxNzIxZThkMg==_mtt.dat
+2026-08-11 06:31:59.175833(+0530)[32344:10188] ERR ZSAEncryptedFile::readFromFile: file open failed: The system cannot find the file specified.
+2026-08-11 06:31:59.175833(+0530)[32344:10188] DBG machine tunnel zpn, tunnel token decrypted and loaded successful (ziaCloudName=, maHostname=)
+2026-08-11 06:31:59.175833(+0530)[32344:10188] ERR Machine tunnel: machine config doesn't exist
+2026-08-11 06:31:59.175833(+0530)[32344:10188] INF Machine tunnel: policyFetchStatus: , policyFetchTime: 2026-08-11-06-31-59.175833
+2026-08-11 06:31:59.175833(+0530)[32344:10188] ERR Machine tunnel: skipping start as policy fetch failed
+2026-08-11 06:31:59.175833(+0530)[32344:10188] INF [ZSAMonitoringTimer] After updateMtRetryParams: isRetryRequired: 0, isExpBackoffReqd: 0, nextRetryInterval: 65535 secs, nextRetryTime: 65535 secs
+2026-08-11 06:31:59.175833(+0530)[32344:10188] DBG sessionId -1, startMachineTunnelIfRequired. [errCode:6]
+2026-08-11 06:31:59.175833(+0530)[32344:10188] INF RPC Listener retry attempts left: 3
+2026-08-11 06:31:59.175833(+0530)[32344:10188] INF RPC Listener started
+2026-08-11 06:31:59.175833(+0530)[32344:10188] INF Starting MainTimer
+2026-08-11 06:31:59.175833(+0530)[32344:10188] INF [Auto Update Monitor] Interval: 7200 sec
+2026-08-11 06:31:59.175833(+0530)[32344:10188] INF [Auto Update Monitor] Last Timer: 1786429919 sec
+2026-08-11 06:31:59.175833(+0530)[32344:10188] INF [Auto Update Monitor] Next Timer: 0 sec
+2026-08-11 06:31:59.175833(+0530)[32344:10188] INF MainTimer started
+2026-08-11 06:31:59.175833(+0530)[32344:10188] INF ProcessMonitor: starting
+2026-08-11 06:31:59.175833(+0530)[32344:10188] DBG WmiHelper: coInitializeEx called with isCoInitializeEx: 0
+2026-08-11 06:31:59.175833(+0530)[32344:10188] INF WmiHelper: The COM library was initialized successfully for WmiHelper
+2026-08-11 06:31:59.175833(+0530)[32344:10188] INF WmiHelper: The COM library security initialized
+2026-08-11 06:31:59.175833(+0530)[32344:10188] DBG WmiHelper: reInitWmi called! isCoInitializeEx: 1, wmiError: 0
+2026-08-11 06:31:59.175833(+0530)[32344:10188] DBG WmiHelper: initWmi called with isInitSuccess: 0
+2026-08-11 06:31:59.175833(+0530)[32344:10188] DBG WmiHelper: coInitializeEx called with isCoInitializeEx: 0
+2026-08-11 06:31:59.175833(+0530)[32344:10188] INF WmiHelper: The COM library was initialized successfully for WmiHelper
+2026-08-11 06:31:59.175833(+0530)[32344:4324] INF MainTimer thread start
+2026-08-11 06:31:59.175833(+0530)[32344:10188] DBG WmiHelper: coInitializeSecurity called with isCoInitializeSecurity: 0
+2026-08-11 06:31:59.175833(+0530)[32344:4324] DBG Skipping ZAD install check because no logged in user found
+2026-08-11 06:31:59.177841(+0530)[32344:10188] INF WmiHelper: The COM library security was initialized successfully for WmiHelper
+2026-08-11 06:31:59.177841(+0530)[32344:10188] DBG WmiHelper: coCreateInstance called with isLocatorSuccess: 0
+2026-08-11 06:31:59.181859(+0530)[32344:10188] INF WmiHelper: An instance of the specified object class was successfully created using wmiHelper
+2026-08-11 06:31:59.181859(+0530)[32344:10188] DBG WmiHelper: connectServer called with isServiceSuccess: 0
+2026-08-11 06:31:59.181859(+0530)[32344:10188] ERR WmiHelper: connectServer() failure! ErrorCode: 0x8007045b
+2026-08-11 06:31:59.181859(+0530)[32344:10188] ERR WmiHelper: ZSAWmiHelper init failed!
+2026-08-11 06:31:59.181859(+0530)[32344:10188] ERR WmiHelper: execNotificationQueryAsync: reInit failed!
+2026-08-11 06:31:59.181859(+0530)[32344:10188] INF WmiHelper: execNotificationQueryAsync called
+2026-08-11 06:31:59.192672(+0530)[32344:10188] INF ZSAProcessMonitor::resetWatch res = 1
+2026-08-11 06:31:59.192672(+0530)[32344:10188] INF ProcessMonitor: started
+2026-08-11 06:31:59.192672(+0530)[32344:10188] DBG ZPCConfig: readConfig: C:\ProgramData\Zscaler\zpcProgress.json
+2026-08-11 06:31:59.192672(+0530)[32344:10188] INF ZPCConfig: Failed to open zpcProgress.json in readConfig (exists=0)
+2026-08-11 06:31:59.192672(+0530)[32344:10188] ERR Failed to subscribe to Modern Standby events
+2026-08-11 06:31:59.192672(+0530)[32344:10188] INF SSM:enableEventsAnnotation : 1
+2026-08-11 06:31:59.192672(+0530)[32344:10188] DBG Sending quit signal to tray spawner to exit tray
+2026-08-11 06:31:59.192672(+0530)[32344:10188] DBG Performing ZSATrayManager clean-up tasks
+2026-08-11 06:31:59.192672(+0530)[32344:10188] DBG ZSAServiceBase::cleanUp called
+2026-08-11 06:31:59.192672(+0530)[32344:10188] INF removeProxyListener: continue flag is false
+2026-08-11 06:31:59.192672(+0530)[32344:10188] INF removeProxyListener: Done
+2026-08-11 06:31:59.192672(+0530)[32344:10188] INF machineTunnelThread: Already not running.
+2026-08-11 06:31:59.192672(+0530)[32344:10188] ERR Either pSmBiosTable is null or invalid stringIndex. [stringIndex:0]
+2026-08-11 06:31:59.192672(+0530)[32344:10188] ERR ZSAEncryptedFile::readFromFile: file open failed: The system cannot find the file specified.
+2026-08-11 06:31:59.192672(+0530)[32344:10188] ERR Either pSmBiosTable is null or invalid stringIndex. [stringIndex:0]
+2026-08-11 06:31:59.192672(+0530)[32344:10188] DBG ZMachineTunnelFileUtils::readAndDecrypt: filepath C:\ProgramData\Zscaler/Zjg1MDQ3MmZlMGIzZGFjNWEyZWE1NWU3YTVkODVkMzU2NjVlZjlmYmEwNGI3NDNjNGMxODRlNDgxNzIxZThkMg==_mtt.dat
+2026-08-11 06:31:59.192672(+0530)[32344:10188] ERR ZSAEncryptedFile::readFromFile: file open failed: The system cannot find the file specified.
+2026-08-11 06:31:59.192672(+0530)[32344:10188] DBG machine tunnel zpn, tunnel token decrypted and loaded successful (ziaCloudName=, maHostname=)
+2026-08-11 06:31:59.192672(+0530)[32344:10188] ERR Machine Tunnel:onPolicyDownloadTimer: Failed to read the machine tunnel config data
+2026-08-11 06:31:59.192672(+0530)[32344:10188] INF ZSATrayAuth::stopZPAMachineTunnel done
+2026-08-11 06:31:59.221442(+0530)[32344:4324] INF ZEPSdk: GetZEPProductVersion return value: 26.05.0.36
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ZEvents::waitForPendingEvents wait completed after timeout. 0 pending events
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ZEvents: clearing 0 events from ZEvents queue.
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ZEvents::stopTransmitter: transmitterThread is not running
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ZEvents setPolicy: ZDX enabled='0', ZCC enabled='0', REM enabled='0'; collect machine info 0, user info 0
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ZEvents setPolicy: feature disabled. Stopping...
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ZEvents::stopTransmitter: transmitterThread is not running
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ZEvents setPolicy: Stopping Remediation events transmitter...
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ZEvents::stopRemediationTransmitter: remediationTransmitterThread is not running
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ZEvents setPolicy: success? 1
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ZEvents setPolicy: ZDX enabled='0', ZCC enabled='0', REM enabled='0'; collect machine info 0, user info 0
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ZEvents setPolicy: feature disabled. Stopping...
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ZEvents::stopTransmitter: transmitterThread is not running
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ZEvents setPolicy: Stopping Remediation events transmitter...
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ZEvents::stopRemediationTransmitter: remediationTransmitterThread is not running
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ZEvents setPolicy: success? 1
+2026-08-11 06:31:59.300679(+0530)[32344:10188] ERR ZEvents lib already initialized
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ZEvents set source: 0
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ZPC: Stopping Packet Captures! [stopTunnelPacketDumpAlso:0, updateLabel:0, notifyUser:0]
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ZPC: Packet Captures were not running!
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF Stopping RPC Listener
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF RPC Listener stopped
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ServerInterface RPC server unregister success.
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ListenerInterface RPC server unregister success.[interface:TrayMangerRpc]
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ServerInterface RPC server unregister success.
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ListenerInterface RPC server unregister success.[interface:TrayMangerTrayRpc]
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ServerInterface RPC server unregister success.
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ListenerInterface RPC server unregister success.[interface:TrayManagerCliRpcServer]
+2026-08-11 06:31:59.300679(+0530)[32344:10188] DBG ZSAWebViewInstall stopping
+2026-08-11 06:31:59.300679(+0530)[32344:10188] DBG Config Dir: C:\ProgramData\Zscaler
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ZSAConfigMonitor: Already not running.
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ZSAConfigMonitor::onCleanUp: Config Monitor successfully stopped
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ProcessMonitor: stopping
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF WmiHelper: cancelNotificationQueryAsync called
+2026-08-11 06:31:59.300679(+0530)[32344:10188] DBG WmiHelper: reInitWmi called! isCoInitializeEx: 1, wmiError: 0
+2026-08-11 06:31:59.300679(+0530)[32344:10188] DBG WmiHelper: back to back reInitWmi calls. It will be skipped till 10 minutes of time elapses. Time elapsed: 0min
+2026-08-11 06:31:59.300679(+0530)[32344:10188] DBG WmiHelper: reInitWmi skipped as previous init failed.
+2026-08-11 06:31:59.300679(+0530)[32344:10188] ERR WmiHelper: cancelNotificationQueryAsync: reInit failed!
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF ProcessMonitor: stopped
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF MainTimer stopping
+2026-08-11 06:31:59.300679(+0530)[32344:4324] INF MainTimer thread exit
+2026-08-11 06:31:59.300679(+0530)[32344:10188] INF MainTimer stopped
+2026-08-11 06:31:59.300679(+0530)[32344:10188] DBG [ZSAFM] Filtering already stopped
+2026-08-11 06:31:59.300679(+0530)[32344:10188] DBG ZSATrayManagerServiceModules::init: Called.
+2026-08-11 06:31:59.300679(+0530)[32344:10188] DBG ZSATrayManagerServiceModules::getZdpZccAddon: not initialized, creating new instance.
+2026-08-11 06:31:59.300679(+0530)[32344:10188] DBG ZSATrayManagerServiceModules::setupZdpZccAddonSdk: Creating Configuration for ZdpZccAddonSdk
+2026-08-11 06:31:59.300679(+0530)[32344:10188] DBG ZSATrayManagerServiceModules::setupZdpZccAddonSdk: Could not convert smcaId:  to int, Invalid Argument : invalid stoi argument
+2026-08-11 06:31:59.300679(+0530)[32344:10188] DBG [ZSAClientShieldMonitor] stopping process monitor
+2026-08-11 06:31:59.300679(+0530)[32344:10188] DBG [ZSAClientShieldMonitor] process monitor already stopped
+2026-08-11 06:31:59.302686(+0530)[32344:10188] DBG ZSATrayManagerServiceModules::cleanup: Called.
+2026-08-11 06:31:59.302686(+0530)[32344:10188] DBG ZSATrayManagerServiceModules::onZCCUserLogout: Called.
+2026-08-11 06:31:59.302686(+0530)[32344:10188] DBG ZdpZccAddonSdk: uninit called.
+2026-08-11 06:31:59.302686(+0530)[32344:10188] DBG ZdpZccAddonSdk: SDK is not properly initialized.
+2026-08-11 06:31:59.302686(+0530)[32344:10188] DBG ZSATrayManagerServiceModules::onZCCUserLogout: success.
+2026-08-11 06:31:59.302686(+0530)[32344:10188] DBG ZSATrayManagerServiceModules::cleanup: success.
+2026-08-11 06:31:59.302686(+0530)[32344:20588] INF Service return code: 0

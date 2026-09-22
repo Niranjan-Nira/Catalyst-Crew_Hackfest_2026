@@ -1,0 +1,207 @@
+2026-05-23 05:38:29.887693(+0530)[4660:15188] INF Timezone: India Standard Time, Offset: 19800, Standard Name: India Standard Time, UTC Offset: 19800
+2026-05-23 05:38:29.887693(+0530)[4660:15188] INF ZSAUpdate App Version: 4.7.0.141
+2026-05-23 05:38:29.887693(+0530)[4660:15188] INF ZSAUpdate Architecture: x64
+2026-05-23 05:38:29.887693(+0530)[4660:15188] INF ZSAUpdate GIT Hash: 4ee4b7d7870f443d29c6d1bda9662f24ede0696c
+2026-05-23 05:38:29.887693(+0530)[4660:15188] INF UPM Hard Protocol Version: 28
+2026-05-23 05:38:29.887693(+0530)[4660:15188] INF UPM Soft Protocol Version: 903
+2026-05-23 05:38:29.887693(+0530)[4660:15188] INF x64 BINARY (Supports both gov and commercial clouds)
+2026-05-23 05:38:29.887693(+0530)[4660:15188] DBG Config Dir: C:\ProgramData\Zscaler
+2026-05-23 05:38:29.889708(+0530)[4660:15188] DBG App options initialized successfully
+2026-05-23 05:38:29.892257(+0530)[4660:15704] INF Failure actions is already configured.
+2026-05-23 05:38:29.892257(+0530)[4660:15712] INF ZEventsTransmitter: Resetting quit event.
+2026-05-23 05:38:29.892257(+0530)[4660:15712] INF ZEventsTransmitter: Resetting idle event.
+2026-05-23 05:38:29.892257(+0530)[4660:15712] INF ZEvents set source: 5
+2026-05-23 05:38:29.892257(+0530)[4660:15712] INF ZEvents setPolicy: ZDX enabled='1', ZCC enabled='1'; collect machine info 0, user info 0
+2026-05-23 05:38:29.892257(+0530)[4660:15712] INF ZEvents setPolicy: feature enabled. Starting...
+2026-05-23 05:38:29.892257(+0530)[4660:15712] INF ZEventsTransmitter: Resetting quit event.
+2026-05-23 05:38:29.892257(+0530)[4660:15712] INF ZEvents setPolicy: success? 1
+2026-05-23 05:38:29.892257(+0530)[4660:15712] INF Sending RPC to fetch updater Config
+2026-05-23 05:38:29.892257(+0530)[4660:15712] DBG ZSATrayManagerRpcClient::getUpdaterConfig called.
+2026-05-23 05:38:29.892257(+0530)[4660:12308] INF ZEventsTransmitter: Start up.
+2026-05-23 05:38:29.903381(+0530)[4660:12308] INF ZEventsTransmitter: Setting idle event.
+2026-05-23 05:38:29.958542(+0530)[4660:15712] DBG Updater config post data sanitization: {"companyID":10715,"denyAdminsToStopZccServices":false,"isOneIdEnabled":false,"updaterProxy":"","zccUpdateInfo":"{\"error\":\"0\",\"errorMessage\":\"\",\"response\":{\"applicationName\":\"Zscaler\",\"applicationVersion\":\"4.5.0.325\",\"clientPlatform\":\"windows\",\"zccChecksum\":\"SQy+XJXLl0R8jtR2y4uUqYGTwoimbnbjcrbseRqrRwg=\",\"zccDownloadUrl\":\"https://zcc.ecdn.zscaler.com/Zscaler-windows-4.5.0.325-installer-x64.exe\",\"zccDownloadUrlfallback\":\"https://d32a6ru7mhaq0c.cloudfront.net/Zscaler-windows-4.5.0.325-installer-x64.exe\",\"zccDownloadUrlv2\":\"https://zcc.ecdn.zscaler.com/Zscaler-windows-4.5.0.325-installer-x64.exe\",\"zccDownloadUrlv2fallback\":\"https://d32a6ru7mhaq0c.cloudfront.net/Zscaler-windows-4.5.0.325-installer-x64.exe\"},\"success\":\"true\"}","zdUpdateInfo":"","zdpUpdateInfo":"","zdxUpdateInfo":{"checksum":"lZ/UQsTOBZ7ylBKINFC7UoUpP20c76NXnJQ+cKuEuIo=","downloadLink":"https://zcc.ecdn.zscaler.com/UPM-windows-4.7.0.48-release-x64.zip","filePath":"","version":"4.7.0.48","zdxHardPV":28,"zdxMinSuppZCCSoftPV":1,"zdxSoftPV":912,"zdxTurnedOff":false},"zsAuthToken":""}
+2026-05-23 05:38:29.958542(+0530)[4660:15712] INF CompanyId: 10715
+2026-05-23 05:38:29.958542(+0530)[4660:15712] INF UserAgentV2: Mozilla/5.0 ZTunnel/1.0 ZCC/4.7.0.141 (Windows;x64) (ID:10715)
+2026-05-23 05:38:29.958542(+0530)[4660:15712] INF Getting local machine ROOT certificates.
+2026-05-23 05:38:29.966341(+0530)[4660:15712] INF Getting local machine CA certificates.
+2026-05-23 05:38:29.968353(+0530)[4660:15712] INF Auth::Lib::initializeAuthenticationLibrary: Called: 39
+2026-05-23 05:38:29.968353(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Oct 25 08:30:35 2036 GMT
+2026-05-23 05:38:29.968353(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: May  9 23:28:13 2021 GMT
+2026-05-23 05:38:29.968353(+0530)[4660:15712] INF Skip expired certificate
+2026-05-23 05:38:29.968353(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 23:59:59 2020 GMT
+2026-05-23 05:38:29.968353(+0530)[4660:15712] INF Skip expired certificate
+2026-05-23 05:38:29.968353(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 07:00:00 2020 GMT
+2026-05-23 05:38:29.968353(+0530)[4660:15712] INF Skip expired certificate
+2026-05-23 05:38:29.968353(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Sep 15 00:00:00 2030 GMT
+2026-05-23 05:38:29.968353(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Mar 14 23:59:59 2032 GMT
+2026-05-23 05:38:29.968353(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Mar 22 22:13:04 2036 GMT
+2026-05-23 05:38:29.968353(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 23:59:59 1999 GMT
+2026-05-23 05:38:29.968353(+0530)[4660:15712] INF Skip expired certificate
+2026-05-23 05:38:29.968353(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jul 12 10:20:03 2038 GMT
+2026-05-23 05:38:29.968353(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Feb 19 00:02:41 2031 GMT
+2026-05-23 05:38:29.970367(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jun 23 22:04:01 2035 GMT
+2026-05-23 05:38:29.970367(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Feb 27 21:00:12 2043 GMT
+2026-05-23 05:38:29.970367(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 30 23:59:59 1999 GMT
+2026-05-23 05:38:29.970367(+0530)[4660:15712] INF Skip expired certificate
+2026-05-23 05:38:29.970367(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan  7 23:59:59 2004 GMT
+2026-05-23 05:38:29.970367(+0530)[4660:15712] INF Skip expired certificate
+2026-05-23 05:38:29.970367(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jun 20 16:38:20 2052 GMT
+2026-05-23 05:38:29.970367(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Feb 27 20:50:46 2043 GMT
+2026-05-23 05:38:29.970367(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Oct 22 22:15:19 2039 GMT
+2026-05-23 05:38:29.970367(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 15 12:00:00 2038 GMT
+2026-05-23 05:38:29.970367(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 15 12:00:00 2038 GMT
+2026-05-23 05:38:29.970367(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Mar 18 10:00:00 2029 GMT
+2026-05-23 05:38:29.970367(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 23:59:59 2028 GMT
+2026-05-23 05:38:29.970367(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jun  4 11:04:38 2035 GMT
+2026-05-23 05:38:29.970367(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 28 12:00:00 2028 GMT
+2026-05-23 05:38:29.970367(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 10 00:00:00 2034 GMT
+2026-05-23 05:38:29.970367(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 15 12:00:00 2038 GMT
+2026-05-23 05:38:29.970367(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Aug  1 23:59:59 2028 GMT
+2026-05-23 05:38:29.970367(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 14 23:59:59 2046 GMT
+2026-05-23 05:38:29.970367(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jul 16 23:59:59 2036 GMT
+2026-05-23 05:38:29.970367(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 18 23:59:59 2038 GMT
+2026-05-23 05:38:29.970367(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Nov 10 00:00:00 2031 GMT
+2026-05-23 05:38:29.970367(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 23:59:59 2039 GMT
+2026-05-23 05:38:29.970367(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: May  7 19:54:30 2030 GMT
+2026-05-23 05:38:29.972381(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Oct 24 23:59:59 2016 GMT
+2026-05-23 05:38:29.972381(+0530)[4660:15712] INF Skip expired certificate
+2026-05-23 05:38:29.972381(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 10 21:39:28 2039 GMT
+2026-05-23 05:38:29.972381(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jul 20 13:59:17 2028 GMT
+2026-05-23 05:38:29.972381(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jul 20 12:56:39 2028 GMT
+2026-05-23 05:38:29.972381(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Sep 15 00:00:00 2028 GMT
+2026-05-23 05:38:29.972381(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Sep 15 00:00:00 2028 GMT
+2026-05-23 05:38:29.972381(+0530)[4660:15712] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 07:00:00 2002 GMT
+2026-05-23 05:38:29.972381(+0530)[4660:15712] INF Skip expired certificate
+2026-05-23 05:38:29.972381(+0530)[4660:15712] INF Auth::Lib:loadSSLCerts: Called: 37
+2026-05-23 05:38:30.114555(+0530)[4660:15712] INF Auth::Lib::loadSSLCerts: Number of CA certs loaded: 36
+2026-05-23 05:38:30.114555(+0530)[4660:15712] INF Auth::Lib::initializeAuthenticationLibrary: Finish
+2026-05-23 05:38:30.114555(+0530)[4660:15712] INF Proxy is empty
+2026-05-23 05:38:30.114555(+0530)[4660:15712] INF zccUpdate: {"error":"0","errorMessage":"","response":{"applicationName":"Zscaler","applicationVersion":"4.5.0.325","clientPlatform":"windows","zccChecksum":"SQy+XJXLl0R8jtR2y4uUqYGTwoimbnbjcrbseRqrRwg=","zccDownloadUrl":"https://zcc.ecdn.zscaler.com/Zscaler-windows-4.5.0.325-installer-x64.exe","zccDownloadUrlfallback":"https://d32a6ru7mhaq0c.cloudfront.net/Zscaler-windows-4.5.0.325-installer-x64.exe","zccDownloadUrlv2":"https://zcc.ecdn.zscaler.com/Zscaler-windows-4.5.0.325-installer-x64.exe","zccDownloadUrlv2fallback":"https://d32a6ru7mhaq0c.cloudfront.net/Zscaler-windows-4.5.0.325-installer-x64.exe"},"success":"true"}
+2026-05-23 05:38:30.114555(+0530)[4660:15712] INF Current ZAPP version: 4.7.0.141
+2026-05-23 05:38:30.114555(+0530)[4660:15712] INF Available ZAPP version: 4.5.0.325
+2026-05-23 05:38:30.114555(+0530)[4660:15712] INF Current ZAPP Architecture: x64
+2026-05-23 05:38:30.114555(+0530)[4660:15712] INF Available ZAPP Architecture: x64
+2026-05-23 05:38:30.114555(+0530)[4660:15712] INF ZDX Checksum: lZ/UQsTOBZ7ylBKINFC7UoUpP20c76NXnJQ+cKuEuIo=
+2026-05-23 05:38:30.114555(+0530)[4660:15712] INF ZDX Download Link: https://zcc.ecdn.zscaler.com/UPM-windows-4.7.0.48-release-x64.zip
+2026-05-23 05:38:30.114555(+0530)[4660:15712] INF ZDX Package Path: 
+2026-05-23 05:38:30.114555(+0530)[4660:15712] INF New ZDX Version: 4.7.0.48
+2026-05-23 05:38:30.116567(+0530)[4660:15712] DBG Remove directory: C:\Program Files\Zscaler\ZSAUpm\temp
+2026-05-23 05:38:30.118577(+0530)[4660:15712] DBG ZDX Package URL : https://zcc.ecdn.zscaler.com/UPM-windows-4.7.0.48-release-x64.zip
+2026-05-23 05:38:30.118577(+0530)[4660:15712] DBG Hash: lZ/UQsTOBZ7ylBKINFC7UoUpP20c76NXnJQ+cKuEuIo=
+2026-05-23 05:38:30.118577(+0530)[4660:15712] INF Auth::Library::apiDownloadFileFromHttpLink: Called
+2026-05-23 05:38:30.118577(+0530)[4660:15712] INF Auth::Lib::executeServerGetAPIForFileDownload: Begin
+2026-05-23 05:38:30.118577(+0530)[4660:15712] INF Auth::Lib::executeServerGetAPIForFileDownload: Trial: 0
+2026-05-23 05:38:30.136417(+0530)[4660:15712] DBG ZSHTTPSession firstly connecting to 147.161.205.81:443
+2026-05-23 05:38:30.242694(+0530)[4660:15712] INF Auth::Lib::executeServerGetAPIForFileDownload: https://zcc.ecdn.zscaler.com/UPM-windows-4.7.0.48-release-x64.zip
+2026-05-23 05:38:32.005666(+0530)[4660:15712] INF Auth::Lib::executeServerGetAPIForFileDownload: Written: [17787994] bytes of package
+2026-05-23 05:38:32.005666(+0530)[4660:15712] INF Auth::Lib::executeServerGetAPIForFileDownload: GOOD: [0], EOF: [1], BAD: [0], FAIL: [1]
+2026-05-23 05:38:32.005666(+0530)[4660:15712] INF Auth::Lib::executeServerGetAPIForFileDownload: Response: 200
+2026-05-23 05:38:32.005666(+0530)[4660:15712] INF Auth::Lib::executeServerGetAPIForFileDownload: Finish
+2026-05-23 05:38:32.005666(+0530)[4660:15712] INF ZEventsTransmitter: Resetting idle event.
+2026-05-23 05:38:32.005666(+0530)[4660:15712] INF ZEvents: Raised event:  zcc_upgrade_file_download_success / 0x100736405 added to queue. Size 0
+2026-05-23 05:38:32.005666(+0530)[4660:15712] INF Auth::Library::apiDownloadFileFromHttpLink: Finish
+2026-05-23 05:38:32.005666(+0530)[4660:15712] DBG ZDX Local Package Path: C:\Program Files\Zscaler\ZSAUpm\temp\UPM-windows-4.7.0.48-release-x64.zip
+2026-05-23 05:38:32.005666(+0530)[4660:15712] DBG Hash: lZ/UQsTOBZ7ylBKINFC7UoUpP20c76NXnJQ+cKuEuIo=
+2026-05-23 05:38:32.005666(+0530)[4660:12308] INF ZEventsTransmitter: Resetting idle event.
+2026-05-23 05:38:32.068752(+0530)[4660:12308] INF ZEvents: sendEventRPC rpc success: 1 rpc result: 0x80004005
+2026-05-23 05:38:32.068752(+0530)[4660:12308] INF ZEventsTransmitter: sendWithRetries: failed to send event. Retry after 50 milliseconds
+2026-05-23 05:38:32.131612(+0530)[4660:12308] INF ZEvents: sendEventRPC rpc success: 1 rpc result: 0x80004005
+2026-05-23 05:38:32.131612(+0530)[4660:12308] INF ZEventsTransmitter: sendWithRetries: failed to send event. Retry after 2500 milliseconds
+2026-05-23 05:38:32.242904(+0530)[4660:15712] INF Package checksum: lZ/UQsTOBZ7ylBKINFC7UoUpP20c76NXnJQ+cKuEuIo=
+2026-05-23 05:38:32.956208(+0530)[4660:15712] INF Signer does not matches Zscaler. Hence, checking for zscaler EV sign status.
+2026-05-23 05:38:32.956208(+0530)[4660:15712] INF Process executable is signed by Zscaler EV.
+2026-05-23 05:38:32.956208(+0530)[4660:15712] INF Signer trust released.
+2026-05-23 05:38:33.051148(+0530)[4660:15712] INF Signer does not matches Zscaler. Hence, checking for zscaler EV sign status.
+2026-05-23 05:38:33.051148(+0530)[4660:15712] INF Process executable is signed by Zscaler EV.
+2026-05-23 05:38:33.051148(+0530)[4660:15712] INF Signer trust released.
+2026-05-23 05:38:33.118852(+0530)[4660:15712] INF Signer does not matches Zscaler. Hence, checking for zscaler EV sign status.
+2026-05-23 05:38:33.118852(+0530)[4660:15712] INF Process executable is signed by Zscaler EV.
+2026-05-23 05:38:33.118852(+0530)[4660:15712] INF Signer trust released.
+2026-05-23 05:38:33.146425(+0530)[4660:15712] INF Filename: C:\Program Files\Zscaler\ZSAUpm\temp\ZSAUpm.exe , PropertyName: \StringFileInfo\040904b0\UPMProtocolVersion , PropertyValue: 28
+2026-05-23 05:38:33.146425(+0530)[4660:15712] INF Filename: C:\Program Files\Zscaler\ZSAUpm\temp\ZSAUpm.exe , PropertyName: \StringFileInfo\040904b0\UPMSoftProtocolVersion , PropertyValue: 912
+2026-05-23 05:38:33.146425(+0530)[4660:15712] INF Filename: C:\Program Files\Zscaler\ZSAUpm\temp\ZSAUpm.exe , PropertyName: \StringFileInfo\040904b0\UPMMinZccSoftProtocolVersion , PropertyValue: 1
+2026-05-23 05:38:33.146425(+0530)[4660:15712] INF Service: ZSAUpm, isServiceInstalled: 1
+2026-05-23 05:38:33.146425(+0530)[4660:15712] DBG CDistroFilePaths::PopulatePath_ForComponent: Populated deploy path for component 'ZSAUpm.exe' as 'C:\Program Files\Zscaler'
+2026-05-23 05:38:33.146425(+0530)[4660:15712] INF ZDX Binary Path: C:\Program Files\Zscaler\ZSAUpm\ZSAUpm.exe
+2026-05-23 05:38:33.146425(+0530)[4660:15712] DBG CDistroFilePaths::PopulatePath_ForComponent: Populated deploy path for component 'ZSAUpm.exe' as 'C:\Program Files\Zscaler'
+2026-05-23 05:38:33.146425(+0530)[4660:15712] INF ZDX Binary Path: C:\Program Files\Zscaler\ZSAUpm\ZSAUpm.exe
+2026-05-23 05:38:33.146425(+0530)[4660:15712] INF Filename: C:\Program Files\Zscaler\ZSAUpm\ZSAUpm.exe , PropertyName: \StringFileInfo\040904b0\UPMProtocolVersion , PropertyValue: 28
+2026-05-23 05:38:33.146425(+0530)[4660:15712] INF Filename: C:\Program Files\Zscaler\ZSAUpm\ZSAUpm.exe , PropertyName: \StringFileInfo\040904b0\UPMSoftProtocolVersion , PropertyValue: 904
+2026-05-23 05:38:33.146425(+0530)[4660:15712] INF Filename: C:\Program Files\Zscaler\ZSAUpm\ZSAUpm.exe , PropertyName: \StringFileInfo\040904b0\UPMMinZccSoftProtocolVersion , PropertyValue: 1
+2026-05-23 05:38:33.146425(+0530)[4660:15712] INF shouldUpgradeZDX: Installed ZDX Version: 4.5.0.34 ,ZDX PV: 28, 904, 1
+2026-05-23 05:38:33.146425(+0530)[4660:15712] INF shouldUpgradeZDX: New ZDX version: 4.7.0.48
+2026-05-23 05:38:33.146425(+0530)[4660:15712] INF isZDXCompatible: ZCC PV: 28, 903
+2026-05-23 05:38:33.146425(+0530)[4660:15712] INF isZDXCompatible: ZDX PV: 28;912;1
+2026-05-23 05:38:33.146425(+0530)[4660:15712] INF isZDXCompatible: Compatible
+2026-05-23 05:38:33.553418(+0530)[4660:15712] DBG setPreferSystem32Mitigation: Value set successfully.
+2026-05-23 05:38:33.553418(+0530)[4660:15712] INF Getting status for service: ZSAUpm
+2026-05-23 05:38:33.553418(+0530)[4660:15712] INF Returning service status: 4
+2026-05-23 05:38:33.553418(+0530)[4660:15712] INF Stopping ZDX Service
+2026-05-23 05:38:33.553418(+0530)[4660:15712] DBG SendUserCommandToService: Start! ServiceName: [ZSAUpm], Code: [1]
+2026-05-23 05:38:33.553418(+0530)[4660:15712] INF SendUserCommandToService: ControlService (service: ZSAUpm; code: 1) call was successful
+2026-05-23 05:38:33.557221(+0530)[4660:15712] DBG SendUserCommandToService: End!
+2026-05-23 05:38:34.108445(+0530)[4660:15712] INF Current Status of ZSAUpm: SERVICE_STOPPED
+2026-05-23 05:38:34.108445(+0530)[4660:15712] INF Stopped ZDX Service
+2026-05-23 05:38:34.108445(+0530)[4660:15712] INF Getting status for service: ZSAUpm
+2026-05-23 05:38:34.108445(+0530)[4660:15712] INF Returning service status: 1
+2026-05-23 05:38:34.108445(+0530)[4660:15712] INF ZDX Service stop success. State: 1
+2026-05-23 05:38:34.646073(+0530)[4660:12308] WAR ZSAAsyncRPC: sendUpmEvent asynRpcImpl: RpcAsyncCompleteCall failed, status: 0x000006BA
+2026-05-23 05:38:34.646073(+0530)[4660:12308] INF ZEvents: sendEventRPC rpc success: 0 rpc result: 0xFFFFFFFF
+2026-05-23 05:38:34.646073(+0530)[4660:12308] INF ZEventsTransmitter: sendWithRetries: failed to send event. Retry after 5000 milliseconds
+2026-05-23 05:38:36.117914(+0530)[4660:15712] INF Deleting ZDX DB files...
+2026-05-23 05:38:36.117914(+0530)[4660:15712] DBG Config Dir: C:\ProgramData\Zscaler\log-5BFF858269CC2D4D1FCC83EABC65FEA94E87F2AF
+2026-05-23 05:38:36.117914(+0530)[4660:15712] DBG [findFilesAndOperate:] Successfully deleted C:\ProgramData\Zscaler\log-5BFF858269CC2D4D1FCC83EABC65FEA94E87F2AF\upm_bandwidth_test_5BFF858269CC2D4D1FCC83EABC65FEA94E87F2AF.db
+2026-05-23 05:38:36.117914(+0530)[4660:15712] DBG [findFilesAndOperate:] Successfully deleted C:\ProgramData\Zscaler\log-5BFF858269CC2D4D1FCC83EABC65FEA94E87F2AF\upm_device_inventory_5BFF858269CC2D4D1FCC83EABC65FEA94E87F2AF.db
+2026-05-23 05:38:36.117914(+0530)[4660:15712] DBG [findFilesAndOperate:] Successfully deleted C:\ProgramData\Zscaler\log-5BFF858269CC2D4D1FCC83EABC65FEA94E87F2AF\upm_device_stats_5BFF858269CC2D4D1FCC83EABC65FEA94E87F2AF.db
+2026-05-23 05:38:36.117914(+0530)[4660:15712] DBG [findFilesAndOperate:] Successfully deleted C:\ProgramData\Zscaler\log-5BFF858269CC2D4D1FCC83EABC65FEA94E87F2AF\upm_traceroute_5BFF858269CC2D4D1FCC83EABC65FEA94E87F2AF.db
+2026-05-23 05:38:36.117914(+0530)[4660:15712] DBG [findFilesAndOperate:] Successfully deleted C:\ProgramData\Zscaler\log-5BFF858269CC2D4D1FCC83EABC65FEA94E87F2AF\upm_upload_stats_5BFF858269CC2D4D1FCC83EABC65FEA94E87F2AF.db
+2026-05-23 05:38:36.117914(+0530)[4660:15712] DBG [findFilesAndOperate:] Successfully deleted C:\ProgramData\Zscaler\log-5BFF858269CC2D4D1FCC83EABC65FEA94E87F2AF\upm_webload_5BFF858269CC2D4D1FCC83EABC65FEA94E87F2AF.db
+2026-05-23 05:38:36.117914(+0530)[4660:15712] DBG Remove directory: C:\Program Files\Zscaler\ZSAUpm\backup
+2026-05-23 05:38:36.117914(+0530)[4660:15712] DBG Remove directory: C:\Program Files\Zscaler\ZSAUpm\backup
+2026-05-23 05:38:36.117914(+0530)[4660:15712] DBG Moving file from C:\Program Files\Zscaler\ZSAUpm\YEngine.dll to C:\Program Files\Zscaler\ZSAUpm\backup\YEngine.dll
+2026-05-23 05:38:36.117914(+0530)[4660:15712] DBG Moving file from C:\Program Files\Zscaler\ZSAUpm\ZSAUpm.exe to C:\Program Files\Zscaler\ZSAUpm\backup\ZSAUpm.exe
+2026-05-23 05:38:36.117914(+0530)[4660:15712] DBG Moving file from C:\Program Files\Zscaler\ZSAUpm\temp\YEngine.dll to C:\Program Files\Zscaler\ZSAUpm\YEngine.dll
+2026-05-23 05:38:36.133772(+0530)[4660:15712] DBG Moving file from C:\Program Files\Zscaler\ZSAUpm\temp\ZSAUpm.exe to C:\Program Files\Zscaler\ZSAUpm\ZSAUpm.exe
+2026-05-23 05:38:36.135114(+0530)[4660:15712] DBG Moving file from C:\Program Files\Zscaler\ZSAUpm\temp\ZUpmApplication.exe to C:\Program Files\Zscaler\ZSAUpm\ZUpmApplication.exe
+2026-05-23 05:38:36.135114(+0530)[4660:15712] INF Service: ZSAUpm, isServiceInstalled: 1
+2026-05-23 05:38:36.135114(+0530)[4660:15712] INF Applying service start-up type 3 for ZSAUpm
+2026-05-23 05:38:36.138743(+0530)[4660:15712] INF Service start-up type already correct.
+2026-05-23 05:38:36.140760(+0530)[4660:15712] DBG Security: trying to start a Zscaler service: ZSAUpm, install location and checking signature...
+2026-05-23 05:38:36.140760(+0530)[4660:15712] DBG Security: binary path: 'C:\Program Files\Zscaler\ZSAUpm\ZSAUpm.exe'
+2026-05-23 05:38:36.140760(+0530)[4660:15712] DBG Security: verifying the install path
+2026-05-23 05:38:36.140760(+0530)[4660:15712] DBG Security: expected location: 'C:\Program Files\Zscaler\ZSAUpm', actual location: 'C:\Program Files\Zscaler\ZSAUpm'. Matched: 1
+2026-05-23 05:38:36.228680(+0530)[4660:15712] INF Signer does not matches Zscaler. Hence, checking for zscaler EV sign status.
+2026-05-23 05:38:36.228680(+0530)[4660:15712] INF Process executable is signed by Zscaler EV.
+2026-05-23 05:38:36.228680(+0530)[4660:15712] INF Signer trust released.
+2026-05-23 05:38:36.228680(+0530)[4660:15712] DBG Security: can start bin? true
+2026-05-23 05:38:36.228680(+0530)[4660:15712] DBG Security: can start service? true
+2026-05-23 05:38:36.956290(+0530)[4660:15712] INF Current Status of ZSAUpm: SERVICE_RUNNING
+2026-05-23 05:38:36.956290(+0530)[4660:15712] DBG SendUserCommandToService: Start! ServiceName: [ZSAUpm], Code: [2]
+2026-05-23 05:38:36.956888(+0530)[4660:15712] INF SendUserCommandToService: ControlService (service: ZSAUpm; code: 2) call was successful
+2026-05-23 05:38:36.956888(+0530)[4660:15712] DBG SendUserCommandToService: End!
+2026-05-23 05:38:36.956888(+0530)[4660:15712] DBG Remove directory: C:\Program Files\Zscaler\ZSAUpm\backup
+2026-05-23 05:38:36.963698(+0530)[4660:15712] DBG Remove directory: C:\Program Files\Zscaler\ZSAUpm\temp
+2026-05-23 05:38:36.965711(+0530)[4660:15712] ERR Empty ZAD credential string
+2026-05-23 05:38:36.965711(+0530)[4660:15712] DBG No ZAD update info found
+2026-05-23 05:38:36.965711(+0530)[4660:15712] ERR Empty ZDP credential string
+2026-05-23 05:38:36.965711(+0530)[4660:15712] DBG No ZDP update info found
+2026-05-23 05:38:36.965711(+0530)[4660:15712] DBG ZSAServiceBase::cleanUp called
+2026-05-23 05:38:37.067003(+0530)[4660:15712] INF ZEvents::waitForPendingEvents wait completed after timeout. 0 pending events
+2026-05-23 05:38:37.067003(+0530)[4660:15712] INF ZEvents: clearing 0 events from ZEvents queue.
+2026-05-23 05:38:37.067003(+0530)[4660:15712] INF ZEventsTransmitter: Setting quit event.
+2026-05-23 05:38:37.067003(+0530)[4660:12308] ERR ZEventsTransmitter: Error transmitting event: eventData='{"metrics":{"isEcdnDownload":"1","uri":"https://zcc.ecdn.zscaler.com/UPM-windows-4.7.0.48-release-x64.zip"}}'
+2026-05-23 05:38:37.067003(+0530)[4660:12308] INF ZEventsTransmitter: Shut down.
+2026-05-23 05:38:37.067003(+0530)[4660:15712] INF ZEvents setPolicy: ZDX enabled='1', ZCC enabled='1'; collect machine info 0, user info 0
+2026-05-23 05:38:37.067003(+0530)[4660:15712] INF ZEvents setPolicy: feature enabled. Starting...
+2026-05-23 05:38:37.067003(+0530)[4660:15712] INF ZEventsTransmitter: Resetting quit event.
+2026-05-23 05:38:37.067003(+0530)[4660:15712] INF ZEvents setPolicy: success? 1
+2026-05-23 05:38:37.067003(+0530)[4660:15712] INF ZEvents setPolicy: ZDX enabled='0', ZCC enabled='0'; collect machine info 0, user info 0
+2026-05-23 05:38:37.067003(+0530)[4660:15712] INF ZEvents setPolicy: feature disabled. Stopping...
+2026-05-23 05:38:37.067003(+0530)[4660:15712] INF ZEventsTransmitter: Setting quit event.
+2026-05-23 05:38:37.067003(+0530)[4660:6948] INF ZEventsTransmitter: Start up.
+2026-05-23 05:38:37.067003(+0530)[4660:6948] INF ZEventsTransmitter: Shut down.
+2026-05-23 05:38:37.067003(+0530)[4660:15712] INF ZEvents setPolicy: success? 1
+2026-05-23 05:38:37.067003(+0530)[4660:15712] ERR ZEvents lib already initialized
+2026-05-23 05:38:37.067003(+0530)[4660:15712] INF ZEvents set source: 0
+2026-05-23 05:38:37.067003(+0530)[4660:15712] INF Stop event set
+2026-05-23 05:38:37.083228(+0530)[4660:15188] INF Service return code: 0

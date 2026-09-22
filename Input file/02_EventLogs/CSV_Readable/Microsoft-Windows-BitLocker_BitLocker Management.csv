@@ -1,0 +1,563 @@
+﻿"TimeCreated","Id","LevelDisplayName","ProviderName","Message"
+"19-08-2026 13:36:22","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {3249554f-9de3-42a9-ace9-1a5b65496a04}"
+"19-08-2026 13:36:22","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"18-08-2026 14:31:06","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"18-08-2026 14:31:06","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {e888a5de-0220-443e-9954-f58026f23fe1}"
+"18-08-2026 14:31:03","774","Information","Microsoft-Windows-BitLocker-API","BitLocker was resumed for volume C:."
+"18-08-2026 14:31:03","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"18-08-2026 14:31:03","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"18-08-2026 14:31:03","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"18-08-2026 14:20:16","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"18-08-2026 14:20:16","773","Warning","Microsoft-Windows-BitLocker-API","BitLocker was suspended for volume C:."
+"18-08-2026 11:06:06","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"18-08-2026 11:06:06","774","Information","Microsoft-Windows-BitLocker-API","BitLocker was resumed for volume C:."
+"18-08-2026 11:06:06","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"18-08-2026 11:06:05","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"18-08-2026 11:06:05","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"18-08-2026 11:06:05","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {6abe74d5-622f-4b60-aaa6-ad42feaffb67}"
+"18-08-2026 10:47:03","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {10289510-9bc4-4923-90a7-bf78bcf2a8b2}"
+"18-08-2026 10:45:46","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"18-08-2026 10:45:46","773","Warning","Microsoft-Windows-BitLocker-API","BitLocker was suspended for volume C:."
+"18-08-2026 10:29:37","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"18-08-2026 10:29:23","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"17-08-2026 16:01:49","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {efa2a27b-b5da-4e3d-8001-88e97a28337c}"
+"17-08-2026 16:01:49","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"14-08-2026 18:08:57","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {5e016c0a-434f-4742-a823-8a8580d67203}"
+"14-08-2026 18:08:57","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"13-08-2026 15:24:00","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {94ee3196-b7c9-4610-b93b-9bd0f8d3841d}"
+"13-08-2026 15:24:00","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"12-08-2026 11:26:26","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"12-08-2026 11:26:19","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"12-08-2026 11:26:13","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"12-08-2026 11:26:08","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"12-08-2026 10:35:35","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {bf9babcc-070b-407a-8382-ce37ab4bde22}"
+"11-08-2026 12:19:56","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {37ce266b-70a2-4896-ab32-cca9b3e926bf}"
+"11-08-2026 12:19:56","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"10-08-2026 09:55:17","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {650faa76-2275-4375-b0ce-b8a02fb288db}"
+"10-08-2026 09:55:17","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"10-08-2026 09:41:29","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"10-08-2026 09:41:24","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"07-08-2026 15:26:41","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {bfb446e5-2868-4e04-a232-351ab8a191ac}"
+"07-08-2026 15:26:41","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"07-08-2026 10:38:13","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"07-08-2026 10:38:09","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"06-08-2026 09:12:31","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {1a1b234f-a585-4015-8791-faa9051502aa}"
+"06-08-2026 09:12:31","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"05-08-2026 14:27:37","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {2d292cf4-3ada-47bf-a8d5-8263211119cb}"
+"04-08-2026 16:27:01","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {5c4dd313-a984-4110-a429-bb1fae4baddd}"
+"04-08-2026 16:27:01","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"03-08-2026 09:44:13","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {048778d5-c293-4cdd-b45d-bf176b5df4d4}"
+"03-08-2026 09:44:13","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"31-07-2026 09:57:23","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {bee73648-e3ec-4c8f-b909-a1327784f0e9}"
+"31-07-2026 09:57:23","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"31-07-2026 09:45:09","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"31-07-2026 09:45:01","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"30-07-2026 13:07:04","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {3c06ec31-4f82-4c77-8bd2-e4ee217ba7ab}"
+"29-07-2026 15:55:54","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {36686a76-c1ad-4d36-9128-2f844ddecda1}"
+"29-07-2026 15:55:54","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"28-07-2026 10:30:46","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {76543850-c50c-4b2b-a325-c75ffe438c4f}"
+"28-07-2026 10:30:46","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"27-07-2026 09:50:57","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {ceaf8a81-623d-4f3c-9840-d9d4970cf2cd}"
+"27-07-2026 09:50:57","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"27-07-2026 09:42:14","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"27-07-2026 09:42:14","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"27-07-2026 09:42:13","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"27-07-2026 09:42:13","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"27-07-2026 09:42:13","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"27-07-2026 09:42:12","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"27-07-2026 09:42:12","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"27-07-2026 09:42:12","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"27-07-2026 09:42:12","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"27-07-2026 09:42:12","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"27-07-2026 09:35:12","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"27-07-2026 09:35:12","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"27-07-2026 09:35:12","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"27-07-2026 09:35:12","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"27-07-2026 09:35:12","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"27-07-2026 09:35:11","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"27-07-2026 09:35:11","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"27-07-2026 09:35:11","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"27-07-2026 09:35:11","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"27-07-2026 09:35:11","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"27-07-2026 09:35:11","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"27-07-2026 09:35:10","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"27-07-2026 09:35:10","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"27-07-2026 09:35:10","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"27-07-2026 09:35:10","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"27-07-2026 09:34:55","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"27-07-2026 09:34:55","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"27-07-2026 09:34:55","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"27-07-2026 09:34:55","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"27-07-2026 09:34:54","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"27-07-2026 09:34:54","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"27-07-2026 09:34:54","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"27-07-2026 09:34:54","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"27-07-2026 09:34:53","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"27-07-2026 09:34:53","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"24-07-2026 17:14:07","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {5a48e86d-0a11-4792-8296-816bdc615692}"
+"23-07-2026 19:05:07","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {6ceb677d-7cc5-44b4-a208-874429dcf2a9}"
+"23-07-2026 19:05:07","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"22-07-2026 16:20:15","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {e373a06e-9937-4f05-b224-f596c7b50cc0}"
+"22-07-2026 16:20:15","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"21-07-2026 08:58:00","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {04cc2642-e070-41e2-a715-9bdd3c80085b}"
+"20-07-2026 13:23:52","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {45120339-e0c9-4ac6-8749-b9077e1d6732}"
+"20-07-2026 13:23:52","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"15-07-2026 13:27:06","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {c3318937-302f-4e21-8457-315daf5bd2e0}"
+"15-07-2026 13:27:06","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"14-07-2026 12:11:04","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {f5f9928b-33b7-476a-9cae-fa4b77f7f126}"
+"14-07-2026 12:11:04","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"13-07-2026 15:03:06","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {23792809-dc76-4659-8938-0db94041a792}"
+"12-07-2026 18:46:23","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {383db9ea-879c-4941-a665-663b7c9399c8}"
+"12-07-2026 18:46:23","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"11-07-2026 11:36:17","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {b10ac3a1-ab37-472c-9292-e122c4eca372}"
+"11-07-2026 11:36:17","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"10-07-2026 11:33:22","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {30deebb7-de69-4a2d-ba29-8981988ee7df}"
+"10-07-2026 11:33:22","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"09-07-2026 14:17:01","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {267f039e-9162-401e-8bff-affdf6d1436e}"
+"08-07-2026 16:29:20","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {17bd5e44-ae3c-4b13-a6cb-95b11d6e3056}"
+"08-07-2026 16:29:20","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"07-07-2026 09:41:16","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {c89913c5-a33f-48d4-86a5-f45b9f092a29}"
+"06-07-2026 17:21:18","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {e7e1c13d-64ba-4540-81f7-f4be09c1fcc5}"
+"06-07-2026 17:21:18","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"04-07-2026 14:07:23","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {b9456aaa-b99f-4565-9020-5890bccb9f19}"
+"04-07-2026 14:07:23","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"03-07-2026 11:35:10","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {8aaf3520-e094-4552-8fa1-3e8079640920}"
+"03-07-2026 11:35:10","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"02-07-2026 10:17:47","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {21ca76b4-7325-4ce9-bf7f-d27cf095c89d}"
+"02-07-2026 10:17:47","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"01-07-2026 10:24:46","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {1fcbfe36-408d-43da-ac7e-6988939b9931}"
+"30-06-2026 14:45:03","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {2b8ecdf1-9c6a-4e99-922b-e755fc7a4acb}"
+"30-06-2026 14:45:03","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"29-06-2026 10:24:34","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"29-06-2026 10:24:34","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {2bdf2eb2-118d-437d-a4d6-73236a4c641c}"
+"29-06-2026 10:24:32","774","Information","Microsoft-Windows-BitLocker-API","BitLocker was resumed for volume C:."
+"29-06-2026 10:24:32","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"29-06-2026 10:24:31","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"29-06-2026 10:24:31","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"29-06-2026 10:03:05","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"29-06-2026 10:03:05","773","Warning","Microsoft-Windows-BitLocker-API","BitLocker was suspended for volume C:."
+"29-06-2026 09:18:43","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {d54af3d2-f176-450e-b5f5-a74e5277bf72}"
+"29-06-2026 09:18:43","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"26-06-2026 17:46:31","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {7a6b8b3d-f05b-422f-a80c-66fa283cee05}"
+"26-06-2026 17:46:31","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"25-06-2026 10:29:22","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"25-06-2026 10:25:42","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"25-06-2026 09:50:14","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {3e9015e8-7f04-456c-a26c-ca5de336ec39}"
+"24-06-2026 12:30:48","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {37ef1555-974a-49fd-a0eb-e98bc2ccdc18}"
+"24-06-2026 12:30:48","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"23-06-2026 09:17:40","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {e79471a1-c916-412b-ab2a-c7a791e8cc67}"
+"22-06-2026 15:18:32","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {909118c9-94a7-4145-986b-3fd005718ffe}"
+"22-06-2026 15:18:32","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"22-06-2026 10:21:38","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"22-06-2026 10:21:34","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"19-06-2026 09:12:45","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {3a1d576e-6884-439e-b8d8-667d2c654a43}"
+"19-06-2026 09:12:45","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"19-06-2026 09:00:32","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"19-06-2026 09:00:23","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"18-06-2026 09:20:20","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {2988f873-09e4-402d-b6e7-3f3a9629fb10}"
+"17-06-2026 19:16:56","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"17-06-2026 19:16:56","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"17-06-2026 19:16:56","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"17-06-2026 19:16:56","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"17-06-2026 19:16:56","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"17-06-2026 19:16:53","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"17-06-2026 19:16:53","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"17-06-2026 19:16:53","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"17-06-2026 19:16:53","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"17-06-2026 19:16:53","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"17-06-2026 19:14:42","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"17-06-2026 19:14:42","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"17-06-2026 19:14:41","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"17-06-2026 19:14:41","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"17-06-2026 19:14:41","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"17-06-2026 19:14:41","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"17-06-2026 19:14:41","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"17-06-2026 19:14:41","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"17-06-2026 19:14:41","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"17-06-2026 19:14:41","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"17-06-2026 19:14:41","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"17-06-2026 19:14:40","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"17-06-2026 19:14:40","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"17-06-2026 19:14:40","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"17-06-2026 19:14:40","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"17-06-2026 19:13:59","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"17-06-2026 19:13:59","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"17-06-2026 19:13:59","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"17-06-2026 19:13:59","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"17-06-2026 19:13:58","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"17-06-2026 19:13:58","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"17-06-2026 19:13:58","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"17-06-2026 19:13:58","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"17-06-2026 19:13:58","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"17-06-2026 19:13:58","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"17-06-2026 15:21:41","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {6cdfdb8b-e25e-4041-9058-40a8afe59131}"
+"17-06-2026 15:21:41","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"17-06-2026 10:04:23","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"17-06-2026 10:04:23","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"17-06-2026 10:04:23","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"17-06-2026 10:04:23","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"17-06-2026 10:04:23","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"17-06-2026 05:13:57","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"17-06-2026 05:13:57","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"17-06-2026 05:13:56","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"17-06-2026 05:13:56","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"17-06-2026 05:13:56","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"16-06-2026 10:15:41","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {b11e56b4-d0ce-43b9-baa3-b8ec069cbd83}"
+"16-06-2026 10:04:25","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"16-06-2026 10:04:25","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"16-06-2026 10:04:25","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"16-06-2026 10:04:25","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"16-06-2026 10:04:25","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"16-06-2026 09:59:36","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"16-06-2026 09:59:36","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {fe073120-1b6c-4a62-a94a-bf0444632d08}"
+"16-06-2026 09:59:34","774","Information","Microsoft-Windows-BitLocker-API","BitLocker was resumed for volume C:."
+"16-06-2026 09:59:34","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"16-06-2026 09:59:34","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"16-06-2026 09:59:34","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"16-06-2026 09:45:15","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"16-06-2026 09:45:15","773","Warning","Microsoft-Windows-BitLocker-API","BitLocker was suspended for volume C:."
+"15-06-2026 22:18:25","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"15-06-2026 22:18:25","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"15-06-2026 22:18:25","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"15-06-2026 22:18:25","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"15-06-2026 22:18:25","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"15-06-2026 09:59:37","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"15-06-2026 09:59:37","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"15-06-2026 09:59:37","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"15-06-2026 09:59:37","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"15-06-2026 09:59:37","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"15-06-2026 09:15:10","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {f8835c17-b2ea-425c-b366-628379d4cf25}"
+"15-06-2026 09:15:10","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"15-06-2026 08:54:01","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"15-06-2026 08:54:01","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"15-06-2026 08:54:00","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"15-06-2026 08:54:00","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"15-06-2026 08:54:00","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"13-06-2026 01:47:40","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"13-06-2026 01:47:40","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"13-06-2026 01:47:39","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"13-06-2026 01:47:39","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"13-06-2026 01:47:39","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"12-06-2026 10:10:09","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {5233bde5-dfd3-4c43-9f24-9fd8791b219c}"
+"12-06-2026 10:10:09","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"12-06-2026 09:59:37","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"12-06-2026 09:59:37","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"12-06-2026 09:59:36","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"12-06-2026 09:59:36","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"12-06-2026 09:59:36","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"12-06-2026 09:20:20","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"12-06-2026 09:20:20","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"12-06-2026 09:20:20","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"12-06-2026 09:20:20","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"12-06-2026 09:20:20","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"11-06-2026 19:18:55","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"11-06-2026 19:18:55","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"11-06-2026 19:18:54","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"11-06-2026 19:18:54","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"11-06-2026 19:18:54","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"11-06-2026 09:52:30","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {63b6d4d6-bac6-49dd-988d-d077e7919ae4}"
+"11-06-2026 08:49:27","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"11-06-2026 08:49:27","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"11-06-2026 08:49:26","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"11-06-2026 08:49:26","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"11-06-2026 08:49:26","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"10-06-2026 19:18:55","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"10-06-2026 19:18:55","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"10-06-2026 19:18:55","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"10-06-2026 19:18:55","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"10-06-2026 19:18:55","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"10-06-2026 14:12:26","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {e76eb635-5673-4314-b05a-312f900f88d5}"
+"10-06-2026 14:12:26","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"10-06-2026 09:54:12","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"10-06-2026 09:54:12","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"10-06-2026 09:54:11","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"10-06-2026 09:54:11","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"10-06-2026 09:54:11","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"09-06-2026 19:18:54","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"09-06-2026 19:18:54","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"09-06-2026 19:18:54","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"09-06-2026 19:18:54","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"09-06-2026 19:18:54","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."
+"09-06-2026 18:24:17","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"09-06-2026 18:24:15","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"09-06-2026 09:54:32","845","Information","Microsoft-Windows-BitLocker-API","BitLocker Drive Encryption recovery information for volume C: was backed up successfully to your Entra ID.
+Protector GUID: {44922767-a19b-40e8-8934-d6c55a3213ec}.
+TraceId: {ead63691-877b-472c-9501-bda1da3b0347}"
+"09-06-2026 09:45:18","900","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully committed metadata changes for volume C:."
+"09-06-2026 09:45:18","840","Information","Microsoft-Windows-BitLocker-API","A trusted WIM file has been added for volume C:.
+The SHA-256 hash of the WIM file is: 0xC71EF733FF324F35586CC6B069FB1C6D1F6CD34CA42A9166E6AF63F379F09363"
+"09-06-2026 09:45:16","890","Information","Microsoft-Windows-BitLocker-API","BitLocker conducted a TPM binding census."
+"09-06-2026 09:45:16","793","Warning","Microsoft-Windows-BitLocker-API","BitLocker resealed boot settings to the TPM for volume C:."
+"09-06-2026 09:45:16","892","Information","Microsoft-Windows-BitLocker-API","BitLocker successfully sealed a key to the TPM.
+
+PCRs measured include [7,11].
+
+The source for these PCRs was: Secure Boot."

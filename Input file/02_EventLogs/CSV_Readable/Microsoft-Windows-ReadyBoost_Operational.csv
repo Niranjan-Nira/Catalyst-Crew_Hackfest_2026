@@ -1,0 +1,780 @@
+﻿"TimeCreated","Id","LevelDisplayName","ProviderName","Message"
+"18-08-2026 14:31:34","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x023D917B06020000A8D1879E380000000400000000000000
+ ErrorCode: 0x0"
+"18-08-2026 10:49:31","1018","Information","Microsoft-Windows-ReadyBoost","ReadyBoot disk assessment completed in 219 ms.
+     Disk Assessment Timestamp: ‎2026‎-‎08‎-‎18T10:49:30.838735600Z
+     Result: 0x44C"
+"18-08-2026 10:30:19","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 29156 ms.
+     Boot Plan Timestamp: ‎2026‎-‎08‎-‎18T10:29:50.016479300Z
+     Reason: System boot completion
+     Result: 0x0"
+"18-08-2026 10:30:15","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 77363
+     Io Read Bytes: 2214263296
+     Cache Hit Count: 51667
+     Cache Hit Bytes: 1126892544
+     Cache Hit Percentage: 66.7851556945827
+     Boot Prefetch Time (us): 6043508
+     Boot Prefetch Bytes: 1445347328
+     Boot Prefetch Read Count: 37666
+     Flags: 98
+     Sync Prefetch IO Bytes: 649052160
+     Sync Prefetch IO Count: 15932
+     Sync Prefetch Duration (us): 1682338
+     Post Sync Phase Pend Count: 1
+"
+"18-08-2026 10:29:37","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x823B9142DF01000078CE5FE5B60000000400000000000000
+ ErrorCode: 0x0"
+"11-08-2026 16:57:18","1018","Information","Microsoft-Windows-ReadyBoost","ReadyBoot disk assessment completed in 203 ms.
+     Disk Assessment Timestamp: ‎2026‎-‎08‎-‎11T16:57:18.361493200Z
+     Result: 0x44C"
+"11-08-2026 12:03:25","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 2953 ms.
+     Boot Plan Timestamp: ‎2026‎-‎08‎-‎11T12:03:22.780054500Z
+     Reason: System boot completion
+     Result: 0x0"
+"11-08-2026 12:03:24","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 76067
+     Io Read Bytes: 2217891840
+     Cache Hit Count: 32815
+     Cache Hit Bytes: 698926592
+     Cache Hit Percentage: 43.1396006152471
+     Boot Prefetch Time (us): 5151817
+     Boot Prefetch Bytes: 1434030080
+     Boot Prefetch Read Count: 41002
+     Flags: 98
+     Sync Prefetch IO Bytes: 638533632
+     Sync Prefetch IO Count: 16009
+     Sync Prefetch Duration (us): 1217936
+     Post Sync Phase Pend Count: 2
+"
+"11-08-2026 12:03:12","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x2239905F84020000C8CDE7D9BC0000000400000000000000
+ ErrorCode: 0x0"
+"10-08-2026 10:21:24","1018","Information","Microsoft-Windows-ReadyBoost","ReadyBoot disk assessment completed in 297 ms.
+     Disk Assessment Timestamp: ‎2026‎-‎08‎-‎10T10:21:24.397832100Z
+     Result: 0x44C"
+"10-08-2026 09:37:07","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 13688 ms.
+     Boot Plan Timestamp: ‎2026‎-‎08‎-‎10T09:36:54.217636000Z
+     Reason: System boot completion
+     Result: 0x0"
+"10-08-2026 09:37:06","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 92450
+     Io Read Bytes: 1851860992
+     Cache Hit Count: 39526
+     Cache Hit Bytes: 834914304
+     Cache Hit Percentage: 42.7539210383991
+     Boot Prefetch Time (us): 6477194
+     Boot Prefetch Bytes: 1463865344
+     Boot Prefetch Read Count: 41060
+     Flags: 98
+     Sync Prefetch IO Bytes: 652931072
+     Sync Prefetch IO Count: 16229
+     Sync Prefetch Duration (us): 1634902
+     Post Sync Phase Pend Count: 0
+"
+"10-08-2026 09:36:43","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x223990C92601000078D1B732080000000400000000000000
+ ErrorCode: 0x0"
+"03-08-2026 09:38:41","1018","Information","Microsoft-Windows-ReadyBoost","ReadyBoot disk assessment completed in 296 ms.
+     Disk Assessment Timestamp: ‎2026‎-‎08‎-‎03T09:38:41.451549400Z
+     Result: 0x44C"
+"03-08-2026 09:27:45","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 49984 ms.
+     Boot Plan Timestamp: ‎2026‎-‎08‎-‎03T09:26:55.634647500Z
+     Reason: System boot completion
+     Result: 0x0"
+"03-08-2026 09:27:43","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 74697
+     Io Read Bytes: 2010198016
+     Cache Hit Count: 43674
+     Cache Hit Bytes: 908545536
+     Cache Hit Percentage: 58.468211574762
+     Boot Prefetch Time (us): 5867105
+     Boot Prefetch Bytes: 1536770048
+     Boot Prefetch Read Count: 42820
+     Flags: 98
+     Sync Prefetch IO Bytes: 654204928
+     Sync Prefetch IO Count: 15780
+     Sync Prefetch Duration (us): 1540024
+     Post Sync Phase Pend Count: 2
+"
+"03-08-2026 09:26:45","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x023C918709020000F8CDAF07F80000000400000000000000
+ ErrorCode: 0x0"
+"31-07-2026 10:02:09","1018","Information","Microsoft-Windows-ReadyBoost","ReadyBoot disk assessment completed in 2703 ms.
+     Disk Assessment Timestamp: ‎2026‎-‎07‎-‎31T10:02:07.213870800Z
+     Result: 0x44C"
+"31-07-2026 09:46:16","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 60969 ms.
+     Boot Plan Timestamp: ‎2026‎-‎07‎-‎31T09:45:15.613077500Z
+     Reason: System boot completion
+     Result: 0x0"
+"31-07-2026 09:46:14","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 73306
+     Io Read Bytes: 2166215168
+     Cache Hit Count: 48281
+     Cache Hit Bytes: 1072740352
+     Cache Hit Percentage: 65.8622759392137
+     Boot Prefetch Time (us): 6483130
+     Boot Prefetch Bytes: 1916588032
+     Boot Prefetch Read Count: 48222
+     Flags: 98
+     Sync Prefetch IO Bytes: 669921280
+     Sync Prefetch IO Count: 15945
+     Sync Prefetch Duration (us): 1785082
+     Post Sync Phase Pend Count: 0
+"
+"31-07-2026 09:45:04","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x223990C348020000E8CE4FE47C0000000400000000000000
+ ErrorCode: 0x0"
+"27-07-2026 11:49:58","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x423C91D50802000048CE67B4DE0000000400000000000000
+ ErrorCode: 0x0"
+"27-07-2026 10:03:45","1018","Information","Microsoft-Windows-ReadyBoost","ReadyBoot disk assessment completed in 234 ms.
+     Disk Assessment Timestamp: ‎2026‎-‎07‎-‎27T10:03:45.423353400Z
+     Result: 0x44C"
+"27-07-2026 09:38:04","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 3218 ms.
+     Boot Plan Timestamp: ‎2026‎-‎07‎-‎27T09:38:00.944789500Z
+     Reason: System boot completion
+     Result: 0x0"
+"27-07-2026 09:38:02","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 77357
+     Io Read Bytes: 2521010176
+     Cache Hit Count: 58887
+     Cache Hit Bytes: 1603245056
+     Cache Hit Percentage: 76.1236862856626
+     Boot Prefetch Time (us): 6713914
+     Boot Prefetch Bytes: 2058698752
+     Boot Prefetch Read Count: 49359
+     Flags: 98
+     Sync Prefetch IO Bytes: 671027200
+     Sync Prefetch IO Count: 16189
+     Sync Prefetch Duration (us): 1620083
+     Post Sync Phase Pend Count: 2
+"
+"27-07-2026 09:37:50","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x2239900E8D02000018D1CF44DF0000000400000000000000
+ ErrorCode: 0x0"
+"27-07-2026 09:35:32","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 4641 ms.
+     Boot Plan Timestamp: ‎2026‎-‎07‎-‎27T09:35:27.735140700Z
+     Reason: System boot completion
+     Result: 0x0"
+"27-07-2026 09:35:30","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 76717
+     Io Read Bytes: 2943965696
+     Cache Hit Count: 34457
+     Cache Hit Bytes: 668021248
+     Cache Hit Percentage: 44.9144257465751
+     Boot Prefetch Time (us): 8538683
+     Boot Prefetch Bytes: 1871978496
+     Boot Prefetch Read Count: 47272
+     Flags: 98
+     Sync Prefetch IO Bytes: 668835840
+     Sync Prefetch IO Count: 16185
+     Sync Prefetch Duration (us): 1761593
+     Post Sync Phase Pend Count: 5
+"
+"27-07-2026 09:35:17","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x223990FB5D02000028D267DCC60000000400000000000000
+ ErrorCode: 0x0"
+"21-07-2026 08:57:52","1018","Information","Microsoft-Windows-ReadyBoost","ReadyBoot disk assessment completed in 312 ms.
+     Disk Assessment Timestamp: ‎2026‎-‎07‎-‎21T08:57:52.444297600Z
+     Result: 0x44C"
+"21-07-2026 08:46:14","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 59875 ms.
+     Boot Plan Timestamp: ‎2026‎-‎07‎-‎21T08:45:14.660841400Z
+     Reason: System boot completion
+     Result: 0x0"
+"21-07-2026 08:46:12","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 77616
+     Io Read Bytes: 2548775424
+     Cache Hit Count: 64706
+     Cache Hit Bytes: 1559141376
+     Cache Hit Percentage: 83.3668315811173
+     Boot Prefetch Time (us): 7226944
+     Boot Prefetch Bytes: 1874751488
+     Boot Prefetch Read Count: 47376
+     Flags: 98
+     Sync Prefetch IO Bytes: 670007296
+     Sync Prefetch IO Count: 15956
+     Sync Prefetch Duration (us): 1590608
+     Post Sync Phase Pend Count: 1
+"
+"21-07-2026 08:44:59","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x823191732E020000F8D047F18E0000000400000000000000
+ ErrorCode: 0x0"
+"12-07-2026 18:32:37","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x423391EB8D02000088D00713DD0000000400000000000000
+ ErrorCode: 0x0"
+"07-07-2026 11:59:43","1018","Information","Microsoft-Windows-ReadyBoost","ReadyBoot disk assessment completed in 203 ms.
+     Disk Assessment Timestamp: ‎2026‎-‎07‎-‎07T11:59:43.026562900Z
+     Result: 0x44C"
+"07-07-2026 09:29:41","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 29547 ms.
+     Boot Plan Timestamp: ‎2026‎-‎07‎-‎07T09:29:11.826340700Z
+     Reason: System boot completion
+     Result: 0x0"
+"07-07-2026 09:29:38","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 78137
+     Io Read Bytes: 2579659776
+     Cache Hit Count: 43251
+     Cache Hit Bytes: 1172281856
+     Cache Hit Percentage: 55.3527778133279
+     Boot Prefetch Time (us): 6769932
+     Boot Prefetch Bytes: 1904529408
+     Boot Prefetch Read Count: 50478
+     Flags: 98
+     Sync Prefetch IO Bytes: 671072256
+     Sync Prefetch IO Count: 16852
+     Sync Prefetch Duration (us): 1571113
+     Post Sync Phase Pend Count: 5
+"
+"07-07-2026 09:29:01","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x02699163B0010000F8D19760890000000400000000000000
+ ErrorCode: 0x0"
+"06-07-2026 09:34:01","1018","Information","Microsoft-Windows-ReadyBoost","ReadyBoot disk assessment completed in 188 ms.
+     Disk Assessment Timestamp: ‎2026‎-‎07‎-‎06T09:34:00.947120400Z
+     Result: 0x44C"
+"04-07-2026 14:14:24","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 43438 ms.
+     Boot Plan Timestamp: ‎2026‎-‎07‎-‎04T14:13:41.068268400Z
+     Reason: System boot completion
+     Result: 0x0"
+"04-07-2026 14:14:19","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 76587
+     Io Read Bytes: 2245114368
+     Cache Hit Count: 59982
+     Cache Hit Bytes: 1546152960
+     Cache Hit Percentage: 78.3187747267813
+     Boot Prefetch Time (us): 6796447
+     Boot Prefetch Bytes: 1799761920
+     Boot Prefetch Read Count: 46429
+     Flags: 98
+     Sync Prefetch IO Bytes: 633384960
+     Sync Prefetch IO Count: 15084
+     Sync Prefetch Duration (us): 1384879
+     Post Sync Phase Pend Count: 0
+"
+"04-07-2026 14:13:21","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x426A915323020000E8D2E7DE9A0000000400000000000000
+ ErrorCode: 0x0"
+"03-07-2026 16:29:11","1018","Information","Microsoft-Windows-ReadyBoost","ReadyBoot disk assessment completed in 203 ms.
+     Disk Assessment Timestamp: ‎2026‎-‎07‎-‎03T16:29:11.384420900Z
+     Result: 0x44C"
+"03-07-2026 11:21:15","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 1485 ms.
+     Boot Plan Timestamp: ‎2026‎-‎07‎-‎03T11:21:14.169366700Z
+     Reason: System boot completion
+     Result: 0x0"
+"03-07-2026 11:21:15","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 73459
+     Io Read Bytes: 1969782784
+     Cache Hit Count: 59231
+     Cache Hit Bytes: 1491850752
+     Cache Hit Percentage: 80.6313726024041
+     Boot Prefetch Time (us): 7935810
+     Boot Prefetch Bytes: 1840922624
+     Boot Prefetch Read Count: 47355
+     Flags: 98
+     Sync Prefetch IO Bytes: 652206080
+     Sync Prefetch IO Count: 15637
+     Sync Prefetch Duration (us): 1523539
+     Post Sync Phase Pend Count: 0
+"
+"03-07-2026 11:21:03","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x223990465702000018CDDF54DD0000000400000000000000
+ ErrorCode: 0x0"
+"01-07-2026 11:55:21","1018","Information","Microsoft-Windows-ReadyBoost","ReadyBoot disk assessment completed in 204 ms.
+     Disk Assessment Timestamp: ‎2026‎-‎07‎-‎01T11:55:21.340929400Z
+     Result: 0x44C"
+"01-07-2026 10:09:10","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 2812 ms.
+     Boot Plan Timestamp: ‎2026‎-‎07‎-‎01T10:09:07.456295300Z
+     Reason: System boot completion
+     Result: 0x0"
+"01-07-2026 10:09:09","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 79117
+     Io Read Bytes: 2514127360
+     Cache Hit Count: 71423
+     Cache Hit Bytes: 1965151744
+     Cache Hit Percentage: 90.2751621016975
+     Boot Prefetch Time (us): 6908578
+     Boot Prefetch Bytes: 1842941952
+     Boot Prefetch Read Count: 46631
+     Flags: 98
+     Sync Prefetch IO Bytes: 671084544
+     Sync Prefetch IO Count: 16261
+     Sync Prefetch Duration (us): 1558345
+     Post Sync Phase Pend Count: 0
+"
+"01-07-2026 10:08:57","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x223990D330010000F8D1B7290B0000000400000000000000
+ ErrorCode: 0x0"
+"29-06-2026 11:18:08","1018","Information","Microsoft-Windows-ReadyBoost","ReadyBoot disk assessment completed in 188 ms.
+     Disk Assessment Timestamp: ‎2026‎-‎06‎-‎29T11:18:07.954340500Z
+     Result: 0x44C"
+"29-06-2026 10:25:17","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 7656 ms.
+     Boot Plan Timestamp: ‎2026‎-‎06‎-‎29T10:25:09.888714100Z
+     Reason: System boot completion
+     Result: 0x0"
+"29-06-2026 10:25:16","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 78150
+     Io Read Bytes: 2445484544
+     Cache Hit Count: 68950
+     Cache Hit Bytes: 1820439552
+     Cache Hit Percentage: 88.2277671145233
+     Boot Prefetch Time (us): 7103536
+     Boot Prefetch Bytes: 1760194560
+     Boot Prefetch Read Count: 44593
+     Flags: 98
+     Sync Prefetch IO Bytes: 671105024
+     Sync Prefetch IO Count: 16141
+     Sync Prefetch Duration (us): 1690306
+     Post Sync Phase Pend Count: 0
+"
+"29-06-2026 10:24:59","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x826B918B23020000E8CD27CFE80000000400000000000000
+ ErrorCode: 0x0"
+"29-06-2026 09:22:41","1018","Information","Microsoft-Windows-ReadyBoost","ReadyBoot disk assessment completed in 188 ms.
+     Disk Assessment Timestamp: ‎2026‎-‎06‎-‎29T09:22:40.986080900Z
+     Result: 0x44C"
+"29-06-2026 09:03:44","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 24188 ms.
+     Boot Plan Timestamp: ‎2026‎-‎06‎-‎29T09:03:20.362596200Z
+     Reason: System boot completion
+     Result: 0x0"
+"29-06-2026 09:03:42","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 81195
+     Io Read Bytes: 2565320704
+     Cache Hit Count: 65840
+     Cache Hit Bytes: 1732762112
+     Cache Hit Percentage: 81.088736991194
+     Boot Prefetch Time (us): 7169201
+     Boot Prefetch Bytes: 1724620800
+     Boot Prefetch Read Count: 43916
+     Flags: 98
+     Sync Prefetch IO Bytes: 653275136
+     Sync Prefetch IO Count: 15950
+     Sync Prefetch Duration (us): 1695376
+     Post Sync Phase Pend Count: 0
+"
+"29-06-2026 09:03:09","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x426E91C2A4010000E8CE972D2C0000000400000000000000
+ ErrorCode: 0x0"
+"25-06-2026 10:27:00","1018","Information","Microsoft-Windows-ReadyBoost","ReadyBoot disk assessment completed in 188 ms.
+     Disk Assessment Timestamp: ‎2026‎-‎06‎-‎25T10:27:00.040118600Z
+     Result: 0x44C"
+"25-06-2026 09:36:53","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 2000 ms.
+     Boot Plan Timestamp: ‎2026‎-‎06‎-‎25T09:36:51.255928400Z
+     Reason: System boot completion
+     Result: 0x0"
+"25-06-2026 09:36:52","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 74415
+     Io Read Bytes: 2139879936
+     Cache Hit Count: 58174
+     Cache Hit Bytes: 1567697920
+     Cache Hit Percentage: 78.175099106363
+     Boot Prefetch Time (us): 7380310
+     Boot Prefetch Bytes: 1822695424
+     Boot Prefetch Read Count: 45657
+     Flags: 98
+     Sync Prefetch IO Bytes: 653262848
+     Sync Prefetch IO Count: 15997
+     Sync Prefetch Duration (us): 1600554
+     Post Sync Phase Pend Count: 2
+"
+"25-06-2026 09:36:40","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x2239907674010000F8CFCFBD690000000400000000000000
+ ErrorCode: 0x0"
+"18-06-2026 09:17:53","1018","Information","Microsoft-Windows-ReadyBoost","ReadyBoot disk assessment completed in 219 ms.
+     Disk Assessment Timestamp: ‎2026‎-‎06‎-‎18T09:17:52.927596200Z
+     Result: 0x44C"
+"18-06-2026 09:07:22","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 57000 ms.
+     Boot Plan Timestamp: ‎2026‎-‎06‎-‎18T09:06:25.822084400Z
+     Reason: System boot completion
+     Result: 0x0"
+"18-06-2026 09:07:20","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 73464
+     Io Read Bytes: 2394630656
+     Cache Hit Count: 69374
+     Cache Hit Bytes: 1903946752
+     Cache Hit Percentage: 94.432647283023
+     Boot Prefetch Time (us): 6839636
+     Boot Prefetch Bytes: 1907396608
+     Boot Prefetch Read Count: 47925
+     Flags: 98
+     Sync Prefetch IO Bytes: 671113216
+     Sync Prefetch IO Count: 15924
+     Sync Prefetch Duration (us): 1524687
+     Post Sync Phase Pend Count: 0
+"
+"18-06-2026 09:06:15","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x2239908B80020000A8D087C0A30000000400000000000000
+ ErrorCode: 0x0"
+"17-06-2026 19:19:02","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 2032 ms.
+     Boot Plan Timestamp: ‎2026‎-‎06‎-‎17T19:19:00.763812500Z
+     Reason: System boot completion
+     Result: 0x0"
+"17-06-2026 19:19:02","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 73482
+     Io Read Bytes: 2360601088
+     Cache Hit Count: 62711
+     Cache Hit Bytes: 1721275392
+     Cache Hit Percentage: 85.341988514194
+     Boot Prefetch Time (us): 6337707
+     Boot Prefetch Bytes: 1801822208
+     Boot Prefetch Read Count: 45372
+     Flags: 98
+     Sync Prefetch IO Bytes: 621830144
+     Sync Prefetch IO Count: 15315
+     Sync Prefetch Duration (us): 1268223
+     Post Sync Phase Pend Count: 0
+"
+"17-06-2026 19:18:50","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x22399092F701000088CFFFA6740000000400000000000000
+ ErrorCode: 0x0"
+"17-06-2026 19:17:36","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 2360 ms.
+     Boot Plan Timestamp: ‎2026‎-‎06‎-‎17T19:17:33.814880500Z
+     Reason: System boot completion
+     Result: 0x0"
+"17-06-2026 19:17:35","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 73143
+     Io Read Bytes: 2411685376
+     Cache Hit Count: 61060
+     Cache Hit Bytes: 1659456512
+     Cache Hit Percentage: 83.4803057025279
+     Boot Prefetch Time (us): 6129645
+     Boot Prefetch Bytes: 1752428544
+     Boot Prefetch Read Count: 44065
+     Flags: 98
+     Sync Prefetch IO Bytes: 572559360
+     Sync Prefetch IO Count: 14592
+     Sync Prefetch Duration (us): 1336406
+     Post Sync Phase Pend Count: 2
+"
+"17-06-2026 19:17:23","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x223990AE8502000028CD57EAFE0000000400000000000000
+ ErrorCode: 0x0"
+"17-06-2026 19:14:29","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 2984 ms.
+     Boot Plan Timestamp: ‎2026‎-‎06‎-‎17T19:14:26.778295000Z
+     Reason: System boot completion
+     Result: 0x0"
+"17-06-2026 19:14:28","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 79924
+     Io Read Bytes: 2858615808
+     Cache Hit Count: 39640
+     Cache Hit Bytes: 1091619840
+     Cache Hit Percentage: 49.5971172613983
+     Boot Prefetch Time (us): 7772874
+     Boot Prefetch Bytes: 1802944512
+     Boot Prefetch Read Count: 44336
+     Flags: 98
+     Sync Prefetch IO Bytes: 565088256
+     Sync Prefetch IO Count: 14337
+     Sync Prefetch Duration (us): 1120877
+     Post Sync Phase Pend Count: 33
+"
+"17-06-2026 19:14:16","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x223990D87F01000088D127CF1C0000000400000000000000
+ ErrorCode: 0x0"
+"16-06-2026 16:24:13","1018","Information","Microsoft-Windows-ReadyBoost","ReadyBoot disk assessment completed in 203 ms.
+     Disk Assessment Timestamp: ‎2026‎-‎06‎-‎16T16:24:13.602007700Z
+     Result: 0x44C"
+"16-06-2026 10:00:15","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 2406 ms.
+     Boot Plan Timestamp: ‎2026‎-‎06‎-‎16T10:00:13.291003100Z
+     Reason: System boot completion
+     Result: 0x0"
+"16-06-2026 10:00:14","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 81037
+     Io Read Bytes: 2787187712
+     Cache Hit Count: 61373
+     Cache Hit Bytes: 1604827136
+     Cache Hit Percentage: 75.7345410121303
+     Boot Prefetch Time (us): 5959146
+     Boot Prefetch Bytes: 1685032960
+     Boot Prefetch Read Count: 41725
+     Flags: 98
+     Sync Prefetch IO Bytes: 447688704
+     Sync Prefetch IO Count: 10921
+     Sync Prefetch Duration (us): 1386120
+     Post Sync Phase Pend Count: 2
+"
+"16-06-2026 10:00:02","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0xC26591B6FF010000A8D087A4310000000400000000000000
+ ErrorCode: 0x0"
+"12-06-2026 10:54:16","1018","Information","Microsoft-Windows-ReadyBoost","ReadyBoot disk assessment completed in 219 ms.
+     Disk Assessment Timestamp: ‎2026‎-‎06‎-‎12T10:54:16.644948000Z
+     Result: 0x44C"
+"12-06-2026 09:55:30","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 3906 ms.
+     Boot Plan Timestamp: ‎2026‎-‎06‎-‎12T09:55:26.085419300Z
+     Reason: System boot completion
+     Result: 0x0"
+"12-06-2026 09:55:28","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 77003
+     Io Read Bytes: 2491060736
+     Cache Hit Count: 63099
+     Cache Hit Bytes: 1584560640
+     Cache Hit Percentage: 81.9435606404945
+     Boot Prefetch Time (us): 5825379
+     Boot Prefetch Bytes: 1700491264
+     Boot Prefetch Read Count: 41495
+     Flags: 98
+     Sync Prefetch IO Bytes: 448757760
+     Sync Prefetch IO Count: 10905
+     Sync Prefetch Duration (us): 1369897
+     Post Sync Phase Pend Count: 8
+"
+"12-06-2026 09:55:14","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x026791C87B020000A8CDF767E80000000400000000000000
+ ErrorCode: 0x0"
+"09-06-2026 10:27:48","1018","Information","Microsoft-Windows-ReadyBoost","ReadyBoot disk assessment completed in 234 ms.
+     Disk Assessment Timestamp: ‎2026‎-‎06‎-‎09T10:27:48.639027200Z
+     Result: 0x44C"
+"08-06-2026 19:14:51","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 7250 ms.
+     Boot Plan Timestamp: ‎2026‎-‎06‎-‎08T19:14:43.976428100Z
+     Reason: System boot completion
+     Result: 0x0"
+"08-06-2026 19:14:48","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 74963
+     Io Read Bytes: 2367832064
+     Cache Hit Count: 65859
+     Cache Hit Bytes: 1690631168
+     Cache Hit Percentage: 87.8553419687046
+     Boot Prefetch Time (us): 5539907
+     Boot Prefetch Bytes: 1707204608
+     Boot Prefetch Read Count: 41522
+     Flags: 98
+     Sync Prefetch IO Bytes: 466550784
+     Sync Prefetch IO Count: 11284
+     Sync Prefetch Duration (us): 1263238
+     Post Sync Phase Pend Count: 0
+"
+"08-06-2026 19:14:32","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x026791788B010000E8CE27FC4A0000000400000000000000
+ ErrorCode: 0x0"
+"08-06-2026 09:59:13","1018","Information","Microsoft-Windows-ReadyBoost","ReadyBoot disk assessment completed in 187 ms.
+     Disk Assessment Timestamp: ‎2026‎-‎06‎-‎08T09:59:13.680827800Z
+     Result: 0x44C"
+"08-06-2026 09:41:00","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 2156 ms.
+     Boot Plan Timestamp: ‎2026‎-‎06‎-‎08T09:40:58.581085400Z
+     Reason: System boot completion
+     Result: 0x0"
+"08-06-2026 09:40:59","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 71898
+     Io Read Bytes: 2286618112
+     Cache Hit Count: 66046
+     Cache Hit Bytes: 1735125504
+     Cache Hit Percentage: 91.8606915352305
+     Boot Prefetch Time (us): 6594428
+     Boot Prefetch Bytes: 2000936960
+     Boot Prefetch Read Count: 47480
+     Flags: 98
+     Sync Prefetch IO Bytes: 466624512
+     Sync Prefetch IO Count: 11326
+     Sync Prefetch Duration (us): 1144390
+     Post Sync Phase Pend Count: 4
+"
+"08-06-2026 09:40:47","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x026591A544020000D8D227908B0000000400000000000000
+ ErrorCode: 0x0"
+"03-06-2026 11:30:51","1018","Information","Microsoft-Windows-ReadyBoost","ReadyBoot disk assessment completed in 187 ms.
+     Disk Assessment Timestamp: ‎2026‎-‎06‎-‎03T11:30:51.140257200Z
+     Result: 0x44C"
+"03-06-2026 10:14:57","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 1640 ms.
+     Boot Plan Timestamp: ‎2026‎-‎06‎-‎03T10:14:55.507226600Z
+     Reason: System boot completion
+     Result: 0x0"
+"03-06-2026 10:14:56","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 69338
+     Io Read Bytes: 2226113024
+     Cache Hit Count: 66305
+     Cache Hit Bytes: 1731833856
+     Cache Hit Percentage: 95.6257751882085
+     Boot Prefetch Time (us): 6192559
+     Boot Prefetch Bytes: 2012766208
+     Boot Prefetch Read Count: 47689
+     Flags: 98
+     Sync Prefetch IO Bytes: 467570688
+     Sync Prefetch IO Count: 11469
+     Sync Prefetch Duration (us): 1146987
+     Post Sync Phase Pend Count: 1
+"
+"03-06-2026 10:14:44","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x223990DECB01000078D28F13480000000400000000000000
+ ErrorCode: 0x0"
+"03-06-2026 00:14:31","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 7093 ms.
+     Boot Plan Timestamp: ‎2026‎-‎06‎-‎03T00:14:23.912528400Z
+     Reason: System boot completion
+     Result: 0x0"
+"03-06-2026 00:14:29","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 78637
+     Io Read Bytes: 2613668864
+     Cache Hit Count: 49307
+     Cache Hit Bytes: 1169472512
+     Cache Hit Percentage: 62.7020359372814
+     Boot Prefetch Time (us): 4628423
+     Boot Prefetch Bytes: 1494904832
+     Boot Prefetch Read Count: 35294
+     Flags: 98
+     Sync Prefetch IO Bytes: 334479360
+     Sync Prefetch IO Count: 8306
+     Sync Prefetch Duration (us): 948789
+     Post Sync Phase Pend Count: 1
+"
+"03-06-2026 00:14:12","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x026491F3BA020000C8CC9F9FFE0000000400000000000000
+ ErrorCode: 0x0"
+"02-06-2026 10:31:24","1018","Information","Microsoft-Windows-ReadyBoost","ReadyBoot disk assessment completed in 187 ms.
+     Disk Assessment Timestamp: ‎2026‎-‎06‎-‎02T10:31:24.481924800Z
+     Result: 0x44C"
+"02-06-2026 10:15:06","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 4875 ms.
+     Boot Plan Timestamp: ‎2026‎-‎06‎-‎02T10:15:01.578119300Z
+     Reason: System boot completion
+     Result: 0x0"
+"02-06-2026 10:15:04","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 75799
+     Io Read Bytes: 2410249216
+     Cache Hit Count: 15657
+     Cache Hit Bytes: 300497920
+     Cache Hit Percentage: 20.6559453290941
+     Boot Prefetch Time (us): 4275057
+     Boot Prefetch Bytes: 1412292608
+     Boot Prefetch Read Count: 34838
+     Flags: 98
+     Sync Prefetch IO Bytes: 253218816
+     Sync Prefetch IO Count: 6342
+     Sync Prefetch Duration (us): 691907
+     Post Sync Phase Pend Count: 10
+"
+"02-06-2026 10:14:50","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x02659176EC01000038D08797510000000400000000000000
+ ErrorCode: 0x0"
+"01-06-2026 09:38:59","1018","Information","Microsoft-Windows-ReadyBoost","ReadyBoot disk assessment completed in 203 ms.
+     Disk Assessment Timestamp: ‎2026‎-‎06‎-‎01T09:38:59.667976300Z
+     Result: 0x44C"
+"01-06-2026 09:20:20","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 5031 ms.
+     Boot Plan Timestamp: ‎2026‎-‎06‎-‎01T09:20:15.501466400Z
+     Reason: System boot completion
+     Result: 0x0"
+"01-06-2026 09:20:19","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 83676
+     Io Read Bytes: 2795921408
+     Cache Hit Count: 35621
+     Cache Hit Bytes: 862789632
+     Cache Hit Percentage: 42.5701515368803
+     Boot Prefetch Time (us): 3918758
+     Boot Prefetch Bytes: 1003995136
+     Boot Prefetch Read Count: 25992
+     Flags: 98
+     Sync Prefetch IO Bytes: 133632000
+     Sync Prefetch IO Count: 3469
+     Sync Prefetch Duration (us): 735379
+     Post Sync Phase Pend Count: 0
+"
+"01-06-2026 09:20:04","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x223990916C010000F8CE574C020000000400000000000000
+ ErrorCode: 0x0"
+"28-05-2026 10:20:17","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x4266915B1901000068CE5791140000000400000000000000
+ ErrorCode: 0x0"
+"25-05-2026 09:29:05","1018","Information","Microsoft-Windows-ReadyBoost","ReadyBoot disk assessment completed in 203 ms.
+     Disk Assessment Timestamp: ‎2026‎-‎05‎-‎25T09:29:05.171754000Z
+     Result: 0x44C"
+"25-05-2026 09:01:00","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 7500 ms.
+     Boot Plan Timestamp: ‎2026‎-‎05‎-‎25T09:00:52.691183900Z
+     Reason: System boot completion
+     Result: 0x0"
+"25-05-2026 09:00:59","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 87281
+     Io Read Bytes: 2637266944
+     Cache Hit Count: 42158
+     Cache Hit Bytes: 963364352
+     Cache Hit Percentage: 48.3014630904779
+     Boot Prefetch Time (us): 3886619
+     Boot Prefetch Bytes: 1151320064
+     Boot Prefetch Read Count: 29855
+     Flags: 102
+     Sync Prefetch IO Bytes: 0
+     Sync Prefetch IO Count: 0
+     Sync Prefetch Duration (us): 1
+     Post Sync Phase Pend Count: 387
+"
+"25-05-2026 09:00:41","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x826391DAA102000068CCCF68E70000000400000000000000
+ ErrorCode: 0x0"
+"23-05-2026 21:49:31","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 7797 ms.
+     Boot Plan Timestamp: ‎2026‎-‎05‎-‎23T21:49:23.478231400Z
+     Reason: System boot completion
+     Result: 0x0"
+"23-05-2026 21:49:30","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 60865
+     Io Read Bytes: 2018514432
+     Cache Hit Count: 30232
+     Cache Hit Bytes: 677123072
+     Cache Hit Percentage: 49.6705824365399
+     Boot Prefetch Time (us): 3286160
+     Boot Prefetch Bytes: 969846784
+     Boot Prefetch Read Count: 25866
+     Flags: 102
+     Sync Prefetch IO Bytes: 0
+     Sync Prefetch IO Count: 0
+     Sync Prefetch Duration (us): 0
+     Post Sync Phase Pend Count: 330
+"
+"23-05-2026 21:49:12","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x223990960502000018CCAFAFBD0000000400000000000000
+ ErrorCode: 0x0"
+"23-05-2026 11:18:53","1018","Information","Microsoft-Windows-ReadyBoost","ReadyBoot disk assessment completed in 203 ms.
+     Disk Assessment Timestamp: ‎2026‎-‎05‎-‎23T11:18:53.656196100Z
+     Result: 0x44C"
+"23-05-2026 11:02:32","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 5875 ms.
+     Boot Plan Timestamp: ‎2026‎-‎05‎-‎23T11:02:27.034377500Z
+     Reason: System boot completion
+     Result: 0x0"
+"23-05-2026 11:02:32","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 60062
+     Io Read Bytes: 1542532608
+     Cache Hit Count: 42956
+     Cache Hit Bytes: 956530176
+     Cache Hit Percentage: 71.5194299224135
+     Boot Prefetch Time (us): 4833327
+     Boot Prefetch Bytes: 2117902336
+     Boot Prefetch Read Count: 47272
+     Flags: 102
+     Sync Prefetch IO Bytes: 0
+     Sync Prefetch IO Count: 0
+     Sync Prefetch Duration (us): 1
+     Post Sync Phase Pend Count: 11
+"
+"23-05-2026 11:02:15","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x023090F0FB01000018CC87270D0000000400000000000000
+ ErrorCode: 0x0"
+"23-05-2026 10:52:49","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 4031 ms.
+     Boot Plan Timestamp: ‎2026‎-‎05‎-‎22T22:22:45.366556700Z
+     Reason: System boot completion
+     Result: 0x0"
+"23-05-2026 10:52:49","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 44660
+     Io Read Bytes: 1192830976
+     Cache Hit Count: 32845
+     Cache Hit Bytes: 739728384
+     Cache Hit Percentage: 73.5445588893865
+     Boot Prefetch Time (us): 4188718
+     Boot Prefetch Bytes: 1837133824
+     Boot Prefetch Read Count: 40532
+     Flags: 102
+     Sync Prefetch IO Bytes: 0
+     Sync Prefetch IO Count: 0
+     Sync Prefetch Duration (us): 0
+     Post Sync Phase Pend Count: 0
+"
+"23-05-2026 10:52:34","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x023090F8B701000068CCCF0B780000000400000000000000
+ ErrorCode: 0x0"
+"23-05-2026 23:09:27","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 1047 ms.
+     Boot Plan Timestamp: ‎2026‎-‎05‎-‎23T10:39:26.587338400Z
+     Reason: System boot completion
+     Result: 0x0"
+"23-05-2026 23:09:27","1015","Information","Microsoft-Windows-ReadyBoost","Summary of ReadyBoot Performance:
+     Io Read Count: 59290
+     Io Read Bytes: 2328089088
+     Cache Hit Count: 0
+     Cache Hit Bytes: 0
+     Cache Hit Percentage: 0
+     Boot Prefetch Time (us): 0
+     Boot Prefetch Bytes: 0
+     Boot Prefetch Read Count: 0
+     Flags: 38
+     Sync Prefetch IO Bytes: 0
+     Sync Prefetch IO Count: 0
+     Sync Prefetch Duration (us): 0
+     Post Sync Phase Pend Count: 0
+"
+"23-05-2026 23:09:15","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x023890E6B4020000A8CF9768E50000000400000000000000
+ ErrorCode: 0x0"
+"23-05-2026 23:06:40","1016","Information","Microsoft-Windows-ReadyBoost","Boot plan calculation completed in 109 ms.
+     Boot Plan Timestamp: ‎2026‎-‎05‎-‎23T10:36:40.592991100Z
+     Reason: System boot completion
+     Result: 0x450"
+"23-05-2026 23:06:29","1027","Information","Microsoft-Windows-ReadyBoost","ReadyBoot has updated the system volume unique ID: 0x023890740A02000028D14FE8570000000400000000000000
+ ErrorCode: 0x0"
+"23-05-2026 23:06:29","1026","Information","Microsoft-Windows-ReadyBoost","The attach state for volume \DEVICE\HARDDISKVOLUME4 (Unique Id: C>MKr2+PA2dK) has changed.
+     Old ReadyBoost State: ReadyBoost caching disabled for this device.
+     New ReadyBoost State: ReadyBoost caching disabled due to high performance device.
+
+     Old Hybrid Drive State: Hybrid Drive disabled.
+     New Hybrid Drive State: Hybrid Drive disabled.
+"
+"23-05-2026 23:06:29","1026","Information","Microsoft-Windows-ReadyBoost","The attach state for volume \DEVICE\HARDDISKVOLUME3 (Unique Id: C>MKWv*e)bm8) has changed.
+     Old ReadyBoost State: ReadyBoost caching disabled for this device.
+     New ReadyBoost State: ReadyBoost caching enabled for ReadyBoot only.
+
+     Old Hybrid Drive State: Hybrid Drive disabled.
+     New Hybrid Drive State: Hybrid Drive disabled.
+"
+"23-05-2026 23:06:29","1026","Information","Microsoft-Windows-ReadyBoost","The attach state for volume \DEVICE\HARDDISKVOLUME1 (Unique Id: C>MKhM<QFHmK) has changed.
+     Old ReadyBoost State: ReadyBoost caching disabled for this device.
+     New ReadyBoost State: ReadyBoost caching disabled due to high performance device.
+
+     Old Hybrid Drive State: Hybrid Drive disabled.
+     New Hybrid Drive State: Hybrid Drive disabled.
+"

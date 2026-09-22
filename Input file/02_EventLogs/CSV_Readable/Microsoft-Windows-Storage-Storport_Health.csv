@@ -1,0 +1,83 @@
+﻿"TimeCreated","Id","LevelDisplayName","ProviderName","Message"
+"18-08-2026 14:41:41","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"18-08-2026 10:39:44","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"13-08-2026 17:12:36","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"11-08-2026 12:13:20","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"10-08-2026 09:46:49","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"05-08-2026 16:13:49","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"03-08-2026 09:36:52","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"31-07-2026 09:55:08","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"29-07-2026 17:48:20","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"27-07-2026 12:00:06","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"27-07-2026 09:47:56","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"24-07-2026 11:03:10","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"21-07-2026 08:55:06","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"15-07-2026 10:47:33","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"12-07-2026 18:42:45","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"09-07-2026 16:01:38","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"07-07-2026 09:39:09","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"04-07-2026 18:16:44","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"03-07-2026 11:31:09","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"01-07-2026 10:19:06","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"29-06-2026 10:35:05","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"29-06-2026 09:13:16","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"25-06-2026 09:46:48","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"22-06-2026 17:02:51","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"18-06-2026 09:16:23","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"16-06-2026 10:10:11","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"12-06-2026 10:05:21","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"11-06-2026 14:33:50","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"09-06-2026 09:47:31","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"08-06-2026 09:50:55","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"05-06-2026 14:30:05","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"03-06-2026 10:24:53","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"03-06-2026 00:24:22","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"02-06-2026 10:24:54","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"01-06-2026 09:30:10","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"28-05-2026 10:30:23","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"27-05-2026 13:22:56","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"25-05-2026 09:10:49","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"23-05-2026 21:59:21","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"23-05-2026 11:12:26","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."
+"23-05-2026 23:19:22","512","Information","Microsoft-Windows-StorPort","NVMe Health Information Log for Storport Device (Port = 0, Path = 0x2, Target = 0x0, Lun = 0x0).                    
+Corresponding Class Disk Device Guid is {0d0616a1-3adc-3de7-d9a2-784fe4e2d52a}."

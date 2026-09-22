@@ -1,0 +1,2481 @@
+﻿"TimeCreated","Id","LevelDisplayName","ProviderName","Message"
+"18-08-2026 14:30:42","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"18-08-2026 14:30:42","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"18-08-2026 14:30:42","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"18-08-2026 14:30:42","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"18-08-2026 14:30:42","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"18-08-2026 14:30:42","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"18-08-2026 14:30:42","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"18-08-2026 14:30:42","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"18-08-2026 10:28:45","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"18-08-2026 10:28:45","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"18-08-2026 10:28:45","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"18-08-2026 10:28:45","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"18-08-2026 10:28:45","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"18-08-2026 10:28:45","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"18-08-2026 10:28:45","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"18-08-2026 10:28:45","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"11-08-2026 12:02:21","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"11-08-2026 12:02:21","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"11-08-2026 12:02:21","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"11-08-2026 12:02:21","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"11-08-2026 12:02:21","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"11-08-2026 12:02:21","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"11-08-2026 12:02:21","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"11-08-2026 12:02:21","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"10-08-2026 09:35:50","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"10-08-2026 09:35:50","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"10-08-2026 09:35:50","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"10-08-2026 09:35:50","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"10-08-2026 09:35:50","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"10-08-2026 09:35:50","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"10-08-2026 09:35:50","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"10-08-2026 09:35:50","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-08-2026 09:25:53","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-08-2026 09:25:53","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-08-2026 09:25:53","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-08-2026 09:25:53","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-08-2026 09:25:53","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-08-2026 09:25:53","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-08-2026 09:25:53","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-08-2026 09:25:53","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"31-07-2026 09:44:10","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"31-07-2026 09:44:10","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"31-07-2026 09:44:10","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"31-07-2026 09:44:09","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"31-07-2026 09:44:09","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"31-07-2026 09:44:09","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"31-07-2026 09:44:09","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"31-07-2026 09:44:09","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"27-07-2026 11:49:07","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"27-07-2026 11:49:07","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"27-07-2026 11:49:07","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"27-07-2026 11:49:07","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"27-07-2026 11:49:07","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"27-07-2026 11:49:07","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"27-07-2026 11:49:07","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"27-07-2026 11:49:07","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"27-07-2026 09:36:57","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"27-07-2026 09:36:57","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"27-07-2026 09:36:57","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"27-07-2026 09:36:57","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"27-07-2026 09:36:57","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"27-07-2026 09:36:57","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"27-07-2026 09:36:57","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"27-07-2026 09:36:57","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"27-07-2026 09:34:09","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"27-07-2026 09:34:09","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"27-07-2026 09:34:09","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"27-07-2026 09:34:09","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"27-07-2026 09:34:09","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"27-07-2026 09:34:09","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"27-07-2026 09:34:09","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"27-07-2026 09:34:09","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"21-07-2026 08:44:07","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"21-07-2026 08:44:07","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"21-07-2026 08:44:07","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"21-07-2026 08:44:07","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"21-07-2026 08:44:07","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"21-07-2026 08:44:07","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"21-07-2026 08:44:07","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"21-07-2026 08:44:07","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"12-07-2026 18:31:47","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"12-07-2026 18:31:47","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"12-07-2026 18:31:47","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"12-07-2026 18:31:47","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"12-07-2026 18:31:47","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"12-07-2026 18:31:47","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"12-07-2026 18:31:47","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"12-07-2026 18:31:47","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"07-07-2026 09:28:10","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"07-07-2026 09:28:10","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"07-07-2026 09:28:10","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"07-07-2026 09:28:10","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"07-07-2026 09:28:10","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"07-07-2026 09:28:10","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"07-07-2026 09:28:10","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"07-07-2026 09:28:10","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"04-07-2026 14:12:30","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"04-07-2026 14:12:30","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"04-07-2026 14:12:30","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"04-07-2026 14:12:30","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"04-07-2026 14:12:30","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"04-07-2026 14:12:30","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"04-07-2026 14:12:30","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"04-07-2026 14:12:30","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-07-2026 11:20:10","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-07-2026 11:20:10","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-07-2026 11:20:10","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-07-2026 11:20:10","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-07-2026 11:20:10","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-07-2026 11:20:10","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-07-2026 11:20:10","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-07-2026 11:20:10","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"01-07-2026 10:08:07","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"01-07-2026 10:08:07","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"01-07-2026 10:08:07","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"01-07-2026 10:08:07","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"01-07-2026 10:08:07","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"01-07-2026 10:08:07","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"01-07-2026 10:08:07","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"01-07-2026 10:08:07","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"29-06-2026 10:24:06","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"29-06-2026 10:24:06","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"29-06-2026 10:24:06","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"29-06-2026 10:24:06","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"29-06-2026 10:24:06","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"29-06-2026 10:24:06","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"29-06-2026 10:24:06","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"29-06-2026 10:24:06","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"29-06-2026 09:02:17","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"29-06-2026 09:02:17","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"29-06-2026 09:02:17","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"29-06-2026 09:02:17","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"29-06-2026 09:02:17","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"29-06-2026 09:02:17","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"29-06-2026 09:02:17","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"29-06-2026 09:02:17","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"25-06-2026 09:35:50","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"25-06-2026 09:35:50","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"25-06-2026 09:35:50","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"25-06-2026 09:35:49","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"25-06-2026 09:35:49","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"25-06-2026 09:35:49","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"25-06-2026 09:35:49","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"25-06-2026 09:35:49","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"18-06-2026 09:05:24","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"18-06-2026 09:05:24","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"18-06-2026 09:05:24","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"18-06-2026 09:05:24","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"18-06-2026 09:05:24","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"18-06-2026 09:05:24","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"18-06-2026 09:05:24","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"18-06-2026 09:05:24","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"17-06-2026 19:17:59","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"17-06-2026 19:17:59","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"17-06-2026 19:17:59","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"17-06-2026 19:17:59","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"17-06-2026 19:17:59","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"17-06-2026 19:17:59","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"17-06-2026 19:17:59","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"17-06-2026 19:17:59","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"17-06-2026 19:16:31","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"17-06-2026 19:16:31","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"17-06-2026 19:16:31","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"17-06-2026 19:16:31","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"17-06-2026 19:16:31","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"17-06-2026 19:16:31","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"17-06-2026 19:16:31","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"17-06-2026 19:16:31","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"17-06-2026 19:13:44","115","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for dismount.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is dismounted, the volume snapshot driver closes any handles it may have open on the dismounting volume, such as handles to diff areas.  All auto-release snapshots that have diff areas on the dismounting volume are deleted at this time. The volume snapshot driver may also perform some work to detect whether any future direct writes to the volume are to diff area space for persistent snapshots.  If such writes occur this detection work allows the volume snapshot driver to destroy the snapshots, since the direct volume writes may corrupt them.
+
+You should expect this event when a volume dismounts.  No user action is required."
+"17-06-2026 19:13:44","114","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for dismount.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is dismounted, the volume snapshot driver closes any handles it may have open on the dismounting volume, such as handles to diff areas.  All auto-release snapshots that have diff areas on the dismounting volume are deleted at this time. The volume snapshot driver may also perform some work to detect whether any future direct writes to the volume are to diff area space for persistent snapshots.  If such writes occur this detection work allows the volume snapshot driver to destroy the snapshots, since the direct volume writes may corrupt them.
+
+You should expect this event when a volume dismounts.  No user action is required."
+"17-06-2026 19:13:23","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"17-06-2026 19:13:23","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"17-06-2026 19:13:23","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"17-06-2026 19:13:23","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"17-06-2026 19:13:23","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"17-06-2026 19:13:23","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"17-06-2026 19:13:23","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"17-06-2026 19:13:23","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"16-06-2026 09:59:11","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"16-06-2026 09:59:11","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"16-06-2026 09:59:11","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"16-06-2026 09:59:11","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"16-06-2026 09:59:11","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"16-06-2026 09:59:11","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"16-06-2026 09:59:11","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"16-06-2026 09:59:11","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"12-06-2026 09:54:22","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"12-06-2026 09:54:22","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"12-06-2026 09:54:22","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"12-06-2026 09:54:22","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"12-06-2026 09:54:22","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"12-06-2026 09:54:22","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"12-06-2026 09:54:22","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"12-06-2026 09:54:22","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"08-06-2026 19:13:39","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"08-06-2026 19:13:39","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"08-06-2026 19:13:39","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"08-06-2026 19:13:39","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"08-06-2026 19:13:39","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"08-06-2026 19:13:39","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"08-06-2026 19:13:39","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"08-06-2026 19:13:39","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"08-06-2026 17:04:09","115","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for dismount.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is dismounted, the volume snapshot driver closes any handles it may have open on the dismounting volume, such as handles to diff areas.  All auto-release snapshots that have diff areas on the dismounting volume are deleted at this time. The volume snapshot driver may also perform some work to detect whether any future direct writes to the volume are to diff area space for persistent snapshots.  If such writes occur this detection work allows the volume snapshot driver to destroy the snapshots, since the direct volume writes may corrupt them.
+
+You should expect this event when a volume dismounts.  No user action is required."
+"08-06-2026 17:04:09","114","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for dismount.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is dismounted, the volume snapshot driver closes any handles it may have open on the dismounting volume, such as handles to diff areas.  All auto-release snapshots that have diff areas on the dismounting volume are deleted at this time. The volume snapshot driver may also perform some work to detect whether any future direct writes to the volume are to diff area space for persistent snapshots.  If such writes occur this detection work allows the volume snapshot driver to destroy the snapshots, since the direct volume writes may corrupt them.
+
+You should expect this event when a volume dismounts.  No user action is required."
+"08-06-2026 17:04:09","115","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for dismount.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is dismounted, the volume snapshot driver closes any handles it may have open on the dismounting volume, such as handles to diff areas.  All auto-release snapshots that have diff areas on the dismounting volume are deleted at this time. The volume snapshot driver may also perform some work to detect whether any future direct writes to the volume are to diff area space for persistent snapshots.  If such writes occur this detection work allows the volume snapshot driver to destroy the snapshots, since the direct volume writes may corrupt them.
+
+You should expect this event when a volume dismounts.  No user action is required."
+"08-06-2026 17:04:09","114","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for dismount.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is dismounted, the volume snapshot driver closes any handles it may have open on the dismounting volume, such as handles to diff areas.  All auto-release snapshots that have diff areas on the dismounting volume are deleted at this time. The volume snapshot driver may also perform some work to detect whether any future direct writes to the volume are to diff area space for persistent snapshots.  If such writes occur this detection work allows the volume snapshot driver to destroy the snapshots, since the direct volume writes may corrupt them.
+
+You should expect this event when a volume dismounts.  No user action is required."
+"08-06-2026 17:03:47","115","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for dismount.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is dismounted, the volume snapshot driver closes any handles it may have open on the dismounting volume, such as handles to diff areas.  All auto-release snapshots that have diff areas on the dismounting volume are deleted at this time. The volume snapshot driver may also perform some work to detect whether any future direct writes to the volume are to diff area space for persistent snapshots.  If such writes occur this detection work allows the volume snapshot driver to destroy the snapshots, since the direct volume writes may corrupt them.
+
+You should expect this event when a volume dismounts.  No user action is required."
+"08-06-2026 17:03:47","114","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for dismount.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is dismounted, the volume snapshot driver closes any handles it may have open on the dismounting volume, such as handles to diff areas.  All auto-release snapshots that have diff areas on the dismounting volume are deleted at this time. The volume snapshot driver may also perform some work to detect whether any future direct writes to the volume are to diff area space for persistent snapshots.  If such writes occur this detection work allows the volume snapshot driver to destroy the snapshots, since the direct volume writes may corrupt them.
+
+You should expect this event when a volume dismounts.  No user action is required."
+"08-06-2026 17:03:47","115","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for dismount.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is dismounted, the volume snapshot driver closes any handles it may have open on the dismounting volume, such as handles to diff areas.  All auto-release snapshots that have diff areas on the dismounting volume are deleted at this time. The volume snapshot driver may also perform some work to detect whether any future direct writes to the volume are to diff area space for persistent snapshots.  If such writes occur this detection work allows the volume snapshot driver to destroy the snapshots, since the direct volume writes may corrupt them.
+
+You should expect this event when a volume dismounts.  No user action is required."
+"08-06-2026 17:03:47","114","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for dismount.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is dismounted, the volume snapshot driver closes any handles it may have open on the dismounting volume, such as handles to diff areas.  All auto-release snapshots that have diff areas on the dismounting volume are deleted at this time. The volume snapshot driver may also perform some work to detect whether any future direct writes to the volume are to diff area space for persistent snapshots.  If such writes occur this detection work allows the volume snapshot driver to destroy the snapshots, since the direct volume writes may corrupt them.
+
+You should expect this event when a volume dismounts.  No user action is required."
+"08-06-2026 09:39:55","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"08-06-2026 09:39:55","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"08-06-2026 09:39:55","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"08-06-2026 09:39:55","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"08-06-2026 09:39:55","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"08-06-2026 09:39:55","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"08-06-2026 09:39:55","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"08-06-2026 09:39:55","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-06-2026 10:13:53","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-06-2026 10:13:53","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-06-2026 10:13:53","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-06-2026 10:13:53","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-06-2026 10:13:53","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-06-2026 10:13:53","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-06-2026 10:13:53","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-06-2026 10:13:53","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-06-2026 00:13:23","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-06-2026 00:13:23","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-06-2026 00:13:23","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-06-2026 00:13:23","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-06-2026 00:13:23","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-06-2026 00:13:23","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-06-2026 00:13:23","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"03-06-2026 00:13:23","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"02-06-2026 10:13:54","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"02-06-2026 10:13:54","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"02-06-2026 10:13:54","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"02-06-2026 10:13:54","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"02-06-2026 10:13:54","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"02-06-2026 10:13:54","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"02-06-2026 10:13:54","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"02-06-2026 10:13:54","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"01-06-2026 09:19:10","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"01-06-2026 09:19:10","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"01-06-2026 09:19:10","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"01-06-2026 09:19:10","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"01-06-2026 09:19:10","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"01-06-2026 09:19:10","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"01-06-2026 09:19:10","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"01-06-2026 09:19:10","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"28-05-2026 10:19:23","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"28-05-2026 10:19:23","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"28-05-2026 10:19:23","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"28-05-2026 10:19:23","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"28-05-2026 10:19:23","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"28-05-2026 10:19:23","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"28-05-2026 10:19:23","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"28-05-2026 10:19:23","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"25-05-2026 08:59:50","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"25-05-2026 08:59:50","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"25-05-2026 08:59:50","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"25-05-2026 08:59:50","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"25-05-2026 08:59:50","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"25-05-2026 08:59:50","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"25-05-2026 08:59:50","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"25-05-2026 08:59:50","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 21:48:21","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 21:48:21","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 21:48:21","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 21:48:21","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 21:48:21","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 21:48:21","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 21:48:21","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 21:48:21","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 11:01:27","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 11:01:27","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 11:01:27","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 11:01:27","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 11:01:27","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 11:01:27","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 11:01:27","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 11:01:27","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 10:51:43","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 10:51:43","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 10:51:43","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 10:51:43","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 10:51:43","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 10:51:43","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 10:51:43","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 10:51:43","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 23:08:22","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 23:08:22","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 23:08:22","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 23:08:22","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 23:08:22","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 23:08:22","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 23:08:22","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 23:08:22","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 23:06:04","115","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for dismount.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is dismounted, the volume snapshot driver closes any handles it may have open on the dismounting volume, such as handles to diff areas.  All auto-release snapshots that have diff areas on the dismounting volume are deleted at this time. The volume snapshot driver may also perform some work to detect whether any future direct writes to the volume are to diff area space for persistent snapshots.  If such writes occur this detection work allows the volume snapshot driver to destroy the snapshots, since the direct volume writes may corrupt them.
+
+You should expect this event when a volume dismounts.  No user action is required."
+"23-05-2026 23:06:04","114","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for dismount.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is dismounted, the volume snapshot driver closes any handles it may have open on the dismounting volume, such as handles to diff areas.  All auto-release snapshots that have diff areas on the dismounting volume are deleted at this time. The volume snapshot driver may also perform some work to detect whether any future direct writes to the volume are to diff area space for persistent snapshots.  If such writes occur this detection work allows the volume snapshot driver to destroy the snapshots, since the direct volume writes may corrupt them.
+
+You should expect this event when a volume dismounts.  No user action is required."
+"23-05-2026 23:06:04","115","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for dismount.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is dismounted, the volume snapshot driver closes any handles it may have open on the dismounting volume, such as handles to diff areas.  All auto-release snapshots that have diff areas on the dismounting volume are deleted at this time. The volume snapshot driver may also perform some work to detect whether any future direct writes to the volume are to diff area space for persistent snapshots.  If such writes occur this detection work allows the volume snapshot driver to destroy the snapshots, since the direct volume writes may corrupt them.
+
+You should expect this event when a volume dismounts.  No user action is required."
+"23-05-2026 23:06:04","114","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for dismount.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is dismounted, the volume snapshot driver closes any handles it may have open on the dismounting volume, such as handles to diff areas.  All auto-release snapshots that have diff areas on the dismounting volume are deleted at this time. The volume snapshot driver may also perform some work to detect whether any future direct writes to the volume are to diff area space for persistent snapshots.  If such writes occur this detection work allows the volume snapshot driver to destroy the snapshots, since the direct volume writes may corrupt them.
+
+You should expect this event when a volume dismounts.  No user action is required."
+"23-05-2026 23:05:39","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 23:05:39","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {effcabed-bb48-44d2-a9ca-b0bdf73688b0}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 23:05:39","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 23:05:39","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {c5c572ba-c5d0-47f6-864e-13eb05e6d46c}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 23:05:39","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 23:05:39","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {884acdef-1b39-4b72-acad-40f356239f87}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 23:05:39","101","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has completed processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+The volume snapshot driver was able to scan for any persistent snapshots on this volume.
+
+You should expect this event when a volume is brought online.  No user action is required."
+"23-05-2026 23:05:39","100","Information","Microsoft-Windows-VolumeSnapshot-Driver","The volume snapshot driver has begun processing for volume online.
+
+Volume GUID: {f06ef650-de5a-4a43-abb8-73f2ff6a56fd}
+
+Guidance:
+When a volume is brought online the volume snapshot driver scans for any persistent snapshots that may be on the volume.
+
+You should expect this event when a volume is brought online.  No user action is required."

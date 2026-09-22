@@ -1,0 +1,1417 @@
+2026-08-18 09:01:12.081570(+0530)[5204:5208] INF Timezone: India Standard Time, Offset: 19800, Standard Name: India Standard Time, UTC Offset: 19800
+2026-08-18 09:01:12.081570(+0530)[5204:5208] INF ZSAService App Version: 4.8.0.232
+2026-08-18 09:01:12.081570(+0530)[5204:5208] INF ZSAService Architecture: x64
+2026-08-18 09:01:12.081570(+0530)[5204:5208] INF ZSAService GIT Hash: 8f4d1a1eacfec3e316e9064003d36808c1c70589
+2026-08-18 09:01:12.081570(+0530)[5204:5208] INF UPM Hard Protocol Version: 28
+2026-08-18 09:01:12.081570(+0530)[5204:5208] INF UPM Soft Protocol Version: 912
+2026-08-18 09:01:12.081570(+0530)[5204:5208] INF x64 BINARY (Supports both gov and commercial clouds)
+2026-08-18 09:01:12.081570(+0530)[5204:5208] DBG Config Dir: C:\ProgramData\Zscaler
+2026-08-18 09:01:12.083585(+0530)[5204:5208] DBG App options initialized successfully
+2026-08-18 09:01:12.083585(+0530)[5204:5208] INF ZCCProfile: Init callback function.
+2026-08-18 09:01:12.087611(+0530)[5204:12268] INF ZSAServiceBase::serviceMain: registering for power events
+2026-08-18 09:01:12.089623(+0530)[5204:12268] INF ZSAServiceBase::serviceMain: registered for suspend-resume, power & battery notifications
+2026-08-18 09:01:12.089623(+0530)[5204:12268] INF ZSAServiceBase::registerPowerNotification: registered for 'GUID_TYPICAL_POWER_SAVINGS' power setting notification
+2026-08-18 09:01:12.089623(+0530)[5204:12268] INF ZSAServiceBase::registerPowerNotification: registered for 'GUID_POWERSCHEME_PERSONALITY' power setting notification
+2026-08-18 09:01:12.091638(+0530)[5204:12268] INF ZSAServiceBase::registerPowerNotification: registered for 'GUID_POWER_SAVING_STATUS' power setting notification
+2026-08-18 09:01:12.091638(+0530)[5204:5208] DBG ZSAServiceBase::serviceControllerHandler: service control: SERVICE_CONTROL_POWEREVENT
+2026-08-18 09:01:12.091638(+0530)[5204:12268] INF ZSAServiceBase::registerPowerNotification: registered for 'GUID_MIN_POWER_SAVINGS' power setting notification
+2026-08-18 09:01:12.091638(+0530)[5204:12268] INF ZSAServiceBase::registerPowerNotification: registered for 'GUID_MAX_POWER_SAVINGS' power setting notification
+2026-08-18 09:01:12.091638(+0530)[5204:5208] DBG ZSAServiceBase::serviceControllerHandler: service control: SERVICE_CONTROL_POWEREVENT
+2026-08-18 09:01:12.093651(+0530)[5204:12268] INF ZSAServiceBase::registerPowerNotification: registered for 'GUID_ACDC_POWER_SOURCE' power setting notification
+2026-08-18 09:01:12.093651(+0530)[5204:12268] INF ZSAServiceBase::registerPowerNotification: registered for 'GUID_BATTERY_PERCENTAGE_REMAINING' power setting notification
+2026-08-18 09:01:12.093651(+0530)[5204:5208] DBG ZSAServiceBase::serviceControllerHandler: service control: SERVICE_CONTROL_POWEREVENT
+2026-08-18 09:01:12.093651(+0530)[5204:12268] INF ZSAServiceBase::registerPowerNotification: registered for 'GUID_CONSOLE_DISPLAY_STATE' power setting notification
+2026-08-18 09:01:12.093651(+0530)[5204:5208] DBG ZSAServiceBase::serviceControllerHandler: service control: SERVICE_CONTROL_POWEREVENT
+2026-08-18 09:01:12.095405(+0530)[5204:5208] DBG ZSAServiceBase::serviceControllerHandler: service control: SERVICE_CONTROL_POWEREVENT
+2026-08-18 09:01:12.095405(+0530)[5204:12268] INF Failure actions is already configured.
+2026-08-18 09:01:12.103463(+0530)[5204:10268] INF ZSAService is starting
+2026-08-18 09:01:12.105476(+0530)[5204:10268] INF ZEventsTransmitter: Resetting quit event.
+2026-08-18 09:01:12.105476(+0530)[5204:10268] INF ZEventsTransmitter: Resetting quit event.
+2026-08-18 09:01:12.105476(+0530)[5204:10268] INF ZEvents set source: 4
+2026-08-18 09:01:12.117299(+0530)[5204:10268] INF ZSAService RPC server started
+2026-08-18 09:01:12.119310(+0530)[5204:10268] DBG [ZSHC] service [ZSATunnel] is in state 1
+2026-08-18 09:01:12.121320(+0530)[5204:10268] DBG CDistroFilePaths::PopulatePath_ForComponent: Populated deploy path for component 'ZSATunnel.exe' as 'C:\Program Files\Zscaler'
+2026-08-18 09:01:12.123332(+0530)[5204:10268] DBG [ZSHC] service [ZSATrayManager] is in state 1
+2026-08-18 09:01:12.123332(+0530)[5204:10268] DBG CDistroFilePaths::PopulatePath_ForComponent: Populated deploy path for component 'ZSATrayManager.exe' as 'C:\Program Files\Zscaler'
+2026-08-18 09:01:12.123332(+0530)[5204:10268] DBG migratePolicyTokenIfRequired: PolicyToken is not found in registry. No migration required!
+2026-08-18 09:01:12.123332(+0530)[5204:10268] DBG ZSASessionManager::start, Initializing.
+2026-08-18 09:01:12.127102(+0530)[5204:10268] INF ZSASessionManager::getLastWindowsSessionId, Number of enumerated session: 3
+2026-08-18 09:01:12.127102(+0530)[5204:10268] INF ZSASessionManager::getLastWindowsSessionId, Session id: 0, State: WTSDisconnected
+2026-08-18 09:01:12.127102(+0530)[5204:10268] INF ZSASessionManager::getLastWindowsSessionId, Session id: 1, State: WTSConnected
+2026-08-18 09:01:12.127102(+0530)[5204:10268] INF ZSASessionManager::getLastWindowsSessionId, Session id: 65536, State: WTSListen
+2026-08-18 09:01:12.127102(+0530)[5204:10268] INF ZSASessionManager::getLastWindowsSessionId, Setting initial SessionId: 0
+2026-08-18 09:01:12.127102(+0530)[5204:10268] ERR ZSASessionManager::updateWinSessionInfo, Failed setting username from sessionId. SessionId: 0
+2026-08-18 09:01:12.129117(+0530)[5204:10268] ERR ZSASessionManager::updateWinSessionInfo, Failed setting domain from sessionId. SessionId: 0
+2026-08-18 09:01:12.129117(+0530)[5204:10268] ERR ZSASessionManager::createInitialSessionObjects, Some properties could not be initialized.
+2026-08-18 09:01:12.129117(+0530)[5204:10268] INF ZSASessionManager::createInitialSessionObjects, Primary Session: {"sessionId":0,"userInfo":{"sessionUserType":1,"wstrDomain":"","wstrUserSid":"S-1-5-18","wstrUsername":"SYSTEM"},"userSessionState":0}
+2026-08-18 09:01:12.129117(+0530)[5204:10268] ERR ZSASessionManager::createInitialSessionObjects, sessionId <= 0, not creating secondary session object.
+2026-08-18 09:01:12.141210(+0530)[5204:10268] DBG WTSQuerySessionInformationW succeeded. Bytes returned: 232
+2026-08-18 09:01:12.141210(+0530)[5204:10268] DBG getCurrentWinSessionState SessionFlags before: 0
+2026-08-18 09:01:12.141210(+0530)[5204:10268] DBG getCurrentWinSessionState SessionFlags after: 4294967295
+2026-08-18 09:01:12.141210(+0530)[5204:10268] INF ZSASessionManager::captureWinSessionState, Current win session state is unknown. marking as Locked, sessionID 0
+2026-08-18 09:01:12.141210(+0530)[5204:10268] INF forceInitialSessionEvents: secondary-session not created, process primary-session event
+2026-08-18 09:01:12.141210(+0530)[5204:10268] INF ZSASessionManager::processSessionEvent, processing event: FORCED_LOGON{"sessionId":0,"userInfo":{"sessionUserType":1,"wstrDomain":"","wstrUserSid":"S-1-5-18","wstrUsername":"SYSTEM"},"userSessionState":7}
+2026-08-18 09:01:12.141210(+0530)[5204:10268] INF ZSASessionManager::processPrimarySessionEvent, forced logon
+2026-08-18 09:01:12.141210(+0530)[5204:10268] INF ImprivataLogonMonitor: Imprivata integration not enabled, will not start monitor
+2026-08-18 09:01:12.141210(+0530)[5204:10268] INF ZSASessionManager::updateUpmOnSessionEvent, Stopping ZSAupm.
+2026-08-18 09:01:12.142966(+0530)[5204:10268] INF Stopping ZSAUpm Service
+2026-08-18 09:01:12.142966(+0530)[5204:10268] DBG SendUserCommandToService: Start! ServiceName: [ZSAUpm], Code: [1]
+2026-08-18 09:01:12.142966(+0530)[5204:10268] ERR SendUserCommandToService: ControlService failed. Error: 0x00000426
+2026-08-18 09:01:12.142966(+0530)[5204:10268] DBG SendUserCommandToService: End!
+2026-08-18 09:01:12.144977(+0530)[5204:10268] INF Service already stopped
+2026-08-18 09:01:12.144977(+0530)[5204:10268] INF Stopped ZSAUpm Service
+2026-08-18 09:01:12.144977(+0530)[5204:10268] INF Getting status for service: ZSAUpm
+2026-08-18 09:01:12.144977(+0530)[5204:10268] INF Returning service status: SERVICE_STOPPED
+2026-08-18 09:01:12.144977(+0530)[5204:10268] INF ZSAUpm Service stop success. State: 1
+2026-08-18 09:01:12.149003(+0530)[5204:10268] INF ZEvent:: Event zcc_stop_upm disposition: {"desiredAggregation":{"agg_metrics":["success"],"aggregate":2,"bucket":1,"split_metrics":[]},"desiredPriority":0,"schema":1}
+2026-08-18 09:01:12.149003(+0530)[5204:10268] DBG ZEvent::getEventDisposition: Event zcc_stop_upm disposition = {"desiredAggregation":{"agg_metrics":["success"],"aggregate":2,"bucket":1,"split_metrics":[]},"desiredPriority":0,"schema":1}
+2026-08-18 09:01:12.149003(+0530)[5204:10268] INF ZEvents: Raised event:  zcc_stop_upm / 0x1000d6404 added to queue. Size 1
+2026-08-18 09:01:12.149003(+0530)[5204:10268] INF Querying local captive status.
+2026-08-18 09:01:12.149003(+0530)[5204:10268] DBG ZSATunnelRpcClient::getZSATunnelStatus called.
+2026-08-18 09:01:12.149003(+0530)[5204:10268] DBG System Boot Mode Status:- 0
+2026-08-18 09:01:12.151016(+0530)[5204:10268] DBG [ZSATunnelRpcClient]::sendAsyncRequestAndWait RPC complete failed, error: 0x800706BA
+2026-08-18 09:01:12.151016(+0530)[5204:10268] ERR islocalCaptiveMode failed
+2026-08-18 09:01:12.151016(+0530)[5204:10268] INF Querying machine tunnel status.
+2026-08-18 09:01:12.151016(+0530)[5204:10268] DBG ZSATunnelRpcClient::getZSATunnelStatus called.
+2026-08-18 09:01:12.151016(+0530)[5204:10268] DBG [ZSATunnelRpcClient]::sendAsyncRequestAndWait RPC complete failed, error: 0x800706BA
+2026-08-18 09:01:12.151016(+0530)[5204:10268] ERR getTunnelStatusMT failed
+2026-08-18 09:01:12.151016(+0530)[5204:10268] INF ZSASessionManager::updateTunnelOnSessionEvent, Stopping ZSATunnel.
+2026-08-18 09:01:12.151016(+0530)[5204:10268] INF Stopping ZSATunnel
+2026-08-18 09:01:12.151016(+0530)[5204:10268] DBG SendUserCommandToService: Start! ServiceName: [ZSATunnel], Code: [1]
+2026-08-18 09:01:12.151016(+0530)[5204:10268] ERR SendUserCommandToService: ControlService failed. Error: 0x00000426
+2026-08-18 09:01:12.153027(+0530)[5204:10268] DBG SendUserCommandToService: End!
+2026-08-18 09:01:12.153027(+0530)[5204:10268] INF Service already stopped
+2026-08-18 09:01:12.155037(+0530)[5204:10268] INF ZEvent:: Event zcc_stop_tunnel disposition: {"desiredAggregation":{"agg_metrics":["success"],"aggregate":2,"bucket":1,"split_metrics":[]},"desiredPriority":0,"schema":1}
+2026-08-18 09:01:12.155037(+0530)[5204:10268] DBG ZEvent::getEventDisposition: Event zcc_stop_tunnel disposition = {"desiredAggregation":{"agg_metrics":["success"],"aggregate":2,"bucket":1,"split_metrics":[]},"desiredPriority":0,"schema":1}
+2026-08-18 09:01:12.155037(+0530)[5204:10268] INF ZEvents: Raised event:  zcc_stop_tunnel / 0x100116404 added to queue. Size 2
+2026-08-18 09:01:12.155037(+0530)[5204:10268] INF ZSASessionManager::updateTrayManagerOnSessionEvent, (Logon). Starting ZSATrayManager.
+2026-08-18 09:01:12.155037(+0530)[5204:10268] INF Applying service start-up type SERVICE_DEMAND_START for ZSATrayManager
+2026-08-18 09:01:12.155037(+0530)[5204:10268] INF Service start-up type already correct.
+2026-08-18 09:01:12.158802(+0530)[5204:10268] DBG Security: trying to start a Zscaler service: ZSATrayManager, install location and checking signature...
+2026-08-18 09:01:12.158802(+0530)[5204:10268] DBG Security: binary path: 'C:\Program Files\Zscaler\ZSATrayManager\ZSATrayManager.exe'
+2026-08-18 09:01:12.158802(+0530)[5204:10268] DBG Security: verifying the install path
+2026-08-18 09:01:12.158802(+0530)[5204:10268] DBG Security: expected location: 'C:\Program Files\Zscaler\ZSATrayManager', actual location: 'C:\Program Files\Zscaler\ZSATrayManager'. Matched: 1
+2026-08-18 09:01:12.418246(+0530)[5204:10268] INF Signer does not matches Zscaler. Hence, checking for zscaler EV sign status.
+2026-08-18 09:01:12.418246(+0530)[5204:10268] INF Process executable is signed by Zscaler EV.
+2026-08-18 09:01:12.418246(+0530)[5204:10268] INF Signer trust released.
+2026-08-18 09:01:12.418246(+0530)[5204:10268] DBG Security: can start bin? true
+2026-08-18 09:01:12.420260(+0530)[5204:10268] DBG Security: can start service? true
+2026-08-18 09:01:13.332974(+0530)[5204:10268] INF Current Status of ZSATrayManager: SERVICE_RUNNING
+2026-08-18 09:01:13.332974(+0530)[5204:10268] DBG SendUserCommandToService: Start! ServiceName: [ZSATrayManager], Code: [2]
+2026-08-18 09:01:13.332974(+0530)[5204:10268] INF SendUserCommandToService: ControlService (service: ZSATrayManager; code: 2) call was successful
+2026-08-18 09:01:13.334990(+0530)[5204:10268] DBG SendUserCommandToService: End!
+2026-08-18 09:01:13.334990(+0530)[5204:10268] INF ZEvent:: Event zcc_start_traymanager disposition: {"desiredAggregation":{"agg_metrics":["success","eCode"],"aggregate":2,"bucket":1,"split_metrics":[]},"desiredPriority":0,"schema":1}
+2026-08-18 09:01:13.334990(+0530)[5204:10268] DBG ZEvent::getEventDisposition: Event zcc_start_traymanager disposition = {"desiredAggregation":{"agg_metrics":["success","eCode"],"aggregate":2,"bucket":1,"split_metrics":[]},"desiredPriority":0,"schema":1}
+2026-08-18 09:01:13.334990(+0530)[5204:10268] INF ZEvents: Raised event:  zcc_start_traymanager / 0x100106404 added to queue. Size 3
+2026-08-18 09:01:13.334990(+0530)[5204:10268] INF ZSASessionManager::updateTrayManagerOnSessionEvent, ZSATrayManager started successfully.
+2026-08-18 09:01:13.334990(+0530)[5204:10268] INF Failed to open specified root key with error: 2
+2026-08-18 09:01:13.334990(+0530)[5204:10268] DBG No leftover Zscaler registry hive found in 32-bit view
+2026-08-18 09:01:13.334990(+0530)[5204:12312] INF ZSASessionManager::sessionThreadProc, Waiting on a session event
+2026-08-18 09:01:13.344810(+0530)[5204:10268] ERR ZSAOSUtil::deleteZSARegValue, Failed to delete reg value UninstallationInProgress.
+2026-08-18 09:01:13.344810(+0530)[5204:10268] INF Either UninstallationInProgress reg value does not exist or failed to delete it.
+2026-08-18 09:01:13.344810(+0530)[5204:10268] ERR Error: 0x00000002 reading registry: HKEY_LOCAL_MACHINE:SOFTWARE\Zscaler Inc.\Zscaler\EXTRA:VHSignature
+2026-08-18 09:01:13.344810(+0530)[5204:10268] ERR Error: 0x00000002 reading registry: HKEY_LOCAL_MACHINE:SOFTWARE\Zscaler Inc.\Zscaler\EXTRA:ConfigTimeout
+2026-08-18 09:01:13.346825(+0530)[5204:10268] INF Registry monitor starting
+2026-08-18 09:01:13.346825(+0530)[5204:10268] INF Registry monitor started
+2026-08-18 09:01:13.346825(+0530)[5204:10268] INF Starting TrayManager monitor.
+2026-08-18 09:01:13.346825(+0530)[5204:10268] INF Started TrayManager monitor.
+2026-08-18 09:01:13.346825(+0530)[5204:12316] DBG ZSARegistryMonitor:run() enter
+2026-08-18 09:01:13.346825(+0530)[5204:12316] INF Registries being monitored: 22
+2026-08-18 09:01:13.348843(+0530)[5204:12320] INF ZSATrayManager monitor thread start
+2026-08-18 09:01:13.348843(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:01:13.348843(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:01:14.039755(+0530)[5204:11352] INF ZSAService RPC checking auth
+2026-08-18 09:01:14.039755(+0530)[5204:11352] INF ZSAService RPC inquiry success: 11420
+2026-08-18 09:01:14.039755(+0530)[5204:11352] INF RpcServerCache: pid 11420: hit: 0, ret: UNKNOWN
+2026-08-18 09:01:14.039755(+0530)[5204:11352] INF Validating process for PID: 11420
+2026-08-18 09:01:14.039755(+0530)[5204:11352] INF Process Name: C:\Program Files\Zscaler\ZSATrayManager\ZSATrayManager.exe
+2026-08-18 09:01:14.116430(+0530)[5204:11352] INF Signer does not matches Zscaler. Hence, checking for zscaler EV sign status.
+2026-08-18 09:01:14.118186(+0530)[5204:11352] INF Process executable is signed by Zscaler EV.
+2026-08-18 09:01:14.118186(+0530)[5204:11352] INF Signer trust released.
+2026-08-18 09:01:14.118186(+0530)[5204:11352] INF Process executable is signed by Zscaler.
+2026-08-18 09:01:14.118186(+0530)[5204:11352] INF UserSID: "0, 0, 0, 0, 0, 5", SECURITY_LOCAL_SYSTEM_RID: "0, 0, 0, 0, 0, 5" 
+2026-08-18 09:01:14.118186(+0530)[5204:11352] INF SID matched with SECURITY_LOCAL_SYSTEM_RID
+2026-08-18 09:01:14.118186(+0530)[5204:11352] INF ZSAService RPC: Accepting RPC from a SYSTEM owned Zscaler process
+2026-08-18 09:01:14.128259(+0530)[5204:11352] DBG CDistroFilePaths::PopulatePath_ForComponent: Populated deploy path for component 'ZSAHelper.exe' as 'C:\Program Files\Zscaler'
+2026-08-18 09:01:14.128259(+0530)[5204:11352] INF getTMStartUpData: BEFORE setSessionInfoEx, userSessionState=7
+2026-08-18 09:01:14.128259(+0530)[5204:11352] INF getTMStartUpData: AFTER setSessionInfoEx, userSessionState=7
+2026-08-18 09:01:14.128259(+0530)[5204:11352] INF getTMStartUpData: Serialized data={"sessionInfoEx":{"sessionId":0,"userInfo":{"sessionUserType":1,"wstrDomain":"","wstrUserSid":"S-1-5-18","wstrUsername":"SYSTEM"},"userSessionState":7},"zccLoggedInUserType":1}
+2026-08-18 09:01:15.726872(+0530)[5204:10268] INF ZEPSdk: ZSetPermission return value: 1
+2026-08-18 09:01:16.006388(+0530)[5204:10268] INF ZEPSdk: ZSetPermission return value: 1
+2026-08-18 09:01:16.008402(+0530)[5204:10268] INF All user start-up set
+2026-08-18 09:01:16.008402(+0530)[5204:10268] INF Getting local machine ROOT certificates.
+2026-08-18 09:01:16.022068(+0530)[5204:10268] INF Getting local machine CA certificates.
+2026-08-18 09:01:16.028107(+0530)[5204:10268] INF Auth::Lib::initializeAuthenticationLibrary: Called: 59
+2026-08-18 09:01:16.028107(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 15 12:00:00 2038 GMT
+2026-08-18 09:01:16.028107(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Oct 25 08:30:35 2036 GMT
+2026-08-18 09:01:16.028107(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: May  9 23:28:13 2021 GMT
+2026-08-18 09:01:16.028107(+0530)[5204:10268] INF Skip expired certificate
+2026-08-18 09:01:16.028107(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 23:59:59 2020 GMT
+2026-08-18 09:01:16.028107(+0530)[5204:10268] INF Skip expired certificate
+2026-08-18 09:01:16.030121(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 07:00:00 2020 GMT
+2026-08-18 09:01:16.030121(+0530)[5204:10268] INF Skip expired certificate
+2026-08-18 09:01:16.030121(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Sep 15 00:00:00 2030 GMT
+2026-08-18 09:01:16.030121(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Mar 14 23:59:59 2032 GMT
+2026-08-18 09:01:16.030121(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 23:59:59 2037 GMT
+2026-08-18 09:01:16.030121(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Mar 22 22:13:04 2036 GMT
+2026-08-18 09:01:16.030121(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 23:59:59 1999 GMT
+2026-08-18 09:01:16.030121(+0530)[5204:10268] INF Skip expired certificate
+2026-08-18 09:01:16.030121(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jul 12 10:20:03 2038 GMT
+2026-08-18 09:01:16.030121(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Feb 19 00:02:41 2031 GMT
+2026-08-18 09:01:16.030121(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Nov 10 00:00:00 2031 GMT
+2026-08-18 09:01:16.030121(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jun 23 22:04:01 2035 GMT
+2026-08-18 09:01:16.030121(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Feb 27 21:00:12 2043 GMT
+2026-08-18 09:01:16.030121(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 30 23:59:59 1999 GMT
+2026-08-18 09:01:16.030121(+0530)[5204:10268] INF Skip expired certificate
+2026-08-18 09:01:16.030121(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan  7 23:59:59 2004 GMT
+2026-08-18 09:01:16.032135(+0530)[5204:10268] INF Skip expired certificate
+2026-08-18 09:01:16.032135(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jun 20 16:38:20 2052 GMT
+2026-08-18 09:01:16.032135(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Feb 27 20:50:46 2043 GMT
+2026-08-18 09:01:16.032135(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Nov 10 00:00:00 2031 GMT
+2026-08-18 09:01:16.032135(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Oct 22 22:15:19 2039 GMT
+2026-08-18 09:01:16.032135(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Apr 16 18:44:40 2045 GMT
+2026-08-18 09:01:16.032135(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 15 12:00:00 2038 GMT
+2026-08-18 09:01:16.032135(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Mar 17 18:33:33 2021 GMT
+2026-08-18 09:01:16.032135(+0530)[5204:10268] INF Skip expired certificate
+2026-08-18 09:01:16.032135(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Mar 18 10:00:00 2029 GMT
+2026-08-18 09:01:16.032135(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 23:59:59 2028 GMT
+2026-08-18 09:01:16.032135(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 18 23:59:59 2038 GMT
+2026-08-18 09:01:16.032135(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Mar 21 23:59:59 2046 GMT
+2026-08-18 09:01:16.032135(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jun  4 11:04:38 2035 GMT
+2026-08-18 09:01:16.034149(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Feb 12 17:39:39 2041 GMT
+2026-08-18 09:01:16.034149(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 28 12:00:00 2028 GMT
+2026-08-18 09:01:16.034149(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Nov 10 00:00:00 2031 GMT
+2026-08-18 09:01:16.034149(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jul 16 23:59:59 2036 GMT
+2026-08-18 09:01:16.034149(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec  7 17:55:54 2030 GMT
+2026-08-18 09:01:16.034149(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 10 00:00:00 2034 GMT
+2026-08-18 09:01:16.034149(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 15 12:00:00 2038 GMT
+2026-08-18 09:01:16.034149(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Aug  1 23:59:59 2028 GMT
+2026-08-18 09:01:16.034149(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 14 23:59:59 2046 GMT
+2026-08-18 09:01:16.034149(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jul 24 14:15:12 2029 GMT
+2026-08-18 09:01:16.034149(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Mar 18 00:00:00 2045 GMT
+2026-08-18 09:01:16.034149(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jul 16 23:59:59 2036 GMT
+2026-08-18 09:01:16.035906(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 23:59:59 2037 GMT
+2026-08-18 09:01:16.035906(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Sep 17 19:46:36 2036 GMT
+2026-08-18 09:01:16.035906(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec  1 23:59:59 2037 GMT
+2026-08-18 09:01:16.035906(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 18 23:59:59 2038 GMT
+2026-08-18 09:01:16.035906(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 23:59:59 2039 GMT
+2026-08-18 09:01:16.035906(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: May  7 19:54:23 2030 GMT
+2026-08-18 09:01:16.035906(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jun 25 21:27:11 2032 GMT
+2026-08-18 09:01:16.035906(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: May  7 19:54:30 2030 GMT
+2026-08-18 09:01:16.035906(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Oct 24 23:59:59 2016 GMT
+2026-08-18 09:01:16.035906(+0530)[5204:10268] INF Skip expired certificate
+2026-08-18 09:01:16.035906(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 10 21:39:28 2039 GMT
+2026-08-18 09:01:16.035906(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jul 20 13:59:17 2028 GMT
+2026-08-18 09:01:16.035906(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jul 20 12:56:39 2028 GMT
+2026-08-18 09:01:16.035906(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Apr 28 23:59:59 2036 GMT
+2026-08-18 09:01:16.037921(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: May  7 19:54:16 2030 GMT
+2026-08-18 09:01:16.037921(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Sep 15 00:00:00 2028 GMT
+2026-08-18 09:01:16.037921(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jun 25 21:27:05 2032 GMT
+2026-08-18 09:01:16.037921(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Sep 15 00:00:00 2028 GMT
+2026-08-18 09:01:16.037921(+0530)[5204:10268] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 07:00:00 2002 GMT
+2026-08-18 09:01:16.037921(+0530)[5204:10268] INF Skip expired certificate
+2026-08-18 09:01:16.037921(+0530)[5204:10268] INF Auth::Lib:loadSSLCerts: Called: 56
+2026-08-18 09:01:16.571203(+0530)[5204:10268] INF Auth::Lib::loadSSLCerts: Number of CA certs loaded: 53
+2026-08-18 09:01:16.571203(+0530)[5204:10268] INF Auth::Lib::initializeAuthenticationLibrary: Finish
+2026-08-18 09:01:16.571203(+0530)[5204:10268] ERR Either pSmBiosTable is null or invalid stringIndex. [stringIndex:0]
+2026-08-18 09:01:16.576988(+0530)[5204:10268] INF OS Branding: Microsoft Windows 11 Enterprise
+2026-08-18 09:01:16.576988(+0530)[5204:10268] INF One::ID::initialize OneId Lib with: 59 certs
+2026-08-18 09:01:16.576988(+0530)[5204:10268] INF One::ID::Skip expired certificate
+2026-08-18 09:01:16.579007(+0530)[5204:10268] INF One::ID::Skip expired certificate
+2026-08-18 09:01:16.579007(+0530)[5204:10268] INF One::ID::Skip expired certificate
+2026-08-18 09:01:16.579007(+0530)[5204:10268] INF One::ID::Skip expired certificate
+2026-08-18 09:01:16.581025(+0530)[5204:10268] INF One::ID::Skip expired certificate
+2026-08-18 09:01:16.581025(+0530)[5204:10268] INF One::ID::Skip expired certificate
+2026-08-18 09:01:16.581025(+0530)[5204:10268] INF One::ID::Skip expired certificate
+2026-08-18 09:01:16.585062(+0530)[5204:10268] INF One::ID::Skip expired certificate
+2026-08-18 09:01:16.585062(+0530)[5204:10268] INF One::ID::Skip expired certificate
+2026-08-18 09:01:16.585062(+0530)[5204:10268] INF One::ID:loadSSLCerts: 56
+2026-08-18 09:01:16.592876(+0530)[5204:10268] INF One::ID::loadSSLCerts: Number of CA certs loaded: 53
+2026-08-18 09:01:16.592876(+0530)[5204:10268] INF One::ID::initialize: Finish
+2026-08-18 09:01:16.592876(+0530)[5204:10268] ERR Either pSmBiosTable is null or invalid stringIndex. [stringIndex:0]
+2026-08-18 09:01:16.592876(+0530)[5204:10268] ERR ZSAEncryptedFile::readFromFile: file open failed: The system cannot find the file specified.
+2026-08-18 09:01:16.592876(+0530)[5204:10268] ERR Either pSmBiosTable is null or invalid stringIndex. [stringIndex:0]
+2026-08-18 09:01:16.592876(+0530)[5204:10268] DBG ZMachineTunnelFileUtils::readAndDecrypt: filepath C:\ProgramData\Zscaler/Zjg1MDQ3MmZlMGIzZGFjNWEyZWE1NWU3YTVkODVkMzU2NjVlZjlmYmEwNGI3NDNjNGMxODRlNDgxNzIxZThkMg==_mtt.dat
+2026-08-18 09:01:16.594891(+0530)[5204:10268] ERR ZSAEncryptedFile::readFromFile: file open failed: The system cannot find the file specified.
+2026-08-18 09:01:16.594891(+0530)[5204:10268] DBG machine tunnel zpn, tunnel token decrypted and loaded successful (ziaCloudName=, maHostname=)
+2026-08-18 09:01:16.594891(+0530)[5204:10268] INF Starting ZSATrayManager
+2026-08-18 09:01:16.594891(+0530)[5204:10268] INF Applying service start-up type SERVICE_DEMAND_START for ZSATrayManager
+2026-08-18 09:01:16.594891(+0530)[5204:10268] INF Service start-up type already correct.
+2026-08-18 09:01:16.596900(+0530)[5204:10268] DBG Security: trying to start a Zscaler service: ZSATrayManager, install location and checking signature...
+2026-08-18 09:01:16.596900(+0530)[5204:10268] DBG Security: binary path: 'C:\Program Files\Zscaler\ZSATrayManager\ZSATrayManager.exe'
+2026-08-18 09:01:16.596900(+0530)[5204:10268] DBG Security: verifying the install path
+2026-08-18 09:01:16.596900(+0530)[5204:10268] DBG Security: expected location: 'C:\Program Files\Zscaler\ZSATrayManager', actual location: 'C:\Program Files\Zscaler\ZSATrayManager'. Matched: 1
+2026-08-18 09:01:16.649737(+0530)[5204:10268] INF Signer does not matches Zscaler. Hence, checking for zscaler EV sign status.
+2026-08-18 09:01:16.649737(+0530)[5204:10268] INF Process executable is signed by Zscaler EV.
+2026-08-18 09:01:16.649737(+0530)[5204:10268] INF Signer trust released.
+2026-08-18 09:01:16.649737(+0530)[5204:10268] DBG Security: can start bin? true
+2026-08-18 09:01:16.649737(+0530)[5204:10268] DBG Security: can start service? true
+2026-08-18 09:01:16.649737(+0530)[5204:10268] INF Service already running
+2026-08-18 09:01:16.649737(+0530)[5204:10268] INF ZEvent:: Event zcc_start_traymanager disposition: {"desiredAggregation":{"agg_metrics":["success","eCode"],"aggregate":2,"bucket":1,"split_metrics":[]},"desiredPriority":0,"schema":1}
+2026-08-18 09:01:16.649737(+0530)[5204:10268] DBG ZEvent::getEventDisposition: Event zcc_start_traymanager disposition = {"desiredAggregation":{"agg_metrics":["success","eCode"],"aggregate":2,"bucket":1,"split_metrics":[]},"desiredPriority":0,"schema":1}
+2026-08-18 09:01:16.649737(+0530)[5204:10268] INF ZEvents: Raised event:  zcc_start_traymanager / 0x100106404 added to queue. Size 4
+2026-08-18 09:01:16.649737(+0530)[5204:10268] INF ZSATrayManager already running
+2026-08-18 09:01:20.871405(+0530)[5204:5208] DBG ZSAServiceBase::serviceControllerHandler: service control: SERVICE_CONTROL_SESSIONCHANGE
+2026-08-18 09:01:20.877441(+0530)[5204:13560] INF ZSAService::checkSessionEvent, SessionEvent: 5, SessionId: 1
+2026-08-18 09:01:20.877441(+0530)[5204:13560] INF ZSASessionManager::onWindowsSessionChange, Received Windows Session Event. EventTypeId: 5, EventTypeString: SESSION_LOGON, SessionId: 1
+2026-08-18 09:01:20.877441(+0530)[5204:13560] DBG CDistroFilePaths::PopulatePath_ForComponent: Populated deploy path for component 'ZSAHelper.exe' as 'C:\Program Files\Zscaler'
+2026-08-18 09:01:20.891282(+0530)[5204:13560] INF ImpersonateLoggedOnUser() successful
+2026-08-18 09:01:20.891282(+0530)[5204:13560] DBG Running command: "C:\Program Files\Zscaler\ZSAHelper\ZSAHelper.exe" --childSessionId
+2026-08-18 09:01:21.095374(+0530)[5204:13560] INF Launched child process [pid 13656]
+2026-08-18 09:01:21.229882(+0530)[5204:13560] INF Child process exit code: [4294967295]
+2026-08-18 09:01:21.229882(+0530)[5204:13560] DBG runCommandAsUser: Command ["C:\Program Files\Zscaler\ZSAHelper\ZSAHelper.exe" --childSessionId] Returned with ErrorCode: 0xFFFFFFFF
+2026-08-18 09:01:21.231893(+0530)[5204:13560] DBG Ended Impersonation, Reverted to self for session 1
+2026-08-18 09:01:21.231893(+0530)[5204:13560] INF ZSASessionManager::isRDPChildSession ZSAHelper exited with code 4294967295. CommandLine: "C:\Program Files\Zscaler\ZSAHelper\ZSAHelper.exe" --childSessionId for currentSessionId:- 1
+2026-08-18 09:01:21.243710(+0530)[5204:13560] INF Session Id: 0, state: WTSDisconnected
+2026-08-18 09:01:21.243710(+0530)[5204:13560] INF Session Id: 1, state: WTSActive
+2026-08-18 09:01:21.243710(+0530)[5204:13560] INF Logon SID session ID: 1
+2026-08-18 09:01:21.249746(+0530)[5204:13560] INF Logon SID user name: arjo5004
+2026-08-18 09:01:21.253770(+0530)[5204:13560] INF Logon SID user domain: ENTERPRISE
+2026-08-18 09:01:21.253770(+0530)[5204:13560] INF Logon SID full user name: ENTERPRISE\arjo5004
+2026-08-18 09:01:21.253770(+0530)[5204:13560] INF Logon SID: S-1-12-1-2357405129-1281513531-255772574-1816207334
+2026-08-18 09:01:21.263584(+0530)[5204:13560] DBG WTSQuerySessionInformationW succeeded. Bytes returned: 232
+2026-08-18 09:01:21.263584(+0530)[5204:13560] DBG getCurrentWinSessionState SessionFlags before: 0
+2026-08-18 09:01:21.263584(+0530)[5204:13560] DBG getCurrentWinSessionState SessionFlags after: 1
+2026-08-18 09:01:21.263584(+0530)[5204:13560] INF ZSASessionManager::captureWinSessionState, Current win session state is Unlocked, sessionID 1
+2026-08-18 09:01:21.263584(+0530)[5204:12312] INF ZSASessionManager::sessionThreadProc, Received a session event
+2026-08-18 09:01:21.263584(+0530)[5204:13560] DBG ZSASessionManager::onWindowsSessionChange, pushed primary-logon session event to queue. Event: LOGON{"sessionId":1,"userInfo":{"sessionUserType":1,"wstrDomain":"ENTERPRISE","wstrUserSid":"S-1-12-1-2357405129-1281513531-255772574-1816207334","wstrUsername":"arjo5004"},"userSessionState":8}
+2026-08-18 09:01:21.263584(+0530)[5204:12312] INF ZSASessionManager::processSessionEvent, processing event: LOGON{"sessionId":1,"userInfo":{"sessionUserType":1,"wstrDomain":"ENTERPRISE","wstrUserSid":"S-1-12-1-2357405129-1281513531-255772574-1816207334","wstrUsername":"arjo5004"},"userSessionState":8}
+2026-08-18 09:01:21.263584(+0530)[5204:12312] INF ZSASessionManager::processPrimarySessionEvent, New logon event received. Old sessionId: 0. New sessionId: 1
+2026-08-18 09:01:21.263584(+0530)[5204:12312] INF Session Id: 0, state: WTSDisconnected
+2026-08-18 09:01:21.265599(+0530)[5204:12312] INF Session Id: 1, state: WTSActive
+2026-08-18 09:01:21.265599(+0530)[5204:12312] INF Logon SID session ID: 1
+2026-08-18 09:01:21.269626(+0530)[5204:12312] INF Logon SID user name: arjo5004
+2026-08-18 09:01:21.269626(+0530)[5204:12312] INF Logon SID user domain: ENTERPRISE
+2026-08-18 09:01:21.269626(+0530)[5204:12312] INF Logon SID full user name: ENTERPRISE\arjo5004
+2026-08-18 09:01:21.271638(+0530)[5204:12312] INF Logon SID: S-1-12-1-2357405129-1281513531-255772574-1816207334
+2026-08-18 09:01:21.271638(+0530)[5204:12312] INF ImprivataLogonMonitor: Imprivata integration not enabled, will not start monitor
+2026-08-18 09:01:21.271638(+0530)[5204:12312] INF ZSASessionManager::updateUpmOnSessionEvent, Stopping ZSAupm.
+2026-08-18 09:01:21.271638(+0530)[5204:12312] INF Stopping ZSAUpm Service
+2026-08-18 09:01:21.271638(+0530)[5204:12312] DBG SendUserCommandToService: Start! ServiceName: [ZSAUpm], Code: [1]
+2026-08-18 09:01:21.275403(+0530)[5204:12316] INF Registries being monitored: 22
+2026-08-18 09:01:21.365928(+0530)[5204:12312] ERR SendUserCommandToService: ControlService failed. Error: 0x00000426
+2026-08-18 09:01:21.365928(+0530)[5204:12312] DBG SendUserCommandToService: End!
+2026-08-18 09:01:21.365928(+0530)[5204:12312] INF Service already stopped
+2026-08-18 09:01:21.365928(+0530)[5204:12312] INF Stopped ZSAUpm Service
+2026-08-18 09:01:21.365928(+0530)[5204:12312] INF Getting status for service: ZSAUpm
+2026-08-18 09:01:21.365928(+0530)[5204:12312] INF Returning service status: SERVICE_STOPPED
+2026-08-18 09:01:21.365928(+0530)[5204:12312] INF ZSAUpm Service stop success. State: 1
+2026-08-18 09:01:21.365928(+0530)[5204:12312] INF ZEvent:: Event zcc_stop_upm disposition: {"desiredAggregation":{"agg_metrics":["success"],"aggregate":2,"bucket":1,"split_metrics":[]},"desiredPriority":0,"schema":1}
+2026-08-18 09:01:21.365928(+0530)[5204:12312] DBG ZEvent::getEventDisposition: Event zcc_stop_upm disposition = {"desiredAggregation":{"agg_metrics":["success"],"aggregate":2,"bucket":1,"split_metrics":[]},"desiredPriority":0,"schema":1}
+2026-08-18 09:01:21.365928(+0530)[5204:12312] INF ZEvents: Raised event:  zcc_stop_upm / 0x1000d6404 added to queue. Size 5
+2026-08-18 09:01:21.365928(+0530)[5204:12312] INF Querying local captive status.
+2026-08-18 09:01:21.365928(+0530)[5204:12312] DBG ZSATunnelRpcClient::getZSATunnelStatus called.
+2026-08-18 09:01:21.368965(+0530)[5204:12312] DBG [ZSATunnelRpcClient]::sendAsyncRequestAndWait RPC complete failed, error: 0x800706BA
+2026-08-18 09:01:21.368965(+0530)[5204:12312] ERR islocalCaptiveMode failed
+2026-08-18 09:01:21.368965(+0530)[5204:12312] INF Querying machine tunnel status.
+2026-08-18 09:01:21.368965(+0530)[5204:12312] DBG ZSATunnelRpcClient::getZSATunnelStatus called.
+2026-08-18 09:01:21.368965(+0530)[5204:12312] DBG [ZSATunnelRpcClient]::sendAsyncRequestAndWait RPC complete failed, error: 0x800706BA
+2026-08-18 09:01:21.368965(+0530)[5204:12312] ERR getTunnelStatusMT failed
+2026-08-18 09:01:21.370477(+0530)[5204:12312] INF ZSASessionManager::updateTunnelOnSessionEvent, Stopping ZSATunnel.
+2026-08-18 09:01:21.370477(+0530)[5204:12312] INF Stopping ZSATunnel
+2026-08-18 09:01:21.370477(+0530)[5204:12312] DBG SendUserCommandToService: Start! ServiceName: [ZSATunnel], Code: [1]
+2026-08-18 09:01:21.372490(+0530)[5204:12312] ERR SendUserCommandToService: ControlService failed. Error: 0x00000426
+2026-08-18 09:01:21.372490(+0530)[5204:12312] DBG SendUserCommandToService: End!
+2026-08-18 09:01:21.372490(+0530)[5204:12312] INF Service already stopped
+2026-08-18 09:01:21.372490(+0530)[5204:12312] INF ZEvent:: Event zcc_stop_tunnel disposition: {"desiredAggregation":{"agg_metrics":["success"],"aggregate":2,"bucket":1,"split_metrics":[]},"desiredPriority":0,"schema":1}
+2026-08-18 09:01:21.372490(+0530)[5204:12312] DBG ZEvent::getEventDisposition: Event zcc_stop_tunnel disposition = {"desiredAggregation":{"agg_metrics":["success"],"aggregate":2,"bucket":1,"split_metrics":[]},"desiredPriority":0,"schema":1}
+2026-08-18 09:01:21.372490(+0530)[5204:12312] INF ZEvents: Raised event:  zcc_stop_tunnel / 0x100116404 added to queue. Size 6
+2026-08-18 09:01:21.372490(+0530)[5204:12312] INF ZSASessionManager::updateTrayManagerOnSessionEvent, (Logon). Starting ZSATrayManager.
+2026-08-18 09:01:21.372490(+0530)[5204:12312] INF Applying service start-up type SERVICE_DEMAND_START for ZSATrayManager
+2026-08-18 09:01:21.374502(+0530)[5204:12312] INF Service start-up type already correct.
+2026-08-18 09:01:21.376517(+0530)[5204:12316] INF Registries being monitored: 22
+2026-08-18 09:01:21.378530(+0530)[5204:12312] DBG Security: trying to start a Zscaler service: ZSATrayManager, install location and checking signature...
+2026-08-18 09:01:21.378530(+0530)[5204:12312] DBG Security: binary path: 'C:\Program Files\Zscaler\ZSATrayManager\ZSATrayManager.exe'
+2026-08-18 09:01:21.378530(+0530)[5204:12312] DBG Security: verifying the install path
+2026-08-18 09:01:21.378530(+0530)[5204:12312] DBG Security: expected location: 'C:\Program Files\Zscaler\ZSATrayManager', actual location: 'C:\Program Files\Zscaler\ZSATrayManager'. Matched: 1
+2026-08-18 09:01:21.439903(+0530)[5204:12312] INF Signer does not matches Zscaler. Hence, checking for zscaler EV sign status.
+2026-08-18 09:01:21.439903(+0530)[5204:12312] INF Process executable is signed by Zscaler EV.
+2026-08-18 09:01:21.439903(+0530)[5204:12312] INF Signer trust released.
+2026-08-18 09:01:21.439903(+0530)[5204:12312] DBG Security: can start bin? true
+2026-08-18 09:01:21.439903(+0530)[5204:12312] DBG Security: can start service? true
+2026-08-18 09:01:21.439903(+0530)[5204:12312] INF Service already running
+2026-08-18 09:01:21.439903(+0530)[5204:12312] INF ZEvent:: Event zcc_start_traymanager disposition: {"desiredAggregation":{"agg_metrics":["success","eCode"],"aggregate":2,"bucket":1,"split_metrics":[]},"desiredPriority":0,"schema":1}
+2026-08-18 09:01:21.439903(+0530)[5204:12312] DBG ZEvent::getEventDisposition: Event zcc_start_traymanager disposition = {"desiredAggregation":{"agg_metrics":["success","eCode"],"aggregate":2,"bucket":1,"split_metrics":[]},"desiredPriority":0,"schema":1}
+2026-08-18 09:01:21.441915(+0530)[5204:12312] INF ZEvents: Raised event:  zcc_start_traymanager / 0x100106404 added to queue. Size 7
+2026-08-18 09:01:21.441915(+0530)[5204:12312] INF ZSASessionManager::updateTrayManagerOnSessionEvent, ZSATrayManager already running. Stopping.
+2026-08-18 09:01:21.441915(+0530)[5204:12312] INF Stopping ZSATrayManager
+2026-08-18 09:01:21.441915(+0530)[5204:12312] DBG SendUserCommandToService: Start! ServiceName: [ZSATrayManager], Code: [1]
+2026-08-18 09:01:21.445948(+0530)[5204:12312] INF SendUserCommandToService: ControlService (service: ZSATrayManager; code: 1) call was successful
+2026-08-18 09:01:21.447964(+0530)[5204:12312] DBG SendUserCommandToService: End!
+2026-08-18 09:01:21.445948(+0530)[5204:12316] INF Registries being monitored: 22
+2026-08-18 09:01:22.099413(+0530)[5204:12260] INF [LogMon] updateLogFilesAcl: triggered
+2026-08-18 09:01:22.113503(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.113503(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-05-23-05-29-59.313257.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.115261(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.115261(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-05-23-05-30-20.755858.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.117276(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.117276(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-05-23-05-31-36.388609.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.119288(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.119288(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-05-23-16-18-33.126638.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.121304(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.121304(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-05-25-03-30-02.430588.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.123317(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.123317(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-05-28-04-49-37.435542.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.111489(+0530)[5204:12280] DBG [findFilesAndOperateV2] Operating on C:\ProgramData\Zscaler
+2026-08-18 09:01:22.133134(+0530)[5204:12280] DBG [findFilesAndOperateV2] Operation done on C:\ProgramData\Zscaler
+2026-08-18 09:01:22.135149(+0530)[5204:12280] DBG called removeDumpFile for [dumpFiles:0, dwMaxDumpToRetain:10, bDeleteOldDump:1]
+2026-08-18 09:01:22.135149(+0530)[5204:12280] DBG called removeDumpFile for [dumpFiles:0, dwMaxDumpToRetain:10, bDeleteOldDump:0]
+2026-08-18 09:01:22.146969(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.146969(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-06-01-03-49-25.217069.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.150994(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.150994(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-06-02-04-44-11.074672.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.204570(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.204570(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-06-02-18-43-33.219210.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.216383(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.216383(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-06-03-04-44-05.201560.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.226193(+0530)[5204:12312] INF Current Status of ZSATrayManager: SERVICE_STOPPED
+2026-08-18 09:01:22.226193(+0530)[5204:12312] INF ZEvent:: Event zcc_stop_traymanager disposition: {"desiredAggregation":{"agg_metrics":["success"],"aggregate":2,"bucket":1,"split_metrics":[]},"desiredPriority":0,"schema":1}
+2026-08-18 09:01:22.226193(+0530)[5204:12312] DBG ZEvent::getEventDisposition: Event zcc_stop_traymanager disposition = {"desiredAggregation":{"agg_metrics":["success"],"aggregate":2,"bucket":1,"split_metrics":[]},"desiredPriority":0,"schema":1}
+2026-08-18 09:01:22.226193(+0530)[5204:12312] INF ZEvents: Raised event:  zcc_stop_traymanager / 0x1000f6404 added to queue. Size 8
+2026-08-18 09:01:22.226193(+0530)[5204:12312] INF ZSASessionManager::updateTrayManagerOnSessionEvent, ZSATrayManager stopped successfully. Restarting..
+2026-08-18 09:01:22.228207(+0530)[5204:12312] INF Applying service start-up type SERVICE_DEMAND_START for ZSATrayManager
+2026-08-18 09:01:22.228207(+0530)[5204:12312] INF Service start-up type already correct.
+2026-08-18 09:01:22.228207(+0530)[5204:12312] DBG Security: trying to start a Zscaler service: ZSATrayManager, install location and checking signature...
+2026-08-18 09:01:22.228207(+0530)[5204:12312] DBG Security: binary path: 'C:\Program Files\Zscaler\ZSATrayManager\ZSATrayManager.exe'
+2026-08-18 09:01:22.228207(+0530)[5204:12312] DBG Security: verifying the install path
+2026-08-18 09:01:22.228207(+0530)[5204:12312] DBG Security: expected location: 'C:\Program Files\Zscaler\ZSATrayManager', actual location: 'C:\Program Files\Zscaler\ZSATrayManager'. Matched: 1
+2026-08-18 09:01:22.232231(+0530)[5204:12316] INF Registries being monitored: 22
+2026-08-18 09:01:22.238263(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.238263(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-06-08-04-10-08.136325.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.240276(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.240276(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-06-08-13-43-53.293288.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.250087(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.250087(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-06-12-04-24-35.328056.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.252101(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.252101(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-06-16-04-29-22.580938.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.256128(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.256128(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-06-17-13-43-37.229625.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.256128(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.256128(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-06-17-13-46-44.118567.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.281808(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.281808(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-06-17-13-48-11.089045.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.281808(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.283824(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-06-18-03-35-35.890392.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.323348(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.323348(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-06-25-04-06-01.575505.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.323348(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.325363(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-06-29-03-32-30.560856.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.339203(+0530)[5204:12312] INF Signer does not matches Zscaler. Hence, checking for zscaler EV sign status.
+2026-08-18 09:01:22.339203(+0530)[5204:12312] INF Process executable is signed by Zscaler EV.
+2026-08-18 09:01:22.339203(+0530)[5204:12312] INF Signer trust released.
+2026-08-18 09:01:22.339203(+0530)[5204:12312] DBG Security: can start bin? true
+2026-08-18 09:01:22.339203(+0530)[5204:12312] DBG Security: can start service? true
+2026-08-18 09:01:22.347255(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.347255(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-06-29-04-54-19.898433.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.349268(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.349268(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-07-01-04-38-17.757210.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.353036(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.353036(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-07-03-05-50-24.379433.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.372899(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.372899(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-07-04-08-42-41.594938.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.376932(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.376932(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-07-07-03-58-22.143920.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.390776(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.390776(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-07-12-13-01-57.421814.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.394800(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.394800(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-07-20-04-58-45.413639.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.404626(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.404626(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-07-21-03-14-20.016316.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.406641(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.406641(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-07-27-04-04-38.309402.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.424509(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.424509(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-07-27-04-07-11.341106.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.432308(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.432308(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-07-27-06-19-18.842877.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.434324(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.434324(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-07-31-04-14-24.756874.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.436337(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.436337(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-08-03-03-56-35.172027.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.436337(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.436337(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-08-10-04-06-21.542688.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.438348(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.440361(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-08-11-06-32-32.902993.log.zip' to SystemLevelAccessOnly
+2026-08-18 09:01:22.440361(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.440361(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-08-18-04-59-11.748250.log' to SystemLevelAccessOnly
+2026-08-18 09:01:22.442376(+0530)[5204:12260] DBG [LogMon] ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent: 1
+2026-08-18 09:01:22.442376(+0530)[5204:12260] DBG [LogMon] CSystemObjectSecurity::AdjustFilePermissionsForLogicalAccess: Set logical access for file 'C:\ProgramData\Zscaler/ZSAService_2026-08-18-09-01-12.049884.log' to SystemLevelAccessOnly
+2026-08-18 09:01:22.739587(+0530)[5204:12316] INF Registries being monitored: 22
+2026-08-18 09:01:23.225024(+0530)[5204:12312] INF Current Status of ZSATrayManager: SERVICE_RUNNING
+2026-08-18 09:01:23.225024(+0530)[5204:12312] DBG SendUserCommandToService: Start! ServiceName: [ZSATrayManager], Code: [2]
+2026-08-18 09:01:23.227040(+0530)[5204:12312] INF SendUserCommandToService: ControlService (service: ZSATrayManager; code: 2) call was successful
+2026-08-18 09:01:23.227040(+0530)[5204:12312] DBG SendUserCommandToService: End!
+2026-08-18 09:01:23.227040(+0530)[5204:12312] INF ZEvent:: Event zcc_start_traymanager disposition: {"desiredAggregation":{"agg_metrics":["success","eCode"],"aggregate":2,"bucket":1,"split_metrics":[]},"desiredPriority":0,"schema":1}
+2026-08-18 09:01:23.227040(+0530)[5204:12312] DBG ZEvent::getEventDisposition: Event zcc_start_traymanager disposition = {"desiredAggregation":{"agg_metrics":["success","eCode"],"aggregate":2,"bucket":1,"split_metrics":[]},"desiredPriority":0,"schema":1}
+2026-08-18 09:01:23.227040(+0530)[5204:12312] INF ZEvents: Raised event:  zcc_start_traymanager / 0x100106404 added to queue. Size 9
+2026-08-18 09:01:23.227040(+0530)[5204:12312] INF ZSASessionManager::updateTrayManagerOnSessionEvent, ZSATrayManager status: 0
+2026-08-18 09:01:23.944205(+0530)[5204:11352] INF ZSAService RPC checking auth
+2026-08-18 09:01:23.944205(+0530)[5204:11352] INF ZSAService RPC inquiry success: 11416
+2026-08-18 09:01:23.944205(+0530)[5204:11352] INF RpcServerCache: pid 11416: hit: 0, ret: UNKNOWN
+2026-08-18 09:01:23.944205(+0530)[5204:11352] INF Validating process for PID: 11416
+2026-08-18 09:01:23.946220(+0530)[5204:11352] INF Process Name: C:\Program Files\Zscaler\ZSATrayManager\ZSATrayManager.exe
+2026-08-18 09:01:24.037224(+0530)[5204:11352] INF Signer does not matches Zscaler. Hence, checking for zscaler EV sign status.
+2026-08-18 09:01:24.037224(+0530)[5204:11352] INF Process executable is signed by Zscaler EV.
+2026-08-18 09:01:24.037224(+0530)[5204:11352] INF Signer trust released.
+2026-08-18 09:01:24.037224(+0530)[5204:11352] INF Process executable is signed by Zscaler.
+2026-08-18 09:01:24.037224(+0530)[5204:11352] INF UserSID: "0, 0, 0, 0, 0, 5", SECURITY_LOCAL_SYSTEM_RID: "0, 0, 0, 0, 0, 5" 
+2026-08-18 09:01:24.039233(+0530)[5204:11352] INF SID matched with SECURITY_LOCAL_SYSTEM_RID
+2026-08-18 09:01:24.039233(+0530)[5204:11352] INF ZSAService RPC: Accepting RPC from a SYSTEM owned Zscaler process
+2026-08-18 09:01:24.039233(+0530)[5204:11352] DBG CDistroFilePaths::PopulatePath_ForComponent: Populated deploy path for component 'ZSAHelper.exe' as 'C:\Program Files\Zscaler'
+2026-08-18 09:01:24.039233(+0530)[5204:11352] INF getTMStartUpData: BEFORE setSessionInfoEx, userSessionState=8
+2026-08-18 09:01:24.039233(+0530)[5204:11352] INF getTMStartUpData: AFTER setSessionInfoEx, userSessionState=8
+2026-08-18 09:01:24.039233(+0530)[5204:11352] INF getTMStartUpData: Serialized data={"sessionInfoEx":{"sessionId":1,"userInfo":{"sessionUserType":1,"wstrDomain":"ENTERPRISE","wstrUserSid":"S-1-12-1-2357405129-1281513531-255772574-1816207334","wstrUsername":"arjo5004"},"userSessionState":8},"winUserLogonEvent":true,"zccLoggedInUserType":1}
+2026-08-18 09:01:24.238953(+0530)[5204:12312] INF ZSASessionManager::sessionThreadProc, Waiting on a session event
+2026-08-18 09:01:26.534150(+0530)[5204:11352] INF ZSAService RPC checking auth
+2026-08-18 09:01:26.534150(+0530)[5204:11352] INF ZSAService RPC inquiry success: 11416
+2026-08-18 09:01:26.536168(+0530)[5204:11352] INF RpcServerCache: pid 11416: hit: 1, ret: ALLOWED
+2026-08-18 09:01:26.537929(+0530)[5204:11352] DBG CDistroFilePaths::PopulatePath_ForComponent: Populated deploy path for component 'ZSAHelper.exe' as 'C:\Program Files\Zscaler'
+2026-08-18 09:01:26.537929(+0530)[5204:11352] INF ZSAService RPC command: ZSASERVICE_CONFIG
+2026-08-18 09:01:26.541964(+0530)[5204:13560] ERR Error: 0x00000002 reading registry: HKEY_LOCAL_MACHINE:
+2026-08-18 09:01:26.541964(+0530)[5204:13560] ERR Error: 0x00000002 reading registry: HKEY_LOCAL_MACHINE:
+2026-08-18 09:01:26.541964(+0530)[5204:13560] ERR Error: 0x00000002 reading registry: HKEY_LOCAL_MACHINE:
+2026-08-18 09:01:26.543976(+0530)[5204:13560] ERR Error: 0x00000002 reading registry: HKEY_LOCAL_MACHINE::InstallerJwtPwdPublicKey
+2026-08-18 09:01:26.543976(+0530)[5204:11352] INF maxCompositeSize has been updated to 20MB, triggering cleanup...
+2026-08-18 09:01:26.543976(+0530)[5204:11352] INF ACL permission changed from SystemLevelAccessOnly to SystemLevelWithUserRead
+2026-08-18 09:01:26.543976(+0530)[5204:11352] INF Existing logs permission will be updated on next LogMon wakeup.
+2026-08-18 09:01:26.543976(+0530)[5204:11352] INF Done with ZSAService RPC command: ZSASERVICE_CONFIG with return value:0
+2026-08-18 09:01:26.545992(+0530)[5204:11352] INF ZSAService RPC checking auth
+2026-08-18 09:01:26.545992(+0530)[5204:11352] INF ZSAService RPC inquiry success: 11416
+2026-08-18 09:01:26.545992(+0530)[5204:11352] INF RpcServerCache: pid 11416: hit: 1, ret: ALLOWED
+2026-08-18 09:01:26.545992(+0530)[5204:11352] INF ZCCProfile: Send ZCC Profile: 1
+2026-08-18 09:01:26.791731(+0530)[5204:12316] INF Registries being monitored: 23
+2026-08-18 09:01:27.439934(+0530)[5204:11352] INF ZSAService RPC checking auth
+2026-08-18 09:01:27.439934(+0530)[5204:11352] INF ZSAService RPC inquiry success: 11416
+2026-08-18 09:01:27.441693(+0530)[5204:11352] INF RpcServerCache: pid 11416: hit: 1, ret: ALLOWED
+2026-08-18 09:01:27.443707(+0530)[5204:11352] INF ZSAService RPC command: START_ZSATUNNEL
+2026-08-18 09:01:27.443707(+0530)[5204:11352] INF Applying service start-up type SERVICE_DEMAND_START for ZSATunnel
+2026-08-18 09:01:27.445721(+0530)[5204:11352] INF Service start-up type already correct.
+2026-08-18 09:01:29.325837(+0530)[5204:11352] INF Signer does not matches Zscaler. Hence, checking for zscaler EV sign status.
+2026-08-18 09:01:29.325837(+0530)[5204:11352] INF Process executable is signed by Zscaler EV.
+2026-08-18 09:01:29.325837(+0530)[5204:11352] INF Signer trust released.
+2026-08-18 09:01:30.239617(+0530)[5204:12264] INF ZSAService RPC checking auth
+2026-08-18 09:01:30.239617(+0530)[5204:12264] INF ZSAService RPC inquiry success: 16212
+2026-08-18 09:01:30.239617(+0530)[5204:12264] INF RpcServerCache: pid 16212: hit: 0, ret: UNKNOWN
+2026-08-18 09:01:30.241632(+0530)[5204:12264] INF Validating process for PID: 16212
+2026-08-18 09:01:30.241632(+0530)[5204:12264] INF Process Name: C:\Program Files\Zscaler\ZSATunnel\ZSATunnel.exe
+2026-08-18 09:01:30.318892(+0530)[5204:12264] INF Signer does not matches Zscaler. Hence, checking for zscaler EV sign status.
+2026-08-18 09:01:30.318892(+0530)[5204:12264] INF Process executable is signed by Zscaler EV.
+2026-08-18 09:01:30.318892(+0530)[5204:12264] INF Signer trust released.
+2026-08-18 09:01:30.318892(+0530)[5204:12264] INF Process executable is signed by Zscaler.
+2026-08-18 09:01:30.320905(+0530)[5204:12264] INF UserSID: "0, 0, 0, 0, 0, 5", SECURITY_LOCAL_SYSTEM_RID: "0, 0, 0, 0, 0, 5" 
+2026-08-18 09:01:30.320905(+0530)[5204:12264] INF SID matched with SECURITY_LOCAL_SYSTEM_RID
+2026-08-18 09:01:30.320905(+0530)[5204:12264] INF ZSAService RPC: Accepting RPC from a SYSTEM owned Zscaler process
+2026-08-18 09:01:30.322918(+0530)[5204:12264] INF getCurrentUserSid: SessionId: 1
+2026-08-18 09:01:30.322918(+0530)[5204:12264] INF Retrieving logged on User SID.
+2026-08-18 09:01:30.348568(+0530)[5204:12264] INF Session Id: 0, state: WTSDisconnected
+2026-08-18 09:01:30.348568(+0530)[5204:12264] INF Session Id: 1, state: WTSActive
+2026-08-18 09:01:30.348568(+0530)[5204:12264] INF Logon SID session ID: 1
+2026-08-18 09:01:30.358373(+0530)[5204:12264] INF Logon SID user name: arjo5004
+2026-08-18 09:01:30.366416(+0530)[5204:12264] INF Logon SID user domain: ENTERPRISE
+2026-08-18 09:01:30.366416(+0530)[5204:12264] INF Logon SID full user name: ENTERPRISE\arjo5004
+2026-08-18 09:01:30.368427(+0530)[5204:12264] INF Logon SID: S-1-12-1-2357405129-1281513531-255772574-1816207334
+2026-08-18 09:01:30.732942(+0530)[5204:11352] INF Current Status of ZSATunnel: SERVICE_RUNNING
+2026-08-18 09:01:30.736966(+0530)[5204:11352] INF SendUserCommandToService: ControlService (service: ZSATunnel; code: 2) call was successful
+2026-08-18 09:01:30.736966(+0530)[5204:11352] INF ZEvent:: Event zcc_start_tunnel disposition: {"desiredAggregation":{"agg_metrics":["success","eCode"],"aggregate":2,"bucket":1,"split_metrics":[]},"desiredPriority":0,"schema":1}
+2026-08-18 09:01:30.736966(+0530)[5204:11352] INF ZEvents: Raised event:  zcc_start_tunnel / 0x100126404 added to queue. Size 10
+2026-08-18 09:01:30.736966(+0530)[5204:11352] INF Done with ZSAService RPC command: START_ZSATUNNEL with return value:0
+2026-08-18 09:01:30.760600(+0530)[5204:11352] INF ZSAService RPC checking auth
+2026-08-18 09:01:30.760600(+0530)[5204:11352] INF ZSAService RPC inquiry success: 11416
+2026-08-18 09:01:30.760600(+0530)[5204:11352] INF RpcServerCache: pid 11416: hit: 1, ret: ALLOWED
+2026-08-18 09:01:30.762614(+0530)[5204:11352] INF ZSAService RPC command: START_ZSATUNNEL
+2026-08-18 09:01:30.762614(+0530)[5204:11352] INF Applying service start-up type SERVICE_DEMAND_START for ZSATunnel
+2026-08-18 09:01:30.764629(+0530)[5204:11352] INF Service start-up type already correct.
+2026-08-18 09:01:31.241414(+0530)[5204:11352] INF Signer does not matches Zscaler. Hence, checking for zscaler EV sign status.
+2026-08-18 09:01:31.241414(+0530)[5204:11352] INF Process executable is signed by Zscaler EV.
+2026-08-18 09:01:31.243425(+0530)[5204:11352] INF Signer trust released.
+2026-08-18 09:01:31.243425(+0530)[5204:11352] INF Service already running
+2026-08-18 09:01:31.243425(+0530)[5204:11352] INF ZSATunnel already running
+2026-08-18 09:01:31.243425(+0530)[5204:11352] INF Done with ZSAService RPC command: START_ZSATUNNEL with return value:1
+2026-08-18 09:01:31.281181(+0530)[5204:11352] INF ZSAService RPC checking auth
+2026-08-18 09:01:31.283196(+0530)[5204:11352] INF ZSAService RPC inquiry success: 11416
+2026-08-18 09:01:31.283196(+0530)[5204:11352] INF RpcServerCache: pid 11416: hit: 1, ret: ALLOWED
+2026-08-18 09:01:31.283196(+0530)[5204:11352] INF ZSAService RPC command: START_ZSAUPMSERVICE
+2026-08-18 09:01:31.283196(+0530)[5204:11352] INF Applying service start-up type SERVICE_DEMAND_START for ZSAUpm
+2026-08-18 09:01:31.284957(+0530)[5204:11352] INF Service start-up type already correct.
+2026-08-18 09:01:32.093696(+0530)[5204:11352] INF Signer does not matches Zscaler. Hence, checking for zscaler EV sign status.
+2026-08-18 09:01:32.095711(+0530)[5204:11352] INF Process executable is signed by Zscaler EV.
+2026-08-18 09:01:32.097728(+0530)[5204:11352] INF Signer trust released.
+2026-08-18 09:01:32.448236(+0530)[5204:12260] INF [LogMon] Logger monitor woke up, clean up triggered. Size 69549
+2026-08-18 09:01:32.531521(+0530)[5204:12260] INF [LogMon] updateLogFilesAcl: triggered
+2026-08-18 09:01:33.480205(+0530)[5204:16024] INF ZSAService RPC checking auth
+2026-08-18 09:01:33.480205(+0530)[5204:16024] INF ZSAService RPC inquiry success: 17128
+2026-08-18 09:01:33.480205(+0530)[5204:16024] INF RpcServerCache: pid 17128: hit: 0, ret: UNKNOWN
+2026-08-18 09:01:33.482221(+0530)[5204:16024] INF Validating process for PID: 17128
+2026-08-18 09:01:33.482221(+0530)[5204:16024] INF Process Name: C:\Program Files\Zscaler\ZSAUpm\ZSAUpm.exe
+2026-08-18 09:01:33.623058(+0530)[5204:11352] INF Current Status of ZSAUpm: SERVICE_RUNNING
+2026-08-18 09:01:33.625073(+0530)[5204:11352] INF SendUserCommandToService: ControlService (service: ZSAUpm; code: 2) call was successful
+2026-08-18 09:01:33.625073(+0530)[5204:11352] INF ZEvent:: Event zcc_start_upm disposition: {"desiredAggregation":{"agg_metrics":["success","eCode"],"aggregate":2,"bucket":1,"split_metrics":[]},"desiredPriority":0,"schema":1}
+2026-08-18 09:01:33.625073(+0530)[5204:11352] INF ZEvents: Raised event:  zcc_start_upm / 0x1000e6404 added to queue. Size 11
+2026-08-18 09:01:33.627087(+0530)[5204:11352] INF Done with ZSAService RPC command: START_ZSAUPMSERVICE with return value:0
+2026-08-18 09:01:33.638920(+0530)[5204:16024] INF Signer does not matches Zscaler. Hence, checking for zscaler EV sign status.
+2026-08-18 09:01:33.638920(+0530)[5204:16024] INF Process executable is signed by Zscaler EV.
+2026-08-18 09:01:33.638920(+0530)[5204:16024] INF Signer trust released.
+2026-08-18 09:01:33.638920(+0530)[5204:16024] INF Process executable is signed by Zscaler.
+2026-08-18 09:01:33.638920(+0530)[5204:16024] INF UserSID: "0, 0, 0, 0, 0, 5", SECURITY_LOCAL_SYSTEM_RID: "0, 0, 0, 0, 0, 5" 
+2026-08-18 09:01:33.638920(+0530)[5204:16024] INF SID matched with SECURITY_LOCAL_SYSTEM_RID
+2026-08-18 09:01:33.638920(+0530)[5204:16024] INF ZSAService RPC: Accepting RPC from a SYSTEM owned Zscaler process
+2026-08-18 09:01:33.640934(+0530)[5204:16024] INF getCurrentUserSid: SessionId: 1
+2026-08-18 09:01:33.640934(+0530)[5204:16024] INF Retrieving logged on User SID.
+2026-08-18 09:01:33.644963(+0530)[5204:16024] INF Session Id: 0, state: WTSDisconnected
+2026-08-18 09:01:33.644963(+0530)[5204:16024] INF Session Id: 1, state: WTSActive
+2026-08-18 09:01:33.644963(+0530)[5204:16024] INF Logon SID session ID: 1
+2026-08-18 09:01:33.646977(+0530)[5204:16024] INF Logon SID user name: arjo5004
+2026-08-18 09:01:33.648992(+0530)[5204:16024] INF Logon SID user domain: ENTERPRISE
+2026-08-18 09:01:33.648992(+0530)[5204:16024] INF Logon SID full user name: ENTERPRISE\arjo5004
+2026-08-18 09:01:33.651005(+0530)[5204:16024] INF Logon SID: S-1-12-1-2357405129-1281513531-255772574-1816207334
+2026-08-18 09:01:33.652763(+0530)[5204:16024] INF ZSAService RPC checking auth
+2026-08-18 09:01:33.652763(+0530)[5204:16024] INF ZSAService RPC inquiry success: 17128
+2026-08-18 09:01:33.652763(+0530)[5204:16024] INF RpcServerCache: pid 17128: hit: 1, ret: ALLOWED
+2026-08-18 09:01:33.724245(+0530)[5204:16024] INF ZSAService RPC checking auth
+2026-08-18 09:01:33.724245(+0530)[5204:16024] INF ZSAService RPC inquiry success: 11416
+2026-08-18 09:01:33.724245(+0530)[5204:16024] INF RpcServerCache: pid 11416: hit: 1, ret: ALLOWED
+2026-08-18 09:01:33.724245(+0530)[5204:16024] INF ZSAService RPC command: STOP_ZDP_SERVICE
+2026-08-18 09:01:33.724245(+0530)[5204:16024] INF Stopping ZSAZdp Service
+2026-08-18 09:01:33.726257(+0530)[5204:16024] ERR SendUserCommandToService: Failed to OpenService. Error: 0x00000424
+2026-08-18 09:01:33.726257(+0530)[5204:16024] ERR Failed to open Service, error: 0x00000424
+2026-08-18 09:01:33.886841(+0530)[5204:16024] INF Getting status for service: ZDPService
+2026-08-18 09:01:33.886841(+0530)[5204:16024] ERR Failed to open service handle.
+2026-08-18 09:01:33.888857(+0530)[5204:16024] INF Returning service status: 0
+2026-08-18 09:01:33.888857(+0530)[5204:16024] ERR ZSAZdp Service stop fail. State: 0
+2026-08-18 09:01:33.888857(+0530)[5204:16024] INF Done with ZSAService RPC command: STOP_ZDP_SERVICE with return value:2
+2026-08-18 09:01:33.888857(+0530)[5204:16024] INF ZSAService RPC checking auth
+2026-08-18 09:01:33.888857(+0530)[5204:16024] INF ZSAService RPC inquiry success: 11416
+2026-08-18 09:01:33.888857(+0530)[5204:16024] INF RpcServerCache: pid 11416: hit: 1, ret: ALLOWED
+2026-08-18 09:01:33.890619(+0530)[5204:16024] INF ZSAService RPC command: 149
+2026-08-18 09:01:33.896663(+0530)[5204:16024] INF [ZEP][readZEPInstallerDetails], ZEP installer path: C:\Program Files\Zscaler\ZEPInstaller\. Product version: 26.5.0.36
+2026-08-18 09:01:33.896663(+0530)[5204:16024] INF Done with ZSAService RPC command: 149 with return value:0
+2026-08-18 09:01:33.898676(+0530)[5204:16024] INF ZSAService RPC checking auth
+2026-08-18 09:01:33.898676(+0530)[5204:16024] INF ZSAService RPC inquiry success: 11416
+2026-08-18 09:01:33.898676(+0530)[5204:16024] INF RpcServerCache: pid 11416: hit: 1, ret: ALLOWED
+2026-08-18 09:01:33.898676(+0530)[5204:16024] INF ZSAService RPC command: 97
+2026-08-18 09:01:33.900690(+0530)[5204:16024] INF Validating process for PID: 11416
+2026-08-18 09:01:33.900690(+0530)[5204:16024] INF Process Name: C:\Program Files\Zscaler\ZSATrayManager\ZSATrayManager.exe
+2026-08-18 09:01:33.989777(+0530)[5204:16024] INF Signer does not matches Zscaler. Hence, checking for zscaler EV sign status.
+2026-08-18 09:01:33.991790(+0530)[5204:16024] INF Process executable is signed by Zscaler EV.
+2026-08-18 09:01:33.991790(+0530)[5204:16024] INF Signer trust released.
+2026-08-18 09:01:33.991790(+0530)[5204:16024] INF Process executable is signed by Zscaler.
+2026-08-18 09:01:33.991790(+0530)[5204:16024] INF UserSID: "0, 0, 0, 0, 0, 5", SECURITY_LOCAL_SYSTEM_RID: "0, 0, 0, 0, 0, 5" 
+2026-08-18 09:01:33.991790(+0530)[5204:16024] INF SID matched with SECURITY_LOCAL_SYSTEM_RID
+2026-08-18 09:01:33.991790(+0530)[5204:16024] ERR ZSARegistryInterfaceImpl::getValue: failed for Registry: SOFTWARE\Zscaler Inc.\Zscaler\ IsRevertInitByZcc, Error: 0x00000002
+2026-08-18 09:01:33.993805(+0530)[5204:16024] ERR [isValidRevertZccCall] Unexpected call received.
+2026-08-18 09:01:33.993805(+0530)[5204:16024] INF [ZEP][processATRequest], Received request: [ENABLE][11416][1][1][C:\Program Files\Zscaler\ZSATrayManager\ZSATrayManager.exe]
+2026-08-18 09:01:33.993805(+0530)[5204:16024] INF [ZEP][validateRequest], Enable AT request.
+2026-08-18 09:01:34.215720(+0530)[5204:16024] INF ZEPSdk: GetZEPProductVersion return value: 26.05.0.36
+2026-08-18 09:01:34.528753(+0530)[5204:16024] INF ZEPSdk: SetATMode return value: 1
+2026-08-18 09:01:34.528753(+0530)[5204:16024] INF ZEvent:: Event zcc_start_anti_tampering disposition: {"desiredAggregation":{"agg_metrics":["success"],"aggregate":2,"bucket":1,"split_metrics":[]},"desiredPriority":0,"schema":1}
+2026-08-18 09:01:34.528753(+0530)[5204:16024] INF ZEvents: Raised event:  zcc_start_anti_tampering / 0x100306404 added to queue. Size 12
+2026-08-18 09:01:34.528753(+0530)[5204:16024] INF [ZEP][processATRequest], Request: successful.
+2026-08-18 09:01:34.530764(+0530)[5204:16024] INF Done with ZSAService RPC command: 97 with return value:0
+2026-08-18 09:01:35.137240(+0530)[5204:16024] INF ZSAService RPC checking auth
+2026-08-18 09:01:35.139253(+0530)[5204:16024] INF ZSAService RPC inquiry success: 11416
+2026-08-18 09:01:35.139253(+0530)[5204:16024] INF RpcServerCache: pid 11416: hit: 1, ret: ALLOWED
+2026-08-18 09:01:35.141271(+0530)[5204:16024] INF ZSAService RPC command: ZSASERVICE_CONFIG
+2026-08-18 09:01:35.151085(+0530)[5204:13560] ERR Error: 0x00000002 reading registry: HKEY_LOCAL_MACHINE:
+2026-08-18 09:01:35.151085(+0530)[5204:13560] ERR Error: 0x00000002 reading registry: HKEY_LOCAL_MACHINE:
+2026-08-18 09:01:35.151085(+0530)[5204:13560] ERR Error: 0x00000002 reading registry: HKEY_LOCAL_MACHINE:
+2026-08-18 09:01:35.151085(+0530)[5204:13560] ERR Error: 0x00000002 reading registry: HKEY_LOCAL_MACHINE::InstallerJwtPwdPublicKey
+2026-08-18 09:01:35.155113(+0530)[5204:16024] INF maxCompositeSize has been updated to 20MB, triggering cleanup...
+2026-08-18 09:01:35.155113(+0530)[5204:16024] INF ACL permission changed from SystemLevelWithUserRead to SystemLevelWithUserRead
+2026-08-18 09:01:35.155113(+0530)[5204:16024] INF Done with ZSAService RPC command: ZSASERVICE_CONFIG with return value:0
+2026-08-18 09:01:35.919576(+0530)[5204:12316] INF Registries being monitored: 23
+2026-08-18 09:01:39.197765(+0530)[5204:16024] INF ZSAService RPC checking auth
+2026-08-18 09:01:39.199778(+0530)[5204:16024] INF ZSAService RPC inquiry success: 11416
+2026-08-18 09:01:39.199778(+0530)[5204:16024] INF RpcServerCache: pid 11416: hit: 1, ret: ALLOWED
+2026-08-18 09:01:39.209585(+0530)[5204:16024] INF ZSALocalization::getCurrentUserLangRegValue: User language registry value retrieved successfully with active user SID.
+2026-08-18 09:01:39.209585(+0530)[5204:16024] INF ZSALocalization::getCurrentUserLangRegValue returning English
+2026-08-18 09:01:39.209585(+0530)[5204:16024] INF ZSALocalization: got lang value 'English' from registry
+2026-08-18 09:01:39.209585(+0530)[5204:16024] INF ZSALocalization: returning language: 9
+2026-08-18 09:01:39.209585(+0530)[5204:16024] INF setLanguage:: setting localization language English: 
+2026-08-18 09:01:42.614012(+0530)[5204:12260] INF [LogMon] Logger monitor woke up, clean up triggered. Size 79032
+2026-08-18 09:02:22.074806(+0530)[5204:16024] INF ZSAService RPC checking auth
+2026-08-18 09:02:22.074806(+0530)[5204:16024] INF ZSAService RPC inquiry success: 17128
+2026-08-18 09:02:22.074806(+0530)[5204:16024] INF RpcServerCache: pid 17128: hit: 1, ret: ALLOWED
+2026-08-18 09:02:22.075812(+0530)[5204:16024] INF ZEvents setPolicy: ZDX enabled='1', ZCC enabled='1', REM enabled='1'; collect machine info 1, user info 1
+2026-08-18 09:02:22.075812(+0530)[5204:16024] INF ZEvents setPolicy: feature enabled. Starting...
+2026-08-18 09:02:22.075812(+0530)[5204:16024] INF ZEventsTransmitter: Resetting quit event.
+2026-08-18 09:02:22.075812(+0530)[5204:16024] INF ZEvents setPolicy: Stopping Remediation events transmitter...
+2026-08-18 09:02:22.075812(+0530)[5204:16024] INF ZEvents::stopRemediationTransmitter: remediationTransmitterThread is not running
+2026-08-18 09:02:22.075812(+0530)[5204:16024] INF ZEvents setPolicy: success? 1
+2026-08-18 09:02:22.075812(+0530)[5204:19992] INF ZEventsTransmitter: Start up.
+2026-08-18 09:02:22.127638(+0530)[5204:19992] INF ZEvents: sendEventRPC rpc success: 1 rpc result: 0x00000000
+2026-08-18 09:02:22.156966(+0530)[5204:19992] INF ZEvents: sendEventRPC rpc success: 1 rpc result: 0x00000000
+2026-08-18 09:02:22.174071(+0530)[5204:19992] INF ZEvents: sendEventRPC rpc success: 1 rpc result: 0x00000000
+2026-08-18 09:02:22.193113(+0530)[5204:19992] INF ZEvents: sendEventRPC rpc success: 1 rpc result: 0x00000000
+2026-08-18 09:02:22.219061(+0530)[5204:19992] INF ZEvents: sendEventRPC rpc success: 1 rpc result: 0x00000000
+2026-08-18 09:02:22.241597(+0530)[5204:19992] INF ZEvents: sendEventRPC rpc success: 1 rpc result: 0x00000000
+2026-08-18 09:02:22.273324(+0530)[5204:19992] INF ZEvents: sendEventRPC rpc success: 1 rpc result: 0x00000000
+2026-08-18 09:02:22.289954(+0530)[5204:19992] INF ZEvents: sendEventRPC rpc success: 1 rpc result: 0x00000000
+2026-08-18 09:02:22.306835(+0530)[5204:19992] INF ZEvents: sendEventRPC rpc success: 1 rpc result: 0x00000000
+2026-08-18 09:02:22.323967(+0530)[5204:19992] INF ZEvents: sendEventRPC rpc success: 1 rpc result: 0x00000000
+2026-08-18 09:02:22.340717(+0530)[5204:19992] INF ZEvents: sendEventRPC rpc success: 1 rpc result: 0x00000000
+2026-08-18 09:02:22.359078(+0530)[5204:19992] INF ZEvents: sendEventRPC rpc success: 1 rpc result: 0x00000000
+2026-08-18 09:02:22.374776(+0530)[5204:19992] INF ZEventsTransmitter: Setting idle event.
+2026-08-18 09:03:13.362502(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:03:13.363502(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:05:13.370254(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:05:13.370254(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:07:13.371921(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:07:13.371921(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:09:13.385349(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:09:13.385349(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:11:13.395933(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:11:13.395933(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:13:13.399331(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:13:13.399729(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:15:13.404252(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:15:13.406256(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:17:13.411214(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:17:13.412346(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:19:13.427298(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:19:13.427298(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:21:13.441305(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:21:13.441305(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:23:13.455698(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:23:13.455698(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:25:13.472040(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:25:13.472040(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:27:13.485250(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:27:13.485250(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:29:13.496910(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:29:13.496910(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:31:13.512390(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:31:13.512390(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:33:13.519795(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:33:13.520780(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:35:13.529307(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:35:13.530313(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:36:46.167405(+0530)[5204:13560] INF ZSAService::checkSessionEvent, SessionEvent: 7, SessionId: 1
+2026-08-18 09:36:46.181465(+0530)[5204:13560] INF ZSASessionManager::onWindowsSessionChange, Received Windows Session Event. EventTypeId: 7, EventTypeString: SESSION_LOCK, SessionId: 1
+2026-08-18 09:36:46.207062(+0530)[5204:13560] INF ImpersonateLoggedOnUser() successful
+2026-08-18 09:36:46.281775(+0530)[5204:13560] INF Launched child process [pid 10748]
+2026-08-18 09:36:46.333322(+0530)[5204:13560] INF Child process exit code: [4294967295]
+2026-08-18 09:36:46.335329(+0530)[5204:13560] INF ZSASessionManager::isRDPChildSession ZSAHelper exited with code 4294967295. CommandLine: "C:\Program Files\Zscaler\ZSAHelper\ZSAHelper.exe" --childSessionId for currentSessionId:- 1
+2026-08-18 09:37:13.541915(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:37:13.542920(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:39:13.558732(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:39:13.559778(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:40:30.295150(+0530)[5204:13560] INF ZSAService::checkSessionEvent, SessionEvent: 8, SessionId: 1
+2026-08-18 09:40:30.296893(+0530)[5204:13560] INF ZSASessionManager::onWindowsSessionChange, Received Windows Session Event. EventTypeId: 8, EventTypeString: SESSION_UNLOCK, SessionId: 1
+2026-08-18 09:40:30.304476(+0530)[5204:13560] INF ImpersonateLoggedOnUser() successful
+2026-08-18 09:40:30.338549(+0530)[5204:13560] INF Launched child process [pid 24332]
+2026-08-18 09:40:30.647871(+0530)[5204:13560] INF Child process exit code: [4294967295]
+2026-08-18 09:40:30.647871(+0530)[5204:13560] INF ZSASessionManager::isRDPChildSession ZSAHelper exited with code 4294967295. CommandLine: "C:\Program Files\Zscaler\ZSAHelper\ZSAHelper.exe" --childSessionId for currentSessionId:- 1
+2026-08-18 09:41:13.569613(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:41:13.569613(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:43:13.577793(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:43:13.577793(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:45:13.582697(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:45:13.582697(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:47:13.595982(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:47:13.595982(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:49:13.606926(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:49:13.606926(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:51:13.615043(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:51:13.615043(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:53:13.617363(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:53:13.617363(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:55:13.628913(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:55:13.629931(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:57:13.645656(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:57:13.645656(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:59:13.650533(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 09:59:13.650533(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 09:59:32.833568(+0530)[5204:13560] INF ZSAService::checkSessionEvent, SessionEvent: 7, SessionId: 1
+2026-08-18 09:59:32.833568(+0530)[5204:13560] INF ZSASessionManager::onWindowsSessionChange, Received Windows Session Event. EventTypeId: 7, EventTypeString: SESSION_LOCK, SessionId: 1
+2026-08-18 09:59:32.840134(+0530)[5204:13560] INF ImpersonateLoggedOnUser() successful
+2026-08-18 09:59:32.885593(+0530)[5204:13560] INF Launched child process [pid 19908]
+2026-08-18 09:59:32.934818(+0530)[5204:13560] INF Child process exit code: [4294967295]
+2026-08-18 09:59:32.934818(+0530)[5204:13560] INF ZSASessionManager::isRDPChildSession ZSAHelper exited with code 4294967295. CommandLine: "C:\Program Files\Zscaler\ZSAHelper\ZSAHelper.exe" --childSessionId for currentSessionId:- 1
+2026-08-18 10:00:08.199099(+0530)[5204:13560] INF ZSAService::checkSessionEvent, SessionEvent: 8, SessionId: 1
+2026-08-18 10:00:08.199099(+0530)[5204:13560] INF ZSASessionManager::onWindowsSessionChange, Received Windows Session Event. EventTypeId: 8, EventTypeString: SESSION_UNLOCK, SessionId: 1
+2026-08-18 10:00:08.202515(+0530)[5204:13560] INF ImpersonateLoggedOnUser() successful
+2026-08-18 10:00:08.246922(+0530)[5204:13560] INF Launched child process [pid 27500]
+2026-08-18 10:00:08.351487(+0530)[5204:13560] INF Child process exit code: [4294967295]
+2026-08-18 10:00:08.351487(+0530)[5204:13560] INF ZSASessionManager::isRDPChildSession ZSAHelper exited with code 4294967295. CommandLine: "C:\Program Files\Zscaler\ZSAHelper\ZSAHelper.exe" --childSessionId for currentSessionId:- 1
+2026-08-18 10:01:08.552954(+0530)[5204:13560] INF ZSAService::checkSessionEvent, SessionEvent: 7, SessionId: 1
+2026-08-18 10:01:08.552954(+0530)[5204:13560] INF ZSASessionManager::onWindowsSessionChange, Received Windows Session Event. EventTypeId: 7, EventTypeString: SESSION_LOCK, SessionId: 1
+2026-08-18 10:01:08.562002(+0530)[5204:13560] INF ImpersonateLoggedOnUser() successful
+2026-08-18 10:01:08.692673(+0530)[5204:13560] INF Launched child process [pid 22960]
+2026-08-18 10:01:08.760674(+0530)[5204:13560] INF Child process exit code: [4294967295]
+2026-08-18 10:01:08.760674(+0530)[5204:13560] INF ZSASessionManager::isRDPChildSession ZSAHelper exited with code 4294967295. CommandLine: "C:\Program Files\Zscaler\ZSAHelper\ZSAHelper.exe" --childSessionId for currentSessionId:- 1
+2026-08-18 10:01:13.662690(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:01:13.662690(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:03:13.667875(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:03:13.667875(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:05:13.684736(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:05:13.684736(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:06:13.502722(+0530)[5204:13560] INF ZSAService::checkSessionEvent, SessionEvent: 8, SessionId: 1
+2026-08-18 10:06:13.502722(+0530)[5204:13560] INF ZSASessionManager::onWindowsSessionChange, Received Windows Session Event. EventTypeId: 8, EventTypeString: SESSION_UNLOCK, SessionId: 1
+2026-08-18 10:06:13.509767(+0530)[5204:13560] INF ImpersonateLoggedOnUser() successful
+2026-08-18 10:06:13.599042(+0530)[5204:13560] INF Launched child process [pid 26832]
+2026-08-18 10:06:13.824784(+0530)[5204:13560] INF Child process exit code: [4294967295]
+2026-08-18 10:06:13.824784(+0530)[5204:13560] INF ZSASessionManager::isRDPChildSession ZSAHelper exited with code 4294967295. CommandLine: "C:\Program Files\Zscaler\ZSAHelper\ZSAHelper.exe" --childSessionId for currentSessionId:- 1
+2026-08-18 10:06:22.989787(+0530)[5204:13560] INF ZSAService::checkSessionEvent, SessionEvent: 7, SessionId: 1
+2026-08-18 10:06:22.989787(+0530)[5204:13560] INF ZSASessionManager::onWindowsSessionChange, Received Windows Session Event. EventTypeId: 7, EventTypeString: SESSION_LOCK, SessionId: 1
+2026-08-18 10:06:22.992310(+0530)[5204:13560] INF ImpersonateLoggedOnUser() successful
+2026-08-18 10:06:23.035395(+0530)[5204:13560] INF Launched child process [pid 27076]
+2026-08-18 10:06:23.089126(+0530)[5204:13560] INF Child process exit code: [4294967295]
+2026-08-18 10:06:23.091142(+0530)[5204:13560] INF ZSASessionManager::isRDPChildSession ZSAHelper exited with code 4294967295. CommandLine: "C:\Program Files\Zscaler\ZSAHelper\ZSAHelper.exe" --childSessionId for currentSessionId:- 1
+2026-08-18 10:07:13.700238(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:07:13.700238(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:09:13.716589(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:09:13.716589(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:11:13.718764(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:11:13.719780(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:13:13.729309(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:13:13.729309(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:15:13.739581(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:15:13.739581(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:17:13.748967(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:17:13.748967(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:19:13.754341(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:19:13.754341(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:21:13.764044(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:21:13.764044(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:23:13.778502(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:23:13.778502(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:25:13.786666(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:25:13.786666(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:27:13.795922(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:27:13.795922(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:27:44.320516(+0530)[5204:13560] INF ZSAService::checkSessionEvent, SessionEvent: 8, SessionId: 1
+2026-08-18 10:27:44.320516(+0530)[5204:13560] INF ZSASessionManager::onWindowsSessionChange, Received Windows Session Event. EventTypeId: 8, EventTypeString: SESSION_UNLOCK, SessionId: 1
+2026-08-18 10:27:44.328289(+0530)[5204:13560] INF ImpersonateLoggedOnUser() successful
+2026-08-18 10:27:44.375805(+0530)[5204:13560] INF Launched child process [pid 27492]
+2026-08-18 10:27:44.519485(+0530)[5204:13560] INF Child process exit code: [4294967295]
+2026-08-18 10:27:44.519485(+0530)[5204:13560] INF ZSASessionManager::isRDPChildSession ZSAHelper exited with code 4294967295. CommandLine: "C:\Program Files\Zscaler\ZSAHelper\ZSAHelper.exe" --childSessionId for currentSessionId:- 1
+2026-08-18 10:29:13.799931(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:29:13.799931(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:31:13.803447(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:31:13.803447(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:33:13.817188(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:33:13.818147(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:35:13.826754(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:35:13.826754(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:37:13.840499(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:37:13.840499(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:39:13.851183(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:39:13.851183(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:41:13.863837(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:41:13.863837(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:43:13.873457(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:43:13.873457(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:45:13.880553(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:45:13.880553(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:47:13.895303(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:47:13.895303(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:49:13.907723(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:49:13.907723(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:51:13.919925(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:51:13.920663(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:53:13.929007(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:53:13.929007(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:55:13.940335(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:55:13.940335(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:57:13.946798(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:57:13.946798(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 10:59:13.951542(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 10:59:13.951542(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:01:13.967192(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:01:13.967192(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:03:13.971646(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:03:13.972652(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:05:13.973706(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:05:13.975163(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:07:13.983528(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:07:13.983528(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:09:13.996297(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:09:13.996297(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:11:14.010105(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:11:14.011109(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:13:14.027577(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:13:14.028591(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:15:14.038171(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:15:14.039174(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:17:14.053154(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:17:14.053154(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:19:14.060530(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:19:14.060530(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:21:14.067386(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:21:14.067386(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:23:14.079635(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:23:14.080636(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:25:14.092824(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:25:14.093929(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:27:14.102344(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:27:14.103349(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:29:14.119443(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:29:14.120447(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:31:14.134655(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:31:14.135655(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:33:14.148670(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:33:14.148670(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:35:14.152263(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:35:14.153744(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:37:14.171768(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:37:14.172276(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:39:14.176495(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:39:14.177497(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:41:14.186251(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:41:14.187257(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:43:14.189316(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:43:14.189316(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:45:14.203746(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:45:14.204758(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:47:14.209462(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:47:14.209462(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:49:14.216578(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:49:14.216578(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:51:14.221951(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:51:14.222952(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:53:14.224282(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:53:14.224282(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:55:14.235095(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:55:14.235095(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:57:14.236815(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:57:14.236815(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 11:59:14.247768(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 11:59:14.247768(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:01:14.256408(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:01:14.256408(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:03:14.264357(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:03:14.265412(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:05:14.276630(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:05:14.277636(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:07:14.285731(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:07:14.285731(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:09:14.289825(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:09:14.289825(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:11:14.302919(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:11:14.302919(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:13:14.303974(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:13:14.303974(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:15:14.313629(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:15:14.313629(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:17:14.329105(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:17:14.329105(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:19:14.343579(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:19:14.343579(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:21:14.350312(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:21:14.350312(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:23:14.357072(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:23:14.357072(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:25:14.366564(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:25:14.366564(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:27:14.381829(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:27:14.381829(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:29:14.383833(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:29:14.383833(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:31:14.392631(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:31:14.393642(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:33:14.399308(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:33:14.399308(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:35:14.403914(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:35:14.404913(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:37:14.417022(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:37:14.418026(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:39:14.421628(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:39:14.421628(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:41:14.424927(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:41:14.425913(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:43:14.436871(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:43:14.437872(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:45:14.448348(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:45:14.451389(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:47:14.466195(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:47:14.472224(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:49:14.485269(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:49:14.487788(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:51:14.494487(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:51:14.495491(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:53:14.509976(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:53:14.509976(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:55:14.533965(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:55:14.537848(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:57:14.546731(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:57:14.548792(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 12:59:14.553329(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 12:59:14.556329(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 13:01:14.570126(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 13:01:14.575125(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 13:03:14.592542(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 13:03:14.599575(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 13:04:16.695359(+0530)[5204:13560] INF ZSAService::checkSessionEvent, SessionEvent: 7, SessionId: 1
+2026-08-18 13:04:16.713749(+0530)[5204:13560] INF ZSASessionManager::onWindowsSessionChange, Received Windows Session Event. EventTypeId: 7, EventTypeString: SESSION_LOCK, SessionId: 1
+2026-08-18 13:04:16.998352(+0530)[5204:13560] INF ImpersonateLoggedOnUser() successful
+2026-08-18 13:04:17.346064(+0530)[5204:13560] INF Launched child process [pid 28028]
+2026-08-18 13:04:17.611702(+0530)[5204:13560] INF Child process exit code: [4294967295]
+2026-08-18 13:04:17.645647(+0530)[5204:13560] INF ZSASessionManager::isRDPChildSession ZSAHelper exited with code 4294967295. CommandLine: "C:\Program Files\Zscaler\ZSAHelper\ZSAHelper.exe" --childSessionId for currentSessionId:- 1
+2026-08-18 13:04:23.987819(+0530)[5204:13560] INF ZSAService::checkSessionEvent, SessionEvent: 8, SessionId: 1
+2026-08-18 13:04:23.987819(+0530)[5204:13560] INF ZSASessionManager::onWindowsSessionChange, Received Windows Session Event. EventTypeId: 8, EventTypeString: SESSION_UNLOCK, SessionId: 1
+2026-08-18 13:04:24.008032(+0530)[5204:13560] INF ImpersonateLoggedOnUser() successful
+2026-08-18 13:04:24.277501(+0530)[5204:13560] INF Launched child process [pid 25520]
+2026-08-18 13:04:24.396789(+0530)[5204:13560] INF Child process exit code: [4294967295]
+2026-08-18 13:04:24.399784(+0530)[5204:13560] INF ZSASessionManager::isRDPChildSession ZSAHelper exited with code 4294967295. CommandLine: "C:\Program Files\Zscaler\ZSAHelper\ZSAHelper.exe" --childSessionId for currentSessionId:- 1
+2026-08-18 13:05:14.601805(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 13:05:14.601805(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 13:06:24.560436(+0530)[5204:13560] INF ZSAService::checkSessionEvent, SessionEvent: 7, SessionId: 1
+2026-08-18 13:06:24.584579(+0530)[5204:13560] INF ZSASessionManager::onWindowsSessionChange, Received Windows Session Event. EventTypeId: 7, EventTypeString: SESSION_LOCK, SessionId: 1
+2026-08-18 13:06:24.622394(+0530)[5204:13560] INF ImpersonateLoggedOnUser() successful
+2026-08-18 13:06:24.878393(+0530)[5204:13560] INF Launched child process [pid 28872]
+2026-08-18 13:06:25.234209(+0530)[5204:13560] INF Child process exit code: [4294967295]
+2026-08-18 13:06:25.236841(+0530)[5204:13560] INF ZSASessionManager::isRDPChildSession ZSAHelper exited with code 4294967295. CommandLine: "C:\Program Files\Zscaler\ZSAHelper\ZSAHelper.exe" --childSessionId for currentSessionId:- 1
+2026-08-18 13:07:14.605198(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 13:07:14.605198(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 13:09:14.608139(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 13:09:14.624243(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 13:11:14.646032(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 13:11:14.659833(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 13:13:14.668045(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 13:13:14.683722(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 13:15:14.707010(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 13:15:14.715025(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 13:17:14.741447(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 13:17:14.750786(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 13:19:14.773819(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 13:19:14.779831(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 13:21:14.794822(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 13:21:14.802589(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 13:23:14.807502(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 13:23:14.807502(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 13:25:14.810690(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 13:25:14.826747(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 13:27:14.831173(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 13:27:14.846972(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 13:29:14.875451(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 13:29:14.891350(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 13:31:14.486818(+0530)[5204:13560] INF ZSAService::checkSessionEvent, SessionEvent: 8, SessionId: 1
+2026-08-18 13:31:14.574721(+0530)[5204:13560] INF ZSASessionManager::onWindowsSessionChange, Received Windows Session Event. EventTypeId: 8, EventTypeString: SESSION_UNLOCK, SessionId: 1
+2026-08-18 13:31:14.797336(+0530)[5204:13560] INF ImpersonateLoggedOnUser() successful
+2026-08-18 13:31:15.021686(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 13:31:15.075460(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 13:31:15.782339(+0530)[5204:13560] INF Launched child process [pid 10732]
+2026-08-18 13:31:17.270593(+0530)[5204:13560] INF Child process exit code: [4294967295]
+2026-08-18 13:31:17.314501(+0530)[5204:13560] INF ZSASessionManager::isRDPChildSession ZSAHelper exited with code 4294967295. CommandLine: "C:\Program Files\Zscaler\ZSAHelper\ZSAHelper.exe" --childSessionId for currentSessionId:- 1
+2026-08-18 13:33:15.104737(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 13:33:15.104737(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 13:35:15.109640(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-18 13:35:15.109640(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-18 13:35:58.186987(+0530)[5204:13560] INF ZSAService::checkSessionEvent, SessionEvent: 7, SessionId: 1
+2026-08-18 13:35:58.189509(+0530)[5204:13560] INF ZSASessionManager::onWindowsSessionChange, Received Windows Session Event. EventTypeId: 7, EventTypeString: SESSION_LOCK, SessionId: 1
+2026-08-18 13:35:58.249707(+0530)[5204:13560] INF ImpersonateLoggedOnUser() successful
+2026-08-18 13:35:58.361155(+0530)[5204:13560] INF Launched child process [pid 25624]
+2026-08-18 13:35:58.488622(+0530)[5204:13560] INF Child process exit code: [4294967295]
+2026-08-18 13:35:58.490752(+0530)[5204:13560] INF ZSASessionManager::isRDPChildSession ZSAHelper exited with code 4294967295. CommandLine: "C:\Program Files\Zscaler\ZSAHelper\ZSAHelper.exe" --childSessionId for currentSessionId:- 1
+2026-08-18 13:38:26.562280(+0530)[5204:11904] INF onPowerEventChange: powerEventType=4
+2026-08-18 18:56:02.061179(+0530)[5204:11904] INF onPowerEventChange: powerEventType=18
+2026-08-18 18:56:02.062695(+0530)[5204:11904] INF onPowerEventChange: powerEventType=7
+2026-08-18 18:56:02.751256(+0530)[5204:21760] INF onPowerEventChange: powerEventType=4
+2026-08-19 04:26:33.098853(+0530)[5204:21760] INF onPowerEventChange: powerEventType=7
+2026-08-19 04:26:33.098853(+0530)[5204:21760] INF onPowerEventChange: powerEventType=18
+2026-08-19 04:26:42.566140(+0530)[5204:13560] INF ZSAService::checkSessionEvent, SessionEvent: 8, SessionId: 1
+2026-08-19 04:26:42.566140(+0530)[5204:13560] INF ZSASessionManager::onWindowsSessionChange, Received Windows Session Event. EventTypeId: 8, EventTypeString: SESSION_UNLOCK, SessionId: 1
+2026-08-19 04:26:42.582189(+0530)[5204:13560] INF ImpersonateLoggedOnUser() successful
+2026-08-19 04:26:43.147571(+0530)[5204:13560] INF Launched child process [pid 31164]
+2026-08-19 04:26:43.446909(+0530)[5204:13560] INF Child process exit code: [4294967295]
+2026-08-19 04:26:43.446909(+0530)[5204:13560] INF ZSASessionManager::isRDPChildSession ZSAHelper exited with code 4294967295. CommandLine: "C:\Program Files\Zscaler\ZSAHelper\ZSAHelper.exe" --childSessionId for currentSessionId:- 1
+2026-08-19 04:26:45.769862(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 04:26:45.769862(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 04:27:04.645854(+0530)[5204:13536] INF ZSAService RPC checking auth
+2026-08-19 04:27:04.645854(+0530)[5204:13536] INF ZSAService RPC inquiry success: 17128
+2026-08-19 04:27:04.646866(+0530)[5204:13536] INF RpcServerCache: pid 17128: hit: 0, ret: UNKNOWN
+2026-08-19 04:27:04.646866(+0530)[5204:13536] INF Validating process for PID: 17128
+2026-08-19 04:27:04.646866(+0530)[5204:13536] INF Process Name: C:\Program Files\Zscaler\ZSAUpm\ZSAUpm.exe
+2026-08-19 04:27:04.769181(+0530)[5204:13536] INF Signer does not matches Zscaler. Hence, checking for zscaler EV sign status.
+2026-08-19 04:27:04.769181(+0530)[5204:13536] INF Process executable is signed by Zscaler EV.
+2026-08-19 04:27:04.769181(+0530)[5204:13536] INF Signer trust released.
+2026-08-19 04:27:04.775702(+0530)[5204:13536] INF Process executable is signed by Zscaler.
+2026-08-19 04:27:04.775702(+0530)[5204:13536] INF UserSID: "0, 0, 0, 0, 0, 5", SECURITY_LOCAL_SYSTEM_RID: "0, 0, 0, 0, 0, 5" 
+2026-08-19 04:27:04.775702(+0530)[5204:13536] INF SID matched with SECURITY_LOCAL_SYSTEM_RID
+2026-08-19 04:27:04.775702(+0530)[5204:13536] INF ZSAService RPC: Accepting RPC from a SYSTEM owned Zscaler process
+2026-08-19 04:27:04.776701(+0530)[5204:13536] INF ZEvents setPolicy: ZDX enabled='1', ZCC enabled='1', REM enabled='1'; collect machine info 1, user info 1
+2026-08-19 04:27:04.776701(+0530)[5204:13536] INF ZEvents setPolicy: feature enabled. Starting...
+2026-08-19 04:27:04.776701(+0530)[5204:13536] INF ZEvents::startTransmitter: transmitterThread is already running
+2026-08-19 04:27:04.776701(+0530)[5204:13536] INF ZEvents setPolicy: Stopping Remediation events transmitter...
+2026-08-19 04:27:04.776701(+0530)[5204:13536] INF ZEvents::stopRemediationTransmitter: remediationTransmitterThread is not running
+2026-08-19 04:27:04.776701(+0530)[5204:13536] INF ZEvents setPolicy: success? 1
+2026-08-19 04:28:45.786023(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 04:28:45.786023(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 04:30:45.799260(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 04:30:45.799260(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 04:31:48.985669(+0530)[5204:13560] INF ZSAService::checkSessionEvent, SessionEvent: 7, SessionId: 1
+2026-08-19 04:31:48.985669(+0530)[5204:13560] INF ZSASessionManager::onWindowsSessionChange, Received Windows Session Event. EventTypeId: 7, EventTypeString: SESSION_LOCK, SessionId: 1
+2026-08-19 04:31:48.990629(+0530)[5204:13560] INF ImpersonateLoggedOnUser() successful
+2026-08-19 04:31:49.065190(+0530)[5204:13560] INF Launched child process [pid 18924]
+2026-08-19 04:31:49.166044(+0530)[5204:13560] INF Child process exit code: [4294967295]
+2026-08-19 04:31:49.166044(+0530)[5204:13560] INF ZSASessionManager::isRDPChildSession ZSAHelper exited with code 4294967295. CommandLine: "C:\Program Files\Zscaler\ZSAHelper\ZSAHelper.exe" --childSessionId for currentSessionId:- 1
+2026-08-19 04:32:45.801072(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 04:32:45.801072(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 04:34:45.808624(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 04:34:45.809133(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 04:36:45.810324(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 04:36:45.810324(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 04:38:45.817199(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 04:38:45.817199(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 04:40:45.833363(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 04:40:45.833363(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 04:42:45.849973(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 04:42:45.849973(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 04:44:45.856705(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 04:44:45.856705(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 04:46:45.863217(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 04:46:45.863217(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 04:48:45.872316(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 04:48:45.872851(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 04:50:45.877766(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 04:50:45.877766(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 04:52:45.880932(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 04:52:45.880932(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 04:53:18.934793(+0530)[5204:13560] INF ZSAService::checkSessionEvent, SessionEvent: 8, SessionId: 1
+2026-08-19 04:53:18.934793(+0530)[5204:13560] INF ZSASessionManager::onWindowsSessionChange, Received Windows Session Event. EventTypeId: 8, EventTypeString: SESSION_UNLOCK, SessionId: 1
+2026-08-19 04:53:18.938815(+0530)[5204:13560] INF ImpersonateLoggedOnUser() successful
+2026-08-19 04:53:19.008535(+0530)[5204:13560] INF Launched child process [pid 18000]
+2026-08-19 04:53:19.157015(+0530)[5204:13560] INF Child process exit code: [4294967295]
+2026-08-19 04:53:19.157015(+0530)[5204:13560] INF ZSASessionManager::isRDPChildSession ZSAHelper exited with code 4294967295. CommandLine: "C:\Program Files\Zscaler\ZSAHelper\ZSAHelper.exe" --childSessionId for currentSessionId:- 1
+2026-08-19 04:54:45.886266(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 04:54:45.886266(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 04:56:45.901745(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 04:56:45.901745(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 04:58:45.905457(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 04:58:45.905457(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:00:45.917378(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:00:45.917378(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:02:45.927780(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:02:45.927780(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:04:45.938997(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:04:45.938997(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:06:45.946962(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:06:45.946962(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:08:45.949480(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:08:45.949480(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:10:45.958424(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:10:45.958424(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:12:45.972569(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:12:45.973563(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:14:45.988361(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:14:45.989376(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:16:45.997322(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:16:45.997322(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:18:46.012388(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:18:46.012388(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:20:46.023221(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:20:46.023221(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:22:46.038662(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:22:46.038662(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:24:46.049123(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:24:46.049123(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:26:46.056126(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:26:46.056126(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:28:46.069884(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:28:46.070877(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:30:46.079932(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:30:46.080946(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:32:46.082497(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:32:46.083439(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:34:46.087853(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:34:46.087853(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:36:46.099935(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:36:46.099935(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:38:46.104160(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:38:46.106220(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:40:46.116374(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:40:46.117059(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:42:46.121718(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:42:46.123744(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:44:46.133508(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:44:46.135574(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:46:46.147791(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:46:46.149843(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:48:46.156909(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:48:46.158963(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:50:46.163882(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:50:46.165939(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:52:46.169155(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:52:46.169155(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:54:46.172285(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:54:46.178309(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:56:46.190386(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:56:46.192413(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 05:58:46.207866(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 05:58:46.209906(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:00:46.213721(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:00:46.215762(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:02:46.224983(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:02:46.227095(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:04:46.239106(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:04:46.241144(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:06:46.243556(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:06:46.245595(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:08:46.251332(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:08:46.252332(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:10:46.264011(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:10:46.264011(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:12:46.278089(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:12:46.278089(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:14:46.279724(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:14:46.279724(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:16:46.285571(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:16:46.285571(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:18:46.295249(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:18:46.295249(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:20:46.306737(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:20:46.307753(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:22:46.314205(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:22:46.314205(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:24:46.322277(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:24:46.322277(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:26:46.325028(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:26:46.325028(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:28:46.334113(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:28:46.334832(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:28:48.064515(+0530)[5204:13560] INF ZSAService::checkSessionEvent, SessionEvent: 7, SessionId: 1
+2026-08-19 06:28:48.064515(+0530)[5204:13560] INF ZSASessionManager::onWindowsSessionChange, Received Windows Session Event. EventTypeId: 7, EventTypeString: SESSION_LOCK, SessionId: 1
+2026-08-19 06:28:48.086069(+0530)[5204:13560] INF ImpersonateLoggedOnUser() successful
+2026-08-19 06:28:48.245865(+0530)[5204:13560] INF Launched child process [pid 12144]
+2026-08-19 06:28:48.343517(+0530)[5204:13560] INF Child process exit code: [4294967295]
+2026-08-19 06:28:48.343517(+0530)[5204:13560] INF ZSASessionManager::isRDPChildSession ZSAHelper exited with code 4294967295. CommandLine: "C:\Program Files\Zscaler\ZSAHelper\ZSAHelper.exe" --childSessionId for currentSessionId:- 1
+2026-08-19 06:30:46.349108(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:30:46.349108(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:32:46.363003(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:32:46.363003(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:34:46.379196(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:34:46.379196(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:36:46.392228(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:36:46.392228(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:38:46.394482(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:38:46.394482(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:40:46.397461(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:40:46.397461(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:42:46.401199(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:42:46.401199(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:44:46.406803(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:44:46.406803(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:46:46.411946(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:46:46.411946(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:48:29.938193(+0530)[5204:13560] INF ZSAService::checkSessionEvent, SessionEvent: 8, SessionId: 1
+2026-08-19 06:48:29.938193(+0530)[5204:13560] INF ZSASessionManager::onWindowsSessionChange, Received Windows Session Event. EventTypeId: 8, EventTypeString: SESSION_UNLOCK, SessionId: 1
+2026-08-19 06:48:29.940201(+0530)[5204:13560] INF ImpersonateLoggedOnUser() successful
+2026-08-19 06:48:29.968578(+0530)[5204:13560] INF Launched child process [pid 11908]
+2026-08-19 06:48:30.121396(+0530)[5204:13560] INF Child process exit code: [4294967295]
+2026-08-19 06:48:30.122394(+0530)[5204:13560] INF ZSASessionManager::isRDPChildSession ZSAHelper exited with code 4294967295. CommandLine: "C:\Program Files\Zscaler\ZSAHelper\ZSAHelper.exe" --childSessionId for currentSessionId:- 1
+2026-08-19 06:48:46.423959(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:48:46.424716(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:50:46.434326(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:50:46.435197(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:52:46.448026(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:52:46.448026(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:54:46.463730(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:54:46.463730(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:56:46.477950(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:56:46.477950(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 06:58:46.490931(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 06:58:46.490931(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:00:46.506765(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:00:46.506765(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:02:46.521473(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:02:46.521473(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:04:46.536403(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:04:46.536403(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:06:46.548875(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:06:46.548875(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:08:46.551834(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:08:46.551834(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:10:46.555733(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:10:46.555733(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:12:46.568902(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:12:46.569416(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:14:46.586442(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:14:46.586442(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:16:46.591540(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:16:46.591540(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:18:46.607217(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:18:46.607217(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:20:46.620145(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:20:46.620145(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:22:46.630429(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:22:46.630947(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:24:46.632117(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:24:46.632117(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:26:46.642313(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:26:46.643319(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:28:46.658902(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:28:46.659812(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:30:46.675476(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:30:46.675476(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:32:46.689679(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:32:46.689679(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:34:46.701989(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:34:46.701989(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:36:46.703442(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:36:46.703442(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:38:46.716202(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:38:46.717879(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:40:46.734099(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:40:46.734099(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:42:46.745143(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:42:46.745143(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:44:46.756555(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:44:46.757560(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:46:46.770866(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:46:46.771872(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:48:46.775011(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:48:46.775011(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:50:46.791576(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:50:46.792873(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:52:46.804491(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:52:46.805487(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:54:46.821309(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:54:46.821740(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:56:46.849159(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:56:46.851172(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 07:58:41.978999(+0530)[5204:13560] INF ZSAService::checkSessionEvent, SessionEvent: 7, SessionId: 1
+2026-08-19 07:58:41.978999(+0530)[5204:13560] INF ZSASessionManager::onWindowsSessionChange, Received Windows Session Event. EventTypeId: 7, EventTypeString: SESSION_LOCK, SessionId: 1
+2026-08-19 07:58:41.982258(+0530)[5204:13560] INF ImpersonateLoggedOnUser() successful
+2026-08-19 07:58:42.041814(+0530)[5204:13560] INF Launched child process [pid 19164]
+2026-08-19 07:58:42.140011(+0530)[5204:13560] INF Child process exit code: [4294967295]
+2026-08-19 07:58:42.142139(+0530)[5204:13560] INF ZSASessionManager::isRDPChildSession ZSAHelper exited with code 4294967295. CommandLine: "C:\Program Files\Zscaler\ZSAHelper\ZSAHelper.exe" --childSessionId for currentSessionId:- 1
+2026-08-19 07:58:46.861050(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 07:58:46.861050(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:00:46.867340(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:00:46.867340(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:02:46.881717(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:02:46.881717(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:04:46.893824(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:04:46.894825(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:06:46.899173(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:06:46.899173(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:08:46.900543(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:08:46.901542(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:10:46.905264(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:10:46.905264(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:12:46.910199(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:12:46.910199(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:14:46.913959(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:14:46.914959(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:16:46.925085(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:16:46.926092(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:18:46.935228(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:18:46.935228(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:20:46.950151(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:20:46.951157(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:22:46.962873(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:22:46.963879(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:24:46.978370(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:24:46.979369(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:26:46.984406(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:26:46.985407(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:28:46.998036(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:28:46.999040(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:30:47.005618(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:30:47.006628(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:32:47.009929(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:32:47.010458(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:33:56.749522(+0530)[5204:29284] INF ZSAService RPC checking auth
+2026-08-19 08:33:56.753788(+0530)[5204:29284] INF ZSAService RPC inquiry success: 11416
+2026-08-19 08:33:56.754792(+0530)[5204:29284] INF RpcServerCache: pid 11416: hit: 0, ret: UNKNOWN
+2026-08-19 08:33:56.755792(+0530)[5204:29284] INF Validating process for PID: 11416
+2026-08-19 08:33:56.755792(+0530)[5204:29284] INF Process Name: C:\Program Files\Zscaler\ZSATrayManager\ZSATrayManager.exe
+2026-08-19 08:33:56.975894(+0530)[5204:29284] INF Signer does not matches Zscaler. Hence, checking for zscaler EV sign status.
+2026-08-19 08:33:56.976897(+0530)[5204:29284] INF Process executable is signed by Zscaler EV.
+2026-08-19 08:33:56.976897(+0530)[5204:29284] INF Signer trust released.
+2026-08-19 08:33:56.977894(+0530)[5204:29284] INF Process executable is signed by Zscaler.
+2026-08-19 08:33:56.977894(+0530)[5204:29284] INF UserSID: "0, 0, 0, 0, 0, 5", SECURITY_LOCAL_SYSTEM_RID: "0, 0, 0, 0, 0, 5" 
+2026-08-19 08:33:56.977894(+0530)[5204:29284] INF SID matched with SECURITY_LOCAL_SYSTEM_RID
+2026-08-19 08:33:56.977894(+0530)[5204:29284] INF ZSAService RPC: Accepting RPC from a SYSTEM owned Zscaler process
+2026-08-19 08:33:56.979897(+0530)[5204:29284] INF ZSAService RPC command: 149
+2026-08-19 08:33:56.979897(+0530)[5204:29284] INF Done with ZSAService RPC command: 149 with return value:0
+2026-08-19 08:33:56.980898(+0530)[5204:29284] INF ZSAService RPC checking auth
+2026-08-19 08:33:56.980898(+0530)[5204:29284] INF ZSAService RPC inquiry success: 11416
+2026-08-19 08:33:56.980898(+0530)[5204:29284] INF RpcServerCache: pid 11416: hit: 1, ret: ALLOWED
+2026-08-19 08:33:56.980898(+0530)[5204:29284] INF ZSAService RPC command: 97
+2026-08-19 08:33:56.980898(+0530)[5204:29284] INF Validating process for PID: 11416
+2026-08-19 08:33:56.981897(+0530)[5204:29284] INF Process Name: C:\Program Files\Zscaler\ZSATrayManager\ZSATrayManager.exe
+2026-08-19 08:33:57.041735(+0530)[5204:29284] INF Signer does not matches Zscaler. Hence, checking for zscaler EV sign status.
+2026-08-19 08:33:57.041735(+0530)[5204:29284] INF Process executable is signed by Zscaler EV.
+2026-08-19 08:33:57.041735(+0530)[5204:29284] INF Signer trust released.
+2026-08-19 08:33:57.042736(+0530)[5204:29284] INF Process executable is signed by Zscaler.
+2026-08-19 08:33:57.042736(+0530)[5204:29284] INF UserSID: "0, 0, 0, 0, 0, 5", SECURITY_LOCAL_SYSTEM_RID: "0, 0, 0, 0, 0, 5" 
+2026-08-19 08:33:57.042736(+0530)[5204:29284] INF SID matched with SECURITY_LOCAL_SYSTEM_RID
+2026-08-19 08:33:57.044396(+0530)[5204:29284] ERR ZSARegistryInterfaceImpl::getValue: failed for Registry: SOFTWARE\Zscaler Inc.\Zscaler\ IsRevertInitByZcc, Error: 0x00000002
+2026-08-19 08:33:57.044396(+0530)[5204:29284] ERR [isValidRevertZccCall] Unexpected call received.
+2026-08-19 08:33:57.045478(+0530)[5204:29284] INF [ZEP][processATRequest], Received request: [ENABLE][11416][1][1][C:\Program Files\Zscaler\ZSATrayManager\ZSATrayManager.exe]
+2026-08-19 08:33:57.045838(+0530)[5204:29284] INF [ZEP][validateRequest], Enable AT request.
+2026-08-19 08:33:57.172610(+0530)[5204:29284] INF ZEPSdk: GetZEPProductVersion return value: 26.05.0.36
+2026-08-19 08:33:57.368471(+0530)[5204:29284] INF ZEPSdk: SetATMode return value: 1
+2026-08-19 08:33:57.369473(+0530)[5204:29284] INF ZEvent:: Event zcc_start_anti_tampering disposition: {"desiredAggregation":{"agg_metrics":["success"],"aggregate":2,"bucket":1,"split_metrics":[]},"desiredPriority":0,"schema":1}
+2026-08-19 08:33:57.369473(+0530)[5204:29284] INF ZEvents: Raised event:  zcc_start_anti_tampering / 0x100306404 added to queue. Size 0
+2026-08-19 08:33:57.369473(+0530)[5204:29284] INF [ZEP][processATRequest], Request: successful.
+2026-08-19 08:33:57.370720(+0530)[5204:29284] INF Done with ZSAService RPC command: 97 with return value:0
+2026-08-19 08:33:57.372073(+0530)[5204:29284] INF ZSAService RPC checking auth
+2026-08-19 08:33:57.372073(+0530)[5204:29284] INF ZSAService RPC inquiry success: 11416
+2026-08-19 08:33:57.372073(+0530)[5204:29284] INF RpcServerCache: pid 11416: hit: 1, ret: ALLOWED
+2026-08-19 08:33:57.373218(+0530)[5204:29284] INF ZCCProfile: Send ZCC Profile: 1
+2026-08-19 08:33:57.373218(+0530)[5204:29284] INF ZSAService RPC checking auth
+2026-08-19 08:33:57.373218(+0530)[5204:29284] INF ZSAService RPC inquiry success: 11416
+2026-08-19 08:33:57.373218(+0530)[5204:29284] INF RpcServerCache: pid 11416: hit: 1, ret: ALLOWED
+2026-08-19 08:33:57.374229(+0530)[5204:29284] INF ZSAService RPC command: ZSASERVICE_CONFIG
+2026-08-19 08:33:57.376218(+0530)[5204:13560] ERR Error: 0x00000002 reading registry: HKEY_LOCAL_MACHINE:
+2026-08-19 08:33:57.376218(+0530)[5204:13560] ERR Error: 0x00000002 reading registry: HKEY_LOCAL_MACHINE:
+2026-08-19 08:33:57.376218(+0530)[5204:13560] ERR Error: 0x00000002 reading registry: HKEY_LOCAL_MACHINE:
+2026-08-19 08:33:57.376218(+0530)[5204:13560] ERR Error: 0x00000002 reading registry: HKEY_LOCAL_MACHINE::InstallerJwtPwdPublicKey
+2026-08-19 08:33:57.376218(+0530)[5204:29284] INF maxCompositeSize has been updated to 20MB, triggering cleanup...
+2026-08-19 08:33:57.376218(+0530)[5204:29284] INF ACL permission changed from SystemLevelWithUserRead to SystemLevelWithUserRead
+2026-08-19 08:33:57.376218(+0530)[5204:29284] INF Done with ZSAService RPC command: ZSASERVICE_CONFIG with return value:0
+2026-08-19 08:33:57.425131(+0530)[5204:7512] INF ZSAService RPC checking auth
+2026-08-19 08:33:57.425131(+0530)[5204:7512] INF ZSAService RPC inquiry success: 11416
+2026-08-19 08:33:57.425131(+0530)[5204:7512] INF RpcServerCache: pid 11416: hit: 1, ret: ALLOWED
+2026-08-19 08:33:57.426136(+0530)[5204:7512] INF ZSAService RPC command: STOP_ZDP_SERVICE
+2026-08-19 08:33:57.426136(+0530)[5204:7512] INF Stopping ZSAZdp Service
+2026-08-19 08:33:57.426136(+0530)[5204:7512] ERR SendUserCommandToService: Failed to OpenService. Error: 0x00000424
+2026-08-19 08:33:57.427136(+0530)[5204:7512] ERR Failed to open Service, error: 0x00000424
+2026-08-19 08:33:57.475007(+0530)[5204:7512] INF Getting status for service: ZDPService
+2026-08-19 08:33:57.475007(+0530)[5204:7512] ERR Failed to open service handle.
+2026-08-19 08:33:57.475007(+0530)[5204:7512] INF Returning service status: 0
+2026-08-19 08:33:57.475007(+0530)[5204:7512] ERR ZSAZdp Service stop fail. State: 0
+2026-08-19 08:33:57.475007(+0530)[5204:7512] INF Done with ZSAService RPC command: STOP_ZDP_SERVICE with return value:2
+2026-08-19 08:33:57.481290(+0530)[5204:19992] INF ZEvents: sendEventRPC rpc success: 1 rpc result: 0x00000000
+2026-08-19 08:33:57.491731(+0530)[5204:19992] INF ZEventsTransmitter: Setting idle event.
+2026-08-19 08:33:57.726508(+0530)[5204:12316] INF Registries being monitored: 23
+2026-08-19 08:34:00.626908(+0530)[5204:12260] INF [LogMon] Logger monitor woke up, clean up triggered. Size 154696
+2026-08-19 08:34:47.025304(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:34:47.025304(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:36:47.034490(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:36:47.035498(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:38:47.050545(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:38:47.051545(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:39:07.648745(+0530)[5204:13560] INF ZSAService::checkSessionEvent, SessionEvent: 8, SessionId: 1
+2026-08-19 08:39:07.648745(+0530)[5204:13560] INF ZSASessionManager::onWindowsSessionChange, Received Windows Session Event. EventTypeId: 8, EventTypeString: SESSION_UNLOCK, SessionId: 1
+2026-08-19 08:39:07.656787(+0530)[5204:13560] INF ImpersonateLoggedOnUser() successful
+2026-08-19 08:39:07.874802(+0530)[5204:13560] INF Launched child process [pid 18236]
+2026-08-19 08:39:07.939328(+0530)[5204:13560] INF Child process exit code: [4294967295]
+2026-08-19 08:39:07.939328(+0530)[5204:13560] INF ZSASessionManager::isRDPChildSession ZSAHelper exited with code 4294967295. CommandLine: "C:\Program Files\Zscaler\ZSAHelper\ZSAHelper.exe" --childSessionId for currentSessionId:- 1
+2026-08-19 08:40:47.055338(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:40:47.055338(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:42:47.059838(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:42:47.060320(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:44:47.069277(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:44:47.069277(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:46:47.084857(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:46:47.085856(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:48:47.092026(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:48:47.092026(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:50:47.100401(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:50:47.100401(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:52:47.114674(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:52:47.114674(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:54:47.129885(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:54:47.129885(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:56:47.144866(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:56:47.144866(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 08:58:47.146491(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 08:58:47.146491(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 09:00:47.154947(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 09:00:47.154947(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 09:02:47.164547(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 09:02:47.164547(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING
+2026-08-19 09:04:47.179528(+0530)[5204:12320] INF Getting status for service: ZSATrayManager
+2026-08-19 09:04:47.180528(+0530)[5204:12320] INF Returning service status: SERVICE_RUNNING

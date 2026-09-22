@@ -1,0 +1,14 @@
+[
+  {
+    "event_id":"EVT00058",
+    "device_id":"device_02",
+    "category":"system_stability",
+    "label":"anomaly",
+    "confidence":80,
+    "confidence_reason":"5 Kernel-Power Event ID 41 ('the system rebooted without cleanly shutting down first') \u2014 a well-known signature of an unexpected power loss, hang requiring hard reset, or crash",
+    "description":"5 unexpected shutdown event(s) (Kernel-Power ID 41)",
+    "source_file":"BootShutdownHistory\/BootShutdownEvents_KernelPower.csv",
+    "evidence_detail":"{'TimeCreated': '06-05-2026 09:35:37', 'Id': 41, 'LevelDisplayName': 'Critical', 'Message': 'The system has rebooted without cleanly shutting down first. This error could be caused if the system stopped responding, crashed, or lost power unexpectedly.'}",
+    "timestamp":null
+  }
+]

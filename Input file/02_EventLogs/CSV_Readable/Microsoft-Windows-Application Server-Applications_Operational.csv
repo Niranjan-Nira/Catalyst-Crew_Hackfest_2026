@@ -1,0 +1,215 @@
+﻿"TimeCreated","Id","LevelDisplayName","ProviderName","Message"
+"13-08-2026 14:28:23","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"13-08-2026 14:13:36","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"13-08-2026 13:08:40","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"08-07-2026 10:18:41","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"07-07-2026 19:42:06","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.BeginRead(Int32 offset, Int32 size, TimeSpan timeout, WaitCallback callback, Object state)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"30-06-2026 17:08:19","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"30-06-2026 16:48:40","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"30-06-2026 16:11:01","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"30-06-2026 14:39:16","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"30-06-2026 14:07:34","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"30-06-2026 13:19:08","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"29-06-2026 10:10:25","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"29-06-2026 09:46:51","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"29-06-2026 09:05:10","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"26-06-2026 18:22:08","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"26-06-2026 17:34:30","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"17-06-2026 15:18:06","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"17-06-2026 15:03:59","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"17-06-2026 12:34:57","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"15-06-2026 14:37:14","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.BeginRead(Int32 offset, Int32 size, TimeSpan timeout, WaitCallback callback, Object state)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"08-06-2026 16:35:42","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.BeginRead(Int32 offset, Int32 size, TimeSpan timeout, WaitCallback callback, Object state)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"08-06-2026 15:46:35","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"03-06-2026 11:28:30","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"03-06-2026 10:38:20","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"01-06-2026 14:35:05","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"31-05-2026 11:38:37","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"28-05-2026 18:18:40","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"28-05-2026 12:53:33","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"28-05-2026 10:54:44","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.FaultException`1[Seagull.Services.Licensing.Contracts.NoActiveLicenseFault]: The creator of this fault did not specify a Reason. (Fault Detail is equal to Seagull.Services.Licensing.Contracts.NoActiveLicenseFault)."
+"28-05-2026 10:54:29","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.FaultException`1[Seagull.Services.Licensing.Contracts.NoActiveLicenseFault]: The creator of this fault did not specify a Reason. (Fault Detail is equal to Seagull.Services.Licensing.Contracts.NoActiveLicenseFault)."
+"28-05-2026 10:54:14","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.FaultException`1[Seagull.Services.Licensing.Contracts.NoActiveLicenseFault]: The creator of this fault did not specify a Reason. (Fault Detail is equal to Seagull.Services.Licensing.Contracts.NoActiveLicenseFault)."
+"28-05-2026 10:53:59","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.FaultException`1[Seagull.Services.Licensing.Contracts.NoActiveLicenseFault]: The creator of this fault did not specify a Reason. (Fault Detail is equal to Seagull.Services.Licensing.Contracts.NoActiveLicenseFault)."
+"28-05-2026 10:01:42","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.BeginRead(Int32 offset, Int32 size, TimeSpan timeout, WaitCallback callback, Object state)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"26-05-2026 14:55:49","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"26-05-2026 14:09:05","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"26-05-2026 13:42:39","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"26-05-2026 13:17:06","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"26-05-2026 12:20:21","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"25-05-2026 18:34:00","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"25-05-2026 16:21:45","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"25-05-2026 16:15:16","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"25-05-2026 15:13:49","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"25-05-2026 14:25:26","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"23-05-2026 14:27:18","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"23-05-2026 13:22:48","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"
+"23-05-2026 13:20:56","57405","Error","Microsoft-Windows-Application Server-Applications","Handling an exception. Exception details: System.ServiceModel.CommunicationException: There was an error reading from the pipe: Unrecognized error 109 (0x6d). ---> System.IO.PipeException: There was an error reading from the pipe: Unrecognized error 109 (0x6d).
+   at System.ServiceModel.Channels.PipeConnection.OnAsyncReadComplete(Boolean haveResult, Int32 error, Int32 numBytes)
+   --- End of inner exception stack trace ---
+   at System.ServiceModel.Channels.ConnectionModeReader.GetConnectionMode()
+   at System.ServiceModel.Channels.ConnectionDemuxer.OnConnectionModeKnownCore(ConnectionModeReader modeReader, Boolean isCached)"

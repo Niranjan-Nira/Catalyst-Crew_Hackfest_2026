@@ -1,0 +1,1655 @@
+﻿"TimeCreated","Id","LevelDisplayName","Message"
+"19-08-2026 14:36:00","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"19-08-2026 14:34:42","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"19-08-2026 14:32:30","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"19-08-2026 13:52:54","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"19-08-2026 13:30:10","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"19-08-2026 13:22:20","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"19-08-2026 13:20:14","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"19-08-2026 11:00:03","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"19-08-2026 10:57:09","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"19-08-2026 10:45:14","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"19-08-2026 10:43:06","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"19-08-2026 10:39:23","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"19-08-2026 10:37:02","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"19-08-2026 10:36:56","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"19-08-2026 10:34:50","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"19-08-2026 10:18:01","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"19-08-2026 10:17:57","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"19-08-2026 10:17:34","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"19-08-2026 10:17:27","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"19-08-2026 10:17:15","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"19-08-2026 10:17:09","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"19-08-2026 10:16:59","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"19-08-2026 10:16:57","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"19-08-2026 10:16:44","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"19-08-2026 10:16:43","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"19-08-2026 10:16:35","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"19-08-2026 09:59:00","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"19-08-2026 09:56:32","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"18-08-2026 17:50:55","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"18-08-2026 17:48:50","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"18-08-2026 17:21:53","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"18-08-2026 17:19:45","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"18-08-2026 15:05:41","7031","Error","The Microsoft Defender Antivirus Service service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 1000 milliseconds: Restart the service."
+"18-08-2026 14:54:43","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"18-08-2026 14:45:45","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"18-08-2026 14:39:16","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"18-08-2026 14:37:12","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"18-08-2026 14:36:03","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"18-08-2026 14:31:40","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"18-08-2026 14:31:39","7023","Error","The SysMain service terminated with the following error: 
+The parameter is incorrect."
+"18-08-2026 14:31:12","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"18-08-2026 14:20:33","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"18-08-2026 14:12:01","7031","Error","The Microsoft Defender Antivirus Service service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 1000 milliseconds: Restart the service."
+"18-08-2026 13:16:47","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"18-08-2026 13:14:41","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"18-08-2026 10:49:03","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"18-08-2026 10:46:01","7040","Information","The start type of the DBUtilDrv2 Service service was changed from demand start to disabled."
+"18-08-2026 10:45:51","7045","Information","A service was installed in the system.
+
+Service Name:  DBUtilDrv2 Service
+Service File Name:  \SystemRoot\System32\drivers\DBUtilDrv2.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"18-08-2026 10:30:18","7045","Information","A service was installed in the system.
+
+Service Name:  Intel® Graphics Software
+Service File Name:  ""C:\Program Files\WindowsApps\AppUp.IntelArcSoftware_26.26.2459.0_x64__8j3eq9eme6ctt\VFS\ProgramFilesX64\Intel\Intel Graphics Software\IntelGraphicsSoftware.Service.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"18-08-2026 10:30:18","7040","Information","The start type of the Intel® Graphics Software service was changed from auto start to disabled."
+"18-08-2026 10:29:12","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"18-08-2026 10:28:20","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"18-08-2026 10:02:01","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"18-08-2026 09:47:22","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"18-08-2026 09:45:14","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"18-08-2026 09:43:02","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"18-08-2026 09:40:48","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"17-08-2026 19:43:04","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"17-08-2026 19:36:34","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"17-08-2026 18:56:40","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"17-08-2026 10:47:46","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"17-08-2026 10:37:21","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"17-08-2026 10:35:15","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"17-08-2026 10:09:40","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"17-08-2026 10:05:09","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"17-08-2026 10:03:35","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"17-08-2026 09:59:50","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"17-08-2026 09:44:42","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"17-08-2026 09:42:35","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"17-08-2026 09:41:32","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"17-08-2026 09:39:24","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"17-08-2026 09:38:49","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"17-08-2026 09:36:37","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"14-08-2026 18:57:32","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"14-08-2026 18:55:24","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"14-08-2026 16:07:20","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"14-08-2026 16:05:14","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"14-08-2026 14:54:49","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"14-08-2026 14:52:44","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"14-08-2026 14:25:20","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"14-08-2026 14:22:30","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"14-08-2026 13:54:57","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"14-08-2026 13:52:52","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"14-08-2026 13:36:54","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"14-08-2026 13:34:34","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"14-08-2026 13:30:34","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"14-08-2026 13:28:29","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"14-08-2026 13:24:42","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"14-08-2026 13:22:32","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"13-08-2026 15:35:19","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"13-08-2026 15:33:13","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"13-08-2026 15:10:55","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"13-08-2026 15:08:39","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"13-08-2026 14:54:49","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"13-08-2026 14:52:44","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"13-08-2026 13:54:55","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"13-08-2026 13:52:47","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"13-08-2026 10:48:36","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"13-08-2026 10:46:31","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"13-08-2026 10:11:33","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"13-08-2026 10:08:38","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"13-08-2026 09:48:48","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"13-08-2026 09:46:43","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"12-08-2026 19:25:54","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"12-08-2026 19:23:33","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"12-08-2026 14:54:49","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"12-08-2026 14:52:43","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"12-08-2026 14:23:43","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"12-08-2026 14:21:34","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"12-08-2026 13:54:54","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"12-08-2026 13:51:44","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"12-08-2026 12:11:16","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"12-08-2026 12:08:39","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"12-08-2026 12:07:39","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"12-08-2026 12:05:34","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"12-08-2026 11:39:33","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"12-08-2026 11:37:27","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"12-08-2026 10:58:28","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"12-08-2026 10:55:50","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"12-08-2026 10:44:46","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"12-08-2026 10:42:42","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"12-08-2026 09:48:43","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"12-08-2026 09:46:38","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"12-08-2026 09:14:49","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"12-08-2026 09:12:43","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"11-08-2026 14:48:00","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"11-08-2026 14:45:53","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"11-08-2026 12:16:47","7040","Information","The start type of the Dell Client Management Service service was changed from disabled to auto start."
+"11-08-2026 12:16:09","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"11-08-2026 12:13:51","7040","Information","The start type of the Dell Client Management Service service was changed from auto start to disabled."
+"11-08-2026 12:02:41","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"11-08-2026 12:01:57","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"10-08-2026 19:11:31","7011","Error","A timeout (30000 milliseconds) was reached while waiting for a transaction response from the DPMService service."
+"10-08-2026 15:52:58","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"10-08-2026 14:05:21","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"10-08-2026 14:03:12","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"10-08-2026 13:14:15","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"10-08-2026 13:14:13","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"10-08-2026 13:14:10","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"10-08-2026 13:14:03","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"10-08-2026 13:14:03","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"10-08-2026 13:14:03","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"10-08-2026 12:07:39","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"10-08-2026 12:05:34","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"10-08-2026 11:07:47","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"10-08-2026 11:04:37","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"10-08-2026 11:00:24","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"10-08-2026 10:58:18","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"10-08-2026 10:23:46","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"10-08-2026 10:21:27","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"10-08-2026 10:01:24","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"10-08-2026 09:59:14","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"10-08-2026 09:54:03","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"10-08-2026 09:49:39","7040","Information","The start type of the Dell Client Management Service service was changed from disabled to auto start."
+"10-08-2026 09:49:08","7040","Information","The start type of the Dell Client Management Service service was changed from auto start to disabled."
+"10-08-2026 09:48:47","7040","Information","The start type of the Dell Client Management Service service was changed from disabled to auto start."
+"10-08-2026 09:48:46","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"10-08-2026 09:47:42","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"10-08-2026 09:45:40","7040","Information","The start type of the Dell Client Management Service service was changed from auto start to disabled."
+"10-08-2026 09:45:27","7045","Information","A service was installed in the system.
+
+Service Name:  Dell Peripheral Manager Service
+Service File Name:  ""C:\Program Files\Dell\Dell Peripheral Manager\DPMService.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"10-08-2026 09:36:21","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"07-08-2026 18:23:58","7034","Error","The BarTender System Service service terminated unexpectedly.  It has done this 3 time(s)."
+"07-08-2026 18:23:34","7000","Error","The Microsoft Defender Antivirus Network Inspection Service service failed to start due to the following error: 
+The paging file is too small for this operation to complete."
+"07-08-2026 18:23:28","7031","Error","The Microsoft Defender Antivirus Network Inspection Service service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 60000 milliseconds: Restart the service."
+"07-08-2026 18:23:07","7031","Error","The BarTender System Service service terminated unexpectedly.  It has done this 2 time(s).  The following corrective action will be taken in 0 milliseconds: Restart the service."
+"07-08-2026 18:22:31","7031","Error","The Spektion Service service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 30000 milliseconds: Restart the service."
+"07-08-2026 18:22:23","7000","Error","The Diagnostic Service Host service failed to start due to the following error: 
+The paging file is too small for this operation to complete."
+"07-08-2026 18:22:17","7034","Error","The Intel® Graphics Software service terminated unexpectedly.  It has done this 1 time(s)."
+"07-08-2026 18:21:42","7031","Error","The BarTender System Service service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 0 milliseconds: Restart the service."
+"07-08-2026 18:21:35","7000","Error","The DW5934e_SIMSVC service failed to start due to the following error: 
+The service did not respond to the start or control request in a timely fashion."
+"07-08-2026 18:21:35","7009","Error","A timeout was reached (30000 milliseconds) while waiting for the DW5934e_SIMSVC service to connect."
+"07-08-2026 18:21:27","7031","Error","The DW5934e_SIMSVC service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 3000 milliseconds: Restart the service."
+"06-08-2026 08:57:37","7031","Error","The Microsoft Intune Management Extension service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 60000 milliseconds: Restart the service."
+"05-08-2026 15:56:16","7045","Information","A service was installed in the system.
+
+Service Name:  MpKsl75156c8f
+Service File Name:  C:\ProgramData\Microsoft\Windows Defender\Definition Updates\{11263541-644B-4DC2-8ADE-5A290A4C6AF5}\MpKslDrv.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"05-08-2026 12:20:56","7045","Information","A service was installed in the system.
+
+Service Name:  KslD
+Service File Name:  system32\drivers\wd\KslD.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"05-08-2026 12:20:56","7040","Information","The start type of the Microsoft WdAiNisDrv Driver service was changed from demand start to disabled."
+"05-08-2026 10:21:16","7040","Information","The start type of the Microsoft WdAiNisDrv Driver service was changed from disabled to demand start."
+"03-08-2026 09:51:49","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"03-08-2026 09:46:00","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"03-08-2026 09:45:59","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"03-08-2026 09:45:33","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"03-08-2026 09:45:32","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"03-08-2026 09:45:05","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"03-08-2026 09:45:02","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"03-08-2026 09:44:12","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"03-08-2026 09:44:12","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"03-08-2026 09:43:47","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"03-08-2026 09:43:46","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"03-08-2026 09:43:46","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"03-08-2026 09:43:45","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"03-08-2026 09:43:21","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"03-08-2026 09:43:21","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"03-08-2026 09:42:50","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"03-08-2026 09:42:50","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"03-08-2026 09:42:49","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"03-08-2026 09:42:48","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"03-08-2026 09:40:19","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"03-08-2026 09:27:01","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"03-08-2026 09:26:38","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"31-07-2026 18:36:43","7011","Error","A timeout (30000 milliseconds) was reached while waiting for a transaction response from the ZSAUpm service."
+"31-07-2026 18:36:13","7011","Error","A timeout (30000 milliseconds) was reached while waiting for a transaction response from the ZSAUpm service."
+"31-07-2026 16:45:17","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"31-07-2026 16:43:12","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"31-07-2026 16:01:58","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"31-07-2026 15:59:49","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"31-07-2026 15:58:00","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"31-07-2026 15:55:26","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"31-07-2026 13:59:20","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"31-07-2026 13:57:15","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"31-07-2026 12:22:24","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"31-07-2026 12:19:39","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"31-07-2026 11:12:29","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"31-07-2026 11:09:46","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"31-07-2026 10:58:14","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"31-07-2026 10:55:48","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"31-07-2026 10:11:20","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"31-07-2026 10:08:38","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"31-07-2026 09:50:45","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"31-07-2026 09:44:29","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"31-07-2026 09:43:34","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"29-07-2026 10:12:17","7045","Information","A service was installed in the system.
+
+Service Name:  Spektion Service
+Service File Name:  ""C:\Program Files\Spektion\Spektion Sensor\spksvc.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"29-07-2026 10:12:16","7045","Information","A service was installed in the system.
+
+Service Name:  Spektion Driver
+Service File Name:  C:\Windows\system32\Drivers\spektion.sys
+Service Type:  kernel mode driver
+Service Start Type:  system start
+Service Account:  "
+"28-07-2026 09:42:18","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"28-07-2026 09:42:16","7040","Information","The start type of the Hotpatch Monitoring Service service was changed from demand start to auto start."
+"28-07-2026 09:42:13","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"28-07-2026 09:42:11","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"28-07-2026 09:42:04","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"27-07-2026 14:21:08","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"27-07-2026 13:38:04","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"27-07-2026 13:35:53","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"27-07-2026 12:25:29","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"27-07-2026 12:23:06","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"27-07-2026 11:57:28","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"27-07-2026 11:54:54","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"27-07-2026 11:53:49","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"27-07-2026 11:50:03","7023","Error","The SysMain service terminated with the following error: 
+The parameter is incorrect."
+"27-07-2026 11:49:28","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"27-07-2026 11:48:39","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"27-07-2026 11:48:23","7043","Error","The Connected User Experiences and Telemetry service did not shut down properly after receiving a preshutdown control."
+"27-07-2026 10:18:02","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"27-07-2026 10:01:17","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"27-07-2026 09:59:07","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"27-07-2026 09:54:36","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"27-07-2026 09:45:23","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"27-07-2026 09:44:33","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"27-07-2026 09:42:29","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"27-07-2026 09:41:38","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"27-07-2026 09:37:27","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"27-07-2026 09:37:17","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"27-07-2026 09:36:24","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"27-07-2026 09:36:08","7043","Error","The Check Point Endpoint Client Watchdog service did not shut down properly after receiving a preshutdown control."
+"27-07-2026 09:35:05","7023","Error","The Update Orchestrator Service service terminated with the following error: 
+%%2149884192"
+"27-07-2026 09:34:46","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"27-07-2026 09:33:39","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"24-07-2026 21:26:59","7011","Error","A timeout (30000 milliseconds) was reached while waiting for a transaction response from the DPMService service."
+"24-07-2026 18:47:58","7031","Error","The Dell Peripheral Manager Service service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 2000 milliseconds: Restart the service."
+"23-07-2026 10:50:59","7045","Information","A service was installed in the system.
+
+Service Name:  Google Updater Service (GoogleUpdaterService152.0.7933.0)
+Service File Name:  ""C:\Program Files (x86)\Google\GoogleUpdater\152.0.7933.0\updater.exe"" --system --windows-service --service=update
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"23-07-2026 09:45:57","7045","Information","A service was installed in the system.
+
+Service Name:  Google Updater Internal Service (GoogleUpdaterInternalService152.0.7933.0)
+Service File Name:  ""C:\Program Files (x86)\Google\GoogleUpdater\152.0.7933.0\updater.exe"" --system --windows-service --service=update-internal
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"22-07-2026 13:16:55","7040","Information","The start type of the Device Association Service service was changed from demand start to auto start."
+"22-07-2026 11:08:14","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"22-07-2026 11:08:09","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"22-07-2026 11:07:44","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"22-07-2026 10:55:46","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"22-07-2026 10:55:38","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"21-07-2026 08:44:25","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"21-07-2026 08:43:29","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"20-07-2026 11:28:07","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"20-07-2026 11:28:05","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"20-07-2026 11:28:05","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"20-07-2026 11:28:05","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"20-07-2026 11:27:49","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"20-07-2026 11:27:27","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"20-07-2026 10:30:31","7045","Information","A service was installed in the system.
+
+Service Name:  Npcap Packet Driver (NPCAP)
+Service File Name:  \SystemRoot\system32\DRIVERS\npcap.sys
+Service Type:  kernel mode driver
+Service Start Type:  system start
+Service Account:  "
+"20-07-2026 10:29:43","7045","Information","A service was installed in the system.
+
+Service Name:  ZEP Protect filter driver
+Service File Name:  \SystemRoot\System32\drivers\zepprotect.sys
+Service Type:  kernel mode driver
+Service Start Type:  system start
+Service Account:  "
+"20-07-2026 10:29:42","7045","Information","A service was installed in the system.
+
+Service Name:  Zscaler Endpoint Platform Service
+Service File Name:  ""C:\Program Files\Zscaler\ZEP\ZEPService.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"20-07-2026 10:29:19","7045","Information","A service was installed in the system.
+
+Service Name:  Zscaler Filtering Platform (WFP)
+Service File Name:  \SystemRoot\System32\drivers\zsawdrv.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"20-07-2026 10:29:06","7045","Information","A service was installed in the system.
+
+Service Name:  Zscaler LightWeight Filter
+Service File Name:  \SystemRoot\system32\DRIVERS\zapprd.sys
+Service Type:  kernel mode driver
+Service Start Type:  system start
+Service Account:  "
+"20-07-2026 10:28:16","7045","Information","A service was installed in the system.
+
+Service Name:  ZSAScriptOrchestratorService
+Service File Name:  ""C:\Program Files\Zscaler\ZSAScriptOrchestratorService\ZSAScriptOrchestratorService.exe""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  LocalSystem"
+"20-07-2026 10:27:24","7011","Error","A timeout (30000 milliseconds) was reached while waiting for a transaction response from the ZSATunnel service."
+"15-07-2026 13:12:08","7031","Error","The Microsoft Intune Management Extension service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 60000 milliseconds: Restart the service."
+"13-07-2026 12:11:11","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"13-07-2026 12:11:02","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"13-07-2026 12:11:00","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"13-07-2026 12:11:00","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"13-07-2026 12:11:00","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"13-07-2026 12:11:00","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"13-07-2026 12:10:57","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"13-07-2026 12:10:57","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"13-07-2026 10:39:12","7045","Information","A service was installed in the system.
+
+Service Name:  Google Updater Service (GoogleUpdaterService151.0.7910.0)
+Service File Name:  ""C:\Program Files (x86)\Google\GoogleUpdater\151.0.7910.0\updater.exe"" --system --windows-service --service=update
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"13-07-2026 10:24:51","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"13-07-2026 10:04:13","7045","Information","A service was installed in the system.
+
+Service Name:  Google Updater Internal Service (GoogleUpdaterInternalService151.0.7910.0)
+Service File Name:  ""C:\Program Files (x86)\Google\GoogleUpdater\151.0.7910.0\updater.exe"" --system --windows-service --service=update-internal
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"13-07-2026 09:41:12","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"13-07-2026 09:39:01","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"12-07-2026 23:51:44","7011","Error","A timeout (30000 milliseconds) was reached while waiting for a transaction response from the ShellHWDetection service."
+"12-07-2026 19:53:00","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"12-07-2026 19:49:50","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"12-07-2026 18:42:24","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"12-07-2026 18:38:13","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"12-07-2026 18:37:18","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"12-07-2026 18:32:48","7023","Error","The SysMain service terminated with the following error: 
+The parameter is incorrect."
+"12-07-2026 18:32:28","7040","Information","The start type of the Microsoft WdAiNisDrv Driver service was changed from demand start to disabled."
+"12-07-2026 18:32:28","7045","Information","A service was installed in the system.
+
+Service Name:  Microsoft WdAiNisDrv Driver
+Service File Name:  system32\drivers\wd\WdAiNisDrv.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"12-07-2026 18:32:01","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"12-07-2026 18:31:17","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"12-07-2026 18:31:02","7043","Error","The Windows Security Service service did not shut down properly after receiving a preshutdown control."
+"11-07-2026 16:26:34","7011","Error","A timeout (30000 milliseconds) was reached while waiting for a transaction response from the DPMService service."
+"08-07-2026 15:51:53","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"08-07-2026 15:21:05","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"08-07-2026 15:18:22","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"08-07-2026 13:25:46","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"08-07-2026 13:23:41","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"08-07-2026 12:25:52","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"08-07-2026 12:22:53","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"08-07-2026 10:58:21","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"08-07-2026 10:56:15","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"08-07-2026 10:26:46","7045","Information","A service was installed in the system.
+
+Service Name:  KslD
+Service File Name:  system32\drivers\wd\KslD.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"08-07-2026 10:23:20","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"08-07-2026 10:21:14","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"08-07-2026 10:20:51","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"08-07-2026 10:18:15","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"07-07-2026 16:45:06","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"07-07-2026 16:43:00","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"07-07-2026 15:04:41","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"07-07-2026 15:02:35","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"07-07-2026 13:53:55","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"07-07-2026 13:51:48","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"07-07-2026 09:40:12","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"07-07-2026 09:38:05","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"07-07-2026 09:35:40","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"07-07-2026 09:28:31","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"07-07-2026 09:27:39","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"06-07-2026 09:34:41","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"06-07-2026 09:34:31","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"06-07-2026 09:34:27","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"06-07-2026 09:34:27","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"04-07-2026 14:18:39","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"04-07-2026 14:18:06","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"04-07-2026 14:13:52","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"04-07-2026 14:13:02","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"04-07-2026 14:12:05","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"04-07-2026 14:07:23","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"04-07-2026 14:05:12","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"04-07-2026 13:56:46","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"04-07-2026 13:54:08","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"03-07-2026 19:41:21","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"03-07-2026 19:39:11","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"03-07-2026 16:23:08","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"03-07-2026 16:20:52","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"03-07-2026 15:04:41","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"03-07-2026 15:02:36","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"03-07-2026 12:41:29","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"03-07-2026 12:39:19","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"03-07-2026 11:29:43","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"03-07-2026 11:20:36","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"03-07-2026 11:19:41","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"02-07-2026 16:13:21","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"02-07-2026 15:29:18","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"02-07-2026 15:27:11","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"02-07-2026 15:04:40","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"02-07-2026 15:02:35","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"02-07-2026 14:04:48","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"02-07-2026 14:02:41","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"02-07-2026 10:57:12","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"02-07-2026 10:55:05","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"02-07-2026 09:37:09","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"02-07-2026 09:35:04","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"01-07-2026 15:04:41","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"01-07-2026 15:02:36","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"01-07-2026 14:30:19","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"01-07-2026 14:28:11","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"01-07-2026 14:04:48","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"01-07-2026 14:01:47","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"01-07-2026 13:43:17","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"01-07-2026 13:41:12","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"01-07-2026 10:19:22","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"01-07-2026 10:14:23","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"01-07-2026 10:13:54","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"01-07-2026 10:08:26","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"01-07-2026 10:07:40","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"30-06-2026 21:46:37","7011","Error","A timeout (30000 milliseconds) was reached while waiting for a transaction response from the GoogleUpdaterInternalService150.0.7863.0 service."
+"29-06-2026 10:24:25","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"29-06-2026 10:12:27","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"29-06-2026 10:03:20","7040","Information","The start type of the DBUtilDrv2 Service service was changed from demand start to disabled."
+"29-06-2026 10:03:09","7045","Information","A service was installed in the system.
+
+Service Name:  DBUtilDrv2 Service
+Service File Name:  \SystemRoot\System32\drivers\DBUtilDrv2.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"29-06-2026 09:23:29","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"29-06-2026 09:23:28","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"29-06-2026 09:23:18","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"29-06-2026 09:23:02","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"29-06-2026 09:03:23","7045","Information","A service was installed in the system.
+
+Service Name:  Intel® Graphics Software
+Service File Name:  ""C:\Program Files\WindowsApps\AppUp.IntelArcSoftware_26.18.2353.0_x64__8j3eq9eme6ctt\VFS\ProgramFilesX64\Intel\Intel Graphics Software\IntelGraphicsSoftware.Service.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"29-06-2026 09:03:23","7040","Information","The start type of the Intel® Graphics Software service was changed from auto start to disabled."
+"29-06-2026 09:02:36","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"26-06-2026 15:59:48","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"26-06-2026 13:43:17","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"26-06-2026 13:41:12","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"26-06-2026 13:11:54","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"26-06-2026 13:09:45","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"26-06-2026 12:50:00","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"26-06-2026 12:47:52","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"26-06-2026 10:44:04","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"26-06-2026 10:41:59","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"26-06-2026 10:06:25","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"26-06-2026 10:04:18","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"26-06-2026 09:45:22","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"26-06-2026 09:42:41","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"25-06-2026 13:43:14","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"25-06-2026 13:40:09","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"25-06-2026 12:50:07","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"25-06-2026 12:48:01","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"25-06-2026 11:47:12","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"25-06-2026 11:45:04","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"25-06-2026 10:43:59","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"25-06-2026 10:41:53","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"25-06-2026 09:48:54","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"25-06-2026 09:46:23","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"25-06-2026 09:45:51","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"25-06-2026 09:43:46","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"25-06-2026 09:42:05","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"25-06-2026 09:36:13","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"25-06-2026 09:35:17","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"25-06-2026 09:35:02","7043","Error","The Connected User Experiences and Telemetry service did not shut down properly after receiving a preshutdown control."
+"23-06-2026 09:34:41","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"23-06-2026 09:32:46","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"23-06-2026 09:32:28","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"23-06-2026 09:32:25","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"19-06-2026 20:16:42","7011","Error","A timeout (30000 milliseconds) was reached while waiting for a transaction response from the ShellHWDetection service."
+"18-06-2026 09:05:41","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"17-06-2026 19:19:04","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"17-06-2026 19:18:32","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"17-06-2026 19:18:20","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"17-06-2026 19:17:37","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"17-06-2026 19:16:52","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"17-06-2026 19:16:00","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"17-06-2026 19:15:56","7023","Error","The Update Orchestrator Service service terminated with the following error: 
+%%2149884192"
+"17-06-2026 19:14:33","7023","Error","The Hotpatch Monitoring Service service terminated with the following error: 
+The system cannot find the file specified."
+"17-06-2026 19:14:15","7023","Error","The Update Orchestrator Service service terminated with the following error: 
+%%2149884192"
+"17-06-2026 19:13:46","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"17-06-2026 19:13:37","7023","Error","The hpatchmon service terminated with the following error: 
+The system cannot find the file specified."
+"17-06-2026 19:13:37","7040","Information","The start type of the hpatchmon service was changed from auto start to demand start."
+"17-06-2026 19:12:57","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"17-06-2026 10:39:17","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"17-06-2026 10:38:31","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"17-06-2026 10:28:34","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"17-06-2026 10:28:09","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"17-06-2026 10:28:00","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"17-06-2026 10:11:48","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"17-06-2026 10:11:40","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"16-06-2026 16:28:41","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"16-06-2026 10:16:36","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"16-06-2026 10:14:05","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"16-06-2026 10:10:02","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"16-06-2026 10:07:55","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"16-06-2026 10:06:32","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"16-06-2026 10:04:28","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"16-06-2026 10:04:02","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"16-06-2026 09:59:41","7045","Information","A service was installed in the system.
+
+Service Name:  Cirrus Logic Enhance Configuration Service
+Service File Name:  %SystemRoot%\System32\DriverStore\FileRepository\cl01002_apo.inf_amd64_e619acf00d98d76a\EnhanceCS.exe
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"16-06-2026 09:59:40","7040","Information","The start type of the CLABP service service was changed from auto start to disabled."
+"16-06-2026 09:59:40","7040","Information","The start type of the CLABP service service was changed from disabled to auto start."
+"16-06-2026 09:59:40","7040","Information","The start type of the CLABP service service was changed from auto start to disabled."
+"16-06-2026 09:59:39","7045","Information","A service was installed in the system.
+
+Service Name:  CLABP service
+Service File Name:  %SystemRoot%\System32\DriverStore\FileRepository\clabpsvc_x64.inf_amd64_a85e7c8fcd024a39\clabpsvc.exe
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"16-06-2026 09:59:38","7045","Information","A service was installed in the system.
+
+Service Name:  intelliGo Audio Service
+Service File Name:  %SystemRoot%\System32\DriverStore\FileRepository\igoaudioservice.inf_amd64_f4165b132d250bca\IgoAudioService_x64.exe
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"16-06-2026 09:59:34","7045","Information","A service was installed in the system.
+
+Service Name:  Cirrus Logic Legacy Logging Service
+Service File Name:  %SystemRoot%\System32\CLoggerSrv.exe
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"16-06-2026 09:59:32","7045","Information","A service was installed in the system.
+
+Service Name:  SoundWire HID
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\sdcahid.inf_amd64_4bdadfee563fc803\SdcaHid.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"16-06-2026 09:59:32","7045","Information","A service was installed in the system.
+
+Service Name:  Cirrus Logic Global Mic Mute Service
+Service File Name:  %SystemRoot%\System32\CsGMMuteSrv.exe
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"16-06-2026 09:59:31","7045","Information","A service was installed in the system.
+
+Service Name:  Cirrus Logic SDCA XU Audio Device Driver
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\xucsme.inf_amd64_2fc0303188b44c4c\XuCsMe.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"16-06-2026 09:59:31","7045","Information","A service was installed in the system.
+
+Service Name:  SoundWire Audio
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\sdcaclass.inf_amd64_0b2f30007e05e98a\SdcaClass.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"16-06-2026 09:59:31","7045","Information","A service was installed in the system.
+
+Service Name:  SoundWire Audio Multifunction Device
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\sdcamfd.inf_amd64_1b7148aae26a55fd\SdcaMfd.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"16-06-2026 09:59:30","7045","Information","A service was installed in the system.
+
+Service Name:  SoundWire Audio
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\sdcaaggregator.inf_amd64_f61c04c20db43fa5\SdcaAggregator.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"16-06-2026 09:59:30","7045","Information","A service was installed in the system.
+
+Service Name:  Intel® Smart Sound Technology for Bluetooth® LE Audio
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\intcbtle.inf_amd64_f206ea2c036c53d6\IntcBtLE.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"16-06-2026 09:59:30","7045","Information","A service was installed in the system.
+
+Service Name:  Intel® Smart Sound Technology for Bluetooth® Audio
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\intcbtau.inf_amd64_120402337c541b2c\IntcBTAu.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"16-06-2026 09:59:29","7045","Information","A service was installed in the system.
+
+Service Name:  Intel ACX Streaming for SDW
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\intcstreaming.inf_amd64_3bbf9e64932d4b89\IntcStreaming.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"16-06-2026 09:59:29","7045","Information","A service was installed in the system.
+
+Service Name:  Intel® Smart Sound Technology MIPI SoundWire® Controller
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\intcsdwbus.inf_amd64_9d9f8854a71dfa28\IntcSdwBus.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"16-06-2026 09:59:28","7045","Information","A service was installed in the system.
+
+Service Name:  Intel® Smart Sound Technology for USB Audio
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\intcusb.inf_amd64_53083fdb62c4c818\IntcUSB.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"16-06-2026 09:59:28","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"16-06-2026 09:47:23","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"16-06-2026 09:47:07","7043","Error","The Connected User Experiences and Telemetry service did not shut down properly after receiving a preshutdown control."
+"16-06-2026 09:46:50","7043","Error","The Windows Update service did not shut down properly after receiving a preshutdown control."
+"16-06-2026 09:45:29","7040","Information","The start type of the DBUtilDrv2 Service service was changed from demand start to disabled."
+"16-06-2026 09:45:19","7045","Information","A service was installed in the system.
+
+Service Name:  DBUtilDrv2 Service
+Service File Name:  \SystemRoot\System32\drivers\DBUtilDrv2.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"16-06-2026 09:40:28","7040","Information","The start type of the ACPI Audio Compositor Device service was changed from disabled to demand start."
+"16-06-2026 09:40:25","7040","Information","The start type of the Intel(R) GNA Scoring Accelerator service service was changed from disabled to demand start."
+"16-06-2026 09:40:16","7040","Information","The start type of the Intel(R) Audio Service service was changed from disabled to auto start."
+"16-06-2026 09:40:16","7040","Information","The start type of the Intel® Smart Sound Technology OED service was changed from disabled to demand start."
+"16-06-2026 09:40:15","7040","Information","The start type of the Intel® Smart Sound Technology BUS service was changed from disabled to demand start."
+"16-06-2026 09:39:36","7040","Information","The start type of the ACPI Audio Compositor Device service was changed from demand start to disabled."
+"16-06-2026 09:39:33","7040","Information","The start type of the SoundWire HID service was changed from demand start to disabled."
+"16-06-2026 09:39:29","7040","Information","The start type of the SoundWire Audio Multifunction Device service was changed from demand start to disabled."
+"16-06-2026 09:39:26","7040","Information","The start type of the SoundWire Audio service was changed from demand start to disabled."
+"16-06-2026 09:39:21","7040","Information","The start type of the SoundWire Audio service was changed from demand start to disabled."
+"16-06-2026 09:39:17","7040","Information","The start type of the Cirrus Logic Enhance Configuration Service service was changed from auto start to disabled."
+"16-06-2026 09:38:46","7040","Information","The start type of the Cirrus Logic SDCA XU Audio Device Driver service was changed from demand start to disabled."
+"16-06-2026 09:38:42","7040","Information","The start type of the Cirrus Logic Global Mic Mute Service service was changed from auto start to disabled."
+"16-06-2026 09:38:32","7040","Information","The start type of the intelliGo Audio Service service was changed from auto start to disabled."
+"16-06-2026 09:38:00","7040","Information","The start type of the Intel® Smart Sound Technology BUS service was changed from demand start to disabled."
+"16-06-2026 09:37:54","7040","Information","The start type of the Intel(R) Audio Service service was changed from auto start to disabled."
+"16-06-2026 09:37:54","7040","Information","The start type of the Intel® Smart Sound Technology OED service was changed from demand start to disabled."
+"16-06-2026 09:37:51","7040","Information","The start type of the Intel® Smart Sound Technology MIPI SoundWire® Controller service was changed from demand start to disabled."
+"16-06-2026 09:37:47","7040","Information","The start type of the Intel® Smart Sound Technology for USB Audio service was changed from demand start to disabled."
+"16-06-2026 09:37:42","7040","Information","The start type of the Intel® Smart Sound Technology for Bluetooth® Audio service was changed from demand start to disabled."
+"16-06-2026 09:37:29","7040","Information","The start type of the Intel ACX Streaming for SDW service was changed from demand start to disabled."
+"16-06-2026 09:37:21","7040","Information","The start type of the Intel® Smart Sound Technology for Bluetooth® LE Audio service was changed from demand start to disabled."
+"16-06-2026 09:37:10","7040","Information","The start type of the Intel(R) GNA Scoring Accelerator service service was changed from demand start to disabled."
+"15-06-2026 10:56:15","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"15-06-2026 10:56:06","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"15-06-2026 10:56:06","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"15-06-2026 10:56:06","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"15-06-2026 10:55:52","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"15-06-2026 10:55:28","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"15-06-2026 10:35:11","7045","Information","A service was installed in the system.
+
+Service Name:  Google Updater Service (GoogleUpdaterService150.0.7863.0)
+Service File Name:  ""C:\Program Files (x86)\Google\GoogleUpdater\150.0.7863.0\updater.exe"" --system --windows-service --service=update
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"15-06-2026 09:30:09","7045","Information","A service was installed in the system.
+
+Service Name:  Google Updater Internal Service (GoogleUpdaterInternalService150.0.7863.0)
+Service File Name:  ""C:\Program Files (x86)\Google\GoogleUpdater\150.0.7863.0\updater.exe"" --system --windows-service --service=update-internal
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"13-06-2026 01:47:45","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"12-06-2026 16:14:40","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"12-06-2026 16:11:47","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"12-06-2026 16:05:10","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"12-06-2026 16:03:03","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"12-06-2026 15:02:35","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"12-06-2026 15:00:18","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"12-06-2026 10:56:26","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"12-06-2026 10:54:19","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"12-06-2026 10:05:01","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"12-06-2026 10:02:20","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"12-06-2026 10:02:00","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"12-06-2026 09:57:30","7009","Error","A timeout was reached (30000 milliseconds) while waiting for the Sync Host_1eac94 service to connect."
+"12-06-2026 09:57:20","7000","Error","The Windows Camera Frame Server Monitor service failed to start due to the following error: 
+The service did not respond to the start or control request in a timely fashion."
+"12-06-2026 09:57:20","7009","Error","A timeout was reached (30000 milliseconds) while waiting for the Windows Camera Frame Server Monitor service to connect."
+"12-06-2026 09:54:40","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"12-06-2026 09:53:51","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"12-06-2026 09:23:00","7045","Information","A service was installed in the system.
+
+Service Name:  Dell Peripheral Manager Service
+Service File Name:  ""C:\Program Files\Dell\Dell Peripheral Manager\DPMService.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"11-06-2026 15:52:57","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"11-06-2026 10:47:19","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"11-06-2026 10:45:12","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"11-06-2026 10:12:55","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"11-06-2026 10:10:49","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"11-06-2026 09:56:01","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"11-06-2026 09:53:51","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"11-06-2026 09:51:52","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"11-06-2026 09:49:47","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"11-06-2026 08:51:57","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"11-06-2026 06:08:21","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"10-06-2026 20:09:52","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"10-06-2026 20:07:45","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"10-06-2026 19:16:52","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"10-06-2026 19:14:46","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"10-06-2026 15:57:13","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"10-06-2026 15:54:30","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"10-06-2026 13:16:59","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"10-06-2026 13:07:11","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"10-06-2026 12:59:47","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"10-06-2026 12:57:40","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"10-06-2026 12:55:50","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"10-06-2026 12:53:45","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"10-06-2026 12:17:21","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"10-06-2026 12:15:16","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"10-06-2026 10:41:28","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"10-06-2026 10:39:22","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"10-06-2026 09:56:23","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"10-06-2026 09:53:39","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"09-06-2026 19:16:49","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"09-06-2026 19:14:41","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"09-06-2026 18:31:13","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"09-06-2026 18:29:07","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"09-06-2026 15:50:21","7045","Information","A service was installed in the system.
+
+Service Name:  MpKsl9270ce81
+Service File Name:  C:\ProgramData\Microsoft\Windows Defender\Definition Updates\{75FC311C-DDAF-4888-B725-E606EFB2F9A9}\MpKslDrv.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"09-06-2026 15:46:46","7045","Information","A service was installed in the system.
+
+Service Name:  KslD
+Service File Name:  system32\drivers\wd\KslD.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"09-06-2026 12:30:15","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"09-06-2026 12:28:09","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"09-06-2026 12:17:22","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"09-06-2026 12:15:16","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"09-06-2026 11:31:11","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"09-06-2026 11:29:04","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"09-06-2026 10:29:59","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"09-06-2026 10:27:51","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"09-06-2026 09:59:15","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"09-06-2026 09:56:47","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"09-06-2026 09:48:39","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"09-06-2026 09:45:10","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"08-06-2026 20:48:08","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"08-06-2026 19:13:58","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"08-06-2026 19:13:08","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"08-06-2026 16:55:35","7040","Information","The start type of the Windows Update service was changed from disabled to demand start."
+"08-06-2026 16:53:41","7040","Information","The start type of the Windows Update service was changed from demand start to disabled."
+"08-06-2026 16:39:59","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"08-06-2026 15:51:50","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"08-06-2026 15:51:12","7040","Information","The start type of the Dell Client Management Service service was changed from disabled to auto start."
+"08-06-2026 15:49:48","7040","Information","The start type of the Dell Client Management Service service was changed from auto start to disabled."
+"08-06-2026 13:39:19","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"08-06-2026 12:17:21","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"08-06-2026 12:15:16","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"08-06-2026 11:37:34","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"08-06-2026 11:35:27","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"08-06-2026 11:09:26","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"08-06-2026 11:07:20","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"08-06-2026 09:50:10","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"08-06-2026 09:40:13","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"08-06-2026 09:39:26","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"06-06-2026 03:59:27","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"06-06-2026 03:59:24","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"06-06-2026 03:59:10","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"06-06-2026 03:58:22","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"03-06-2026 10:40:57","7045","Information","A service was installed in the system.
+
+Service Name:  Google Chrome Elevation Service (GoogleChromeElevationService)
+Service File Name:  ""C:\Program Files\Google\Chrome\Application\148.0.7778.217\elevation_service.exe""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  LocalSystem"
+"03-06-2026 10:40:38","7045","Information","A service was installed in the system.
+
+Service Name:  Google Updater Service (GoogleUpdaterService149.0.7814.0)
+Service File Name:  ""C:\Program Files (x86)\Google\GoogleUpdater\149.0.7814.0\updater.exe"" --system --windows-service --service=update
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"03-06-2026 10:40:38","7045","Information","A service was installed in the system.
+
+Service Name:  Google Updater Internal Service (GoogleUpdaterInternalService149.0.7814.0)
+Service File Name:  ""C:\Program Files (x86)\Google\GoogleUpdater\149.0.7814.0\updater.exe"" --system --windows-service --service=update-internal
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"03-06-2026 10:14:14","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"03-06-2026 10:14:09","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"03-06-2026 00:42:09","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"03-06-2026 00:24:46","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"03-06-2026 00:13:40","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"03-06-2026 00:12:51","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"02-06-2026 10:51:12","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"02-06-2026 10:20:46","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"02-06-2026 10:14:16","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"02-06-2026 10:13:25","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"01-06-2026 10:16:28","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"01-06-2026 09:51:27","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"01-06-2026 09:44:24","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"01-06-2026 09:42:56","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"01-06-2026 09:42:53","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"01-06-2026 09:42:37","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"01-06-2026 09:42:36","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"01-06-2026 09:40:40","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"01-06-2026 09:40:34","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"01-06-2026 09:40:16","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"01-06-2026 09:37:26","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"01-06-2026 09:32:58","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"01-06-2026 09:28:16","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"01-06-2026 09:27:38","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"01-06-2026 09:25:34","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"01-06-2026 09:23:59","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"01-06-2026 09:19:30","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"01-06-2026 09:18:41","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"31-05-2026 11:12:10","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"29-05-2026 17:43:59","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"29-05-2026 17:41:53","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"29-05-2026 15:06:54","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"29-05-2026 15:04:03","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"29-05-2026 12:57:38","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"29-05-2026 12:55:33","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"29-05-2026 11:57:45","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"29-05-2026 11:54:59","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"29-05-2026 10:48:22","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"29-05-2026 10:46:17","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"29-05-2026 10:44:26","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"29-05-2026 10:42:20","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"29-05-2026 10:24:38","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"29-05-2026 10:22:33","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"29-05-2026 10:13:14","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"29-05-2026 10:09:39","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"29-05-2026 10:05:51","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"29-05-2026 10:03:40","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"28-05-2026 19:51:00","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"28-05-2026 19:48:53","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"28-05-2026 16:58:08","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"28-05-2026 16:50:23","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"28-05-2026 14:09:26","7045","Information","A service was installed in the system.
+
+Service Name:  Realtek USB FE/1GbE/2.5GbE/5GbE/10GbE NIC Family KMDF NetAdapterCx 2.2 64-bit Driver
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\rtu53cx22x64sta.inf_amd64_61e57456ee42ec28\rtu53cx22x64.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"28-05-2026 13:14:35","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"28-05-2026 13:12:30","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"28-05-2026 12:50:53","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"28-05-2026 12:48:47","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"28-05-2026 11:03:21","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"28-05-2026 11:01:16","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"28-05-2026 10:55:49","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"28-05-2026 10:53:08","7045","Information","A service was installed in the system.
+
+Service Name:  Printer Maestro
+Service File Name:  ""C:\Program Files\Seagull\BarTender 11.5\Maestro.Service.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"28-05-2026 10:53:03","7045","Information","A service was installed in the system.
+
+Service Name:  BarTender Print Scheduler
+Service File Name:  ""C:\Program Files\Seagull\BarTender 11.5\PrintScheduler.Service.exe"" /Service  /InstanceName=""Service""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"28-05-2026 10:53:00","7045","Information","A service was installed in the system.
+
+Service Name:  BarTender Integration Service
+Service File Name:  ""C:\Program Files\Seagull\BarTender 11.5\Integration.Service.exe"" /Service  /InstanceName=""Service""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"28-05-2026 10:52:57","7045","Information","A service was installed in the system.
+
+Service Name:  BarTender Licensing Service
+Service File Name:  ""C:\Program Files\Seagull\BarTender 11.5\Licensing.Service.exe"" /Service  /InstanceName=""LIND55MBVC4""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"28-05-2026 10:52:47","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"28-05-2026 10:52:36","7040","Information","The start type of the Net.Tcp Port Sharing Service service was changed from disabled to auto start."
+"28-05-2026 10:52:34","7045","Information","A service was installed in the system.
+
+Service Name:  BarTender System Service
+Service File Name:  ""C:\Program Files\Seagull\BarTender 11.5\BtSystem.Service.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"28-05-2026 10:48:22","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"28-05-2026 10:46:17","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"28-05-2026 10:34:33","7045","Information","A service was installed in the system.
+
+Service Name:  SQL Server CEIP service (BARTENDER)
+Service File Name:  ""C:\Program Files\Microsoft SQL Server\MSSQL15.BARTENDER\MSSQL\Binn\sqlceip.exe"" -Service BARTENDER
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  NT Service\SQLTELEMETRY$BARTENDER"
+"28-05-2026 10:34:14","7045","Information","A service was installed in the system.
+
+Service Name:  SQL Server Agent (BARTENDER)
+Service File Name:  ""C:\Program Files\Microsoft SQL Server\MSSQL15.BARTENDER\MSSQL\Binn\SQLAGENT.EXE"" -i BARTENDER
+Service Type:  user mode service
+Service Start Type:  disabled
+Service Account:  NT AUTHORITY\NETWORKSERVICE"
+"28-05-2026 10:34:11","7045","Information","A service was installed in the system.
+
+Service Name:  RsFx0600 Driver
+Service File Name:  system32\DRIVERS\RsFx0600.sys
+Service Type:  kernel mode driver
+Service Start Type:  disabled
+Service Account:  "
+"28-05-2026 10:31:38","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"28-05-2026 10:30:24","7045","Information","A service was installed in the system.
+
+Service Name:  SQL Server (BARTENDER)
+Service File Name:  ""C:\Program Files\Microsoft SQL Server\MSSQL15.BARTENDER\MSSQL\Binn\sqlservr.exe"" -sBARTENDER
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"28-05-2026 10:30:19","7040","Information","The start type of the SQL Server Browser service was changed from disabled to auto start."
+"28-05-2026 10:30:18","7045","Information","A service was installed in the system.
+
+Service Name:  SQL Server Browser
+Service File Name:  ""C:\Program Files (x86)\Microsoft SQL Server\90\Shared\sqlbrowser.exe""
+Service Type:  user mode service
+Service Start Type:  disabled
+Service Account:  NT AUTHORITY\LOCALSERVICE"
+"28-05-2026 10:29:32","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"28-05-2026 10:29:23","7045","Information","A service was installed in the system.
+
+Service Name:  AzureAttestService
+Service File Name:  C:\Windows\system32\svchost.exe -k AzureAttestService
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"28-05-2026 10:28:54","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"28-05-2026 10:25:52","7045","Information","A service was installed in the system.
+
+Service Name:  SQL Server VSS Writer
+Service File Name:  ""C:\Program Files\Microsoft SQL Server\90\Shared\sqlwriter.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"28-05-2026 10:25:40","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"28-05-2026 10:25:35","7040","Information","The start type of the Message Queuing service was changed from demand start to auto start."
+"28-05-2026 10:25:32","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"28-05-2026 10:24:58","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"28-05-2026 10:24:33","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"28-05-2026 10:20:25","7023","Error","The SysMain service terminated with the following error: 
+The parameter is incorrect."
+"28-05-2026 10:19:41","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"28-05-2026 10:19:41","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"28-05-2026 10:18:53","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"27-05-2026 09:28:13","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"26-05-2026 19:41:58","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"26-05-2026 19:39:25","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"26-05-2026 16:42:19","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"26-05-2026 16:40:13","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"26-05-2026 13:17:30","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"26-05-2026 13:12:05","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"26-05-2026 12:43:16","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"26-05-2026 12:40:19","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"26-05-2026 10:48:23","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"26-05-2026 10:46:18","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"26-05-2026 09:48:59","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"26-05-2026 09:45:24","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"26-05-2026 09:43:03","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"26-05-2026 09:39:23","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"25-05-2026 17:37:38","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"25-05-2026 17:35:17","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"25-05-2026 17:34:21","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"25-05-2026 17:32:15","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"25-05-2026 13:58:51","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"25-05-2026 13:52:41","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"25-05-2026 12:42:26","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"25-05-2026 12:40:20","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"25-05-2026 12:07:26","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"25-05-2026 12:03:55","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"25-05-2026 10:08:11","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"25-05-2026 10:06:06","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"25-05-2026 09:38:46","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"25-05-2026 09:34:40","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"25-05-2026 09:31:35","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"25-05-2026 09:31:30","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"25-05-2026 09:31:13","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"25-05-2026 09:28:38","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"25-05-2026 09:25:02","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"25-05-2026 09:24:44","7040","Information","The start type of the Dell Client Management Service service was changed from disabled to auto start."
+"25-05-2026 09:24:33","7040","Information","The start type of the Dell Client Management Service service was changed from auto start to disabled."
+"25-05-2026 09:24:17","7040","Information","The start type of the Dell Client Management Service service was changed from disabled to auto start."
+"25-05-2026 09:23:18","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"25-05-2026 09:21:43","7040","Information","The start type of the Dell Client Management Service service was changed from auto start to disabled."
+"25-05-2026 09:21:27","7045","Information","A service was installed in the system.
+
+Service Name:  Dell Peripheral Manager Service
+Service File Name:  ""C:\Program Files\Dell\Dell Peripheral Manager\DPMService.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"25-05-2026 09:21:12","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"25-05-2026 09:14:46","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"25-05-2026 09:11:09","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"25-05-2026 09:10:34","7040","Information","The start type of the Dell Client Management Service service was changed from disabled to auto start."
+"25-05-2026 09:10:14","7040","Information","The start type of the Dell Client Management Service service was changed from auto start to disabled."
+"25-05-2026 09:10:04","7040","Information","The start type of the Dell Client Management Service service was changed from disabled to auto start."
+"25-05-2026 09:09:00","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"25-05-2026 09:07:25","7040","Information","The start type of the Dell Client Management Service service was changed from auto start to disabled."
+"25-05-2026 09:07:13","7045","Information","A service was installed in the system.
+
+Service Name:  Dell Peripheral Manager Service
+Service File Name:  ""C:\Program Files\Dell\Dell Peripheral Manager\DPMService.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"25-05-2026 09:00:06","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"23-05-2026 22:59:19","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"23-05-2026 22:56:45","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"23-05-2026 22:55:32","7045","Information","A service was installed in the system.
+
+Service Name:  DellInstrumentation Service
+Service File Name:  \SystemRoot\System32\drivers\DellInstrumentation.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"23-05-2026 22:55:31","7045","Information","A service was installed in the system.
+
+Service Name:  Dell TechHub
+Service File Name:  ""C:\Program Files\Dell\TechHub\Dell.TechHub.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"23-05-2026 22:55:31","7045","Information","A service was installed in the system.
+
+Service Name:  Dell Client Management Service
+Service File Name:  ""C:\Program Files (x86)\Dell\UpdateService\ServiceShell.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"23-05-2026 22:53:59","7045","Information","A service was installed in the system.
+
+Service Name:  Dell Peripheral Manager Service
+Service File Name:  ""C:\Program Files\Dell\Dell Peripheral Manager\DPMService.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"23-05-2026 22:42:38","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"23-05-2026 22:40:21","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"23-05-2026 22:12:38","7045","Information","A service was installed in the system.
+
+Service Name:  Dell Peripheral Manager Service
+Service File Name:  ""C:\Program Files\Dell\Dell Peripheral Manager\DPMService.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"23-05-2026 21:55:07","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"23-05-2026 21:50:57","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"23-05-2026 21:48:38","7026","Information","The following boot-start or system-start driver(s) did not load: 
+WinSetupMon"
+"23-05-2026 14:32:02","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"23-05-2026 13:50:44","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"23-05-2026 13:48:51","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"23-05-2026 13:42:27","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"23-05-2026 13:39:50","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"23-05-2026 13:17:31","7045","Information","A service was installed in the system.
+
+Service Name:  Microsoft WdDevFlt Driver
+Service File Name:  system32\drivers\wd\WdDevFlt.sys
+Service Type:  kernel mode driver
+Service Start Type:  boot start
+Service Account:  "
+"23-05-2026 13:12:27","7045","Information","A service was installed in the system.
+
+Service Name:  Microsoft Purview Data Loss Prevention Service
+Service File Name:  ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26040.7-0\MpDlpService.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"23-05-2026 13:12:12","7045","Information","A service was installed in the system.
+
+Service Name:  KslD
+Service File Name:  system32\drivers\KslD.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"23-05-2026 13:12:08","7045","Information","A service was installed in the system.
+
+Service Name:  Microsoft Defender Core Service
+Service File Name:  ""C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26040.7-0\MpDefenderCoreService.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"23-05-2026 13:00:37","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"23-05-2026 12:54:15","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"23-05-2026 12:38:23","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"23-05-2026 12:36:18","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"23-05-2026 12:12:42","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"23-05-2026 12:10:38","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"23-05-2026 12:10:17","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"23-05-2026 12:06:31","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"23-05-2026 12:02:59","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"23-05-2026 11:54:18","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"23-05-2026 11:47:42","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"23-05-2026 11:27:31","7045","Information","A service was installed in the system.
+
+Service Name:  epklibproxy
+Service File Name:  C:\Windows\system32\drivers\epklibproxy.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"23-05-2026 11:27:30","7045","Information","A service was installed in the system.
+
+Service Name:  Zone Alarm Firewall Driver
+Service File Name:  \SystemRoot\system32\DRIVERS\vsdatant.sys
+Service Type:  kernel mode driver
+Service Start Type:  system start
+Service Account:  "
+"23-05-2026 11:27:29","7045","Information","A service was installed in the system.
+
+Service Name:  Check Point Endpoint Client Watchdog
+Service File Name:  ""C:\Program Files (x86)\CheckPoint\Endpoint Connect\Watchdog\EPWD.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"23-05-2026 11:27:29","7045","Information","A service was installed in the system.
+
+Service Name:  Check Point Endpoint Security VPN
+Service File Name:  ""C:\Program Files (x86)\CheckPoint\Endpoint Connect\TracSrvWrapper.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"23-05-2026 11:27:28","7045","Information","A service was installed in the system.
+
+Service Name:  Check Point Virtual Network Adapter - Apollo
+Service File Name:  \SystemRoot\System32\drivers\vnaap.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"23-05-2026 11:22:35","7045","Information","A service was installed in the system.
+
+Service Name:  Intel® Graphics Software
+Service File Name:  ""C:\Program Files\WindowsApps\AppUp.IntelArcSoftware_26.14.2306.0_x64__8j3eq9eme6ctt\VFS\ProgramFilesX64\Intel\Intel Graphics Software\IntelGraphicsSoftware.Service.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"23-05-2026 11:18:59","7040","Information","The start type of the Hotpatch Monitoring Service service was changed from demand start to auto start."
+"23-05-2026 11:18:53","7040","Information","The start type of the UCPD service was changed from auto start to system start."
+"23-05-2026 11:10:36","7045","Information","A service was installed in the system.
+
+Service Name:  FileSyncHelper
+Service File Name:  ""C:\Program Files (x86)\Microsoft OneDrive\23.038.0219.0001\FileSyncHelper.exe""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  LocalSystem"
+"23-05-2026 11:10:36","7045","Information","A service was installed in the system.
+
+Service Name:  OneDrive Updater Service
+Service File Name:  ""C:\Program Files (x86)\Microsoft OneDrive\23.038.0219.0001\OneDriveUpdaterService.exe""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  LocalSystem"
+"23-05-2026 11:10:10","7045","Information","A service was installed in the system.
+
+Service Name:  Spektion Service
+Service File Name:  ""C:\Program Files\Spektion\Spektion Sensor\spksvc.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"23-05-2026 11:09:30","7045","Information","A service was installed in the system.
+
+Service Name:  Npcap Packet Driver (NPCAP)
+Service File Name:  \SystemRoot\system32\DRIVERS\npcap.sys
+Service Type:  kernel mode driver
+Service Start Type:  system start
+Service Account:  "
+"23-05-2026 11:08:35","7040","Information","The start type of the Program Compatibility Assistant Service service was changed from demand start to auto start."
+"23-05-2026 11:08:29","7045","Information","A service was installed in the system.
+
+Service Name:  Zscaler Filtering Platform (WFP)
+Service File Name:  \SystemRoot\System32\drivers\zsawdrv.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"23-05-2026 11:08:21","7045","Information","A service was installed in the system.
+
+Service Name:  Zscaler LightWeight Filter
+Service File Name:  \SystemRoot\system32\DRIVERS\zapprd.sys
+Service Type:  kernel mode driver
+Service Start Type:  system start
+Service Account:  "
+"23-05-2026 11:08:21","7045","Information","A service was installed in the system.
+
+Service Name:  ZSAUpm
+Service File Name:  ""C:\Program Files\Zscaler\ZSAUpm\ZSAUpm.exe""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  LocalSystem"
+"23-05-2026 11:08:15","7045","Information","A service was installed in the system.
+
+Service Name:  ZEP Protect filter driver
+Service File Name:  \SystemRoot\System32\drivers\zepprotect.sys
+Service Type:  kernel mode driver
+Service Start Type:  system start
+Service Account:  "
+"23-05-2026 11:08:14","7045","Information","A service was installed in the system.
+
+Service Name:  Zscaler Endpoint Platform Service
+Service File Name:  ""C:\Program Files\Zscaler\ZEP\ZEPService.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"23-05-2026 11:08:12","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"23-05-2026 11:07:38","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"23-05-2026 11:07:38","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"23-05-2026 11:05:36","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"23-05-2026 11:05:36","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"23-05-2026 11:05:34","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"23-05-2026 11:05:26","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"23-05-2026 11:01:41","7040","Information","The start type of the Delivery Optimization service was changed from auto start to demand start."
+"23-05-2026 11:01:37","7026","Information","The following boot-start or system-start driver(s) did not load: 
+spektion
+WinSetupMon"
+"23-05-2026 11:01:06","7043","Error","The Windows Defender Advanced Threat Protection Service service did not shut down properly after receiving a preshutdown control."
+"23-05-2026 10:59:59","7045","Information","A service was installed in the system.
+
+Service Name:  ZSAUpdater
+Service File Name:  ""C:\Program Files\Zscaler\ZSAUpdater\ZSAUpdater.exe""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  LocalSystem"
+"23-05-2026 10:59:59","7045","Information","A service was installed in the system.
+
+Service Name:  ZSATrayManager
+Service File Name:  ""C:\Program Files\Zscaler\ZSATrayManager\ZSATrayManager.exe""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  LocalSystem"
+"23-05-2026 10:59:59","7045","Information","A service was installed in the system.
+
+Service Name:  ZSATunnel
+Service File Name:  ""C:\Program Files\Zscaler\ZSATunnel\ZSATunnel.exe""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  LocalSystem"
+"23-05-2026 10:59:59","7045","Information","A service was installed in the system.
+
+Service Name:  ZSAService
+Service File Name:  ""C:\Program Files\Zscaler\ZSAService\ZSAService.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"23-05-2026 10:59:42","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start."
+"23-05-2026 10:58:50","7045","Information","A service was installed in the system.
+
+Service Name:  Flexera Inventory Docker Monitor
+Service File Name:  ""C:\Program Files (x86)\ManageSoft\Container\fnms-docker-monitor.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"23-05-2026 10:58:50","7045","Information","A service was installed in the system.
+
+Service Name:  Flexera Inventory Manager managed device v24.00.1511
+Service File Name:  ""C:\Program Files (x86)\ManageSoft\Schedule Agent\ndinit.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"23-05-2026 10:58:50","7045","Information","A service was installed in the system.
+
+Service Name:  Flexera Inventory Manager security service
+Service File Name:  ""C:\Program Files (x86)\ManageSoft\Security Agent\mgssecsvc.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"23-05-2026 10:56:28","7045","Information","A service was installed in the system.
+
+Service Name:  Microsoft Office Click-to-Run Service
+Service File Name:  ""C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeClickToRun.exe"" /service
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"23-05-2026 10:56:14","7040","Information","The start type of the Xbox Live Networking Service service was changed from demand start to disabled."
+"23-05-2026 10:56:14","7040","Information","The start type of the Xbox Live Game Save service was changed from demand start to disabled."
+"23-05-2026 10:56:14","7040","Information","The start type of the Xbox Live Auth Manager service was changed from demand start to disabled."
+"23-05-2026 10:56:14","7040","Information","The start type of the Xbox Accessory Management Service service was changed from demand start to disabled."
+"23-05-2026 10:56:09","7040","Information","The start type of the Windows Defender Advanced Threat Protection Service service was changed from demand start to auto start."
+"23-05-2026 10:56:09","7040","Information","The start type of the Microsoft Security Events Component Minifilter service was changed from demand start to boot start."
+"23-05-2026 10:56:09","7040","Information","The start type of the Microsoft Security WFP Callout Driver service was changed from demand start to boot start."
+"23-05-2026 10:56:02","7040","Information","The start type of the AppID Driver service was changed from demand start to auto start."
+"23-05-2026 10:56:02","7040","Information","The start type of the Wired AutoConfig service was changed from demand start to auto start."
+"23-05-2026 10:56:02","7045","Information","A service was installed in the system.
+
+Service Name:  Microsoft Intune Management Extension
+Service File Name:  ""C:\Program Files (x86)\Microsoft Intune Management Extension\Microsoft.Management.Services.IntuneWindowsAgent.exe""
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"23-05-2026 10:53:38","7040","Information","The start type of the Device Management Wireless Application Protocol (WAP) Push message Routing Service service was changed from demand start to auto start."
+"23-05-2026 10:51:55","7026","Information","The following boot-start or system-start driver(s) did not load: 
+spektion
+WinSetupMon"
+"23-05-2026 10:50:51","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"23-05-2026 10:50:46","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"23-05-2026 10:50:45","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"23-05-2026 10:50:40","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"23-05-2026 10:50:37","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"23-05-2026 10:50:32","7040","Information","The start type of the Windows Modules Installer service was changed from demand start to auto start."
+"23-05-2026 23:19:09","7040","Information","The start type of the Remote Access IP ARP Driver service was changed from demand start to auto start."
+"23-05-2026 23:10:36","7030","Error","The Printer Extensions and Notifications service is marked as an interactive service.  However, the system is configured to not allow interactive services.  This service may not function properly."
+"23-05-2026 23:10:36","7045","Information","A service was installed in the system.
+
+Service Name:  Printer Extensions and Notifications
+Service File Name:  %SystemRoot%\system32\svchost.exe -k print
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  LocalSystem"
+"23-05-2026 23:08:56","7040","Information","The start type of the Delivery Optimization service was changed from demand start to auto start."
+"23-05-2026 23:08:55","7040","Information","The start type of the Windows Modules Installer service was changed from auto start to demand start."
+"23-05-2026 23:08:47","7045","Information","A service was installed in the system.
+
+Service Name:  KslD
+Service File Name:  system32\drivers\KslD.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"23-05-2026 23:08:36","7026","Information","The following boot-start or system-start driver(s) did not load: 
+spektion"
+"23-05-2026 23:08:30","7045","Information","A service was installed in the system.
+
+Service Name:  IntelTACD
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\pmtprovider_sw.inf_amd64_bc165cb9b3b9e080\TACD\IntelTACD.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"23-05-2026 23:07:49","7023","Error","The Network List Service service terminated with the following error: 
+The device is not ready."
+"23-05-2026 23:07:36","7040","Information","The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start."
+"23-05-2026 23:06:35","7045","Information","A service was installed in the system.
+
+Service Name:  Spektion Driver Service
+Service File Name:  \SystemRoot\System32\drivers\spektion.sys
+Service Type:  kernel mode driver
+Service Start Type:  system start
+Service Account:  "
+"23-05-2026 23:06:32","7045","Information","A service was installed in the system.
+
+Service Name:  intelliGo Audio Service
+Service File Name:  %SystemRoot%\System32\DriverStore\FileRepository\igoaudioservice.inf_amd64_14d121f762617b7d\IgoAudioService_x64.exe
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"23-05-2026 23:06:32","7023","Error","The Cirrus Logic Global Mic Mute Service service terminated with the following error: 
+Function failed during execution."
+"23-05-2026 23:06:26","7040","Information","The start type of the CLABP service service was changed from auto start to disabled."
+"23-05-2026 23:06:26","7045","Information","A service was installed in the system.
+
+Service Name:  CLABP service
+Service File Name:  %SystemRoot%\System32\DriverStore\FileRepository\clabpsvc.inf_amd64_04ef317cf7665c2d\clabpsvc.exe
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"23-05-2026 23:06:26","7045","Information","A service was installed in the system.
+
+Service Name:  Cirrus Logic Enhance Configuration Service
+Service File Name:  %SystemRoot%\System32\DriverStore\FileRepository\cl01002_apo.inf_amd64_e619acf00d98d76a\EnhanceCS.exe
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"23-05-2026 23:06:25","7045","Information","A service was installed in the system.
+
+Service Name:  Cirrus Logic Global Mic Mute Service
+Service File Name:  %SystemRoot%\System32\CsGMMuteSrv.exe
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"23-05-2026 23:06:24","7045","Information","A service was installed in the system.
+
+Service Name:  WiMan Service
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\wiman.inf_amd64_1d81bc4f31bf65c7\WiManHio\WiManHio.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"23-05-2026 23:06:24","7045","Information","A service was installed in the system.
+
+Service Name:  Intel(R) Management Engine WMI Provider Registration
+Service File Name:  %SystemRoot%\System32\DriverStore\FileRepository\mewmiprov.inf_amd64_47b9a82f73e9dad8\WMIRegistrationService.exe
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"23-05-2026 23:06:24","7045","Information","A service was installed in the system.
+
+Service Name:  Intel® Smart Sound Technology for Bluetooth® LE Audio
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\intcbtle.inf_amd64_d3ed58ff2fc06750\IntcBtLE.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"23-05-2026 23:06:24","7045","Information","A service was installed in the system.
+
+Service Name:  SoundWire Audio
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\sdcaaggregator.inf_amd64_f61c04c20db43fa5\SdcaAggregator.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"23-05-2026 23:06:23","7045","Information","A service was installed in the system.
+
+Service Name:  Intel® Smart Sound Technology for Bluetooth® Audio
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\intcbtau.inf_amd64_11b153e4caad51dc\IntcBTAu.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"23-05-2026 23:06:23","7045","Information","A service was installed in the system.
+
+Service Name:  Bluetooth Device (Personal Area Network)
+Service File Name:  \SystemRoot\System32\drivers\bthpan.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"23-05-2026 23:06:23","7045","Information","A service was installed in the system.
+
+Service Name:  USB Video Device (WDM)
+Service File Name:  \SystemRoot\System32\Drivers\usbvideo.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"23-05-2026 23:06:22","7045","Information","A service was installed in the system.
+
+Service Name:  Intel(R) Dynamic Tuning Technology Telemetry Service
+Service File Name:  %SystemRoot%\System32\DriverStore\FileRepository\dtt_sw.inf_amd64_7d0bd97002cfac37\ipfsvc.exe
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  NT Authority\LocalService"
+"23-05-2026 23:06:22","7045","Information","A service was installed in the system.
+
+Service Name:  PRI-Driver
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\socthermalprovider_sw.inf_amd64_581a9fdf431c5104\PRID\PRI-Driver.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"23-05-2026 23:06:20","7045","Information","A service was installed in the system.
+
+Service Name:  npu
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\npu.inf_amd64_08aa998631b6cdd8\npu_kmd.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"23-05-2026 23:06:04","7040","Information","The start type of the WLAN AutoConfig service was changed from demand start to auto start."
+"23-05-2026 23:06:03","7045","Information","A service was installed in the system.
+
+Service Name:  ___ Intel(R) Wireless Adapter Driver for Windows 10 - 64 Bit
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\netwtw6e.inf_amd64_25da419ddd4c4513\Netwaw18.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"23-05-2026 23:06:03","7045","Information","A service was installed in the system.
+
+Service Name:  Intel(R) Integrated Network Connection NetAdapter Driver
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\e1dn.inf_amd64_ec1ace84bb3bcb4d\e1dn.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"23-05-2026 23:06:02","7045","Information","A service was installed in the system.
+
+Service Name:  Microsoft Kernel Debug Network Miniport
+Service File Name:  \SystemRoot\System32\drivers\kdnic.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"23-05-2026 23:06:01","7045","Information","A service was installed in the system.
+
+Service Name:  Intel(R) Graphics Display Service
+Service File Name:  %SystemRoot%\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_bc1f9fc13d339f3e\IntelDisplayUMService.exe
+Service Type:  user mode service
+Service Start Type:  auto start
+Service Account:  LocalSystem"
+"23-05-2026 23:06:01","7045","Information","A service was installed in the system.
+
+Service Name:  igfxn
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_bc1f9fc13d339f3e\igdkmdn64.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"23-05-2026 23:06:01","7045","Information","A service was installed in the system.
+
+Service Name:  Intel ACX Streaming for SDW
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\intcstreaming.inf_amd64_fc5d9f582dd3365b\IntcStreaming.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"23-05-2026 23:05:59","7045","Information","A service was installed in the system.
+
+Service Name:  Intel(R) Wireless Bluetooth(R)
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\ibtusb.inf_amd64_e9d2f4c534b92fb4\ibtusb.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"23-05-2026 23:05:59","7045","Information","A service was installed in the system.
+
+Service Name:  Cirrus Logic SDCA XU Audio Device Driver
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\xucsme.inf_amd64_92ee6947565b9d7f\XuCsMe.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"23-05-2026 23:05:59","7045","Information","A service was installed in the system.
+
+Service Name:  SoundWire Audio
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\sdcaclass.inf_amd64_0b2f30007e05e98a\SdcaClass.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"23-05-2026 23:05:50","7045","Information","A service was installed in the system.
+
+Service Name:  Microsoft Edge Elevation Service (MicrosoftEdgeElevationService)
+Service File Name:  ""C:\Program Files (x86)\Microsoft\Edge\Application\148.0.3967.70\elevation_service.exe""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  LocalSystem"
+"23-05-2026 23:05:50","7045","Information","A service was installed in the system.
+
+Service Name:  Intel® Smart Sound Technology for USB Audio
+Service File Name:  \SystemRoot\System32\DriverStore\FileRepository\intcusb.inf_amd64_02f1cf77116c0982\IntcUSB.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+"23-05-2026 23:05:50","7040","Information","The start type of the Netlogon service was changed from disabled to demand start."
+"23-05-2026 23:05:50","7026","Information","The following boot-start or system-start driver(s) did not load: 
+CSC"
+"23-05-2026 23:05:49","7023","Error","The netprofm service terminated with the following error: 
+The device is not ready."

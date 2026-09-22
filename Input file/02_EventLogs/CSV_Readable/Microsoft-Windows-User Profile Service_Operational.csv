@@ -1,0 +1,766 @@
+﻿"TimeCreated","Id","LevelDisplayName","ProviderName","Message"
+"18-08-2026 14:33:22","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004.T1 
+Profile type: Regular"
+"18-08-2026 14:33:22","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004.T1\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-4220155720-1073834589-1054805678-3526012841_Classes."
+"18-08-2026 14:33:22","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004.T1\ntuser.dat is loaded at HKU\S-1-12-1-4220155720-1073834589-1054805678-3526012841."
+"18-08-2026 14:31:20","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"18-08-2026 14:31:20","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"18-08-2026 14:31:20","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"18-08-2026 14:31:20","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"18-08-2026 14:31:20","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"18-08-2026 14:30:54","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"18-08-2026 14:30:54","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"18-08-2026 14:30:54","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"18-08-2026 14:20:16","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"18-08-2026 14:20:16","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"18-08-2026 14:17:04","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004.T1 
+Profile type: Regular"
+"18-08-2026 14:17:04","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004.T1\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-4220155720-1073834589-1054805678-3526012841_Classes."
+"18-08-2026 14:17:04","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004.T1\ntuser.dat is loaded at HKU\S-1-12-1-4220155720-1073834589-1054805678-3526012841."
+"18-08-2026 10:29:37","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"18-08-2026 10:29:37","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"18-08-2026 10:29:37","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"18-08-2026 10:29:37","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"18-08-2026 10:29:37","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"18-08-2026 10:28:57","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"18-08-2026 10:28:57","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"18-08-2026 10:28:57","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"18-08-2026 10:28:03","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"18-08-2026 10:28:03","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"17-08-2026 15:09:43","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004.T1 
+Profile type: Regular"
+"17-08-2026 15:09:43","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004.T1\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-4220155720-1073834589-1054805678-3526012841_Classes."
+"17-08-2026 15:09:43","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004.T1\ntuser.dat is loaded at HKU\S-1-12-1-4220155720-1073834589-1054805678-3526012841."
+"11-08-2026 12:07:08","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"11-08-2026 12:07:08","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"11-08-2026 12:07:08","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"11-08-2026 12:07:08","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"11-08-2026 12:07:08","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"11-08-2026 12:02:32","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"11-08-2026 12:02:32","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"11-08-2026 12:02:32","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"11-08-2026 12:01:39","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"11-08-2026 12:01:39","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"10-08-2026 09:41:29","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"10-08-2026 09:41:29","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"10-08-2026 09:41:29","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"10-08-2026 09:41:29","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"10-08-2026 09:41:29","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"10-08-2026 09:36:04","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"10-08-2026 09:36:04","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"10-08-2026 09:36:04","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"03-08-2026 09:26:19","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"03-08-2026 09:26:19","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"03-08-2026 09:26:19","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"03-08-2026 09:26:19","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"03-08-2026 09:26:19","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"03-08-2026 09:26:05","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"03-08-2026 09:26:05","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"03-08-2026 09:26:04","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"31-07-2026 18:35:43","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"31-07-2026 18:35:43","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"31-07-2026 09:45:09","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"31-07-2026 09:45:09","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"31-07-2026 09:45:09","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"31-07-2026 09:45:09","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"31-07-2026 09:45:09","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"31-07-2026 09:44:24","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"31-07-2026 09:44:24","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"31-07-2026 09:44:24","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"31-07-2026 09:43:16","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"31-07-2026 09:43:16","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"27-07-2026 11:49:35","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"27-07-2026 11:49:35","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"27-07-2026 11:49:35","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"27-07-2026 11:49:35","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"27-07-2026 11:49:35","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"27-07-2026 11:49:18","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"27-07-2026 11:49:18","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"27-07-2026 11:49:18","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"27-07-2026 11:47:55","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"27-07-2026 11:47:55","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"27-07-2026 09:44:18","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"27-07-2026 09:44:18","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"27-07-2026 09:44:18","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"27-07-2026 09:44:18","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"27-07-2026 09:44:18","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"27-07-2026 09:37:11","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"27-07-2026 09:37:10","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"27-07-2026 09:37:10","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"27-07-2026 09:34:37","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"27-07-2026 09:34:37","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"27-07-2026 09:34:37","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"27-07-2026 09:30:07","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"27-07-2026 09:30:07","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"21-07-2026 08:44:54","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"21-07-2026 08:44:54","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"21-07-2026 08:44:54","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"21-07-2026 08:44:54","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"21-07-2026 08:44:54","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"21-07-2026 08:44:19","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"21-07-2026 08:44:19","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"21-07-2026 08:44:19","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"21-07-2026 08:43:09","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"21-07-2026 08:43:08","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"15-07-2026 12:26:57","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004.T1 
+Profile type: Regular"
+"15-07-2026 12:26:57","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004.T1\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-4220155720-1073834589-1054805678-3526012841_Classes."
+"15-07-2026 12:26:57","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004.T1\ntuser.dat is loaded at HKU\S-1-12-1-4220155720-1073834589-1054805678-3526012841."
+"14-07-2026 09:38:03","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"14-07-2026 09:38:03","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"12-07-2026 18:32:29","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"12-07-2026 18:32:29","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"12-07-2026 18:32:29","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"12-07-2026 18:32:29","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"12-07-2026 18:32:29","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"12-07-2026 18:31:57","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"12-07-2026 18:31:57","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"12-07-2026 18:31:57","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"12-07-2026 18:30:41","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"12-07-2026 18:30:41","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"07-07-2026 09:28:37","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"07-07-2026 09:28:37","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"07-07-2026 09:28:37","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"07-07-2026 09:28:37","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"07-07-2026 09:28:37","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"07-07-2026 09:28:21","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"07-07-2026 09:28:21","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"07-07-2026 09:28:21","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"07-07-2026 09:27:19","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"07-07-2026 09:27:19","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"04-07-2026 14:13:05","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"04-07-2026 14:13:05","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"04-07-2026 14:13:05","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"04-07-2026 14:13:05","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"04-07-2026 14:13:05","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"04-07-2026 14:12:41","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"04-07-2026 14:12:41","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"04-07-2026 14:12:41","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"04-07-2026 14:11:44","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"04-07-2026 14:11:44","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"03-07-2026 11:22:26","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"03-07-2026 11:22:26","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"03-07-2026 11:22:26","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"03-07-2026 11:22:26","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"03-07-2026 11:22:26","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"03-07-2026 11:20:24","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"03-07-2026 11:20:24","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"03-07-2026 11:20:24","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"03-07-2026 11:19:23","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"03-07-2026 11:19:23","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"01-07-2026 10:10:25","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"01-07-2026 10:10:25","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"01-07-2026 10:10:25","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"01-07-2026 10:10:25","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"01-07-2026 10:10:25","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"01-07-2026 10:08:17","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"01-07-2026 10:08:17","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"01-07-2026 10:08:17","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"01-07-2026 10:07:19","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"01-07-2026 10:07:19","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"29-06-2026 10:24:37","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"29-06-2026 10:24:37","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"29-06-2026 10:24:37","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"29-06-2026 10:24:37","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"29-06-2026 10:24:37","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"29-06-2026 10:24:19","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"29-06-2026 10:24:19","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"29-06-2026 10:24:19","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"29-06-2026 10:12:10","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"29-06-2026 10:12:10","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"29-06-2026 09:02:48","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"29-06-2026 09:02:48","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"29-06-2026 09:02:48","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"29-06-2026 09:02:48","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"29-06-2026 09:02:48","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"29-06-2026 09:02:30","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"29-06-2026 09:02:30","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"29-06-2026 09:02:30","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"25-06-2026 09:38:23","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"25-06-2026 09:38:23","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"25-06-2026 09:38:23","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"25-06-2026 09:38:23","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"25-06-2026 09:38:23","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"25-06-2026 09:36:01","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"25-06-2026 09:36:01","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"25-06-2026 09:36:01","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"25-06-2026 09:34:41","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 4."
+"25-06-2026 09:34:41","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 4."
+"23-06-2026 08:59:47","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 4."
+"23-06-2026 08:59:47","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"23-06-2026 08:59:47","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"23-06-2026 08:59:47","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"23-06-2026 08:59:47","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 4."
+"22-06-2026 18:15:29","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 3."
+"22-06-2026 18:15:29","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 3."
+"22-06-2026 08:53:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"22-06-2026 08:53:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"19-06-2026 09:00:32","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 3."
+"19-06-2026 09:00:32","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"19-06-2026 09:00:32","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"19-06-2026 09:00:32","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"19-06-2026 09:00:32","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 3."
+"18-06-2026 19:04:37","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"18-06-2026 19:04:37","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"18-06-2026 09:07:00","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"18-06-2026 09:07:00","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"18-06-2026 09:07:00","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"18-06-2026 09:07:00","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"18-06-2026 09:07:00","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"18-06-2026 09:05:35","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"18-06-2026 09:05:35","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"18-06-2026 09:05:35","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"17-06-2026 19:18:10","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"17-06-2026 19:18:10","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"17-06-2026 19:18:10","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"17-06-2026 19:16:43","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"17-06-2026 19:16:43","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"17-06-2026 19:16:43","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"17-06-2026 19:13:36","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"17-06-2026 19:13:36","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"17-06-2026 19:13:36","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"17-06-2026 19:10:45","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"17-06-2026 19:10:45","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"16-06-2026 16:29:48","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004.T1 
+Profile type: Regular"
+"16-06-2026 16:29:48","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004.T1\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-4220155720-1073834589-1054805678-3526012841_Classes."
+"16-06-2026 16:29:48","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004.T1\ntuser.dat is loaded at HKU\S-1-12-1-4220155720-1073834589-1054805678-3526012841."
+"16-06-2026 09:59:46","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"16-06-2026 09:59:46","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"16-06-2026 09:59:46","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"16-06-2026 09:59:46","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"16-06-2026 09:59:46","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"16-06-2026 09:59:22","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"16-06-2026 09:59:22","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"16-06-2026 09:59:22","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"16-06-2026 09:46:34","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"16-06-2026 09:46:34","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"15-06-2026 09:32:59","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004.T1 
+Profile type: Regular"
+"15-06-2026 09:32:59","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004.T1\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-4220155720-1073834589-1054805678-3526012841_Classes."
+"15-06-2026 09:32:59","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004.T1\ntuser.dat is loaded at HKU\S-1-12-1-4220155720-1073834589-1054805678-3526012841."
+"12-06-2026 09:55:00","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"12-06-2026 09:55:00","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"12-06-2026 09:55:00","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"12-06-2026 09:55:00","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"12-06-2026 09:55:00","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"12-06-2026 09:54:35","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"12-06-2026 09:54:35","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"12-06-2026 09:54:34","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"12-06-2026 09:53:32","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"12-06-2026 09:53:32","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"09-06-2026 09:49:55","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004.T1 
+Profile type: Regular"
+"09-06-2026 09:49:55","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004.T1\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-4220155720-1073834589-1054805678-3526012841_Classes."
+"09-06-2026 09:49:55","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004.T1\ntuser.dat is loaded at HKU\S-1-12-1-4220155720-1073834589-1054805678-3526012841."
+"08-06-2026 19:14:16","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"08-06-2026 19:14:16","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"08-06-2026 19:14:16","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"08-06-2026 19:14:16","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"08-06-2026 19:14:16","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"08-06-2026 19:13:53","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"08-06-2026 19:13:53","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"08-06-2026 19:13:53","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"08-06-2026 19:12:50","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"08-06-2026 19:12:50","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"08-06-2026 09:40:35","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"08-06-2026 09:40:35","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"08-06-2026 09:40:35","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"08-06-2026 09:40:35","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"08-06-2026 09:40:35","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"08-06-2026 09:40:07","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"08-06-2026 09:40:07","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"08-06-2026 09:40:07","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"08-06-2026 09:39:06","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"08-06-2026 09:39:06","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"03-06-2026 10:21:07","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"03-06-2026 10:21:07","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"03-06-2026 10:21:07","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"03-06-2026 10:21:07","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"03-06-2026 10:21:07","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"03-06-2026 10:14:04","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"03-06-2026 10:14:04","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"03-06-2026 10:14:04","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"03-06-2026 00:41:50","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"03-06-2026 00:41:50","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"03-06-2026 00:14:02","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"03-06-2026 00:14:02","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"03-06-2026 00:14:02","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"03-06-2026 00:14:02","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"03-06-2026 00:14:02","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"03-06-2026 00:13:32","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"03-06-2026 00:13:32","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"03-06-2026 00:13:32","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"03-06-2026 00:12:33","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"03-06-2026 00:12:33","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"02-06-2026 10:14:35","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"02-06-2026 10:14:35","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"02-06-2026 10:14:35","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"02-06-2026 10:14:35","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"02-06-2026 10:14:35","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"02-06-2026 10:14:10","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"02-06-2026 10:14:10","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"02-06-2026 10:14:10","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"02-06-2026 10:13:07","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"02-06-2026 10:13:07","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"01-06-2026 10:00:34","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004.T1 
+Profile type: Regular"
+"01-06-2026 10:00:34","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004.T1\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-4220155720-1073834589-1054805678-3526012841_Classes."
+"01-06-2026 10:00:34","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004.T1\ntuser.dat is loaded at HKU\S-1-12-1-4220155720-1073834589-1054805678-3526012841."
+"01-06-2026 09:27:31","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"01-06-2026 09:27:31","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"01-06-2026 09:27:31","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"01-06-2026 09:27:31","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"01-06-2026 09:27:31","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"01-06-2026 09:19:25","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"01-06-2026 09:19:25","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"01-06-2026 09:19:24","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"01-06-2026 09:18:20","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"01-06-2026 09:18:20","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"28-05-2026 10:34:41","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER 
+Profile type: Regular"
+"28-05-2026 10:34:41","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563_Classes."
+"28-05-2026 10:34:41","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Windows\ServiceProfiles\SQLTELEMETRY$BARTENDER\ntuser.dat is loaded at HKU\S-1-5-80-1421082958-2220363263-3887300755-450899232-919288563."
+"28-05-2026 10:23:36","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004.T1 
+Profile type: Regular"
+"28-05-2026 10:23:36","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004.T1\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-4220155720-1073834589-1054805678-3526012841_Classes."
+"28-05-2026 10:23:36","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004.T1\ntuser.dat is loaded at HKU\S-1-12-1-4220155720-1073834589-1054805678-3526012841."
+"28-05-2026 10:20:09","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"28-05-2026 10:20:09","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"28-05-2026 10:20:09","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"28-05-2026 10:20:08","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"28-05-2026 10:20:08","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"28-05-2026 10:18:27","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"28-05-2026 10:18:27","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"28-05-2026 10:00:43","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004.T1 
+Profile type: Regular"
+"28-05-2026 10:00:43","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004.T1\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-4220155720-1073834589-1054805678-3526012841_Classes."
+"28-05-2026 10:00:43","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004.T1\ntuser.dat is loaded at HKU\S-1-12-1-4220155720-1073834589-1054805678-3526012841."
+"25-05-2026 09:00:30","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"25-05-2026 09:00:30","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"25-05-2026 09:00:30","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"25-05-2026 09:00:29","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"25-05-2026 09:00:29","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"23-05-2026 22:59:02","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"23-05-2026 22:59:02","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"23-05-2026 21:49:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 21:49:41","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"23-05-2026 21:49:41","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"23-05-2026 21:49:41","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"23-05-2026 21:49:41","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"23-05-2026 21:49:41","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"23-05-2026 14:31:44","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 2."
+"23-05-2026 14:31:44","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 2."
+"23-05-2026 13:31:57","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004.T1 
+Profile type: Regular"
+"23-05-2026 13:31:57","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004.T1\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-4220155720-1073834589-1054805678-3526012841_Classes."
+"23-05-2026 13:31:57","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004.T1\ntuser.dat is loaded at HKU\S-1-12-1-4220155720-1073834589-1054805678-3526012841."
+"23-05-2026 11:05:23","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 2."
+"23-05-2026 11:05:22","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\arjo5004 
+Profile type: Regular"
+"23-05-2026 11:05:22","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334_Classes."
+"23-05-2026 11:05:22","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\arjo5004\ntuser.dat is loaded at HKU\S-1-12-1-2357405129-1281513531-255772574-1816207334."
+"23-05-2026 11:05:22","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 2."
+"23-05-2026 11:02:05","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"23-05-2026 11:02:05","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"23-05-2026 11:01:36","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"23-05-2026 11:01:36","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\defaultuser0 
+Profile type: Regular"
+"23-05-2026 11:01:36","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\defaultuser0\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-21-3608031908-443761264-1593342945-1000_Classes."
+"23-05-2026 11:01:36","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\defaultuser0\ntuser.dat is loaded at HKU\S-1-5-21-3608031908-443761264-1593342945-1000."
+"23-05-2026 11:01:36","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"23-05-2026 11:00:47","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"23-05-2026 11:00:47","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"23-05-2026 10:58:35","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:58:35","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:58:34","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:58:34","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:58:34","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:05","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:04","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:04","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:04","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:04","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:04","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:04","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:04","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:04","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:04","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:04","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:04","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:04","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:04","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:04","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:04","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:04","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:04","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:04","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:04","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:04","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:04","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:04","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:04","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:03","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:03","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:03","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:03","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:03","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:03","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:03","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:03","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:03","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:03","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:03","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:03","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:03","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:03","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:03","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:03","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:03","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:03","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:03","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:03","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:03","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:03","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:02","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:02","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:02","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:02","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:02","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:02","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:02","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:02","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:02","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:02","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:02","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:01","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:01","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:01","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:01","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:01","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:01","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:01","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:01","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:01","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:01","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:01","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:01","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:01","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:01","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:01","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:01","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:01","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:01","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:01","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:01","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:01","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:01","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:00","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:00","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:00","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:00","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:00","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:00","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:00","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:00","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:00","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:00","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:00","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:00","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:00","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:57:00","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:59","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:59","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:59","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:59","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:59","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:59","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:59","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:59","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:59","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:59","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:59","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:59","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:59","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:59","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:59","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:59","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:59","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:59","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:58","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:58","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:58","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:58","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:58","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:58","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:58","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:58","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:58","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:58","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:58","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:58","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:58","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:58","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:57","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:57","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:57","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:57","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:57","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:57","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:57","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:57","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:57","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:57","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:57","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:57","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:57","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:57","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:57","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:57","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:57","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:57","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:57","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:57","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:56","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:56","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:56","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:56","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:56","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:56","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:56","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:56","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:56","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:56","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:56","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:56","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:56","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:56","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:56","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:56","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:56","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:55","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:54","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:54","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:54","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:54","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:54","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:54","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:54","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:54","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:54","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:54","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:54","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:54","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:54","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:54","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:56:54","59","Information","Microsoft-Windows-User Profiles Service","Disable background user hive upload task succeeded."
+"23-05-2026 10:51:54","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"23-05-2026 10:51:54","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\defaultuser0 
+Profile type: Regular"
+"23-05-2026 10:51:54","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\defaultuser0\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-21-3608031908-443761264-1593342945-1000_Classes."
+"23-05-2026 10:51:54","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\defaultuser0\ntuser.dat is loaded at HKU\S-1-5-21-3608031908-443761264-1593342945-1000."
+"23-05-2026 10:51:54","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"23-05-2026 10:51:22","4","Information","Microsoft-Windows-User Profiles Service","Finished processing user logoff notification on session 1."
+"23-05-2026 10:51:21","3","Information","Microsoft-Windows-User Profiles Service","Recieved user logoff notification on session 1."
+"23-05-2026 23:08:56","2","Information","Microsoft-Windows-User Profiles Service","Finished processing user logon notification on session 1."
+"23-05-2026 23:08:56","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\defaultuser0 
+Profile type: Regular"
+"23-05-2026 23:08:56","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\defaultuser0\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-21-3608031908-443761264-1593342945-1000_Classes."
+"23-05-2026 23:08:56","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\defaultuser0\ntuser.dat is loaded at HKU\S-1-5-21-3608031908-443761264-1593342945-1000."
+"23-05-2026 23:08:56","1","Information","Microsoft-Windows-User Profiles Service","Recieved user logon notification on session 1."
+"23-05-2026 23:08:53","67","Information","Microsoft-Windows-User Profiles Service","Logon type: Regular 
+Local profile location: C:\Users\defaultuser0 
+Profile type: Regular"
+"23-05-2026 23:08:53","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\defaultuser0\AppData\Local\Microsoft\Windows\\UsrClass.dat is loaded at HKU\S-1-5-21-3608031908-443761264-1593342945-1000_Classes."
+"23-05-2026 23:08:53","5","Information","Microsoft-Windows-User Profiles Service","Registry file C:\Users\defaultuser0\ntuser.dat is loaded at HKU\S-1-5-21-3608031908-443761264-1593342945-1000."

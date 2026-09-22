@@ -1,0 +1,1831 @@
+﻿"TimeCreated","Id","LevelDisplayName","ProviderName","Message"
+"18-08-2026 14:33:30","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	MsMpEng.exe
+     Friendly Name		:	Antimalware Service Executable
+     Version		:	4.18.26070.9 (797b3603749206dfffe67a1cc891531b0a2cf438)
+     Total Time		:	1040ms
+     Degradation Time	:	40ms
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎18T09:00:41.318719800Z"
+"18-08-2026 14:33:30","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	OneDrive.Sync.Service.exe
+     Friendly Name		:	Microsoft OneDrive Sync Service
+     Version		:	26.139.0720.0007
+     Total Time		:	15138ms
+     Degradation Time	:	10138ms
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎18T09:00:41.318719800Z"
+"18-08-2026 14:33:30","100","Critical","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	96208ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎18T09:00:41.318719800Z"
+"18-08-2026 14:33:18","203","Warning","Microsoft-Windows-Diagnostics-Performance","This service caused a delay in the system shutdown process: 
+     File Name		:	mgssecsvc
+     Friendly Name		:	
+     Version		:	
+     Total Time		:	4962ms
+     Degradation Time	:	429ms
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎18T08:50:14.033979300Z"
+"18-08-2026 14:33:18","203","Warning","Microsoft-Windows-Diagnostics-Performance","This service caused a delay in the system shutdown process: 
+     File Name		:	SpektionSvc
+     Friendly Name		:	
+     Version		:	
+     Total Time		:	4960ms
+     Degradation Time	:	960ms
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎18T08:50:14.033979300Z"
+"18-08-2026 14:33:18","200","Warning","Microsoft-Windows-Diagnostics-Performance","Windows has shutdown: 
+     Shutdown Duration	:	27176ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎18T08:50:14.033979300Z"
+"18-08-2026 10:31:32","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	MsSense.exe
+     Friendly Name		:	Windows Defender Advanced Threat Protection Service Executable
+     Version		:	10.8830.27933.1000 (398a21db4cbd4447fb5832b9f888cad9bc8ab8d1) (WinBuild.160101.0800)
+     Total Time		:	8835ms
+     Degradation Time	:	3835ms
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎18T04:58:44.158852700Z"
+"18-08-2026 10:31:32","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	PrintIsolationHost.exe
+     Friendly Name		:	PrintIsolationHost
+     Version		:	10.0.26100.8115 (WinBuild.160101.0800)
+     Total Time		:	13760ms
+     Degradation Time	:	8760ms
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎18T04:58:44.158852700Z"
+"18-08-2026 10:31:32","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	services.exe
+     Friendly Name		:	Services and Controller app
+     Version		:	10.0.26100.8115 (WinBuild.160101.0800)
+     Total Time		:	28314ms
+     Degradation Time	:	23314ms
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎18T04:58:44.158852700Z"
+"18-08-2026 10:31:32","101","Critical","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	MsMpEng.exe
+     Friendly Name		:	Antimalware Service Executable
+     Version		:	4.18.26070.9 (797b3603749206dfffe67a1cc891531b0a2cf438)
+     Total Time		:	189860ms
+     Degradation Time	:	182360ms
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎18T04:58:44.158852700Z"
+"18-08-2026 10:31:32","100","Critical","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	105055ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎18T04:58:44.158852700Z"
+"11-08-2026 12:09:06","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	spksvc.exe
+     Friendly Name		:	Spektion Windows Service
+     Version		:	3.0.8
+     Total Time		:	18503ms
+     Degradation Time	:	13503ms
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎11T06:32:20.208103400Z"
+"11-08-2026 12:09:06","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	ServiceShell.exe
+     Friendly Name		:	ServiceShell
+     Version		:	5.7.1.558
+     Total Time		:	44833ms
+     Degradation Time	:	39833ms
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎11T06:32:20.208103400Z"
+"11-08-2026 12:09:06","101","Critical","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	MsMpEng.exe
+     Friendly Name		:	Antimalware Service Executable
+     Version		:	4.18.26070.9 (797b3603749206dfffe67a1cc891531b0a2cf438)
+     Total Time		:	131514ms
+     Degradation Time	:	124014ms
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎11T06:32:20.208103400Z"
+"11-08-2026 12:09:06","100","Critical","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	102708ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎11T06:32:20.208103400Z"
+"11-08-2026 12:08:40","200","Warning","Microsoft-Windows-Diagnostics-Performance","Windows has shutdown: 
+     Shutdown Duration	:	33646ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎11T06:31:33.154202300Z"
+"10-08-2026 09:43:24","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	MsSense.exe
+     Friendly Name		:	Windows Defender Advanced Threat Protection Service Executable
+     Version		:	10.8830.27933.1000 (398a21db4cbd4447fb5832b9f888cad9bc8ab8d1) (WinBuild.160101.0800)
+     Total Time		:	9323ms
+     Degradation Time	:	4323ms
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎10T04:05:49.175376300Z"
+"10-08-2026 09:43:24","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	DdpmSwUpdater.exe
+     Friendly Name		:	
+     Version		:	
+     Total Time		:	25302ms
+     Degradation Time	:	20302ms
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎10T04:05:49.175376300Z"
+"10-08-2026 09:43:24","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	DDPM.exe
+     Friendly Name		:	Dell Display and Peripheral Manager
+     Version		:	2.3.0.9
+     Total Time		:	29468ms
+     Degradation Time	:	24468ms
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎10T04:05:49.175376300Z"
+"10-08-2026 09:43:24","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	ndtrack.exe
+     Friendly Name		:	Inventory Agent
+     Version		:	24.0
+     Total Time		:	34651ms
+     Degradation Time	:	29651ms
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎10T04:05:49.175376300Z"
+"10-08-2026 09:43:24","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	MsMpEng.exe
+     Friendly Name		:	Antimalware Service Executable
+     Version		:	4.18.26070.9 (797b3603749206dfffe67a1cc891531b0a2cf438)
+     Total Time		:	44042ms
+     Degradation Time	:	36542ms
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎10T04:05:49.175376300Z"
+"10-08-2026 09:43:24","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	spksvc.exe
+     Friendly Name		:	Spektion Windows Service
+     Version		:	3.0.8
+     Total Time		:	43876ms
+     Degradation Time	:	38876ms
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎10T04:05:49.175376300Z"
+"10-08-2026 09:43:24","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	DDPM.Subagent.User.exe
+     Friendly Name		:	Dell Display and Peripheral Manager
+     Version		:	2.3.0.9
+     Total Time		:	59217ms
+     Degradation Time	:	54217ms
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎10T04:05:49.175376300Z"
+"10-08-2026 09:43:24","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	IntelDisplayUMService.exe
+     Friendly Name		:	Intel Graphics Display Service
+     Version		:	1.0.0
+     Total Time		:	87364ms
+     Degradation Time	:	82364ms
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎10T04:05:49.175376300Z"
+"10-08-2026 09:43:24","100","Critical","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	106490ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎10T04:05:49.175376300Z"
+"03-08-2026 09:28:04","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	msedgewebview2.exe
+     Friendly Name		:	Microsoft Edge WebView2
+     Version		:	150.0.4078.105
+     Total Time		:	16541ms
+     Degradation Time	:	11541ms
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎03T03:55:52.889743300Z"
+"03-08-2026 09:28:04","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.TechHub.Instrumentation.SubAgent.exe
+     Friendly Name		:	Dell Instrumentation
+     Version		:	3.8.11.9276
+     Total Time		:	38051ms
+     Degradation Time	:	19698ms
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎03T03:55:52.889743300Z"
+"03-08-2026 09:28:04","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	DDPM.Subagent.User.exe
+     Friendly Name		:	Dell Display and Peripheral Manager
+     Version		:	2.3.0.9
+     Total Time		:	49177ms
+     Degradation Time	:	44177ms
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎03T03:55:52.889743300Z"
+"03-08-2026 09:28:04","100","Critical","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	103504ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎08‎-‎03T03:55:52.889743300Z"
+"31-07-2026 09:46:55","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	lsass.exe
+     Friendly Name		:	Local Security Authority Process
+     Version		:	10.0.26100.8737 (WinBuild.160101.0800)
+     Total Time		:	1639ms
+     Degradation Time	:	551ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎31T04:14:09.071098000Z"
+"31-07-2026 09:46:55","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	sihost.exe
+     Friendly Name		:	Shell Infrastructure Host
+     Version		:	10.0.26100.8328 (WinBuild.160101.0800)
+     Total Time		:	2547ms
+     Degradation Time	:	845ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎31T04:14:09.071098000Z"
+"31-07-2026 09:46:55","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	ZSATrayManager.exe
+     Friendly Name		:	ZscalerTrayManager
+     Version		:	4.8.0.232
+     Total Time		:	1559ms
+     Degradation Time	:	995ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎31T04:14:09.071098000Z"
+"31-07-2026 09:46:55","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.CoreServices.Client.exe
+     Friendly Name		:	Dell.CoreServices.Client
+     Version		:	1.6.372.5
+     Total Time		:	16496ms
+     Degradation Time	:	4170ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎31T04:14:09.071098000Z"
+"31-07-2026 09:46:55","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.TechHub.Analytics.SubAgent.exe
+     Friendly Name		:	Dell Analytics
+     Version		:	3.8.11.9276
+     Total Time		:	26464ms
+     Degradation Time	:	10517ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎31T04:14:09.071098000Z"
+"31-07-2026 09:46:55","100","Critical","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	107363ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎31T04:14:09.071098000Z"
+"27-07-2026 11:51:45","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	sihost.exe
+     Friendly Name		:	Shell Infrastructure Host
+     Version		:	10.0.26100.8328 (WinBuild.160101.0800)
+     Total Time		:	3248ms
+     Degradation Time	:	1247ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎27T06:19:06.234015100Z"
+"27-07-2026 11:51:45","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	OneDrive.Sync.Service.exe
+     Friendly Name		:	Microsoft OneDrive Sync Service
+     Version		:	26.123.0628.0001
+     Total Time		:	11295ms
+     Degradation Time	:	6295ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎27T06:19:06.234015100Z"
+"27-07-2026 11:51:45","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	BtSystem.Service.exe
+     Friendly Name		:	BarTender System Service
+     Version		:	11.5.245.374
+     Total Time		:	24565ms
+     Degradation Time	:	7148ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎27T06:19:06.234015100Z"
+"27-07-2026 11:51:45","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Licensing.Service.exe
+     Friendly Name		:	BarTender Licensing Service
+     Version		:	11.5.245.374
+     Total Time		:	15814ms
+     Degradation Time	:	8314ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎27T06:19:06.234015100Z"
+"27-07-2026 11:51:45","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	SenseTVM.exe
+     Friendly Name		:	Windows Defender Advanced Threat Protection Sense TVM module
+     Version		:	1.6.1-0
+     Total Time		:	13857ms
+     Degradation Time	:	8857ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎27T06:19:06.234015100Z"
+"27-07-2026 11:51:45","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	msedgewebview2.exe
+     Friendly Name		:	Microsoft Edge WebView2
+     Version		:	150.0.4078.99
+     Total Time		:	47766ms
+     Degradation Time	:	42766ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎27T06:19:06.234015100Z"
+"27-07-2026 11:51:45","100","Critical","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	104442ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎27T06:19:06.234015100Z"
+"27-07-2026 11:51:42","200","Warning","Microsoft-Windows-Diagnostics-Performance","Windows has shutdown: 
+     Shutdown Duration	:	57307ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎27T06:17:54.147887500Z"
+"27-07-2026 09:46:24","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	CrossDeviceService.exe
+     Friendly Name		:	Microsoft Cross Device Service
+     Version		:	1.26052.99.0
+     Total Time		:	7604ms
+     Degradation Time	:	5104ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎27T04:06:56.898236400Z"
+"27-07-2026 09:46:24","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	MpDefenderCoreService.exe
+     Friendly Name		:	Antimalware Core Service
+     Version		:	4.18.26060.3008 (df1b0eba8e0e68e7272235d6dea4de3285c715b9)
+     Total Time		:	11111ms
+     Degradation Time	:	6111ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎27T04:06:56.898236400Z"
+"27-07-2026 09:46:24","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.TechHub.Instrumentation.UserProcess.exe
+     Friendly Name		:	Dell Instrumentation's User Process
+     Version		:	3.8.11.9276
+     Total Time		:	9344ms
+     Degradation Time	:	6844ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎27T04:06:56.898236400Z"
+"27-07-2026 09:46:24","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	OneDrive.Sync.Service.exe
+     Friendly Name		:	Microsoft OneDrive Sync Service
+     Version		:	26.123.0628.0001
+     Total Time		:	20990ms
+     Degradation Time	:	15990ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎27T04:06:56.898236400Z"
+"27-07-2026 09:46:24","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	msedgewebview2.exe
+     Friendly Name		:	Microsoft Edge WebView2
+     Version		:	150.0.4078.99
+     Total Time		:	32469ms
+     Degradation Time	:	27469ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎27T04:06:56.898236400Z"
+"27-07-2026 09:46:24","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	MsMpEng.exe
+     Friendly Name		:	Antimalware Service Executable
+     Version		:	4.18.26060.3008 (df1b0eba8e0e68e7272235d6dea4de3285c715b9)
+     Total Time		:	121601ms
+     Degradation Time	:	114101ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎27T04:06:56.898236400Z"
+"27-07-2026 09:46:24","100","Critical","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	124016ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎27T04:06:56.898236400Z"
+"21-07-2026 08:47:32","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	services.exe
+     Friendly Name		:	Services and Controller app
+     Version		:	10.0.26100.8115 (WinBuild.160101.0800)
+     Total Time		:	3322ms
+     Degradation Time	:	1342ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎21T03:14:06.259225100Z"
+"21-07-2026 08:47:32","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	SearchHost.exe
+     Friendly Name		:	
+     Version		:	2604.28014.500.0
+     Total Time		:	4506ms
+     Degradation Time	:	2131ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎21T03:14:06.259225100Z"
+"21-07-2026 08:47:32","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.TechHub.exe
+     Friendly Name		:	Dell.TechHub
+     Version		:	1.6.372.5
+     Total Time		:	8515ms
+     Degradation Time	:	3515ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎21T03:14:06.259225100Z"
+"21-07-2026 08:47:32","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	OfficeClickToRun.exe
+     Friendly Name		:	
+     Version		:	
+     Total Time		:	6723ms
+     Degradation Time	:	4223ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎21T03:14:06.259225100Z"
+"21-07-2026 08:47:32","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Integrator.exe
+     Friendly Name		:	Microsoft Office Click-to-Run Integrator
+     Version		:	16.0.20131.20152
+     Total Time		:	11463ms
+     Degradation Time	:	6463ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎21T03:14:06.259225100Z"
+"21-07-2026 08:47:32","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	svchost.exe
+     Friendly Name		:	Host Process for Windows Services
+     Version		:	10.0.26100.1 (WinBuild.160101.0800)
+     Total Time		:	24084ms
+     Degradation Time	:	10733ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎21T03:14:06.259225100Z"
+"21-07-2026 08:47:32","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	audiodg.exe
+     Friendly Name		:	Windows Audio Device Graph Isolation 
+     Version		:	10.0.26100.1 (WinBuild.160101.0800)
+     Total Time		:	16235ms
+     Degradation Time	:	11235ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎21T03:14:06.259225100Z"
+"21-07-2026 08:47:32","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	SenseTVM.exe
+     Friendly Name		:	Windows Defender Advanced Threat Protection Sense TVM module
+     Version		:	1.6.1-0
+     Total Time		:	48865ms
+     Degradation Time	:	43865ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎21T03:14:06.259225100Z"
+"21-07-2026 08:47:32","101","Critical","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	MsMpEng.exe
+     Friendly Name		:	Antimalware Service Executable
+     Version		:	4.18.26060.3008 (df1b0eba8e0e68e7272235d6dea4de3285c715b9)
+     Total Time		:	111446ms
+     Degradation Time	:	103946ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎21T03:14:06.259225100Z"
+"21-07-2026 08:47:32","100","Critical","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	105446ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎21T03:14:06.259225100Z"
+"12-07-2026 18:34:24","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.Update.SubAgent.exe
+     Friendly Name		:	 
+     Version		:	5.7.0.296
+     Total Time		:	8619ms
+     Degradation Time	:	3619ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎12T13:01:46.101589400Z"
+"12-07-2026 18:34:24","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	olk.exe
+     Friendly Name		:	Microsoft Outlook
+     Version		:	1.2026.521.100
+     Total Time		:	10056ms
+     Degradation Time	:	5056ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎12T13:01:46.101589400Z"
+"12-07-2026 18:34:24","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.TechHub.exe
+     Friendly Name		:	Dell.TechHub
+     Version		:	1.6.372.5
+     Total Time		:	10227ms
+     Degradation Time	:	5227ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎12T13:01:46.101589400Z"
+"12-07-2026 18:34:24","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	NisSrv.exe
+     Friendly Name		:	Microsoft Network Realtime Inspection Service
+     Version		:	4.18.26060.3008 (df1b0eba8e0e68e7272235d6dea4de3285c715b9)
+     Total Time		:	11101ms
+     Degradation Time	:	6101ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎12T13:01:46.101589400Z"
+"12-07-2026 18:34:24","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	ZSATunnel.exe
+     Friendly Name		:	ZscalerTunnel
+     Version		:	4.7.0.141
+     Total Time		:	11511ms
+     Degradation Time	:	6511ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎12T13:01:46.101589400Z"
+"12-07-2026 18:34:24","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	explorer.exe
+     Friendly Name		:	Windows Explorer
+     Version		:	10.0.26100.8117 (WinBuild.160101.0800)
+     Total Time		:	16569ms
+     Degradation Time	:	7383ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎12T13:01:46.101589400Z"
+"12-07-2026 18:34:24","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	svchost.exe
+     Friendly Name		:	Host Process for Windows Services
+     Version		:	10.0.26100.1 (WinBuild.160101.0800)
+     Total Time		:	61086ms
+     Degradation Time	:	21303ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎12T13:01:46.101589400Z"
+"12-07-2026 18:34:24","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	sppsvc.exe
+     Friendly Name		:	Microsoft Software Protection Platform Service
+     Version		:	10.0.26100.8115 (WinBuild.160101.0800)
+     Total Time		:	41451ms
+     Degradation Time	:	25737ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎12T13:01:46.101589400Z"
+"12-07-2026 18:34:24","101","Critical","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	MsMpEng.exe
+     Friendly Name		:	Antimalware Service Executable
+     Version		:	4.18.26060.3008 (df1b0eba8e0e68e7272235d6dea4de3285c715b9)
+     Total Time		:	112641ms
+     Degradation Time	:	105141ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎12T13:01:46.101589400Z"
+"12-07-2026 18:34:24","101","Critical","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	msedgewebview2.exe
+     Friendly Name		:	Microsoft Edge WebView2
+     Version		:	150.0.4078.65
+     Total Time		:	117532ms
+     Degradation Time	:	112532ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎12T13:01:46.101589400Z"
+"12-07-2026 18:34:24","100","Critical","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	102458ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎12T13:01:46.101589400Z"
+"07-07-2026 09:30:28","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	BtSystem.Service.exe
+     Friendly Name		:	BarTender System Service
+     Version		:	11.5.245.374
+     Total Time		:	6061ms
+     Degradation Time	:	3561ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎07T03:58:09.214915700Z"
+"07-07-2026 09:30:28","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	ZSATunnel.exe
+     Friendly Name		:	ZscalerTunnel
+     Version		:	4.7.0.141
+     Total Time		:	8996ms
+     Degradation Time	:	3996ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎07T03:58:09.214915700Z"
+"07-07-2026 09:30:28","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	SenseTVM.exe
+     Friendly Name		:	Windows Defender Advanced Threat Protection Sense TVM module
+     Version		:	1.6.1-0
+     Total Time		:	9610ms
+     Degradation Time	:	4610ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎07T03:58:09.214915700Z"
+"07-07-2026 09:30:28","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Licensing.Service.exe
+     Friendly Name		:	BarTender Licensing Service
+     Version		:	11.5.245.374
+     Total Time		:	10344ms
+     Degradation Time	:	5344ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎07T03:58:09.214915700Z"
+"07-07-2026 09:30:28","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	OUTLOOK.EXE
+     Friendly Name		:	Microsoft Outlook
+     Version		:	16.0.20026.20166
+     Total Time		:	25827ms
+     Degradation Time	:	11729ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎07T03:58:09.214915700Z"
+"07-07-2026 09:30:28","100","Critical","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	104731ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎07T03:58:09.214915700Z"
+"04-07-2026 14:15:28","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	ZSAUpm.exe
+     Friendly Name		:	ZscalerUpm
+     Version		:	4.7.0.76
+     Total Time		:	2520ms
+     Degradation Time	:	20ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎04T08:42:29.894936400Z"
+"04-07-2026 14:15:28","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	ZSATunnel.exe
+     Friendly Name		:	ZscalerTunnel
+     Version		:	4.7.0.141
+     Total Time		:	2665ms
+     Degradation Time	:	165ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎04T08:42:29.894936400Z"
+"04-07-2026 14:15:28","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	sppsvc.exe
+     Friendly Name		:	Microsoft Software Protection Platform Service
+     Version		:	10.0.26100.8115 (WinBuild.160101.0800)
+     Total Time		:	3120ms
+     Degradation Time	:	2120ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎04T08:42:29.894936400Z"
+"04-07-2026 14:15:28","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	CrossDeviceService.exe
+     Friendly Name		:	Microsoft Cross Device Service
+     Version		:	1.26042.110.0
+     Total Time		:	8740ms
+     Degradation Time	:	3740ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎04T08:42:29.894936400Z"
+"04-07-2026 14:15:28","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	TextInputHost.exe
+     Friendly Name		:	
+     Version		:	2604.28001.0.0
+     Total Time		:	8808ms
+     Degradation Time	:	3808ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎04T08:42:29.894936400Z"
+"04-07-2026 14:15:28","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	DPM.exe
+     Friendly Name		:	Dell Peripheral Manager Application
+     Version		:	2.3.0.100
+     Total Time		:	9728ms
+     Degradation Time	:	4728ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎04T08:42:29.894936400Z"
+"04-07-2026 14:15:28","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	SenseTVM.exe
+     Friendly Name		:	Windows Defender Advanced Threat Protection Sense TVM module
+     Version		:	1.6.1-0
+     Total Time		:	8936ms
+     Degradation Time	:	5436ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎04T08:42:29.894936400Z"
+"04-07-2026 14:15:28","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	BtSystem.Service.exe
+     Friendly Name		:	BarTender System Service
+     Version		:	11.5.245.374
+     Total Time		:	10770ms
+     Degradation Time	:	7270ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎04T08:42:29.894936400Z"
+"04-07-2026 14:15:28","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	mgssecsvc.exe
+     Friendly Name		:	Security Service
+     Version		:	24.0
+     Total Time		:	32362ms
+     Degradation Time	:	23862ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎04T08:42:29.894936400Z"
+"04-07-2026 14:15:28","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Licensing.Service.exe
+     Friendly Name		:	BarTender Licensing Service
+     Version		:	11.5.245.374
+     Total Time		:	37080ms
+     Degradation Time	:	29580ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎04T08:42:29.894936400Z"
+"04-07-2026 14:15:28","100","Critical","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	107542ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎04T08:42:29.894936400Z"
+"03-07-2026 11:24:35","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Microsoft.Management.Services.IntuneWindowsAgent.exe
+     Friendly Name		:	Microsoft.Management.Services.IntuneWindowsAgent
+     Version		:	1.101.111.0
+     Total Time		:	8138ms
+     Degradation Time	:	3138ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎03T05:50:10.066458000Z"
+"03-07-2026 11:24:35","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	StartMenuExperienceHost.exe
+     Friendly Name		:	Windows Start Experience Host
+     Version		:	10.0.26100.8655 (WinBuild.160101.0800)
+     Total Time		:	8517ms
+     Degradation Time	:	3517ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎03T05:50:10.066458000Z"
+"03-07-2026 11:24:35","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	DPM.exe
+     Friendly Name		:	Dell Peripheral Manager Application
+     Version		:	2.3.0.100
+     Total Time		:	8537ms
+     Degradation Time	:	3537ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎03T05:50:10.066458000Z"
+"03-07-2026 11:24:35","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	winlogon.exe
+     Friendly Name		:	Windows Logon Application
+     Version		:	10.0.26100.8117 (WinBuild.160101.0800)
+     Total Time		:	8893ms
+     Degradation Time	:	3893ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎03T05:50:10.066458000Z"
+"03-07-2026 11:24:35","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	BtSystem.Service.exe
+     Friendly Name		:	BarTender System Service
+     Version		:	11.5.245.374
+     Total Time		:	9086ms
+     Degradation Time	:	4086ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎03T05:50:10.066458000Z"
+"03-07-2026 11:24:35","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	powercfg.exe
+     Friendly Name		:	Power Settings Command-Line Tool
+     Version		:	10.0.26100.8328 (WinBuild.160101.0800)
+     Total Time		:	9908ms
+     Degradation Time	:	4908ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎03T05:50:10.066458000Z"
+"03-07-2026 11:24:35","100","Critical","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	104409ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎03T05:50:10.066458000Z"
+"01-07-2026 10:12:16","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	BtSystem.Service.exe
+     Friendly Name		:	BarTender System Service
+     Version		:	11.5.245.374
+     Total Time		:	10749ms
+     Degradation Time	:	5749ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎01T04:38:06.234832700Z"
+"01-07-2026 10:12:16","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	OneDrive.Sync.Service.exe
+     Friendly Name		:	Microsoft OneDrive Sync Service
+     Version		:	26.106.0603.0003
+     Total Time		:	11738ms
+     Degradation Time	:	6738ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎01T04:38:06.234832700Z"
+"01-07-2026 10:12:16","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	PrintScheduler.Service.exe
+     Friendly Name		:	BarTender Print Scheduler Service
+     Version		:	11.5.245.374
+     Total Time		:	12775ms
+     Degradation Time	:	7775ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎01T04:38:06.234832700Z"
+"01-07-2026 10:12:16","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Seagull.Services.Integration.WebService.exe
+     Friendly Name		:	Seagull.Services.Integration.WebService
+     Version		:	1.0.0.0
+     Total Time		:	17940ms
+     Degradation Time	:	12940ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎01T04:38:06.234832700Z"
+"01-07-2026 10:12:16","101","Critical","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Integration.Service.exe
+     Friendly Name		:	BarTender Integration Service
+     Version		:	11.5.245.374
+     Total Time		:	131393ms
+     Degradation Time	:	123893ms
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎01T04:38:06.234832700Z"
+"01-07-2026 10:12:16","100","Critical","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	101327ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎07‎-‎01T04:38:06.234832700Z"
+"29-06-2026 10:27:21","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	ZEPService.exe
+     Friendly Name		:	Zscaler Endpoint Platform component
+     Version		:	25.10.0.3
+     Total Time		:	1179ms
+     Degradation Time	:	521ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎29T04:54:05.923660800Z"
+"29-06-2026 10:27:21","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Microsoft.Notes.exe
+     Friendly Name		:	Microsoft.Notes
+     Version		:	6.1.4.0
+     Total Time		:	3292ms
+     Degradation Time	:	1426ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎29T04:54:05.923660800Z"
+"29-06-2026 10:27:21","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	dwm.exe
+     Friendly Name		:	Desktop Window Manager
+     Version		:	10.0.26100.1 (WinBuild.160101.0800)
+     Total Time		:	9718ms
+     Degradation Time	:	3269ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎29T04:54:05.923660800Z"
+"29-06-2026 10:27:21","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	lsass.exe
+     Friendly Name		:	Local Security Authority Process
+     Version		:	10.0.26100.8521 (WinBuild.160101.0800)
+     Total Time		:	8546ms
+     Degradation Time	:	3546ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎29T04:54:05.923660800Z"
+"29-06-2026 10:27:21","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	DDPM.Subagent.exe
+     Friendly Name		:	DDPM.Subagent
+     Version		:	2.3.0.9
+     Total Time		:	10702ms
+     Degradation Time	:	5702ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎29T04:54:05.923660800Z"
+"29-06-2026 10:27:21","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	OneDrive.Sync.Service.exe
+     Friendly Name		:	Microsoft OneDrive Sync Service
+     Version		:	26.106.0603.0003
+     Total Time		:	13294ms
+     Degradation Time	:	8294ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎29T04:54:05.923660800Z"
+"29-06-2026 10:27:21","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	mgssecsvc.exe
+     Friendly Name		:	Security Service
+     Version		:	24.0
+     Total Time		:	16313ms
+     Degradation Time	:	11313ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎29T04:54:05.923660800Z"
+"29-06-2026 10:27:21","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	SearchProtocolHost.exe
+     Friendly Name		:	Microsoft Windows Search Protocol Host
+     Version		:	7.0.26100.8521 (WinBuild.160101.0800)
+     Total Time		:	20540ms
+     Degradation Time	:	15540ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎29T04:54:05.923660800Z"
+"29-06-2026 10:27:21","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	msedgewebview2.exe
+     Friendly Name		:	Microsoft Edge WebView2
+     Version		:	149.0.4022.98
+     Total Time		:	46622ms
+     Degradation Time	:	41622ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎29T04:54:05.923660800Z"
+"29-06-2026 10:27:21","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	MsMpEng.exe
+     Friendly Name		:	Antimalware Service Executable
+     Version		:	4.18.26050.15 (b7ae6fb185fe12f8ad81cb6d4ade5982e03d0a61)
+     Total Time		:	99137ms
+     Degradation Time	:	60175ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎29T04:54:05.923660800Z"
+"29-06-2026 10:27:21","100","Critical","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	104177ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎29T04:54:05.923660800Z"
+"29-06-2026 10:27:19","203","Warning","Microsoft-Windows-Diagnostics-Performance","This service caused a delay in the system shutdown process: 
+     File Name		:	WSearch
+     Friendly Name		:	
+     Version		:	
+     Total Time		:	4966ms
+     Degradation Time	:	966ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎29T04:42:08.396075800Z"
+"29-06-2026 10:27:19","200","Warning","Microsoft-Windows-Diagnostics-Performance","Windows has shutdown: 
+     Shutdown Duration	:	32253ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎29T04:42:08.396075800Z"
+"29-06-2026 09:04:32","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	sppsvc.exe
+     Friendly Name		:	Microsoft Software Protection Platform Service
+     Version		:	10.0.26100.8115 (WinBuild.160101.0800)
+     Total Time		:	4118ms
+     Degradation Time	:	1618ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎29T03:32:16.916739200Z"
+"29-06-2026 09:04:32","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	NisSrv.exe
+     Friendly Name		:	Microsoft Network Realtime Inspection Service
+     Version		:	4.18.26050.15 (b7ae6fb185fe12f8ad81cb6d4ade5982e03d0a61)
+     Total Time		:	9173ms
+     Degradation Time	:	4173ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎29T03:32:16.916739200Z"
+"29-06-2026 09:04:32","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	ZSATunnel.exe
+     Friendly Name		:	ZscalerTunnel
+     Version		:	4.7.0.141
+     Total Time		:	9371ms
+     Degradation Time	:	4371ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎29T03:32:16.916739200Z"
+"29-06-2026 09:04:32","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	SearchFilterHost.exe
+     Friendly Name		:	Microsoft Windows Search Filter Host
+     Version		:	7.0.26100.8521 (WinBuild.160101.0800)
+     Total Time		:	11249ms
+     Degradation Time	:	6249ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎29T03:32:16.916739200Z"
+"29-06-2026 09:04:32","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	svchost.exe
+     Friendly Name		:	Host Process for Windows Services
+     Version		:	10.0.26100.1 (WinBuild.160101.0800)
+     Total Time		:	19849ms
+     Degradation Time	:	10578ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎29T03:32:16.916739200Z"
+"29-06-2026 09:04:32","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	OUTLOOK.EXE
+     Friendly Name		:	Microsoft Outlook
+     Version		:	16.0.20026.20166
+     Total Time		:	25367ms
+     Degradation Time	:	20367ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎29T03:32:16.916739200Z"
+"29-06-2026 09:04:32","100","Critical","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	104496ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎29T03:32:16.916739200Z"
+"25-06-2026 09:40:07","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.TechHub.Instrumentation.UserProcess.exe
+     Friendly Name		:	Dell Instrumentation's User Process
+     Version		:	3.8.11.9276
+     Total Time		:	2883ms
+     Degradation Time	:	383ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎25T04:05:49.087611200Z"
+"25-06-2026 09:40:07","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	sihost.exe
+     Friendly Name		:	Shell Infrastructure Host
+     Version		:	10.0.26100.8328 (WinBuild.160101.0800)
+     Total Time		:	1927ms
+     Degradation Time	:	754ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎25T04:05:49.087611200Z"
+"25-06-2026 09:40:07","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	ZSATrayManager.exe
+     Friendly Name		:	ZscalerTrayManager
+     Version		:	4.7.0.141
+     Total Time		:	1115ms
+     Degradation Time	:	799ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎25T04:05:49.087611200Z"
+"25-06-2026 09:40:07","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	DPMService.exe
+     Friendly Name		:	Dell Peripheral Manager Service
+     Version		:	2.3.0.100
+     Total Time		:	2136ms
+     Degradation Time	:	894ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎25T04:05:49.087611200Z"
+"25-06-2026 09:40:07","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	DPM.exe
+     Friendly Name		:	Dell Peripheral Manager Application
+     Version		:	2.3.0.100
+     Total Time		:	2211ms
+     Degradation Time	:	938ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎25T04:05:49.087611200Z"
+"25-06-2026 09:40:07","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	dwm.exe
+     Friendly Name		:	Desktop Window Manager
+     Version		:	10.0.26100.1 (WinBuild.160101.0800)
+     Total Time		:	2996ms
+     Degradation Time	:	1040ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎25T04:05:49.087611200Z"
+"25-06-2026 09:40:07","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	BtSystem.Service.exe
+     Friendly Name		:	BarTender System Service
+     Version		:	11.5.245.374
+     Total Time		:	8242ms
+     Degradation Time	:	3242ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎25T04:05:49.087611200Z"
+"25-06-2026 09:40:07","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	StartMenuExperienceHost.exe
+     Friendly Name		:	Windows Start Experience Host
+     Version		:	10.0.26100.8655 (WinBuild.160101.0800)
+     Total Time		:	8451ms
+     Degradation Time	:	3451ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎25T04:05:49.087611200Z"
+"25-06-2026 09:40:07","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	PrintScheduler.Service.exe
+     Friendly Name		:	BarTender Print Scheduler Service
+     Version		:	11.5.245.374
+     Total Time		:	12401ms
+     Degradation Time	:	7401ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎25T04:05:49.087611200Z"
+"25-06-2026 09:40:07","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	svchost.exe
+     Friendly Name		:	Host Process for Windows Services
+     Version		:	10.0.26100.1 (WinBuild.160101.0800)
+     Total Time		:	16049ms
+     Degradation Time	:	7870ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎25T04:05:49.087611200Z"
+"25-06-2026 09:40:07","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	powercfg.exe
+     Friendly Name		:	Power Settings Command-Line Tool
+     Version		:	10.0.26100.8328 (WinBuild.160101.0800)
+     Total Time		:	13166ms
+     Degradation Time	:	8166ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎25T04:05:49.087611200Z"
+"25-06-2026 09:40:07","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	msedge.exe
+     Friendly Name		:	Microsoft Edge
+     Version		:	149.0.4022.80
+     Total Time		:	14456ms
+     Degradation Time	:	9456ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎25T04:05:49.087611200Z"
+"25-06-2026 09:40:07","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	LogonUI.exe
+     Friendly Name		:	Windows Logon User Interface Host
+     Version		:	10.0.26100.8521 (WinBuild.160101.0800)
+     Total Time		:	17590ms
+     Degradation Time	:	12590ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎25T04:05:49.087611200Z"
+"25-06-2026 09:40:07","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Seagull.Services.Integration.WebService.exe
+     Friendly Name		:	Seagull.Services.Integration.WebService
+     Version		:	1.0.0.0
+     Total Time		:	19150ms
+     Degradation Time	:	14150ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎25T04:05:49.087611200Z"
+"25-06-2026 09:40:07","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Integration.Service.exe
+     Friendly Name		:	BarTender Integration Service
+     Version		:	11.5.245.374
+     Total Time		:	27568ms
+     Degradation Time	:	19068ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎25T04:05:49.087611200Z"
+"25-06-2026 09:40:07","100","Critical","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	102526ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎25T04:05:49.087611200Z"
+"18-06-2026 09:08:46","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.TechHub.exe
+     Friendly Name		:	Dell.TechHub
+     Version		:	1.6.372.5
+     Total Time		:	2766ms
+     Degradation Time	:	266ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎18T03:35:23.912797200Z"
+"18-06-2026 09:08:46","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.TechHub.Analytics.SubAgent.exe
+     Friendly Name		:	Dell Analytics
+     Version		:	3.8.11.9276
+     Total Time		:	2813ms
+     Degradation Time	:	313ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎18T03:35:23.912797200Z"
+"18-06-2026 09:08:46","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	powershell.exe
+     Friendly Name		:	Windows PowerShell
+     Version		:	10.0.26100.8457 (WinBuild.160101.0800)
+     Total Time		:	3273ms
+     Degradation Time	:	773ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎18T03:35:23.912797200Z"
+"18-06-2026 09:08:46","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.Update.SubAgent.exe
+     Friendly Name		:	 
+     Version		:	5.7.0.296
+     Total Time		:	3616ms
+     Degradation Time	:	1116ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎18T03:35:23.912797200Z"
+"18-06-2026 09:08:46","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	SenseTVM.exe
+     Friendly Name		:	Windows Defender Advanced Threat Protection Sense TVM module
+     Version		:	1.6.1-0
+     Total Time		:	3640ms
+     Degradation Time	:	1140ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎18T03:35:23.912797200Z"
+"18-06-2026 09:08:46","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.CoreServices.Client.exe
+     Friendly Name		:	Dell.CoreServices.Client
+     Version		:	1.6.372.5
+     Total Time		:	3842ms
+     Degradation Time	:	1342ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎18T03:35:23.912797200Z"
+"18-06-2026 09:08:46","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.TechHub.Instrumentation.SubAgent.exe
+     Friendly Name		:	Dell Instrumentation
+     Version		:	3.8.11.9276
+     Total Time		:	3957ms
+     Degradation Time	:	1457ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎18T03:35:23.912797200Z"
+"18-06-2026 09:08:46","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	CrossDeviceService.exe
+     Friendly Name		:	Microsoft Cross Device Service
+     Version		:	1.26042.110.0
+     Total Time		:	3974ms
+     Degradation Time	:	1474ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎18T03:35:23.912797200Z"
+"18-06-2026 09:08:46","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.UCA.Manager.exe
+     Friendly Name		:	MyDell Notification Manager
+     Version		:	4.6.236.5
+     Total Time		:	3991ms
+     Degradation Time	:	1491ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎18T03:35:23.912797200Z"
+"18-06-2026 09:08:46","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.TechHub.DataManager.SubAgent.exe
+     Friendly Name		:	Dell Data Manager
+     Version		:	3.8.11.9276
+     Total Time		:	4064ms
+     Degradation Time	:	1564ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎18T03:35:23.912797200Z"
+"18-06-2026 09:08:46","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	MoUsoCoreWorker.exe
+     Friendly Name		:	MoUSO Core Worker Process
+     Version		:	1507.2605.13032.0
+     Total Time		:	4515ms
+     Degradation Time	:	2015ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎18T03:35:23.912797200Z"
+"18-06-2026 09:08:46","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	DDPM.Subagent.exe
+     Friendly Name		:	DDPM.Subagent
+     Version		:	2.3.0.9
+     Total Time		:	4634ms
+     Degradation Time	:	2134ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎18T03:35:23.912797200Z"
+"18-06-2026 09:08:46","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	PrintScheduler.Service.exe
+     Friendly Name		:	BarTender Print Scheduler Service
+     Version		:	11.5.245.374
+     Total Time		:	8981ms
+     Degradation Time	:	3981ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎18T03:35:23.912797200Z"
+"18-06-2026 09:08:46","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	MsSense.exe
+     Friendly Name		:	Windows Defender Advanced Threat Protection Service Executable
+     Version		:	10.8830.27933.1000 (398a21db4cbd4447fb5832b9f888cad9bc8ab8d1) (WinBuild.160101.0800)
+     Total Time		:	9117ms
+     Degradation Time	:	4117ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎18T03:35:23.912797200Z"
+"18-06-2026 09:08:46","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Microsoft.Management.Services.IntuneWindowsAgent.exe
+     Friendly Name		:	Microsoft.Management.Services.IntuneWindowsAgent
+     Version		:	1.101.111.0
+     Total Time		:	9255ms
+     Degradation Time	:	4255ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎18T03:35:23.912797200Z"
+"18-06-2026 09:08:46","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	msedge.exe
+     Friendly Name		:	Microsoft Edge
+     Version		:	149.0.4022.69
+     Total Time		:	11705ms
+     Degradation Time	:	6705ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎18T03:35:23.912797200Z"
+"18-06-2026 09:08:46","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Seagull.Services.Integration.WebService.exe
+     Friendly Name		:	Seagull.Services.Integration.WebService
+     Version		:	1.0.0.0
+     Total Time		:	13592ms
+     Degradation Time	:	8592ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎18T03:35:23.912797200Z"
+"18-06-2026 09:08:46","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	ServiceShell.exe
+     Friendly Name		:	ServiceShell
+     Version		:	5.7.0.296
+     Total Time		:	22261ms
+     Degradation Time	:	17261ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎18T03:35:23.912797200Z"
+"18-06-2026 09:08:46","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Integration.Service.exe
+     Friendly Name		:	BarTender Integration Service
+     Version		:	11.5.245.374
+     Total Time		:	65376ms
+     Degradation Time	:	60376ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎18T03:35:23.912797200Z"
+"18-06-2026 09:08:46","101","Critical","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	MsMpEng.exe
+     Friendly Name		:	Antimalware Service Executable
+     Version		:	4.18.26050.15 (b7ae6fb185fe12f8ad81cb6d4ade5982e03d0a61)
+     Total Time		:	137249ms
+     Degradation Time	:	129749ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎18T03:35:23.912797200Z"
+"18-06-2026 09:08:46","100","Critical","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	102045ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎18T03:35:23.912797200Z"
+"16-06-2026 10:01:41","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	dwm.exe
+     Friendly Name		:	Desktop Window Manager
+     Version		:	10.0.26100.1 (WinBuild.160101.0800)
+     Total Time		:	6471ms
+     Degradation Time	:	1471ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎16T04:29:11.043124400Z"
+"16-06-2026 10:01:41","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	explorer.exe
+     Friendly Name		:	Windows Explorer
+     Version		:	10.0.26100.8117 (WinBuild.160101.0800)
+     Total Time		:	7044ms
+     Degradation Time	:	2044ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎16T04:29:11.043124400Z"
+"16-06-2026 10:01:41","101","Critical","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	MsMpEng.exe
+     Friendly Name		:	Antimalware Service Executable
+     Version		:	4.18.26050.15 (b7ae6fb185fe12f8ad81cb6d4ade5982e03d0a61)
+     Total Time		:	60283ms
+     Degradation Time	:	51783ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎16T04:29:11.043124400Z"
+"16-06-2026 10:01:41","100","Error","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	60094ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎16T04:29:11.043124400Z"
+"12-06-2026 09:57:48","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	explorer.exe
+     Friendly Name		:	Windows Explorer
+     Version		:	10.0.26100.8117 (WinBuild.160101.0800)
+     Total Time		:	5259ms
+     Degradation Time	:	259ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎12T04:24:21.126119500Z"
+"12-06-2026 09:57:48","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	OneDrive.exe
+     Friendly Name		:	Microsoft OneDrive
+     Version		:	26.095.0519.0003
+     Total Time		:	5411ms
+     Degradation Time	:	411ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎12T04:24:21.126119500Z"
+"12-06-2026 09:57:48","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	CrossDeviceService.exe
+     Friendly Name		:	Microsoft Cross Device Service
+     Version		:	1.26032.83.0
+     Total Time		:	5483ms
+     Degradation Time	:	483ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎12T04:24:21.126119500Z"
+"12-06-2026 09:57:48","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	MsMpEng.exe
+     Friendly Name		:	Antimalware Service Executable
+     Version		:	4.18.26050.15 (b7ae6fb185fe12f8ad81cb6d4ade5982e03d0a61)
+     Total Time		:	43548ms
+     Degradation Time	:	36048ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎12T04:24:21.126119500Z"
+"12-06-2026 09:57:48","100","Error","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	68055ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎12T04:24:21.126119500Z"
+"08-06-2026 19:18:44","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.UCA.Manager.exe
+     Friendly Name		:	MyDell Notification Manager
+     Version		:	4.6.236.5
+     Total Time		:	9649ms
+     Degradation Time	:	4649ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎08T13:43:38.969521400Z"
+"08-06-2026 19:18:44","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	SearchProtocolHost.exe
+     Friendly Name		:	Microsoft Windows Search Protocol Host
+     Version		:	7.0.26100.8246 (WinBuild.160101.0800)
+     Total Time		:	9999ms
+     Degradation Time	:	4999ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎08T13:43:38.969521400Z"
+"08-06-2026 19:18:44","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	DDPM.Subagent.exe
+     Friendly Name		:	DDPM.Subagent
+     Version		:	2.2.2.8
+     Total Time		:	10979ms
+     Degradation Time	:	5979ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎08T13:43:38.969521400Z"
+"08-06-2026 19:18:44","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.TechHub.DataManager.SubAgent.exe
+     Friendly Name		:	Dell Data Manager
+     Version		:	3.8.11.9276
+     Total Time		:	16554ms
+     Degradation Time	:	11554ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎08T13:43:38.969521400Z"
+"08-06-2026 19:18:44","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.CoreServices.Client.exe
+     Friendly Name		:	Dell.CoreServices.Client
+     Version		:	1.6.372.5
+     Total Time		:	17015ms
+     Degradation Time	:	12015ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎08T13:43:38.969521400Z"
+"08-06-2026 19:18:44","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.TechHub.Analytics.SubAgent.exe
+     Friendly Name		:	Dell Analytics
+     Version		:	3.8.11.9276
+     Total Time		:	28994ms
+     Degradation Time	:	23994ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎08T13:43:38.969521400Z"
+"08-06-2026 19:18:44","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	OneDrive.Sync.Service.exe
+     Friendly Name		:	Microsoft OneDrive Sync Service
+     Version		:	26.088.0510.0004
+     Total Time		:	52891ms
+     Degradation Time	:	47891ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎08T13:43:38.969521400Z"
+"08-06-2026 19:18:44","100","Critical","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	104496ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎08T13:43:38.969521400Z"
+"08-06-2026 19:15:52","203","Warning","Microsoft-Windows-Diagnostics-Performance","This service caused a delay in the system shutdown process: 
+     File Name		:	NetTcpPortSharing
+     Friendly Name		:	SMSvcHost.exe
+     Version		:	4.8.9032.0 built by: NET481REL1
+     Total Time		:	4974ms
+     Degradation Time	:	974ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎08T13:42:48.112222700Z"
+"08-06-2026 19:15:52","200","Warning","Microsoft-Windows-Diagnostics-Performance","Windows has shutdown: 
+     Shutdown Duration	:	32933ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎08T13:42:48.112222700Z"
+"08-06-2026 09:43:13","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	SearchIndexer.exe
+     Friendly Name		:	Microsoft Windows Search Indexer
+     Version		:	7.0.26100.8115 (WinBuild.160101.0800)
+     Total Time		:	2989ms
+     Degradation Time	:	489ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎08T04:09:55.045752600Z"
+"08-06-2026 09:43:13","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	sppsvc.exe
+     Friendly Name		:	Microsoft Software Protection Platform Service
+     Version		:	10.0.26100.8115 (WinBuild.160101.0800)
+     Total Time		:	9203ms
+     Degradation Time	:	4203ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎08T04:09:55.045752600Z"
+"08-06-2026 09:43:13","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	IntelDisplayUMService.exe
+     Friendly Name		:	Intel Graphics Display Service
+     Version		:	1.0.0
+     Total Time		:	11330ms
+     Degradation Time	:	6330ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎08T04:09:55.045752600Z"
+"08-06-2026 09:43:13","100","Error","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	55000ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎08T04:09:55.045752600Z"
+"03-06-2026 10:23:04","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	dwm.exe
+     Friendly Name		:	Desktop Window Manager
+     Version		:	10.0.26100.1 (WinBuild.160101.0800)
+     Total Time		:	10143ms
+     Degradation Time	:	5143ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎03T04:43:52.974794300Z"
+"03-06-2026 10:23:04","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	services.exe
+     Friendly Name		:	Services and Controller app
+     Version		:	10.0.26100.8115 (WinBuild.160101.0800)
+     Total Time		:	10604ms
+     Degradation Time	:	5604ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎03T04:43:52.974794300Z"
+"03-06-2026 10:23:04","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.TechHub.Instrumentation.SubAgent.exe
+     Friendly Name		:	Dell Instrumentation
+     Version		:	3.8.11.9276
+     Total Time		:	11711ms
+     Degradation Time	:	6711ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎03T04:43:52.974794300Z"
+"03-06-2026 10:23:04","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	msedge.exe
+     Friendly Name		:	Microsoft Edge
+     Version		:	148.0.3967.96
+     Total Time		:	13099ms
+     Degradation Time	:	8099ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎03T04:43:52.974794300Z"
+"03-06-2026 10:23:04","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	OUTLOOK.EXE
+     Friendly Name		:	Microsoft Outlook
+     Version		:	16.0.19929.20172
+     Total Time		:	17254ms
+     Degradation Time	:	12254ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎03T04:43:52.974794300Z"
+"03-06-2026 10:23:04","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	msedgewebview2.exe
+     Friendly Name		:	Microsoft Edge WebView2
+     Version		:	148.0.3967.96
+     Total Time		:	17964ms
+     Degradation Time	:	12964ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎03T04:43:52.974794300Z"
+"03-06-2026 10:23:04","100","Critical","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	102807ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎03T04:43:52.974794300Z"
+"03-06-2026 10:22:45","203","Warning","Microsoft-Windows-Diagnostics-Performance","This service caused a delay in the system shutdown process: 
+     File Name		:	WinDefend
+     Friendly Name		:	
+     Version		:	
+     Total Time		:	4967ms
+     Degradation Time	:	967ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎02T19:11:49.522455900Z"
+"03-06-2026 10:22:45","203","Warning","Microsoft-Windows-Diagnostics-Performance","This service caused a delay in the system shutdown process: 
+     File Name		:	NetTcpPortSharing
+     Friendly Name		:	SMSvcHost.exe
+     Version		:	4.8.9032.0 built by: NET481REL1
+     Total Time		:	4968ms
+     Degradation Time	:	968ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎02T19:11:49.522455900Z"
+"03-06-2026 10:22:45","200","Warning","Microsoft-Windows-Diagnostics-Performance","Windows has shutdown: 
+     Shutdown Duration	:	31809ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎02T19:11:49.522455900Z"
+"03-06-2026 00:17:23","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	CompanyPortal.exe
+     Friendly Name		:	CompanyPortal
+     Version		:	11.2.1787.0
+     Total Time		:	5234ms
+     Degradation Time	:	234ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎02T18:43:22.212543100Z"
+"03-06-2026 00:17:23","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	MsMpEng.exe
+     Friendly Name		:	Antimalware Service Executable
+     Version		:	4.18.26040.7 (8d846dd50fd7adca65beb1b013a5fda76a9ec807)
+     Total Time		:	1275ms
+     Degradation Time	:	275ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎02T18:43:22.212543100Z"
+"03-06-2026 00:17:23","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	msedgewebview2.exe
+     Friendly Name		:	Microsoft Edge WebView2
+     Version		:	148.0.3967.96
+     Total Time		:	5308ms
+     Degradation Time	:	308ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎02T18:43:22.212543100Z"
+"03-06-2026 00:17:23","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	StartMenuExperienceHost.exe
+     Friendly Name		:	Windows Start Experience Host
+     Version		:	10.0.26100.8115 (WinBuild.160101.0800)
+     Total Time		:	3191ms
+     Degradation Time	:	691ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎02T18:43:22.212543100Z"
+"03-06-2026 00:17:23","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Microsoft.Notes.exe
+     Friendly Name		:	Microsoft.Notes
+     Version		:	6.1.4.0
+     Total Time		:	3580ms
+     Degradation Time	:	1080ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎02T18:43:22.212543100Z"
+"03-06-2026 00:17:23","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	dwm.exe
+     Friendly Name		:	Desktop Window Manager
+     Version		:	10.0.26100.1 (WinBuild.160101.0800)
+     Total Time		:	8681ms
+     Degradation Time	:	1181ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎02T18:43:22.212543100Z"
+"03-06-2026 00:17:23","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	SearchHost.exe
+     Friendly Name		:	
+     Version		:	2126.5604.40.0
+     Total Time		:	4320ms
+     Degradation Time	:	1820ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎02T18:43:22.212543100Z"
+"03-06-2026 00:17:23","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	explorer.exe
+     Friendly Name		:	Windows Explorer
+     Version		:	10.0.26100.8117 (WinBuild.160101.0800)
+     Total Time		:	6846ms
+     Degradation Time	:	1846ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎02T18:43:22.212543100Z"
+"03-06-2026 00:17:23","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	CrossDeviceService.exe
+     Friendly Name		:	Microsoft Cross Device Service
+     Version		:	1.26032.83.0
+     Total Time		:	8720ms
+     Degradation Time	:	3720ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎02T18:43:22.212543100Z"
+"03-06-2026 00:17:23","100","Error","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	52380ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎02T18:43:22.212543100Z"
+"03-06-2026 00:17:19","203","Warning","Microsoft-Windows-Diagnostics-Performance","This service caused a delay in the system shutdown process: 
+     File Name		:	NetTcpPortSharing
+     Friendly Name		:	SMSvcHost.exe
+     Version		:	4.8.9032.0 built by: NET481REL1
+     Total Time		:	4972ms
+     Degradation Time	:	972ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎02T18:42:29.072500100Z"
+"03-06-2026 00:17:19","200","Warning","Microsoft-Windows-Diagnostics-Performance","Windows has shutdown: 
+     Shutdown Duration	:	38964ms
+     IsDegradation		:	true
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎02T18:42:29.072500100Z"
+"02-06-2026 10:16:39","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	SearchProtocolHost.exe
+     Friendly Name		:	Microsoft Windows Search Protocol Host
+     Version		:	7.0.26100.8246 (WinBuild.160101.0800)
+     Total Time		:	5112ms
+     Degradation Time	:	112ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎02T04:43:53.899155600Z"
+"02-06-2026 10:16:39","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	svchost.exe
+     Friendly Name		:	Host Process for Windows Services
+     Version		:	10.0.26100.1 (WinBuild.160101.0800)
+     Total Time		:	7061ms
+     Degradation Time	:	4561ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎02T04:43:53.899155600Z"
+"02-06-2026 10:16:39","100","Warning","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	45804ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎02T04:43:53.899155600Z"
+"01-06-2026 09:29:25","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Microsoft.Notes.exe
+     Friendly Name		:	Microsoft.Notes
+     Version		:	6.1.4.0
+     Total Time		:	2918ms
+     Degradation Time	:	418ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎01T03:49:10.037822900Z"
+"01-06-2026 09:29:25","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.TechHub.Instrumentation.SubAgent.exe
+     Friendly Name		:	Dell Instrumentation
+     Version		:	3.8.11.9276
+     Total Time		:	3222ms
+     Degradation Time	:	722ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎01T03:49:10.037822900Z"
+"01-06-2026 09:29:25","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	SearchHost.exe
+     Friendly Name		:	
+     Version		:	2126.5604.40.0
+     Total Time		:	4037ms
+     Degradation Time	:	1537ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎01T03:49:10.037822900Z"
+"01-06-2026 09:29:25","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	lsass.exe
+     Friendly Name		:	Local Security Authority Process
+     Version		:	10.0.26100.8115 (WinBuild.160101.0800)
+     Total Time		:	7707ms
+     Degradation Time	:	2707ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎01T03:49:10.037822900Z"
+"01-06-2026 09:29:25","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	OneDrive.Sync.Service.exe
+     Friendly Name		:	Microsoft OneDrive Sync Service
+     Version		:	26.084.0504.0007
+     Total Time		:	8234ms
+     Degradation Time	:	3234ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎01T03:49:10.037822900Z"
+"01-06-2026 09:29:25","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	MpDlpService.exe
+     Friendly Name		:	Microsoft Purview Data Loss Prevention Service
+     Version		:	4.18.26040.7 (8d846dd50fd7adca65beb1b013a5fda76a9ec807)
+     Total Time		:	8359ms
+     Degradation Time	:	3359ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎01T03:49:10.037822900Z"
+"01-06-2026 09:29:25","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	explorer.exe
+     Friendly Name		:	Windows Explorer
+     Version		:	10.0.26100.8117 (WinBuild.160101.0800)
+     Total Time		:	7267ms
+     Degradation Time	:	4767ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎01T03:49:10.037822900Z"
+"01-06-2026 09:29:25","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	WmiPrvSE.exe
+     Friendly Name		:	WMI Provider Host
+     Version		:	10.0.26100.7309 (WinBuild.160101.0800)
+     Total Time		:	11351ms
+     Degradation Time	:	6351ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎01T03:49:10.037822900Z"
+"01-06-2026 09:29:25","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.TechHub.Instrumentation.UserProcess.exe
+     Friendly Name		:	Dell Instrumentation's User Process
+     Version		:	3.8.11.9276
+     Total Time		:	12101ms
+     Degradation Time	:	7101ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎01T03:49:10.037822900Z"
+"01-06-2026 09:29:25","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	svchost.exe
+     Friendly Name		:	Host Process for Windows Services
+     Version		:	10.0.26100.1 (WinBuild.160101.0800)
+     Total Time		:	28311ms
+     Degradation Time	:	20811ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎01T03:49:10.037822900Z"
+"01-06-2026 09:29:25","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	msedgewebview2.exe
+     Friendly Name		:	Microsoft Edge WebView2
+     Version		:	148.0.3967.96
+     Total Time		:	39734ms
+     Degradation Time	:	34734ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎01T03:49:10.037822900Z"
+"01-06-2026 09:29:25","101","Critical","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	SearchIndexer.exe
+     Friendly Name		:	Microsoft Windows Search Indexer
+     Version		:	7.0.26100.8115 (WinBuild.160101.0800)
+     Total Time		:	45781ms
+     Degradation Time	:	40781ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎01T03:49:10.037822900Z"
+"01-06-2026 09:29:25","101","Critical","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	MsMpEng.exe
+     Friendly Name		:	Antimalware Service Executable
+     Version		:	4.18.26040.7 (8d846dd50fd7adca65beb1b013a5fda76a9ec807)
+     Total Time		:	95320ms
+     Degradation Time	:	87820ms
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎01T03:49:10.037822900Z"
+"01-06-2026 09:29:25","100","Critical","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	96993ms
+     IsDegradation		:	true
+     Incident Time (UTC)	:	‎2026‎-‎06‎-‎01T03:49:10.037822900Z"
+"28-05-2026 10:21:53","108","Warning","Microsoft-Windows-Diagnostics-Performance","Application of user policy caused a slow down in the system start up process: 
+     Name		:	PreShellInit
+     Total Time		:	4425ms
+     Degradation Time	:	425ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","110","Warning","Microsoft-Windows-Diagnostics-Performance","Session manager initialization caused a slow down in the startup process: 
+     Name		:	SMSSInit
+     Total Time		:	10707ms
+     Degradation Time	:	707ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	services.exe
+     Friendly Name		:	Services and Controller app
+     Version		:	10.0.26100.8115 (WinBuild.160101.0800)
+     Total Time		:	2577ms
+     Degradation Time	:	77ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	StartMenuExperienceHost.exe
+     Friendly Name		:	Windows Start Experience Host
+     Version		:	10.0.26100.8115 (WinBuild.160101.0800)
+     Total Time		:	3158ms
+     Degradation Time	:	658ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	dwm.exe
+     Friendly Name		:	Desktop Window Manager
+     Version		:	10.0.26100.1 (WinBuild.160101.0800)
+     Total Time		:	3335ms
+     Degradation Time	:	835ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Microsoft.Notes.exe
+     Friendly Name		:	Microsoft.Notes
+     Version		:	6.1.4.0
+     Total Time		:	4383ms
+     Degradation Time	:	1883ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	SearchHost.exe
+     Friendly Name		:	
+     Version		:	2126.5604.40.0
+     Total Time		:	4482ms
+     Degradation Time	:	1982ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.Update.SubAgent.exe
+     Friendly Name		:	 
+     Version		:	5.7.0.296
+     Total Time		:	8233ms
+     Degradation Time	:	3233ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.TechHub.exe
+     Friendly Name		:	Dell.TechHub
+     Version		:	1.6.372.5
+     Total Time		:	9489ms
+     Degradation Time	:	4489ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.TechHub.Instrumentation.UserProcess.exe
+     Friendly Name		:	Dell Instrumentation's User Process
+     Version		:	3.8.11.9276
+     Total Time		:	9494ms
+     Degradation Time	:	4494ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.UCA.Manager.exe
+     Friendly Name		:	MyDell Notification Manager
+     Version		:	4.6.236.5
+     Total Time		:	9559ms
+     Degradation Time	:	4559ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	MpDlpService.exe
+     Friendly Name		:	Microsoft Purview Data Loss Prevention Service
+     Version		:	4.18.26040.7 (8d846dd50fd7adca65beb1b013a5fda76a9ec807)
+     Total Time		:	10378ms
+     Degradation Time	:	5378ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	ZSATray.exe
+     Friendly Name		:	Zscaler Client Connector
+     Version		:	4.7.0.141
+     Total Time		:	10768ms
+     Degradation Time	:	5768ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	DDPM.Subagent.exe
+     Friendly Name		:	DDPM.Subagent
+     Version		:	2.2.2.8
+     Total Time		:	12029ms
+     Degradation Time	:	7029ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	explorer.exe
+     Friendly Name		:	Windows Explorer
+     Version		:	10.0.26100.8117 (WinBuild.160101.0800)
+     Total Time		:	10924ms
+     Degradation Time	:	8424ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	SearchFilterHost.exe
+     Friendly Name		:	Microsoft Windows Search Filter Host
+     Version		:	7.0.26100.8246 (WinBuild.160101.0800)
+     Total Time		:	14765ms
+     Degradation Time	:	9765ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.TechHub.DataManager.SubAgent.exe
+     Friendly Name		:	Dell Data Manager
+     Version		:	3.8.11.9276
+     Total Time		:	16515ms
+     Degradation Time	:	11515ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	svchost.exe
+     Friendly Name		:	Host Process for Windows Services
+     Version		:	10.0.26100.1 (WinBuild.160101.0800)
+     Total Time		:	21796ms
+     Degradation Time	:	14296ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.CoreServices.Client.exe
+     Friendly Name		:	Dell.CoreServices.Client
+     Version		:	1.6.372.5
+     Total Time		:	19341ms
+     Degradation Time	:	14341ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	BrightAuthor.exe
+     Friendly Name		:	BrightAuthor
+     Version		:	5.0.2.0
+     Total Time		:	19514ms
+     Degradation Time	:	14514ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	WmiPrvSE.exe
+     Friendly Name		:	WMI Provider Host
+     Version		:	10.0.26100.7309 (WinBuild.160101.0800)
+     Total Time		:	20240ms
+     Degradation Time	:	15240ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	sppsvc.exe
+     Friendly Name		:	Microsoft Software Protection Platform Service
+     Version		:	10.0.26100.8115 (WinBuild.160101.0800)
+     Total Time		:	23146ms
+     Degradation Time	:	18146ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.TechHub.Analytics.SubAgent.exe
+     Friendly Name		:	Dell Analytics
+     Version		:	3.8.11.9276
+     Total Time		:	25306ms
+     Degradation Time	:	20306ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	OfficeClickToRun.exe
+     Friendly Name		:	Microsoft Office Click-to-Run (SxS)
+     Version		:	16.0.19929.20172
+     Total Time		:	35786ms
+     Degradation Time	:	28286ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.TechHub.Instrumentation.SubAgent.exe
+     Friendly Name		:	Dell Instrumentation
+     Version		:	3.8.11.9276
+     Total Time		:	42423ms
+     Degradation Time	:	37423ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Critical","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	SearchIndexer.exe
+     Friendly Name		:	Microsoft Windows Search Indexer
+     Version		:	7.0.26100.8115 (WinBuild.160101.0800)
+     Total Time		:	46848ms
+     Degradation Time	:	38348ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Critical","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	mscorsvw.exe
+     Friendly Name		:	.NET Runtime Optimization Service
+     Version		:	4.8.9065.0 built by: NET481REL1LAST_C
+     Total Time		:	56233ms
+     Degradation Time	:	48733ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","101","Critical","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	MsMpEng.exe
+     Friendly Name		:	Antimalware Service Executable
+     Version		:	4.18.26040.7 (8d846dd50fd7adca65beb1b013a5fda76a9ec807)
+     Total Time		:	100316ms
+     Degradation Time	:	91816ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"28-05-2026 10:21:53","100","Critical","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	114555ms
+     IsDegradation		:	true
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎28T04:49:22.896267800Z"
+"25-05-2026 09:02:13","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	SearchFilterHost.exe
+     Friendly Name		:	Microsoft Windows Search Filter Host
+     Version		:	7.0.26100.8246 (WinBuild.160101.0800)
+     Total Time		:	5004ms
+     Degradation Time	:	4ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎25T03:29:49.201095000Z"
+"25-05-2026 09:02:13","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	MpDlpService.exe
+     Friendly Name		:	Microsoft Purview Data Loss Prevention Service
+     Version		:	4.18.26040.7 (8d846dd50fd7adca65beb1b013a5fda76a9ec807)
+     Total Time		:	5058ms
+     Degradation Time	:	58ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎25T03:29:49.201095000Z"
+"25-05-2026 09:02:13","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	ClipRenew.exe
+     Friendly Name		:	Acquire License From Store
+     Version		:	10.0.26100.8115 (WinBuild.160101.0800)
+     Total Time		:	5533ms
+     Degradation Time	:	533ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎25T03:29:49.201095000Z"
+"25-05-2026 09:02:13","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.UCA.Manager.exe
+     Friendly Name		:	MyDell Notification Manager
+     Version		:	4.4.15.8
+     Total Time		:	5579ms
+     Degradation Time	:	579ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎25T03:29:49.201095000Z"
+"25-05-2026 09:02:13","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	DDPM.Subagent.exe
+     Friendly Name		:	DDPM.Subagent
+     Version		:	2.1.0.24
+     Total Time		:	6047ms
+     Degradation Time	:	1047ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎25T03:29:49.201095000Z"
+"25-05-2026 09:02:13","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	explorer.exe
+     Friendly Name		:	Windows Explorer
+     Version		:	10.0.26100.8117 (WinBuild.160101.0800)
+     Total Time		:	6412ms
+     Degradation Time	:	3912ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎25T03:29:49.201095000Z"
+"25-05-2026 09:02:13","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.TechHub.DataManager.SubAgent.exe
+     Friendly Name		:	Dell Data Manager
+     Version		:	3.3.10.8691
+     Total Time		:	9720ms
+     Degradation Time	:	4720ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎25T03:29:49.201095000Z"
+"25-05-2026 09:02:13","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	WWAHost.exe
+     Friendly Name		:	Microsoft WWA Host
+     Version		:	10.0.26100.8117 (WinBuild.160101.0800)
+     Total Time		:	7860ms
+     Degradation Time	:	5360ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎25T03:29:49.201095000Z"
+"25-05-2026 09:02:13","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	OUTLOOK.EXE
+     Friendly Name		:	Microsoft Outlook
+     Version		:	16.0.19929.20172
+     Total Time		:	10940ms
+     Degradation Time	:	5940ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎25T03:29:49.201095000Z"
+"25-05-2026 09:02:13","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.CoreServices.Client.exe
+     Friendly Name		:	Dell.CoreServices.Client
+     Version		:	1.5.29.9
+     Total Time		:	11011ms
+     Degradation Time	:	6011ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎25T03:29:49.201095000Z"
+"25-05-2026 09:02:13","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.TechHub.Analytics.SubAgent.exe
+     Friendly Name		:	Dell Analytics
+     Version		:	3.3.10.8691
+     Total Time		:	11800ms
+     Degradation Time	:	6800ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎25T03:29:49.201095000Z"
+"25-05-2026 09:02:13","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	services.exe
+     Friendly Name		:	Services and Controller app
+     Version		:	10.0.26100.8115 (WinBuild.160101.0800)
+     Total Time		:	10474ms
+     Degradation Time	:	7974ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎25T03:29:49.201095000Z"
+"25-05-2026 09:02:13","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	Dell.TechHub.Instrumentation.SubAgent.exe
+     Friendly Name		:	Dell Instrumentation
+     Version		:	3.3.10.8691
+     Total Time		:	23307ms
+     Degradation Time	:	18307ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎25T03:29:49.201095000Z"
+"25-05-2026 09:02:13","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	ndtrack.exe
+     Friendly Name		:	Inventory Agent
+     Version		:	24.0
+     Total Time		:	27562ms
+     Degradation Time	:	20062ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎25T03:29:49.201095000Z"
+"25-05-2026 09:02:13","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	sppsvc.exe
+     Friendly Name		:	Microsoft Software Protection Platform Service
+     Version		:	10.0.26100.8115 (WinBuild.160101.0800)
+     Total Time		:	28003ms
+     Degradation Time	:	20503ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎25T03:29:49.201095000Z"
+"25-05-2026 09:02:13","101","Critical","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	SearchIndexer.exe
+     Friendly Name		:	Microsoft Windows Search Indexer
+     Version		:	7.0.26100.8115 (WinBuild.160101.0800)
+     Total Time		:	50072ms
+     Degradation Time	:	42572ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎25T03:29:49.201095000Z"
+"25-05-2026 09:02:13","101","Critical","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	MsMpEng.exe
+     Friendly Name		:	Antimalware Service Executable
+     Version		:	4.18.26040.7 (8d846dd50fd7adca65beb1b013a5fda76a9ec807)
+     Total Time		:	69280ms
+     Degradation Time	:	61780ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎25T03:29:49.201095000Z"
+"25-05-2026 09:02:13","100","Error","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	103083ms
+     IsDegradation		:	true
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎25T03:29:49.201095000Z"
+"25-05-2026 09:02:03","200","Warning","Microsoft-Windows-Diagnostics-Performance","Windows has shutdown: 
+     Shutdown Duration	:	29502ms
+     IsDegradation		:	true
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎23T17:28:58.977319000Z"
+"23-05-2026 21:51:20","100","Error","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	82796ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎23T16:18:20.881458900Z"
+"23-05-2026 21:51:14","203","Warning","Microsoft-Windows-Diagnostics-Performance","This service caused a delay in the system shutdown process: 
+     File Name		:	WinDefend
+     Friendly Name		:	
+     Version		:	
+     Total Time		:	4236ms
+     Degradation Time	:	236ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎23T09:01:37.040501500Z"
+"23-05-2026 21:51:14","203","Warning","Microsoft-Windows-Diagnostics-Performance","This service caused a delay in the system shutdown process: 
+     File Name		:	bthserv
+     Friendly Name		:	Bluetooth Support Service
+     Version		:	10.0.26100.3037 (WinBuild.160101.0800)
+     Total Time		:	4969ms
+     Degradation Time	:	969ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎23T09:01:37.040501500Z"
+"23-05-2026 21:51:14","203","Warning","Microsoft-Windows-Diagnostics-Performance","This service caused a delay in the system shutdown process: 
+     File Name		:	WSearch
+     Friendly Name		:	
+     Version		:	
+     Total Time		:	4973ms
+     Degradation Time	:	973ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎23T09:01:37.040501500Z"
+"23-05-2026 21:51:14","200","Warning","Microsoft-Windows-Diagnostics-Performance","Windows has shutdown: 
+     Shutdown Duration	:	32151ms
+     IsDegradation		:	true
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎23T09:01:37.040501500Z"
+"23-05-2026 11:03:11","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	SenseCE.exe
+     Friendly Name		:	Windows Defender Advanced Threat Protection Sense CE module
+     Version		:	10.8821.27906.1000 (379debb93b779583c826e7f226257cf5b7adb03f) (WinBuild.160101.0800)
+     Total Time		:	6608ms
+     Degradation Time	:	1608ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎23T05:31:25.983627000Z"
+"23-05-2026 11:03:11","101","Warning","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	OfficeClickToRun.exe
+     Friendly Name		:	Microsoft Office Click-to-Run (SxS)
+     Version		:	16.0.19929.20172
+     Total Time		:	9051ms
+     Degradation Time	:	4051ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎23T05:31:25.983627000Z"
+"23-05-2026 11:03:11","101","Error","Microsoft-Windows-Diagnostics-Performance","This application took longer than usual to start up, resulting in a performance degradation in the system startup process: 
+     File Name		:	WWAHost.exe
+     Friendly Name		:	Microsoft WWA Host
+     Version		:	10.0.26100.8117 (WinBuild.160101.0800)
+     Total Time		:	14524ms
+     Degradation Time	:	9524ms
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎23T05:31:25.983627000Z"
+"23-05-2026 11:03:11","100","Error","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	40832ms
+     IsDegradation		:	true
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎23T05:31:25.983627000Z"
+"23-05-2026 11:03:09","200","Warning","Microsoft-Windows-Diagnostics-Performance","Windows has shutdown: 
+     Shutdown Duration	:	33138ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎23T05:30:40.199782900Z"
+"23-05-2026 10:53:29","100","Warning","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	23644ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎23T05:21:43.019492900Z"
+"23-05-2026 23:10:29","100","Warning","Microsoft-Windows-Diagnostics-Performance","Windows has started up: 
+     Boot Duration		:	49322ms
+     IsDegradation		:	false
+     Incident Time (UTC)	:	‎2026‎-‎05‎-‎23T17:38:21.869104400Z"

@@ -1,0 +1,86 @@
+[
+  {
+    "event_id":"EVT00001",
+    "device_id":"device_01",
+    "category":"disk",
+    "label":"not_anomaly",
+    "confidence":90,
+    "confidence_reason":"Comfortably above the low-space caution threshold",
+    "description":"Drive C: has healthy free space (34.6% free)",
+    "source_file":"05_Disk\/Drives_SizeFreeSpace.csv",
+    "evidence_detail":"PercentFree=34.6",
+    "timestamp":null
+  },
+  {
+    "event_id":"EVT00048",
+    "device_id":"device_02",
+    "category":"disk",
+    "label":"not_anomaly",
+    "confidence":90,
+    "confidence_reason":"SMART firmware reports no failure prediction for this drive",
+    "description":"SMART healthy for SCSI\\Disk&Ven_NVMe&Prod_BG6_KIOXIA_512GB\\4&2eee6be6&0&020000_0",
+    "source_file":"DiskHealth\/SMART_FailurePredictStatus.csv",
+    "evidence_detail":"PredictFailure=False",
+    "timestamp":null
+  },
+  {
+    "event_id":"EVT00049",
+    "device_id":"device_02",
+    "category":"disk",
+    "label":"not_anomaly",
+    "confidence":88,
+    "confidence_reason":"Windows reports Healthy status for this physical disk",
+    "description":"Disk 'NVMe BG6 KIOXIA 512GB' is Healthy",
+    "source_file":"DiskHealth\/PhysicalDiskHealth.csv",
+    "evidence_detail":"HealthStatus=Healthy",
+    "timestamp":null
+  },
+  {
+    "event_id":"EVT00050",
+    "device_id":"device_02",
+    "category":"disk",
+    "label":"anomaly",
+    "confidence":75,
+    "confidence_reason":"38 disk IO retry\/warning events is a high volume, consistent with a struggling drive or controller",
+    "description":"38 disk-related warning\/retry events recorded",
+    "source_file":"DiskHealth\/DiskRelatedEvents.csv",
+    "evidence_detail":"count=38",
+    "timestamp":null
+  },
+  {
+    "event_id":"EVT00059",
+    "device_id":"device_04",
+    "category":"disk",
+    "label":"not_anomaly",
+    "confidence":90,
+    "confidence_reason":"Comfortably above the low-space caution threshold",
+    "description":"Drive C: has healthy free space (62.5% free)",
+    "source_file":"05_Disk\/Drives_SizeFreeSpace.csv",
+    "evidence_detail":"PercentFree=62.5",
+    "timestamp":null
+  },
+  {
+    "event_id":"EVT00082",
+    "device_id":"device_05",
+    "category":"disk",
+    "label":"not_anomaly",
+    "confidence":90,
+    "confidence_reason":"Comfortably above the low-space caution threshold",
+    "description":"Drive C: has healthy free space (46.8% free)",
+    "source_file":"05_Disk\/Drives_SizeFreeSpace.csv",
+    "evidence_detail":"PercentFree=46.8",
+    "timestamp":null
+  },
+  {
+    "event_id":"EVT00142",
+    "device_id":"device_06",
+    "category":"disk",
+    "label":"not_anomaly",
+    "confidence":90,
+    "confidence_reason":"Comfortably above the low-space caution threshold",
+    "description":"Drive C: has healthy free space (60.2% free)",
+    "source_file":"05_Disk\/Drives_SizeFreeSpace.csv",
+    "evidence_detail":"PercentFree=60.2",
+    "timestamp":null
+  }
+]

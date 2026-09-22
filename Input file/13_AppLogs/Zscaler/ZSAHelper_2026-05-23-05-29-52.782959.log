@@ -1,0 +1,18 @@
+Redirected stderr
+2026-05-23 05:29:52.787415(-0700)[13480:13308] INF Timezone: Pacific Daylight Time, Offset: -25200, Standard Name: Pacific Standard Time, UTC Offset: -28800
+2026-05-23 05:29:52.787415(-0700)[13480:13308] INF ZSAHelper App Version: 4.7.0.141
+2026-05-23 05:29:52.787415(-0700)[13480:13308] INF ZSAHelper Architecture: x64
+2026-05-23 05:29:52.787415(-0700)[13480:13308] INF ZSAHelper GIT Hash: 4ee4b7d7870f443d29c6d1bda9662f24ede0696c
+2026-05-23 05:29:52.787415(-0700)[13480:13308] INF x64 BINARY (Supports both gov and commercial clouds)
+2026-05-23 05:29:52.787415(-0700)[13480:13308] ERR ZSARegistryHelper::isExist: Failed to open Registry key: SOFTWARE\Zscaler Inc.\Zscaler\EXTRA , Error: 2
+2026-05-23 05:29:52.787415(-0700)[13480:13308] DBG Config Dir: C:\ProgramData\Zscaler
+2026-05-23 05:29:52.787415(-0700)[13480:13308] DBG App options initialized successfully
+2026-05-23 05:29:52.787415(-0700)[13480:13308] INF Performing op: --copyInstaller
+2026-05-23 05:29:52.795694(-0700)[13480:13308] INF Validating process for PID: 6728
+2026-05-23 05:29:52.795694(-0700)[13480:13308] INF Process Name: C:\Program Files\ZSAMSInstaller\Zscaler-windows-4.7.0.141-installer-x64.exe
+2026-05-23 05:29:52.949643(-0700)[13480:13308] INF Signer does not matches Zscaler. Hence, checking for zscaler EV sign status.
+2026-05-23 05:29:52.949643(-0700)[13480:13308] INF Process executable is signed by Zscaler EV.
+2026-05-23 05:29:52.949643(-0700)[13480:13308] INF Signer trust released.
+2026-05-23 05:29:52.949643(-0700)[13480:13308] INF Process executable is signed by Zscaler.
+2026-05-23 05:29:52.985950(-0700)[13480:13308] INF ZSAHelper return code: 0
+Redirected stdout

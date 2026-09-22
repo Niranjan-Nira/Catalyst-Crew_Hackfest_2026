@@ -1,0 +1,2 @@
+﻿"TimeCreated","Id","LevelDisplayName","ProviderName","Message"
+"17-06-2026 09:55:39","4205","Error","Microsoft-Windows-NlaSvc","Gateway resolution failed on interface {556d9bdf-d387-4ab9-be4c-a7e220faf218} for 10.243.80.1 with error: 0x43"

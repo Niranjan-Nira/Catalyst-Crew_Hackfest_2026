@@ -1,0 +1,208 @@
+2026-08-18 04:58:19.669435(+0530)[33936:7052] INF Timezone: India Standard Time, Offset: 19800, Standard Name: India Standard Time, UTC Offset: 19800
+2026-08-18 04:58:19.669435(+0530)[33936:7052] INF ZSATrayManager Version: 4.8.0.232
+2026-08-18 04:58:19.669435(+0530)[33936:7052] INF ZSATrayManager Architecture: x64
+2026-08-18 04:58:19.669435(+0530)[33936:7052] INF UPM Hard Protocol Version: 28
+2026-08-18 04:58:19.669435(+0530)[33936:7052] INF UPM Soft Protocol Version: 912
+2026-08-18 04:58:19.669435(+0530)[33936:7052] INF ZAD Protocol Version: 4, 1
+2026-08-18 04:58:19.669435(+0530)[33936:7052] INF GIT Hash: 8f4d1a1eacfec3e316e9064003d36808c1c70589
+2026-08-18 04:58:19.669435(+0530)[33936:7052] INF x64 BINARY (Supports both gov and commercial clouds)
+2026-08-18 04:58:19.669435(+0530)[33936:7052] DBG Config Dir: C:\ProgramData\Zscaler
+2026-08-18 04:58:19.669435(+0530)[33936:7052] DBG App options initialized successfully
+2026-08-18 04:58:19.669435(+0530)[33936:7052] INF ZCCProfile: Init callback function.
+2026-08-18 04:58:19.672276(+0530)[33936:26256] INF ZSAServiceBase::serviceMain: registering for power events
+2026-08-18 04:58:19.672276(+0530)[33936:26256] INF ZSAServiceBase::serviceMain: registered for suspend-resume, power & battery notifications
+2026-08-18 04:58:19.672276(+0530)[33936:26256] INF ZSAServiceBase::registerPowerNotification: registered for 'GUID_TYPICAL_POWER_SAVINGS' power setting notification
+2026-08-18 04:58:19.672276(+0530)[33936:26256] INF ZSAServiceBase::registerPowerNotification: registered for 'GUID_POWERSCHEME_PERSONALITY' power setting notification
+2026-08-18 04:58:19.672276(+0530)[33936:26256] INF ZSAServiceBase::registerPowerNotification: registered for 'GUID_POWER_SAVING_STATUS' power setting notification
+2026-08-18 04:58:19.672276(+0530)[33936:26256] INF ZSAServiceBase::registerPowerNotification: registered for 'GUID_MIN_POWER_SAVINGS' power setting notification
+2026-08-18 04:58:19.672276(+0530)[33936:26256] INF ZSAServiceBase::registerPowerNotification: registered for 'GUID_MAX_POWER_SAVINGS' power setting notification
+2026-08-18 04:58:19.672276(+0530)[33936:7052] DBG ZSAServiceBase::serviceControllerHandler: service control: SERVICE_CONTROL_POWEREVENT
+2026-08-18 04:58:19.672276(+0530)[33936:26256] INF ZSAServiceBase::registerPowerNotification: registered for 'GUID_ACDC_POWER_SOURCE' power setting notification
+2026-08-18 04:58:19.672276(+0530)[33936:26256] INF ZSAServiceBase::registerPowerNotification: registered for 'GUID_BATTERY_PERCENTAGE_REMAINING' power setting notification
+2026-08-18 04:58:19.672276(+0530)[33936:7052] DBG ZSAServiceBase::serviceControllerHandler: service control: SERVICE_CONTROL_POWEREVENT
+2026-08-18 04:58:19.672276(+0530)[33936:26256] INF ZSAServiceBase::registerPowerNotification: registered for 'GUID_CONSOLE_DISPLAY_STATE' power setting notification
+2026-08-18 04:58:19.672276(+0530)[33936:7052] DBG ZSAServiceBase::serviceControllerHandler: service control: SERVICE_CONTROL_POWEREVENT
+2026-08-18 04:58:19.672276(+0530)[33936:7052] DBG ZSAServiceBase::serviceControllerHandler: service control: SERVICE_CONTROL_POWEREVENT
+2026-08-18 04:58:19.672276(+0530)[33936:26256] INF Failure actions is already configured.
+2026-08-18 04:58:19.672276(+0530)[33936:29460] DBG Checking security permission for C:\ProgramData\Zscaler and updating if required
+2026-08-18 04:58:19.672276(+0530)[33936:7052] DBG ZSAServiceBase::serviceControllerHandler: service control: SERVICE_CONTROL_POWEREVENT
+2026-08-18 04:58:19.672276(+0530)[33936:29460] DBG ZSAFileUtils::checkAndSetFileSecurityAttributes called with secType: 1
+2026-08-18 04:58:19.672276(+0530)[33936:29460] DBG ZSAFileUtils::checkFileSecurityAttributes called with secType: 1
+2026-08-18 04:58:19.672276(+0530)[33936:29460] DBG ZSAFileUtils::checkFileSecurityAttributes Received SecurityDescriptor: D:(A;OICI;0x1200a9;;;BU)(A;OICI;FA;;;SY)(A;OICI;FA;;;BA), Expected SecurityDescriptor: D:(A;OICI;FA;;;SY)(A;OICI;FA;;;BA)
+2026-08-18 04:58:19.672276(+0530)[33936:29460] DBG ZSAFileUtils::checkAndSetFileSecurityAttributes: reseting file SecurityAttributes
+2026-08-18 04:58:19.672276(+0530)[33936:29460] DBG ZSAFileUtils::setFileSecurityAttributes called with secType 1
+2026-08-18 04:58:19.672276(+0530)[33936:29460] DBG ZSAFileUtils::setFileSecurityAttributes set ACL succeed.
+2026-08-18 04:58:19.672276(+0530)[33936:29460] DBG ZSAFileUtils::setFileSecurityAttributes: calling SetSecurityInfo DaclPresent:1
+2026-08-18 04:58:19.672276(+0530)[33936:29460] INF ZSAFileUtils::setFileSecurityAttributes: SetSecurityInfo success
+2026-08-18 04:58:19.672276(+0530)[33936:29460] DBG Checking security permission for C:\ProgramData\Zscaler and updating if required
+2026-08-18 04:58:19.672276(+0530)[33936:29460] DBG ZSAFileUtils::checkAndSetFileSecurityAttributes called with secType: 1
+2026-08-18 04:58:19.672276(+0530)[33936:29460] DBG ZSAFileUtils::checkFileSecurityAttributes called with secType: 1
+2026-08-18 04:58:19.672276(+0530)[33936:29460] DBG ZSAFileUtils::checkFileSecurityAttributes Received SecurityDescriptor: D:(A;OICI;FA;;;SY)(A;OICI;FA;;;BA), Expected SecurityDescriptor: D:(A;OICI;FA;;;SY)(A;OICI;FA;;;BA)
+2026-08-18 04:58:19.672276(+0530)[33936:29460] DBG ZSARegistryHelper::setRegistryKeyPermission: Successfully set ACL: 1 for Registry:SOFTWARE\Zscaler Inc.\Zscaler\EXTRA 
+2026-08-18 04:58:20.173911(+0530)[33936:7052] DBG ZSAServiceBase::serviceControllerHandler: service control: 130
+2026-08-18 04:58:20.883995(+0530)[33936:29460] DBG OpenProcessToken succeeded, enable process token privileges
+2026-08-18 04:58:20.883995(+0530)[33936:29460] DBG ZSAServiceRpcClient::getTMStartUpData called.
+2026-08-18 04:58:20.910226(+0530)[33936:29460] INF getTMStartUpData result, isSuccess: 1, startUpDataJsonStr: {"sessionInfoEx":{"sessionId":4294967295,"userInfo":{"sessionUserType":1,"wstrDomain":"","wstrUserSid":"-1","wstrUsername":""},"userSessionState":8},"zccLoggedInUserType":1}
+2026-08-18 04:58:20.910226(+0530)[33936:29460] DBG ZSATrayManagerService::run startUpDataParseRes : 1 (Error Code: 0)
+2026-08-18 04:58:20.910226(+0530)[33936:29460] INF Processing inital user session state. Initial State 8
+2026-08-18 04:58:20.910226(+0530)[33936:29460] INF ZEventsTransmitter: Resetting quit event.
+2026-08-18 04:58:20.910226(+0530)[33936:29460] INF ZEventsTransmitter: Resetting quit event.
+2026-08-18 04:58:20.910226(+0530)[33936:29460] INF ZEvents set source: 2
+2026-08-18 04:58:20.910226(+0530)[33936:29460] DBG UserSid: -1, sessionId: 4294967295 sha1: 7984B0A0E139CABADB5AFC7756D473FB34D23819
+2026-08-18 04:58:20.910226(+0530)[33936:29460] ERR ZSARegistryInterfaceImpl::getValue: failed for Registry: -1\SOFTWARE\Zscaler\ LanguageUIChoice, Error: 0x00000002
+2026-08-18 04:58:20.910226(+0530)[33936:29460] DBG ZSALocalization::getCurrentUserLangRegValue: Unable to retrieve user language registry value with SID.
+2026-08-18 04:58:20.910226(+0530)[33936:29460] INF ZSALocalization::getCurrentUserLangRegValue returning <no value>
+2026-08-18 04:58:20.910226(+0530)[33936:29460] ERR RegGetValue Failed. [lRes:2, LastErrorCode:0x00000000]
+2026-08-18 04:58:20.910226(+0530)[33936:29460] INF ZSALocalization::GetUserDefaultLocaleName succeeded. [localeName:en-IN]
+2026-08-18 04:58:20.910226(+0530)[33936:29460] INF ZSALocalization: got lang reg value 'en'current system locale
+2026-08-18 04:58:20.910226(+0530)[33936:29460] INF ZSALocalization: returning language: 9
+2026-08-18 04:58:20.910226(+0530)[33936:29460] ERR Either pSmBiosTable is null or invalid stringIndex. [stringIndex:0]
+2026-08-18 04:58:20.910226(+0530)[33936:29460] WAR Failed to parse Named Domain from registry value
+2026-08-18 04:58:20.910226(+0530)[33936:9508] DBG [findFilesAndOperateV2] Operating on C:\ProgramData\Zscaler
+2026-08-18 04:58:20.910226(+0530)[33936:29460] DBG ZCCProfile:readAndStoreInstallParams: Keys Added: 6
+2026-08-18 04:58:20.910226(+0530)[33936:29460] ERR Either pSmBiosTable is null or invalid stringIndex. [stringIndex:0]
+2026-08-18 04:58:20.910226(+0530)[33936:9508] DBG [findFilesAndOperateV2] Operating on C:\ProgramData\Zscaler\log-5BFF858269CC2D4D1FCC83EABC65FEA94E87F2AF
+2026-08-18 04:58:20.910226(+0530)[33936:9508] DBG [findFilesAndOperateV2] Operation done on C:\ProgramData\Zscaler\log-5BFF858269CC2D4D1FCC83EABC65FEA94E87F2AF
+2026-08-18 04:58:20.915535(+0530)[33936:9508] DBG [findFilesAndOperateV2] Operating on C:\ProgramData\Zscaler\ZEP
+2026-08-18 04:58:20.915535(+0530)[33936:9508] DBG [findFilesAndOperateV2] Operating on C:\ProgramData\Zscaler\ZEP\Logs
+2026-08-18 04:58:20.915535(+0530)[33936:9508] DBG [findFilesAndOperateV2] Operation done on C:\ProgramData\Zscaler\ZEP\Logs
+2026-08-18 04:58:20.915535(+0530)[33936:9508] DBG [findFilesAndOperateV2] Operation done on C:\ProgramData\Zscaler\ZEP
+2026-08-18 04:58:20.915535(+0530)[33936:9508] DBG [findFilesAndOperateV2] Operation done on C:\ProgramData\Zscaler
+2026-08-18 04:58:20.918998(+0530)[33936:29460] INF OS Branding: Microsoft Windows 11 Enterprise
+2026-08-18 04:58:20.918998(+0530)[33936:29460] INF OS: Microsoft Windows 11 Enterprise
+2026-08-18 04:58:20.918998(+0530)[33936:29460] DBG User Name retrieved from Reg: 
+2026-08-18 04:58:20.918998(+0530)[33936:29460] INF ImpersonateLoggedOnUser() for sessionID: 4294967295
+2026-08-18 04:58:20.918998(+0530)[33936:29460] ERR WTSQueryUserToken failed; error: 0x000003F0
+2026-08-18 04:58:20.918998(+0530)[33936:29460] ERR impersonateLoggedOnUser() failed, unable to read owner information
+2026-08-18 04:58:20.918998(+0530)[33936:29460] INF Owner: 
+2026-08-18 04:58:20.918998(+0530)[33936:29460] DBG getCloudNamefromMAHostName: Searching maAltenamePrefix=mobile6. (maHostname=, maHonamePrefix=mobile.)
+2026-08-18 04:58:20.918998(+0530)[33936:29460] INF EnableFips: 0
+2026-08-18 04:58:20.918998(+0530)[33936:29460] INF LWF Config Override: [0], Registry: [0], Architecture: [0]
+2026-08-18 04:58:20.918998(+0530)[33936:29460] ERR ZSARegistryInterfaceImpl::getValue: failed for Registry: SOFTWARE\Zscaler Inc.\Zscaler\EXTRA\ VHSignature, Error: 0x00000002
+2026-08-18 04:58:20.918998(+0530)[33936:29460] DBG getHardwareID:purpose: user_tunnel_generic, version: 3, hwid: Zjg1MDQ3MmZlMGIzZGFjNWEyZWE1NWU3YTVkODVkMzU2NjVlZjlmYmEwNGI3NDNjNGMxODRlNDgxNzIxZThkMg==
+2026-08-18 04:58:20.918998(+0530)[33936:29460] INF Hardware ID: Zjg1MDQ3MmZlMGIzZGFjNWEyZWE1NWU3YTVkODVkMzU2NjVlZjlmYmEwNGI3NDNjNGMxODRlNDgxNzIxZThkMg==
+2026-08-18 04:58:20.918998(+0530)[33936:29460] ERR ZSARegistryInterfaceImpl::getValue: failed for Registry: SOFTWARE\Zscaler Inc.\Zscaler\EXTRA\ VHSignature, Error: 0x00000002
+2026-08-18 04:58:20.918998(+0530)[33936:29460] ERR Either pSmBiosTable is null or invalid stringIndex. [stringIndex:0]
+2026-08-18 04:58:20.947732(+0530)[33936:29460] DBG machineUID is 55MBVC4
+2026-08-18 04:58:20.947732(+0530)[33936:29460] DBG serialNumber is 55MBVC4
+2026-08-18 04:58:20.947732(+0530)[33936:29460] DBG udid is 55MBVC4:7984B0A0E139CABADB5AFC7756D473FB34D23819
+2026-08-18 04:58:20.947732(+0530)[33936:29460] INF HideUIOnLaunch: 0
+2026-08-18 04:58:20.947732(+0530)[33936:29460] INF StrictEnforcement: 0
+2026-08-18 04:58:20.947732(+0530)[33936:29460] INF Log level init.
+2026-08-18 04:58:20.947732(+0530)[33936:29460] ERR Either pSmBiosTable is null or invalid stringIndex. [stringIndex:0]
+2026-08-18 04:58:20.947732(+0530)[33936:29460] DBG ZSAOSUtil::readStringFromReg. Reg key: HARDWARE\DESCRIPTION\System\BIOS\SystemManufacturer, value: Dell Inc.
+2026-08-18 04:58:20.947732(+0530)[33936:29460] INF Manufacturer retrieved from Reg: Dell Inc.
+2026-08-18 04:58:20.947732(+0530)[33936:29460] INF Manufacturer: [Dell Inc.]
+2026-08-18 04:58:20.947732(+0530)[33936:29460] DBG ZSAOSUtil::readStringFromReg. Reg key: HARDWARE\DESCRIPTION\System\BIOS\SystemProductName, value: Dell Pro 14 Plus PB14250
+2026-08-18 04:58:20.947732(+0530)[33936:29460] INF Model retrieved from Reg: Dell Pro 14 Plus PB14250
+2026-08-18 04:58:20.947732(+0530)[33936:29460] INF model: [Dell Pro 14 Plus PB14250]
+2026-08-18 04:58:20.947732(+0530)[33936:29460] INF Resetting domain and loginName as user isn't enrolled
+2026-08-18 04:58:20.947732(+0530)[33936:29460] DBG User Domain retrieved from Reg: nielseniq.com
+2026-08-18 04:58:20.947732(+0530)[33936:29460] INF Domain: [nielseniq.com]
+2026-08-18 04:58:20.947732(+0530)[33936:29460] INF isSeedDomainConfigured: [true]
+2026-08-18 04:58:20.947732(+0530)[33936:29460] DBG User Name retrieved from Reg: 
+2026-08-18 04:58:20.947732(+0530)[33936:29460] INF isSeedUsernameConfigured: [false]
+2026-08-18 04:58:20.947732(+0530)[33936:29460] INF User enrolled: [0]
+2026-08-18 04:58:20.947732(+0530)[33936:29460] INF ExternalDeviceID is Empty
+2026-08-18 04:58:20.947732(+0530)[33936:29460] DBG ExternalDeviceID retrieved from Registry: 
+2026-08-18 04:58:20.947732(+0530)[33936:29460] INF ExternalDeviceId: []
+2026-08-18 04:58:20.947732(+0530)[33936:29460] INF manufacturer: [Dell Inc.], os_version: [10.0.26100], device_model: [Dell Pro 14 Plus PB14250]
+2026-08-18 04:58:20.947732(+0530)[33936:29460] ERR Failed to open SC manager (local); error: 0x0000045B
+2026-08-18 04:58:20.947732(+0530)[33936:29460] INF Service: ZSAUpm, isServiceInstalled: 0
+2026-08-18 04:58:20.947732(+0530)[33936:29460] ERR ZDX Service is not installed on the machine.
+2026-08-18 04:58:20.947732(+0530)[33936:29460] INF ZDP Binary Path: C:\Program Files\Zscaler\ZDP\ZDPService.exe
+2026-08-18 04:58:20.947732(+0530)[33936:29460] ERR Failed to open SC manager (local); error: 0x0000045B
+2026-08-18 04:58:20.947732(+0530)[33936:29460] INF Service: ZDPService, isServiceInstalled: 0
+2026-08-18 04:58:20.947732(+0530)[33936:29460] ERR ZDP Service is not installed on the machine.
+2026-08-18 04:58:20.947732(+0530)[33936:29460] DBG Config Dir: C:\ProgramData\Zscaler
+2026-08-18 04:58:20.947732(+0530)[33936:29460] WAR ZAD:: Install json was not found. Was it installed?
+2026-08-18 04:58:20.947732(+0530)[33936:29460] WAR ZAD:: Install json invalid/missing
+2026-08-18 04:58:20.947732(+0530)[33936:29460] ERR ZAD: Failed to get service bin path. Service name missing
+2026-08-18 04:58:20.947732(+0530)[33936:29460] WAR ZAD:: Failed to get protocol version. Could not get service path
+2026-08-18 04:58:20.978802(+0530)[33936:7052] DBG ZSAServiceBase::serviceControllerHandler: service control: SERVICE_CONTROL_SHUTDOWN
+2026-08-18 04:58:20.978802(+0530)[33936:7052] INF On service shutdown
+2026-08-18 04:58:21.137283(+0530)[33936:29460] INF ZEPSdk: GetZEPProductVersion return value: 26.05.0.36
+2026-08-18 04:58:21.137283(+0530)[33936:29460] DBG Config Dir: C:\ProgramData\Zscaler
+2026-08-18 04:58:21.137283(+0530)[33936:29460] INF ZSAConfiguration constructor
+2026-08-18 04:58:21.137283(+0530)[33936:29460] ERR No DDILConfigFilePath retrieved from registry
+2026-08-18 04:58:21.137283(+0530)[33936:29460] ERR No DDILMAPublicKeyHash retrieved from registry
+2026-08-18 04:58:21.137283(+0530)[33936:29460] DBG Config Dir: C:\ProgramData\Zscaler
+2026-08-18 04:58:21.137283(+0530)[33936:29460] INF getDDILConfig: configfile: []
+2026-08-18 04:58:21.137283(+0530)[33936:29460] INF DDILConfig: DDIL Config JSON is empty
+2026-08-18 04:58:21.137283(+0530)[33936:29460] INF DDILState: cleared DDIL configuration
+2026-08-18 04:58:21.137283(+0530)[33936:29460] ERR processDDILConfiguration: DDIL configuration not processed
+2026-08-18 04:58:21.137283(+0530)[33936:29460] DBG getCloudNamefromMAHostName: Searching maAltenamePrefix=mobile6. (maHostname=, maHonamePrefix=mobile.)
+2026-08-18 04:58:21.137283(+0530)[33936:29460] INF Getting local machine ROOT certificates.
+2026-08-18 04:58:21.141302(+0530)[33936:29460] INF Getting local machine CA certificates.
+2026-08-18 04:58:21.141907(+0530)[33936:29460] INF Auth::Lib::initializeAuthenticationLibrary: Called: 59
+2026-08-18 04:58:21.141907(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 15 12:00:00 2038 GMT
+2026-08-18 04:58:21.141907(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Oct 25 08:30:35 2036 GMT
+2026-08-18 04:58:21.141907(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: May  9 23:28:13 2021 GMT
+2026-08-18 04:58:21.141907(+0530)[33936:29460] INF Skip expired certificate
+2026-08-18 04:58:21.141907(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 23:59:59 2020 GMT
+2026-08-18 04:58:21.141907(+0530)[33936:29460] INF Skip expired certificate
+2026-08-18 04:58:21.141907(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 07:00:00 2020 GMT
+2026-08-18 04:58:21.141907(+0530)[33936:29460] INF Skip expired certificate
+2026-08-18 04:58:21.141907(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Sep 15 00:00:00 2030 GMT
+2026-08-18 04:58:21.141907(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Mar 14 23:59:59 2032 GMT
+2026-08-18 04:58:21.141907(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 23:59:59 2037 GMT
+2026-08-18 04:58:21.141907(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Mar 22 22:13:04 2036 GMT
+2026-08-18 04:58:21.141907(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 23:59:59 1999 GMT
+2026-08-18 04:58:21.141907(+0530)[33936:29460] INF Skip expired certificate
+2026-08-18 04:58:21.141907(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jul 12 10:20:03 2038 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Feb 19 00:02:41 2031 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Nov 10 00:00:00 2031 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jun 23 22:04:01 2035 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Feb 27 21:00:12 2043 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 30 23:59:59 1999 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Skip expired certificate
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan  7 23:59:59 2004 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Skip expired certificate
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jun 20 16:38:20 2052 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Feb 27 20:50:46 2043 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Nov 10 00:00:00 2031 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Oct 22 22:15:19 2039 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Apr 16 18:44:40 2045 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 15 12:00:00 2038 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Mar 17 18:33:33 2021 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Skip expired certificate
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Mar 18 10:00:00 2029 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 23:59:59 2028 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 18 23:59:59 2038 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Mar 21 23:59:59 2046 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jun  4 11:04:38 2035 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Feb 12 17:39:39 2041 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 28 12:00:00 2028 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Nov 10 00:00:00 2031 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jul 16 23:59:59 2036 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec  7 17:55:54 2030 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 10 00:00:00 2034 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 15 12:00:00 2038 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Aug  1 23:59:59 2028 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 14 23:59:59 2046 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jul 24 14:15:12 2029 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Mar 18 00:00:00 2045 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jul 16 23:59:59 2036 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 23:59:59 2037 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Sep 17 19:46:36 2036 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec  1 23:59:59 2037 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jan 18 23:59:59 2038 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 23:59:59 2039 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: May  7 19:54:23 2030 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jun 25 21:27:11 2032 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: May  7 19:54:30 2030 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Oct 24 23:59:59 2016 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Skip expired certificate
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 10 21:39:28 2039 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jul 20 13:59:17 2028 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jul 20 12:56:39 2028 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Apr 28 23:59:59 2036 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: May  7 19:54:16 2030 GMT
+2026-08-18 04:58:21.143915(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Sep 15 00:00:00 2028 GMT
+2026-08-18 04:58:21.145924(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Jun 25 21:27:05 2032 GMT
+2026-08-18 04:58:21.145924(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Sep 15 00:00:00 2028 GMT
+2026-08-18 04:58:21.145924(+0530)[33936:29460] INF Auth::Crypto::getCertExpiryDaySec: Certificate is not valid after: Dec 31 07:00:00 2002 GMT
+2026-08-18 04:58:21.145924(+0530)[33936:29460] INF Skip expired certificate
+2026-08-18 04:58:21.145924(+0530)[33936:29460] INF Auth::Lib:loadSSLCerts: Called: 56
+2026-08-18 04:58:21.151949(+0530)[33936:29460] INF Auth::Lib::loadSSLCerts: Number of CA certs loaded: 53
+2026-08-18 04:58:21.151949(+0530)[33936:29460] INF Auth::Lib::initializeAuthenticationLibrary: Finish
