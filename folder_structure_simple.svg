@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="1" stop-color="#e2e8f0"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="6" flood-color="#334155" flood-opacity="0.18"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#64748b"/>
+    </marker>
+    <style>
+      .title { font: 700 34px 'Segoe UI', sans-serif; fill: #0f172a; }
+      .subtitle { font: 400 17px 'Segoe UI', sans-serif; fill: #475569; }
+      .folder { font: 700 24px 'Segoe UI', sans-serif; fill: #ffffff; }
+      .files { font: 400 17px 'Segoe UI', sans-serif; fill: #f8fafc; }
+      .rule { font: 600 15px 'Segoe UI', sans-serif; fill: #e2e8f0; }
+      .root { font: 700 25px 'Segoe UI', sans-serif; fill: #ffffff; }
+      .root-note { font: 400 16px 'Segoe UI', sans-serif; fill: #cbd5e1; }
+      .box { rx: 18; filter: url(#shadow); }
+      .arrow { stroke: #64748b; stroke-width: 3; fill: none; marker-end: url(#arrow); }
+      .small { font: 400 14px 'Segoe UI', sans-serif; fill: #64748b; }
+    </style>
+  </defs>
+
+  <rect width="1400" height="900" fill="url(#background)"/>
+  <text x="70" y="66" class="title">Hackfest 2026 Folder Structure</text>
+  <text x="70" y="98" class="subtitle">Put each kind of file in the matching area below</text>
+
+  <rect x="390" y="125" width="620" height="145" class="box" fill="#1e293b"/>
+  <text x="430" y="166" class="root">Hackfest-2026-main/</text>
+  <text x="430" y="196" class="root-note">app.py  |  cli.py  |  requirements.txt</text>
+  <text x="430" y="222" class="root-note">Credentials.txt  |  Env/.env</text>
+  <text x="430" y="248" class="root-note">Entry points, dependencies, and local settings</text>
+
+  <path d="M560 270 V300 H245 V355" class="arrow"/>
+  <path d="M700 270 V355" class="arrow"/>
+  <path d="M840 270 V300 H1155 V355" class="arrow"/>
+
+  <rect x="70" y="355" width="350" height="330" class="box" fill="#0f766e"/>
+  <text x="105" y="405" class="folder">src/</text>
+  <text x="105" y="445" class="files">Application code</text>
+  <text x="105" y="482" class="files">diagnosis/</text>
+  <text x="105" y="512" class="files">parsers/</text>
+  <text x="105" y="542" class="files">rag/</text>
+  <text x="105" y="572" class="files">rca/</text>
+  <text x="105" y="602" class="files">reporting/</text>
+  <text x="105" y="632" class="files">self_healing/</text>
+  <text x="105" y="665" class="rule">Add or change program logic here</text>
+
+  <rect x="525" y="355" width="350" height="330" class="box" fill="#2563eb"/>
+  <text x="560" y="405" class="folder">Input file/</text>
+  <text x="560" y="445" class="files">Diagnostic evidence</text>
+  <text x="560" y="482" class="files">01_Timeline_And_Resources/</text>
+  <text x="560" y="512" class="files">02_EventLogs/</text>
+  <text x="560" y="542" class="files">03_WindowsUpdates/</text>
+  <text x="560" y="572" class="files">04_HardwareDevices/</text>
+  <text x="560" y="602" class="files">05_Disk/ ... 16_Services_Processes/</text>
+  <text x="560" y="665" class="rule">Put new case exports here</text>
+
+  <rect x="980" y="355" width="350" height="330" class="box" fill="#d97706"/>
+  <text x="1015" y="405" class="folder">output/</text>
+  <text x="1015" y="445" class="files">Generated results</text>
+  <text x="1015" y="482" class="files">Case_Report_*.md / .pdf</text>
+  <text x="1015" y="512" class="files">SIEM_Incident_*.json</text>
+  <text x="1015" y="542" class="files">rag_cache/</text>
+  <text x="1015" y="572" class="files">scripts/</text>
+  <text x="1015" y="602" class="files">uploaded_cases/</text>
+  <text x="1015" y="665" class="rule">Do not place generated files in src/</text>
+
+  <rect x="70" y="755" width="1260" height="72" rx="14" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="105" y="800" class="small">Also at the root: knowledge_docs/ = guides and reference material | tests/ = automated tests | Env/ = local environment settings</text>
+</svg>

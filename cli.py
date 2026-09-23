@@ -48,7 +48,13 @@ def main():
     print(f"[+] Case Report (Markdown) successfully generated: {out_path.resolve()}")
 
     pdf_path = Path(args.pdf)
-    PDFReportGenerator.generate_pdf(pdf_path, diag_res, rca_res, title_text="Sample Anomaly and RCA")
+    PDFReportGenerator.generate_pdf(
+        pdf_path,
+        diag_res,
+        rca_res,
+        title_text="Sample Anomaly and RCA",
+        target_workstation=data_dir.name,
+    )
     print(f"[+] Official PDF Case Report successfully generated: {pdf_path.resolve()}")
 
     # Phase 4: Self-Healing Scripts

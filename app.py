@@ -21,7 +21,16 @@ from src.diagnosis.advanced_detectors import correlate_temporal_window
 from src.rca import LocalRCAAgent
 from src.rag import get_knowledge_base, retrieve_grounded_context, add_custom_document, build_llm_prompt
 from src.reporting import CaseReportBuilder, generate_scorecard_data, PDFReportGenerator
-from src.reporting.report_builder import _sanitize_value
+from src.reporting.report_builder import (
+    _build_action_items,
+    _build_siem_action_records,
+    _build_evidence_quality,
+    _build_finding_root_cause_map,
+    _build_report_chart_data,
+    _default_impact_summary,
+    _default_report_metadata,
+    _sanitize_value,
+)
 from src.self_healing import SelfHealingScriptGenerator
 from src.parsers.timeline_parser import parse_resource_timeline
 from src.utils import resolve_diagnostic_dir
@@ -1243,6 +1252,15 @@ with tabs[6]:
         "expected": len(EXPECTED_MODULES),
         "missing": [module for module in EXPECTED_MODULES if not (target_data_dir / module).exists()]
     }
+    report_metadata = _default_report_metadata(
+        target_data_dir.name, diag_results, report_coverage, sanitize_report
+    )
+    impact_summary = _default_impact_summary(diag_results, rca_results)
+    action_items = _build_action_items(diag_results, rca_results)
+    siem_actions = _build_siem_action_records(action_items)
+    finding_root_causes = _build_finding_root_cause_map(diag_results, rca_results)
+    evidence_quality = _build_evidence_quality(diag_results, rca_results, report_coverage)
+    chart_data = _build_report_chart_data(diag_results, rca_results)
     report_luna_solution = st.session_state.get("active_luna_solution")
 
     # Generate both PDF and Markdown files
@@ -1257,7 +1275,8 @@ with tabs[6]:
         PDFReportGenerator.generate_pdf(
             pdf_path, diag_results, rca_results, title_text="Sample Anomaly and RCA",
             sanitize_report=sanitize_report, coverage=report_coverage,
-            luna_solution=report_luna_solution
+            luna_solution=report_luna_solution,
+            report_metadata=report_metadata, impact_summary=impact_summary
         )
         with open(pdf_path, "rb") as f:
             pdf_bytes = f.read()
@@ -1275,7 +1294,8 @@ with tabs[6]:
                 PDFReportGenerator.generate_pdf(
                     alt_pdf_path, diag_results, rca_results, title_text="Sample Anomaly and RCA",
                     sanitize_report=sanitize_report, coverage=report_coverage,
-                    luna_solution=report_luna_solution
+                    luna_solution=report_luna_solution,
+                    report_metadata=report_metadata, impact_summary=impact_summary
                 )
                 with open(alt_pdf_path, "rb") as f:
                     pdf_bytes = f.read()
@@ -1292,7 +1312,8 @@ with tabs[6]:
         report_md = CaseReportBuilder.build_markdown_report(
             target_data_dir.name, diag_results, rca_results,
             sanitize_report=sanitize_report, coverage=report_coverage,
-            luna_solution=report_luna_solution
+            luna_solution=report_luna_solution,
+            report_metadata=report_metadata, impact_summary=impact_summary
         )
         md_path.write_text(report_md, encoding="utf-8")
     except Exception as report_err:
@@ -1306,11 +1327,17 @@ with tabs[6]:
     # Build SIEM / ServiceNow standardized incident export
     try:
         siem_incident = {
-            "schema_version": "1.2.0",
+            "schema_version": "1.3.0",
+            "schema": "endpoint-diagnostic-incident",
             "incident_id": f"INC-{clean_name}",
             "target_workstation": target_data_dir.name,
             "classification": "ENDPOINT_STABILITY_FAILURE",
             "severity": "CRITICAL" if len(tier1) > 0 else "WARNING",
+            "incident": {
+                "metadata": report_metadata,
+                "impact_summary": impact_summary,
+                "evidence_quality": evidence_quality,
+            },
             "tier1_anomalies_count": len(tier1),
             "tier2_possible_count": len(tier2),
             "tier3_root_causes_count": len(tier3),
@@ -1319,6 +1346,13 @@ with tabs[6]:
             "tier2_possible_anomalies": tier2,
             "tier3_root_causes": tier3,
             "tier4_possible_root_causes": tier4,
+            "report_metadata": report_metadata,
+            "impact_summary": impact_summary,
+            "action_items": action_items,
+            "actions": siem_actions,
+            "finding_root_causes": finding_root_causes,
+            "evidence_quality": evidence_quality,
+            "chart_data": chart_data,
             "scorecard": generate_scorecard_data(diag_results, rca_results),
             "statistical_micro_spikes": diag_results.get("statistical_micro_spikes", []),
             "monotonic_memory_leaks": diag_results.get("monotonic_memory_leaks", []),
